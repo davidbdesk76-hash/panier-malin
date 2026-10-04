@@ -367,10 +367,12 @@ def produits_catalogue(cat):
             continue
         avant = nombre(p.get("priceWithoutDiscount"))
         nom = propre(" — ".join(x for x in [p.get("name"), p.get("brand")] if x))
+        images = p.get("images") if isinstance(p.get("images"), list) else []
+        image = next((i.get("url") for i in images if isinstance(i, dict) and i.get("url")), "") or ""
         produits.append({"nom": nom, "prix": fmt_prix(prix),
                          "prix_avant": fmt_prix(avant) if avant and avant > prix else "",
                          "remise": libelle_remise(p.get("discountLabel") or ""),
-                         "theme": propre(p.get("thematic") or "")})
+                         "theme": propre(p.get("thematic") or ""), "image": image})
     if not produits:
         sauver_debug(f"catalogue_{cat['op']}_{cat['shop']}", r.text)
     return produits
@@ -417,6 +419,7 @@ def lire_promos(catalogues):
                 "id": "p" + court_id(cle), "nom": p["nom"], "remise": remise_calculee(p), "prix": p["prix"],
                 "prix_avant": p["prix_avant"], "categorie": p["categorie"], "magasins": list(cat["magasins"]),
                 "du": cat["du"], "au": cat["au"], "catalogue": cat["titre"] or num,
+                "catalogue_url": cat.get("url", ""), "image": p.get("image", ""),
             }
         print(f"  catalogue {num} : {len(produits)} produits")
     ordre = ["viande_poisson", "fruits_legumes", "cremerie", "epicerie", "surgeles", "boissons", "hygiene_maison", "autre"]
@@ -846,11 +849,13 @@ def main():
 
     print("Promos…")
     catalogues = collecter_promos()
-    vus = sorted([{"numero": c["numero"], "magasins": sorted(c["magasins"]), "du": c["du"], "au": c["au"]}
+    vus = sorted([{"numero": c["numero"], "titre": c.get("titre", ""), "url": c.get("url", ""),
+                   "magasins": sorted(c["magasins"]), "du": c["du"], "au": c["au"]}
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
     # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
-    codes_bruts = any(libelle_remise(p.get("remise", "")) != p.get("remise", "") for p in data["promos"])
+    codes_bruts = any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "image" not in p
+                      for p in data["promos"])
     if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
         promos = lire_promos(catalogues)
         if promos:
