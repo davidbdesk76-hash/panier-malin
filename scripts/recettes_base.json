@@ -1,0 +1,2905 @@
+[
+ {
+  "titre": "Poulet à la crème et aux champignons",
+  "temps_min": 30,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Filets de poulet",
+    "quantite": "600 g",
+    "mots": [
+     "filet de poulet",
+     "filets de poulet",
+     "blanc de poulet",
+     "escalope de poulet",
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Champignons de Paris",
+    "quantite": "400 g",
+    "mots": [
+     "champignon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire le riz.",
+   "Couper le poulet en morceaux et le dorer 5 min à la poêle.",
+   "Ajouter l'oignon émincé et les champignons tranchés, cuire 10 min.",
+   "Verser la crème, saler, poivrer et laisser mijoter 5 min."
+  ]
+ },
+ {
+  "titre": "Poulet rôti et pommes de terre au four",
+  "temps_min": 75,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Poulet entier",
+    "quantite": "1,3 kg",
+    "mots": [
+     "poulet fermier",
+     "poulet entier",
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Ail",
+    "quantite": "4 gousses",
+    "mots": [
+     "ail"
+    ]
+   },
+   {
+    "nom": "Huile d'olive",
+    "quantite": "3 c. à soupe",
+    "mots": [
+     "huile d olive"
+    ]
+   },
+   {
+    "nom": "Herbes de Provence",
+    "quantite": "1 c. à soupe",
+    "mots": []
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 200 °C.",
+   "Couper les pommes de terre en quartiers, les mélanger avec l'huile, l'ail et les herbes.",
+   "Poser le poulet sur les pommes de terre, saler, poivrer.",
+   "Enfourner 1 h 15 en arrosant à mi-cuisson."
+  ]
+ },
+ {
+  "titre": "Émincé de dinde au curry et riz",
+  "temps_min": 25,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Escalopes de dinde",
+    "quantite": "600 g",
+    "mots": [
+     "dinde"
+    ]
+   },
+   {
+    "nom": "Lait de coco",
+    "quantite": "40 cl",
+    "mots": [
+     "lait de coco"
+    ]
+   },
+   {
+    "nom": "Curry",
+    "quantite": "2 c. à café",
+    "mots": []
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire le riz.",
+   "Émincer la dinde et la faire dorer avec l'oignon.",
+   "Ajouter le curry puis le lait de coco, mijoter 10 min.",
+   "Servir avec le riz."
+  ]
+ },
+ {
+  "titre": "Hachis parmentier",
+  "temps_min": 60,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Bœuf haché",
+    "quantite": "600 g",
+    "mots": [
+     "boeuf hache",
+     "viande hachee",
+     "hache",
+     "steak hache"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1,2 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "20 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "40 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "80 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pommes de terre 20 min à l'eau salée, les écraser avec le lait et le beurre.",
+   "Faire revenir l'oignon et la viande hachée 8 min.",
+   "Mettre la viande dans un plat, couvrir de purée et de fromage.",
+   "Gratiner 20 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Spaghetti bolognaise",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Bœuf haché",
+    "quantite": "500 g",
+    "mots": [
+     "boeuf hache",
+     "viande hachee",
+     "hache"
+    ]
+   },
+   {
+    "nom": "Spaghetti",
+    "quantite": "500 g",
+    "mots": [
+     "spaghetti",
+     "pates"
+    ]
+   },
+   {
+    "nom": "Tomates concassées",
+    "quantite": "800 g",
+    "mots": [
+     "tomates concassees",
+     "coulis de tomate",
+     "sauce tomate",
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Carotte",
+    "quantite": "1",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Parmesan",
+    "quantite": "50 g",
+    "mots": [
+     "parmesan"
+    ]
+   }
+  ],
+  "etapes": [
+   "Faire revenir l'oignon et la carotte hachés, puis la viande.",
+   "Ajouter les tomates, saler, poivrer et mijoter 25 min.",
+   "Cuire les spaghetti, servir avec la sauce et le parmesan."
+  ]
+ },
+ {
+  "titre": "Lasagnes à la bolognaise",
+  "temps_min": 75,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Bœuf haché",
+    "quantite": "500 g",
+    "mots": [
+     "boeuf hache",
+     "viande hachee",
+     "hache"
+    ]
+   },
+   {
+    "nom": "Feuilles de lasagne",
+    "quantite": "250 g",
+    "mots": [
+     "lasagne"
+    ]
+   },
+   {
+    "nom": "Coulis de tomate",
+    "quantite": "70 cl",
+    "mots": [
+     "coulis",
+     "sauce tomate",
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "50 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "40 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "40 g",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "100 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape",
+     "mozzarella"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préparer la sauce bolognaise avec la viande et le coulis, 20 min.",
+   "Faire une béchamel : beurre fondu, farine, puis le lait en fouettant.",
+   "Alterner pâtes, sauce et béchamel dans un plat, finir par le fromage.",
+   "Cuire 35 min à 180 °C."
+  ]
+ },
+ {
+  "titre": "Chili con carne",
+  "temps_min": 45,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Bœuf haché",
+    "quantite": "500 g",
+    "mots": [
+     "boeuf hache",
+     "viande hachee",
+     "hache"
+    ]
+   },
+   {
+    "nom": "Haricots rouges",
+    "quantite": "500 g",
+    "mots": [
+     "haricots rouges",
+     "haricot rouge"
+    ]
+   },
+   {
+    "nom": "Tomates concassées",
+    "quantite": "400 g",
+    "mots": [
+     "tomates concassees",
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Poivron",
+    "quantite": "1",
+    "mots": [
+     "poivron"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   }
+  ],
+  "etapes": [
+   "Faire revenir l'oignon et le poivron, puis la viande.",
+   "Ajouter tomates, haricots égouttés, cumin et paprika.",
+   "Mijoter 25 min, servir avec le riz."
+  ]
+ },
+ {
+  "titre": "Steaks hachés, frites au four et salade",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Steaks hachés",
+    "quantite": "4",
+    "mots": [
+     "steak hache",
+     "steaks haches",
+     "hache"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre",
+     "frites"
+    ]
+   },
+   {
+    "nom": "Salade verte",
+    "quantite": "1",
+    "mots": [
+     "salade",
+     "laitue",
+     "mache"
+    ]
+   },
+   {
+    "nom": "Huile",
+    "quantite": "2 c. à soupe",
+    "mots": []
+   }
+  ],
+  "etapes": [
+   "Couper les pommes de terre en frites, les huiler et les cuire 30 min à 220 °C.",
+   "Cuire les steaks à la poêle 3 à 4 min par face.",
+   "Servir avec la salade assaisonnée."
+  ]
+ },
+ {
+  "titre": "Bœuf bourguignon",
+  "temps_min": 180,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Bœuf à braiser",
+    "quantite": "1 kg",
+    "mots": [
+     "boeuf bourguignon",
+     "boeuf a braiser",
+     "paleron",
+     "joue de boeuf",
+     "boeuf"
+    ]
+   },
+   {
+    "nom": "Vin rouge",
+    "quantite": "75 cl",
+    "mots": [
+     "vin rouge"
+    ]
+   },
+   {
+    "nom": "Lardons",
+    "quantite": "150 g",
+    "mots": [
+     "lardon"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "4",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Champignons",
+    "quantite": "250 g",
+    "mots": [
+     "champignon"
+    ]
+   },
+   {
+    "nom": "Oignons",
+    "quantite": "2",
+    "mots": [
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Dorer la viande en morceaux avec les lardons et les oignons.",
+   "Ajouter le vin, les carottes en rondelles, thym, laurier ; couvrir d'eau.",
+   "Mijoter 2 h 30 à feu doux, ajouter les champignons 20 min avant la fin."
+  ]
+ },
+ {
+  "titre": "Côtes de porc à la moutarde et haricots verts",
+  "temps_min": 30,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Côtes de porc",
+    "quantite": "4",
+    "mots": [
+     "cote de porc",
+     "cotes de porc",
+     "echine",
+     "porc"
+    ]
+   },
+   {
+    "nom": "Moutarde",
+    "quantite": "2 c. à soupe",
+    "mots": [
+     "moutarde"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Haricots verts",
+    "quantite": "600 g",
+    "mots": [
+     "haricot vert",
+     "haricots verts"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les haricots verts 10 min à l'eau salée.",
+   "Dorer les côtes 5 min par face.",
+   "Retirer la viande, déglacer avec la crème et la moutarde, napper."
+  ]
+ },
+ {
+  "titre": "Rôti de porc aux pommes",
+  "temps_min": 70,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Rôti de porc",
+    "quantite": "1 kg",
+    "mots": [
+     "roti de porc",
+     "filet mignon",
+     "porc"
+    ]
+   },
+   {
+    "nom": "Pommes",
+    "quantite": "4",
+    "mots": [
+     "pomme golden",
+     "pommes",
+     "pomme"
+    ]
+   },
+   {
+    "nom": "Oignons",
+    "quantite": "2",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "30 g",
+    "mots": [
+     "beurre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 180 °C.",
+   "Dorer le rôti au beurre sur toutes les faces.",
+   "L'entourer des pommes et oignons en quartiers, enfourner 1 h."
+  ]
+ },
+ {
+  "titre": "Saucisses, purée maison",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Saucisses",
+    "quantite": "8",
+    "mots": [
+     "saucisse",
+     "chipolata",
+     "toulouse",
+     "merguez"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "20 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "40 g",
+    "mots": [
+     "beurre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pommes de terre 20 min, les écraser avec le lait chaud et le beurre.",
+   "Cuire les saucisses à la poêle 15 min en les retournant."
+  ]
+ },
+ {
+  "titre": "Quiche lorraine",
+  "temps_min": 50,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pâte brisée",
+    "quantite": "1",
+    "mots": [
+     "pate brisee",
+     "pate feuilletee"
+    ]
+   },
+   {
+    "nom": "Lardons",
+    "quantite": "200 g",
+    "mots": [
+     "lardon"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "3",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "20 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "70 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 180 °C, étaler la pâte dans un moule.",
+   "Faire revenir les lardons, les répartir sur la pâte.",
+   "Battre œufs, crème, lait, fromage ; verser.",
+   "Cuire 35 min."
+  ]
+ },
+ {
+  "titre": "Croque-monsieur et salade",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pain de mie",
+    "quantite": "8 tranches",
+    "mots": [
+     "pain de mie"
+    ]
+   },
+   {
+    "nom": "Jambon blanc",
+    "quantite": "4 tranches",
+    "mots": [
+     "jambon"
+    ]
+   },
+   {
+    "nom": "Emmental",
+    "quantite": "8 tranches",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "30 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Salade",
+    "quantite": "1",
+    "mots": [
+     "salade",
+     "laitue",
+     "mache"
+    ]
+   }
+  ],
+  "etapes": [
+   "Beurrer le pain, garnir de jambon et de fromage.",
+   "Cuire 10 min au four à 200 °C ou à l'appareil.",
+   "Servir avec la salade."
+  ]
+ },
+ {
+  "titre": "Gratin de pâtes au jambon",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pâtes",
+    "quantite": "400 g",
+    "mots": [
+     "pates",
+     "penne",
+     "macaroni",
+     "coquillette"
+    ]
+   },
+   {
+    "nom": "Jambon blanc",
+    "quantite": "4 tranches",
+    "mots": [
+     "jambon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "100 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pâtes.",
+   "Mélanger avec le jambon coupé et la crème, saler, poivrer.",
+   "Couvrir de fromage et gratiner 15 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Croziflette",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Crozets ou pâtes",
+    "quantite": "400 g",
+    "mots": [
+     "crozet",
+     "pates"
+    ]
+   },
+   {
+    "nom": "Reblochon",
+    "quantite": "1",
+    "mots": [
+     "reblochon",
+     "raclette"
+    ]
+   },
+   {
+    "nom": "Lardons",
+    "quantite": "200 g",
+    "mots": [
+     "lardon"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les crozets.",
+   "Faire revenir oignon et lardons, ajouter la crème.",
+   "Mélanger avec les crozets dans un plat, couvrir de reblochon.",
+   "Gratiner 15 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Tartiflette",
+  "temps_min": 60,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1,2 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Reblochon",
+    "quantite": "1",
+    "mots": [
+     "reblochon"
+    ]
+   },
+   {
+    "nom": "Lardons",
+    "quantite": "200 g",
+    "mots": [
+     "lardon"
+    ]
+   },
+   {
+    "nom": "Oignons",
+    "quantite": "2",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pommes de terre 15 min, les couper en rondelles.",
+   "Faire revenir oignons et lardons.",
+   "Mélanger avec la crème dans un plat, poser le reblochon coupé en deux.",
+   "Cuire 25 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Raclette",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Fromage à raclette",
+    "quantite": "800 g",
+    "mots": [
+     "raclette"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1,2 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Charcuterie",
+    "quantite": "400 g",
+    "mots": [
+     "jambon cru",
+     "rosette",
+     "charcuterie",
+     "jambon"
+    ]
+   },
+   {
+    "nom": "Cornichons",
+    "quantite": "1 bocal",
+    "mots": [
+     "cornichon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pommes de terre en robe des champs 25 min.",
+   "Servir avec le fromage fondu à l'appareil, la charcuterie et les cornichons."
+  ]
+ },
+ {
+  "titre": "Pavés de saumon, riz et brocolis",
+  "temps_min": 25,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pavés de saumon",
+    "quantite": "4",
+    "mots": [
+     "saumon"
+    ]
+   },
+   {
+    "nom": "Brocoli",
+    "quantite": "1",
+    "mots": [
+     "brocoli"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   },
+   {
+    "nom": "Citron",
+    "quantite": "1",
+    "mots": [
+     "citron"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire le riz et le brocoli à la vapeur.",
+   "Cuire le saumon 4 min par face à la poêle.",
+   "Arroser de jus de citron."
+  ]
+ },
+ {
+  "titre": "Pâtes au saumon et à la crème",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Saumon",
+    "quantite": "300 g",
+    "mots": [
+     "saumon"
+    ]
+   },
+   {
+    "nom": "Pâtes",
+    "quantite": "400 g",
+    "mots": [
+     "pates",
+     "tagliatelle",
+     "penne",
+     "spaghetti"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "25 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Citron",
+    "quantite": "1",
+    "mots": [
+     "citron"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pâtes.",
+   "Couper le saumon en dés, le cuire 3 min dans la crème.",
+   "Ajouter le zeste de citron, mélanger avec les pâtes."
+  ]
+ },
+ {
+  "titre": "Cabillaud en papillote et légumes",
+  "temps_min": 30,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Dos de cabillaud",
+    "quantite": "4",
+    "mots": [
+     "cabillaud",
+     "colin",
+     "lieu",
+     "merlu",
+     "poisson blanc"
+    ]
+   },
+   {
+    "nom": "Courgettes",
+    "quantite": "2",
+    "mots": [
+     "courgette"
+    ]
+   },
+   {
+    "nom": "Tomates cerises",
+    "quantite": "250 g",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Citron",
+    "quantite": "1",
+    "mots": [
+     "citron"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 200 °C.",
+   "Poser poisson et légumes en tranches sur du papier cuisson, citron, huile, sel.",
+   "Fermer les papillotes, cuire 20 min."
+  ]
+ },
+ {
+  "titre": "Poisson pané maison et purée",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Filets de poisson blanc",
+    "quantite": "600 g",
+    "mots": [
+     "colin",
+     "cabillaud",
+     "lieu",
+     "merlu",
+     "poisson"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "2",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Chapelure",
+    "quantite": "100 g",
+    "mots": []
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "20 cl",
+    "mots": [
+     "lait"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préparer une purée avec les pommes de terre et le lait.",
+   "Passer le poisson dans l'œuf battu puis la chapelure.",
+   "Cuire 4 min par face dans l'huile chaude."
+  ]
+ },
+ {
+  "titre": "Moules marinières et frites",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Moules",
+    "quantite": "2 kg",
+    "mots": [
+     "moule"
+    ]
+   },
+   {
+    "nom": "Échalotes",
+    "quantite": "2",
+    "mots": [
+     "echalote",
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Vin blanc",
+    "quantite": "20 cl",
+    "mots": [
+     "vin blanc"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1 kg",
+    "mots": [
+     "pomme de terre",
+     "frites"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préparer des frites au four, 30 min à 220 °C.",
+   "Faire suer les échalotes, ajouter les moules et le vin.",
+   "Couvrir et cuire 6 min jusqu'à ouverture."
+  ]
+ },
+ {
+  "titre": "Crevettes sautées à l'ail et riz",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Crevettes décortiquées",
+    "quantite": "400 g",
+    "mots": [
+     "crevette",
+     "gambas"
+    ]
+   },
+   {
+    "nom": "Ail",
+    "quantite": "3 gousses",
+    "mots": [
+     "ail"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   },
+   {
+    "nom": "Persil",
+    "quantite": "1 bouquet",
+    "mots": []
+   }
+  ],
+  "etapes": [
+   "Cuire le riz.",
+   "Faire sauter les crevettes 4 min avec l'ail et l'huile.",
+   "Parsemer de persil, servir."
+  ]
+ },
+ {
+  "titre": "Salade niçoise",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Thon en boîte",
+    "quantite": "2 boîtes",
+    "mots": [
+     "thon"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "4",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Tomates",
+    "quantite": "4",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Haricots verts",
+    "quantite": "300 g",
+    "mots": [
+     "haricot vert"
+    ]
+   },
+   {
+    "nom": "Olives",
+    "quantite": "80 g",
+    "mots": [
+     "olive"
+    ]
+   },
+   {
+    "nom": "Salade",
+    "quantite": "1",
+    "mots": [
+     "salade",
+     "laitue"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les œufs 10 min et les haricots 8 min.",
+   "Disposer salade, tomates, haricots, thon, œufs et olives.",
+   "Assaisonner de vinaigrette."
+  ]
+ },
+ {
+  "titre": "Gratin de courgettes",
+  "temps_min": 45,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Courgettes",
+    "quantite": "1 kg",
+    "mots": [
+     "courgette"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "3",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "100 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Couper les courgettes en rondelles et les faire revenir 10 min.",
+   "Battre œufs, crème et fromage.",
+   "Verser sur les courgettes dans un plat, cuire 25 min à 180 °C."
+  ]
+ },
+ {
+  "titre": "Gratin dauphinois",
+  "temps_min": 75,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1,2 kg",
+    "mots": [
+     "pomme de terre",
+     "pommes de terre"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "40 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "40 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Ail",
+    "quantite": "1 gousse",
+    "mots": [
+     "ail"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 160 °C, frotter le plat avec l'ail.",
+   "Trancher finement les pommes de terre, les ranger dans le plat.",
+   "Couvrir de lait et crème salés, cuire 1 h 15."
+  ]
+ },
+ {
+  "titre": "Ratatouille",
+  "temps_min": 60,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Courgettes",
+    "quantite": "2",
+    "mots": [
+     "courgette"
+    ]
+   },
+   {
+    "nom": "Aubergine",
+    "quantite": "1",
+    "mots": [
+     "aubergine"
+    ]
+   },
+   {
+    "nom": "Poivrons",
+    "quantite": "2",
+    "mots": [
+     "poivron"
+    ]
+   },
+   {
+    "nom": "Tomates",
+    "quantite": "4",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Couper tous les légumes en dés.",
+   "Les faire revenir séparément à l'huile d'olive.",
+   "Réunir avec thym et laurier, mijoter 40 min."
+  ]
+ },
+ {
+  "titre": "Soupe de légumes",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Poireaux",
+    "quantite": "2",
+    "mots": [
+     "poireau"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "3",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "3",
+    "mots": [
+     "pomme de terre"
+    ]
+   },
+   {
+    "nom": "Navet",
+    "quantite": "1",
+    "mots": [
+     "navet",
+     "celeri"
+    ]
+   },
+   {
+    "nom": "Crème",
+    "quantite": "10 cl",
+    "mots": [
+     "creme"
+    ]
+   }
+  ],
+  "etapes": [
+   "Couper les légumes, les couvrir d'eau salée.",
+   "Cuire 30 min puis mixer.",
+   "Ajouter la crème."
+  ]
+ },
+ {
+  "titre": "Velouté de potiron",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Potiron ou butternut",
+    "quantite": "1 kg",
+    "mots": [
+     "potiron",
+     "butternut",
+     "courge",
+     "citrouille"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "2",
+    "mots": [
+     "pomme de terre"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "10 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   }
+  ],
+  "etapes": [
+   "Éplucher et couper le potiron et les pommes de terre.",
+   "Faire revenir l'oignon, ajouter les légumes et couvrir d'eau.",
+   "Cuire 25 min, mixer avec la crème."
+  ]
+ },
+ {
+  "titre": "Poireaux vinaigrette et œufs mimosa",
+  "temps_min": 30,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Poireaux",
+    "quantite": "6",
+    "mots": [
+     "poireau"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "6",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Moutarde",
+    "quantite": "1 c. à soupe",
+    "mots": [
+     "moutarde"
+    ]
+   },
+   {
+    "nom": "Mayonnaise",
+    "quantite": "3 c. à soupe",
+    "mots": [
+     "mayonnaise"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les poireaux 15 min et les œufs 10 min.",
+   "Préparer une vinaigrette moutardée pour les poireaux.",
+   "Couper les œufs, mélanger les jaunes à la mayonnaise et garnir."
+  ]
+ },
+ {
+  "titre": "Omelette aux pommes de terre et oignons",
+  "temps_min": 25,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Œufs",
+    "quantite": "8",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "600 g",
+    "mots": [
+     "pomme de terre"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Faire dorer les pommes de terre en dés et l'oignon 15 min.",
+   "Verser les œufs battus salés, cuire à feu doux 8 min.",
+   "Retourner ou finir 3 min au four."
+  ]
+ },
+ {
+  "titre": "Endives au jambon",
+  "temps_min": 50,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Endives",
+    "quantite": "8",
+    "mots": [
+     "endive"
+    ]
+   },
+   {
+    "nom": "Jambon blanc",
+    "quantite": "8 tranches",
+    "mots": [
+     "jambon"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "50 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "40 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "40 g",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "80 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les endives 15 min à la poêle à couvert.",
+   "Faire une béchamel avec beurre, farine et lait.",
+   "Rouler chaque endive dans une tranche de jambon, napper de béchamel et de fromage.",
+   "Gratiner 20 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Chou-fleur au gratin",
+  "temps_min": 45,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Chou-fleur",
+    "quantite": "1",
+    "mots": [
+     "chou fleur"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "50 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "40 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "40 g",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "100 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les bouquets de chou-fleur 10 min.",
+   "Préparer la béchamel.",
+   "Napper, couvrir de fromage, gratiner 20 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Pot-au-feu",
+  "temps_min": 180,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Bœuf à pot-au-feu",
+    "quantite": "1,2 kg",
+    "mots": [
+     "pot au feu",
+     "plat de cotes",
+     "jarret",
+     "boeuf"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "6",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Poireaux",
+    "quantite": "3",
+    "mots": [
+     "poireau"
+    ]
+   },
+   {
+    "nom": "Navets",
+    "quantite": "3",
+    "mots": [
+     "navet"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "6",
+    "mots": [
+     "pomme de terre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Couvrir la viande d'eau froide salée avec bouquet garni, porter à ébullition et écumer.",
+   "Cuire 2 h à petit feu.",
+   "Ajouter les légumes, cuire encore 45 min."
+  ]
+ },
+ {
+  "titre": "Blanquette de veau",
+  "temps_min": 120,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Veau à blanquette",
+    "quantite": "1 kg",
+    "mots": [
+     "veau"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "3",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Champignons",
+    "quantite": "250 g",
+    "mots": [
+     "champignon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   }
+  ],
+  "etapes": [
+   "Couvrir la viande d'eau avec carottes, oignon et bouquet garni, cuire 1 h 30.",
+   "Cuire les champignons à part.",
+   "Lier le bouillon avec la crème, ajouter viande et champignons.",
+   "Servir avec le riz."
+  ]
+ },
+ {
+  "titre": "Sauté de porc au caramel",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Échine de porc",
+    "quantite": "700 g",
+    "mots": [
+     "echine",
+     "sauté de porc",
+     "porc"
+    ]
+   },
+   {
+    "nom": "Sauce soja",
+    "quantite": "4 c. à soupe",
+    "mots": [
+     "sauce soja"
+    ]
+   },
+   {
+    "nom": "Sucre",
+    "quantite": "3 c. à soupe",
+    "mots": [
+     "sucre"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "300 g",
+    "mots": [
+     "riz"
+    ]
+   }
+  ],
+  "etapes": [
+   "Faire un caramel avec le sucre et un peu d'eau.",
+   "Ajouter le porc en dés et le soja, cuire 25 min.",
+   "Servir avec le riz."
+  ]
+ },
+ {
+  "titre": "Wraps au poulet",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Galettes de blé",
+    "quantite": "8",
+    "mots": [
+     "tortilla",
+     "wrap"
+    ]
+   },
+   {
+    "nom": "Filets de poulet",
+    "quantite": "500 g",
+    "mots": [
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Salade",
+    "quantite": "1",
+    "mots": [
+     "salade",
+     "laitue"
+    ]
+   },
+   {
+    "nom": "Tomates",
+    "quantite": "2",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Fromage frais",
+    "quantite": "150 g",
+    "mots": [
+     "fromage frais",
+     "cream cheese",
+     "fromage blanc"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire le poulet émincé avec des épices.",
+   "Tartiner les galettes de fromage frais.",
+   "Garnir de poulet, salade et tomate, rouler."
+  ]
+ },
+ {
+  "titre": "Pizza maison",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pâte à pizza",
+    "quantite": "2",
+    "mots": [
+     "pate a pizza"
+    ]
+   },
+   {
+    "nom": "Sauce tomate",
+    "quantite": "20 cl",
+    "mots": [
+     "sauce tomate",
+     "coulis",
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Mozzarella",
+    "quantite": "250 g",
+    "mots": [
+     "mozzarella"
+    ]
+   },
+   {
+    "nom": "Jambon",
+    "quantite": "4 tranches",
+    "mots": [
+     "jambon"
+    ]
+   },
+   {
+    "nom": "Champignons",
+    "quantite": "150 g",
+    "mots": [
+     "champignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 240 °C.",
+   "Étaler la pâte, la couvrir de sauce, jambon, champignons et mozzarella.",
+   "Cuire 12 à 15 min."
+  ]
+ },
+ {
+  "titre": "Risotto aux champignons",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Riz arborio",
+    "quantite": "320 g",
+    "mots": [
+     "riz"
+    ]
+   },
+   {
+    "nom": "Champignons",
+    "quantite": "400 g",
+    "mots": [
+     "champignon"
+    ]
+   },
+   {
+    "nom": "Parmesan",
+    "quantite": "60 g",
+    "mots": [
+     "parmesan"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Bouillon",
+    "quantite": "1,2 l",
+    "mots": [
+     "bouillon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Faire revenir l'oignon et les champignons.",
+   "Ajouter le riz, le nacrer, puis verser le bouillon louche par louche pendant 18 min.",
+   "Finir avec le parmesan."
+  ]
+ },
+ {
+  "titre": "Pâtes carbonara",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Spaghetti",
+    "quantite": "400 g",
+    "mots": [
+     "spaghetti",
+     "pates"
+    ]
+   },
+   {
+    "nom": "Lardons",
+    "quantite": "200 g",
+    "mots": [
+     "lardon",
+     "bacon"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "3",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Parmesan",
+    "quantite": "60 g",
+    "mots": [
+     "parmesan"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pâtes.",
+   "Dorer les lardons.",
+   "Hors du feu, mélanger pâtes, lardons, œufs battus et parmesan."
+  ]
+ },
+ {
+  "titre": "Couscous poulet merguez",
+  "temps_min": 75,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Cuisses de poulet",
+    "quantite": "4",
+    "mots": [
+     "cuisse de poulet",
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Merguez",
+    "quantite": "8",
+    "mots": [
+     "merguez"
+    ]
+   },
+   {
+    "nom": "Semoule",
+    "quantite": "400 g",
+    "mots": [
+     "semoule"
+    ]
+   },
+   {
+    "nom": "Courgettes",
+    "quantite": "2",
+    "mots": [
+     "courgette"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "3",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Pois chiches",
+    "quantite": "400 g",
+    "mots": [
+     "pois chiche"
+    ]
+   }
+  ],
+  "etapes": [
+   "Dorer le poulet, ajouter légumes, épices à couscous et eau, cuire 50 min.",
+   "Ajouter les pois chiches 10 min avant la fin.",
+   "Griller les merguez, préparer la semoule."
+  ]
+ },
+ {
+  "titre": "Tajine de poulet aux carottes",
+  "temps_min": 60,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Cuisses de poulet",
+    "quantite": "4",
+    "mots": [
+     "cuisse de poulet",
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "6",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Oignons",
+    "quantite": "2",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Citron",
+    "quantite": "1",
+    "mots": [
+     "citron"
+    ]
+   },
+   {
+    "nom": "Semoule",
+    "quantite": "300 g",
+    "mots": [
+     "semoule"
+    ]
+   }
+  ],
+  "etapes": [
+   "Dorer le poulet et les oignons avec cumin et curcuma.",
+   "Ajouter les carottes et un verre d'eau, couvrir 45 min.",
+   "Servir avec la semoule."
+  ]
+ },
+ {
+  "titre": "Lentilles aux saucisses",
+  "temps_min": 50,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Lentilles",
+    "quantite": "400 g",
+    "mots": [
+     "lentille"
+    ]
+   },
+   {
+    "nom": "Saucisses de Morteau ou fumées",
+    "quantite": "2",
+    "mots": [
+     "saucisse",
+     "morteau"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "2",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Mettre lentilles, carottes et oignon dans une cocotte, couvrir d'eau.",
+   "Ajouter les saucisses, cuire 40 min à petit feu."
+  ]
+ },
+ {
+  "titre": "Chou farci simplifié",
+  "temps_min": 75,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Chou vert",
+    "quantite": "1",
+    "mots": [
+     "chou"
+    ]
+   },
+   {
+    "nom": "Chair à saucisse",
+    "quantite": "500 g",
+    "mots": [
+     "chair a saucisse",
+     "saucisse"
+    ]
+   },
+   {
+    "nom": "Oignon",
+    "quantite": "1",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Riz",
+    "quantite": "100 g",
+    "mots": [
+     "riz"
+    ]
+   }
+  ],
+  "etapes": [
+   "Blanchir les feuilles de chou 5 min.",
+   "Mélanger chair à saucisse, oignon et riz cru.",
+   "Alterner feuilles et farce dans une cocotte, un peu d'eau, cuire 1 h."
+  ]
+ },
+ {
+  "titre": "Escalopes de veau à la normande",
+  "temps_min": 30,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Escalopes de veau",
+    "quantite": "4",
+    "mots": [
+     "escalope de veau",
+     "veau"
+    ]
+   },
+   {
+    "nom": "Champignons",
+    "quantite": "250 g",
+    "mots": [
+     "champignon"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Cidre",
+    "quantite": "10 cl",
+    "mots": [
+     "cidre"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "800 g",
+    "mots": [
+     "pomme de terre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pommes de terre à l'eau.",
+   "Dorer les escalopes 3 min par face.",
+   "Ajouter champignons, cidre et crème, mijoter 5 min."
+  ]
+ },
+ {
+  "titre": "Cuisses de poulet au four, légumes rôtis",
+  "temps_min": 55,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Cuisses de poulet",
+    "quantite": "4",
+    "mots": [
+     "cuisse de poulet",
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Carottes",
+    "quantite": "4",
+    "mots": [
+     "carotte"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "600 g",
+    "mots": [
+     "pomme de terre"
+    ]
+   },
+   {
+    "nom": "Oignons",
+    "quantite": "2",
+    "mots": [
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 200 °C.",
+   "Disposer légumes coupés et cuisses dans un plat, huile, sel, herbes.",
+   "Cuire 50 min."
+  ]
+ },
+ {
+  "titre": "Brochettes de poulet et taboulé",
+  "temps_min": 35,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Filets de poulet",
+    "quantite": "600 g",
+    "mots": [
+     "poulet"
+    ]
+   },
+   {
+    "nom": "Semoule",
+    "quantite": "250 g",
+    "mots": [
+     "semoule"
+    ]
+   },
+   {
+    "nom": "Tomates",
+    "quantite": "3",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Concombre",
+    "quantite": "1",
+    "mots": [
+     "concombre"
+    ]
+   },
+   {
+    "nom": "Citron",
+    "quantite": "1",
+    "mots": [
+     "citron"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préparer le taboulé : semoule réhydratée, tomates, concombre, citron, huile, menthe.",
+   "Enfiler le poulet en dés sur des piques, cuire 12 min à la poêle."
+  ]
+ },
+ {
+  "titre": "Salade de pâtes au thon",
+  "temps_min": 20,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pâtes",
+    "quantite": "300 g",
+    "mots": [
+     "pates",
+     "torsade",
+     "fusilli",
+     "penne"
+    ]
+   },
+   {
+    "nom": "Thon",
+    "quantite": "2 boîtes",
+    "mots": [
+     "thon"
+    ]
+   },
+   {
+    "nom": "Tomates",
+    "quantite": "3",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Maïs",
+    "quantite": "1 boîte",
+    "mots": [
+     "mais"
+    ]
+   },
+   {
+    "nom": "Mayonnaise",
+    "quantite": "3 c. à soupe",
+    "mots": [
+     "mayonnaise"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire et refroidir les pâtes.",
+   "Mélanger avec thon, tomates en dés, maïs et mayonnaise."
+  ]
+ },
+ {
+  "titre": "Galettes complètes",
+  "temps_min": 25,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Galettes de sarrasin",
+    "quantite": "8",
+    "mots": [
+     "galette"
+    ]
+   },
+   {
+    "nom": "Jambon",
+    "quantite": "4 tranches",
+    "mots": [
+     "jambon"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "4",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "150 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Chauffer une galette dans une poêle beurrée.",
+   "Ajouter fromage, jambon et casser un œuf au centre.",
+   "Replier les bords quand l'œuf est pris."
+  ]
+ },
+ {
+  "titre": "Soupe à l'oignon gratinée",
+  "temps_min": 50,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Oignons",
+    "quantite": "6",
+    "mots": [
+     "oignon"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "40 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Bouillon",
+    "quantite": "1,2 l",
+    "mots": [
+     "bouillon"
+    ]
+   },
+   {
+    "nom": "Baguette",
+    "quantite": "1",
+    "mots": [
+     "baguette",
+     "pain"
+    ]
+   },
+   {
+    "nom": "Emmental râpé",
+    "quantite": "120 g",
+    "mots": [
+     "emmental",
+     "gruyere",
+     "fromage rape"
+    ]
+   }
+  ],
+  "etapes": [
+   "Faire fondre les oignons émincés au beurre 20 min.",
+   "Ajouter le bouillon, cuire 15 min.",
+   "Verser dans des bols, poser pain et fromage, gratiner."
+  ]
+ },
+ {
+  "titre": "Parmentier de canard",
+  "temps_min": 60,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Cuisses de canard confites",
+    "quantite": "4",
+    "mots": [
+     "canard"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "1,2 kg",
+    "mots": [
+     "pomme de terre"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "20 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Échalotes",
+    "quantite": "2",
+    "mots": [
+     "echalote",
+     "oignon"
+    ]
+   }
+  ],
+  "etapes": [
+   "Effilocher le canard, le faire revenir avec les échalotes.",
+   "Préparer une purée.",
+   "Monter le parmentier, gratiner 20 min à 200 °C."
+  ]
+ },
+ {
+  "titre": "Filet mignon à la moutarde à l'ancienne",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Filet mignon de porc",
+    "quantite": "800 g",
+    "mots": [
+     "filet mignon",
+     "porc"
+    ]
+   },
+   {
+    "nom": "Moutarde à l'ancienne",
+    "quantite": "2 c. à soupe",
+    "mots": [
+     "moutarde"
+    ]
+   },
+   {
+    "nom": "Crème fraîche",
+    "quantite": "20 cl",
+    "mots": [
+     "creme fraiche",
+     "creme"
+    ]
+   },
+   {
+    "nom": "Tagliatelles",
+    "quantite": "400 g",
+    "mots": [
+     "tagliatelle",
+     "pates"
+    ]
+   }
+  ],
+  "etapes": [
+   "Dorer le filet mignon entier, puis cuire 25 min à couvert.",
+   "Ajouter crème et moutarde 5 min.",
+   "Servir tranché avec les tagliatelles."
+  ]
+ },
+ {
+  "titre": "Pâtes au pesto, tomates et mozzarella",
+  "temps_min": 15,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pâtes",
+    "quantite": "400 g",
+    "mots": [
+     "pates",
+     "penne",
+     "fusilli"
+    ]
+   },
+   {
+    "nom": "Pesto",
+    "quantite": "1 pot",
+    "mots": [
+     "pesto"
+    ]
+   },
+   {
+    "nom": "Tomates cerises",
+    "quantite": "250 g",
+    "mots": [
+     "tomate"
+    ]
+   },
+   {
+    "nom": "Mozzarella",
+    "quantite": "1",
+    "mots": [
+     "mozzarella"
+    ]
+   }
+  ],
+  "etapes": [
+   "Cuire les pâtes.",
+   "Mélanger avec pesto, tomates coupées et mozzarella en dés."
+  ]
+ },
+ {
+  "titre": "Croquettes de pommes de terre et steak",
+  "temps_min": 30,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Steaks",
+    "quantite": "4",
+    "mots": [
+     "steak",
+     "boeuf"
+    ]
+   },
+   {
+    "nom": "Pommes de terre",
+    "quantite": "800 g",
+    "mots": [
+     "pomme de terre"
+    ]
+   },
+   {
+    "nom": "Œuf",
+    "quantite": "1",
+    "mots": [
+     "oeuf"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "2 c. à soupe",
+    "mots": [
+     "farine"
+    ]
+   }
+  ],
+  "etapes": [
+   "Râper les pommes de terre, mélanger à l'œuf et la farine.",
+   "Cuire des galettes à la poêle 4 min par face.",
+   "Cuire les steaks."
+  ]
+ },
+ {
+  "titre": "Clafoutis aux fruits",
+  "temps_min": 50,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Fruits (cerises, poires, pommes)",
+    "quantite": "500 g",
+    "mots": [
+     "cerise",
+     "poire",
+     "pomme",
+     "abricot",
+     "prune"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "3",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "40 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "80 g",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Sucre",
+    "quantite": "80 g",
+    "mots": [
+     "sucre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 180 °C.",
+   "Mélanger œufs, sucre, farine puis lait.",
+   "Verser sur les fruits dans un plat beurré, cuire 40 min."
+  ]
+ },
+ {
+  "titre": "Crumble aux pommes",
+  "temps_min": 45,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pommes",
+    "quantite": "6",
+    "mots": [
+     "pomme"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "100 g",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "80 g",
+    "mots": [
+     "beurre"
+    ]
+   },
+   {
+    "nom": "Sucre",
+    "quantite": "80 g",
+    "mots": [
+     "sucre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Couper les pommes en dés dans un plat.",
+   "Sabler farine, sucre et beurre du bout des doigts.",
+   "Recouvrir les pommes, cuire 30 min à 180 °C."
+  ]
+ },
+ {
+  "titre": "Compote de pommes et poires maison",
+  "temps_min": 25,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Pommes",
+    "quantite": "6",
+    "mots": [
+     "pomme"
+    ]
+   },
+   {
+    "nom": "Poires",
+    "quantite": "3",
+    "mots": [
+     "poire"
+    ]
+   },
+   {
+    "nom": "Cannelle",
+    "quantite": "1 pincée",
+    "mots": []
+   }
+  ],
+  "etapes": [
+   "Éplucher et couper les fruits.",
+   "Cuire 20 min à couvert avec un fond d'eau, écraser."
+  ]
+ },
+ {
+  "titre": "Gâteau au yaourt",
+  "temps_min": 45,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Yaourt nature",
+    "quantite": "1 pot",
+    "mots": [
+     "yaourt"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "3",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Farine",
+    "quantite": "3 pots",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Sucre",
+    "quantite": "2 pots",
+    "mots": [
+     "sucre"
+    ]
+   },
+   {
+    "nom": "Huile",
+    "quantite": "1/2 pot",
+    "mots": [
+     "huile"
+    ]
+   }
+  ],
+  "etapes": [
+   "Préchauffer le four à 180 °C.",
+   "Mélanger tous les ingrédients dans l'ordre, avec un sachet de levure.",
+   "Cuire 35 min dans un moule beurré."
+  ]
+ },
+ {
+  "titre": "Crêpes",
+  "temps_min": 40,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Farine",
+    "quantite": "250 g",
+    "mots": [
+     "farine"
+    ]
+   },
+   {
+    "nom": "Œufs",
+    "quantite": "4",
+    "mots": [
+     "oeuf",
+     "oeufs"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "50 cl",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Beurre",
+    "quantite": "50 g",
+    "mots": [
+     "beurre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Mélanger farine et œufs, ajouter le lait petit à petit, puis le beurre fondu.",
+   "Laisser reposer 30 min, cuire les crêpes à la poêle."
+  ]
+ },
+ {
+  "titre": "Riz au lait",
+  "temps_min": 45,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Riz rond",
+    "quantite": "150 g",
+    "mots": [
+     "riz"
+    ]
+   },
+   {
+    "nom": "Lait",
+    "quantite": "1 l",
+    "mots": [
+     "lait"
+    ]
+   },
+   {
+    "nom": "Sucre",
+    "quantite": "80 g",
+    "mots": [
+     "sucre"
+    ]
+   }
+  ],
+  "etapes": [
+   "Porter le lait à frémir avec la vanille.",
+   "Ajouter le riz, cuire 35 min à feu très doux en remuant.",
+   "Ajouter le sucre à la fin."
+  ]
+ },
+ {
+  "titre": "Salade de fruits frais",
+  "temps_min": 15,
+  "personnes": 4,
+  "ingredients": [
+   {
+    "nom": "Oranges",
+    "quantite": "2",
+    "mots": [
+     "orange"
+    ]
+   },
+   {
+    "nom": "Bananes",
+    "quantite": "2",
+    "mots": [
+     "banane"
+    ]
+   },
+   {
+    "nom": "Kiwis",
+    "quantite": "3",
+    "mots": [
+     "kiwi"
+    ]
+   },
+   {
+    "nom": "Pommes",
+    "quantite": "2",
+    "mots": [
+     "pomme"
+    ]
+   },
+   {
+    "nom": "Raisin",
+    "quantite": "1 grappe",
+    "mots": [
+     "raisin",
+     "clementine",
+     "ananas"
+    ]
+   }
+  ],
+  "etapes": [
+   "Éplucher et couper tous les fruits.",
+   "Arroser d'un jus d'orange, servir frais."
+  ]
+ }
+]
