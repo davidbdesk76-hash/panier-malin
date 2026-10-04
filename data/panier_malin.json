@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genere_le": "2026-10-04T21:19",
- "promos_maj_le": "2026-10-04T21:19",
+ "genere_le": "2026-10-04T21:48",
+ "promos_maj_le": "2026-10-04T21:48",
  "magasins": [
   {
    "id": "houlme",
@@ -68,7 +68,7 @@
   {
    "id": "pc9763eda",
    "nom": "2 MAXI CROQUE MONSIEUR JAMBON FROMAGE — CÔTÉ SNACK",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,60 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -85,7 +85,7 @@
   {
    "id": "pb4f59b2e",
    "nom": "4 Escalopes milanaise nature — DOUCE FRANCE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,63 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -187,7 +187,7 @@
   {
    "id": "pb9cb1507",
    "nom": "JAMBON CUIT À L'ÉTOUFFÉE DE QUALITÉ SUPÉRIEURE SANS COUENNE À TENEUR EN SEL RÉDUIT DE 25% — TRADILÈGE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,95 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -221,7 +221,7 @@
   {
    "id": "p214b51bb",
    "nom": "MENU COMPLET LAPIN — TOUS MES AMIS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,88 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -238,7 +238,7 @@
   {
    "id": "p58c64a66",
    "nom": "MOULE 9 MUFFINS — HOMESIDE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -306,7 +306,7 @@
   {
    "id": "p7a8649c6",
    "nom": "PÂTE À TARTINER — BONNE MAMAN",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "3,72 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -340,7 +340,7 @@
   {
    "id": "p303ef88d",
    "nom": "Pâte à pizza — CROUSTIPATE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,68 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -357,7 +357,7 @@
   {
    "id": "pd223e2e0",
    "nom": "Pâte à tarte Feuilletée Pur Beurre Trésor de Grand Mère — HERTA",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -374,7 +374,7 @@
   {
    "id": "p71ccce2b",
    "nom": "RILLETTES DE POULET RÔTI EN COCOTTE — TRADILÈGE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,79 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -408,7 +408,7 @@
   {
    "id": "pafb8aac6",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME SALADE EN CONSERVE \"CÔTÉ SNACK\" — CÔTÉ SNACK",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,91 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -425,7 +425,7 @@
   {
    "id": "pc0d785cf",
    "nom": "Saumon fumé Norvège ASC — PETIT NAVIRE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "10,47 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -561,7 +561,7 @@
   {
    "id": "pf0adc13d",
    "nom": "Compotes Pomme Poire Offre découverte — ANDROS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,63 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -578,7 +578,7 @@
   {
    "id": "p77de6854",
    "nom": "Danonino aux fruits Offre familiale — DANONINO",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,24 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -714,7 +714,7 @@
   {
    "id": "p0c09ddd8",
    "nom": "CHOCOLAT AU LAIT AUX NOISETTES ENTIÈRES — TABLETTE D'OR",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,28 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -765,7 +765,7 @@
   {
    "id": "pf98f27e5",
    "nom": "La Pizz 4 fromages format généreux — SODEBO",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,97 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -799,7 +799,7 @@
   {
    "id": "p01c77d7c",
    "nom": "MOZZARELLA FORMAT MAXI 16% MAT. GR. — LES CROISÉS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,82 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -816,7 +816,7 @@
   {
    "id": "pfed8251e",
    "nom": "Raclette poivre 28% Mat.Gr. — ERMITAGE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,75 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -833,7 +833,7 @@
   {
    "id": "pff24a6fd",
    "nom": "Riz au lait Vanille — LA FERMIÈRE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,27 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -867,7 +867,7 @@
   {
    "id": "p7b7a721a",
    "nom": "SABLÉS CÉRÉALE CHOCOLAT AU LAIT LOT DE 4 — P'TIT DÉLI",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,76 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -884,7 +884,7 @@
   {
    "id": "p6d76731e",
    "nom": "TABLETTE SANS CACAO LAIT CARAMEL — TABLETTE D'OR",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,09 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -901,7 +901,7 @@
   {
    "id": "p7d892b81",
    "nom": "YAOURTS BRASSÉS AUX FRUITS AVEC MORCEAUX — DÉLISSE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,78 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -969,7 +969,7 @@
   {
    "id": "p77021a79",
    "nom": "BARRES — KINDER CHOCOLAT",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,98 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -986,7 +986,7 @@
   {
    "id": "p568db108",
    "nom": "BARRES — KIT KAT",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "4,73 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1173,7 +1173,7 @@
   {
    "id": "p7ffc763c",
    "nom": "MAXI FORMAT X72 GOURDES PANACHÉES SANS SUCRES AJOUTÉS — DOUCEUR DU VERGER",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "21,49 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1190,7 +1190,7 @@
   {
    "id": "p7cce58cf",
    "nom": "MOUTARDE OU MAYONNAISE — MAILLE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,35 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1241,7 +1241,7 @@
   {
    "id": "p8463b04f",
    "nom": "SAUCE — HEINZ",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,73 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1258,7 +1258,7 @@
   {
    "id": "p45edb73b",
    "nom": "SOUPE POUR CHAT — SHEBA",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,89 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1275,7 +1275,7 @@
   {
    "id": "pf15f7d5d",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME BISCUITS \"GRAINÉA\" — GRAINÉA",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "0,96 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1326,7 +1326,7 @@
   {
    "id": "p2b8b0f7b",
    "nom": "TABLETTE KIT KAT — NESTLÉ",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1343,7 +1343,7 @@
   {
    "id": "pdbf52cf5",
    "nom": "TABLETTES DE CHOCOLAT NOIR — POULAIN",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "5,86 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1360,7 +1360,7 @@
   {
    "id": "pdedeea4b",
    "nom": "TABLETTES DE CHOCOLAT — MILKA",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1377,7 +1377,7 @@
   {
    "id": "p078b145a",
    "nom": "Tranches végé Lentilles Corail — FLEURY MICHON",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,07 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1428,7 +1428,7 @@
   {
    "id": "p0d835eb2",
    "nom": "3 Bâtonnets glacés Noix de coco amandes — RAFFAELLO",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,49 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1445,7 +1445,7 @@
   {
    "id": "p0885011f",
    "nom": "3 MINI PIZZAS JAMBON FROMAGE SURGELÉES — CÔTÉ SNACK",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1462,7 +1462,7 @@
   {
    "id": "p3dc3e482",
    "nom": "4 PANIERS FEUILLETÉS JAMBON FROMAGE SURGELÉS — CÔTÉ TABLE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,15 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1479,7 +1479,7 @@
   {
    "id": "p447e73e8",
    "nom": "6 Cônes glacés Chocolat Intense — EXTRÊME",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,29 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1496,7 +1496,7 @@
   {
    "id": "pbc592498",
    "nom": "CORDONS BLEUS DE POULET SURGELÉS — CÔTÉ CROC",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,49 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1513,7 +1513,7 @@
   {
    "id": "p5d540088",
    "nom": "HACHÉ MŒLLEUX SURGELÉ — FÉRIAL",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,69 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1734,7 +1734,7 @@
   {
    "id": "p72375f99",
    "nom": "AOP ALSACE GEWURZTRAMINER BLANC MOELLEUX - ANNE-LAURE LITZ 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1921,7 +1921,7 @@
   {
    "id": "p145f6993",
    "nom": "AOP ALSACE RIESLING BLANC SEC - \"HORSTADEN\" 2025 — HORSTADEN",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2057,7 +2057,7 @@
   {
    "id": "pe724a711",
    "nom": "AOP BEAUMES DE VENISE ROUGE - ROMAIN DUVERNAY 2025 — ROMAIN DUVERNAY",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2125,7 +2125,7 @@
   {
    "id": "p1b6f5cc6",
    "nom": "AOP BLAYE CÔTES DE BORDEAUX ROUGE - CHÂTEAU GRAULET 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2312,7 +2312,7 @@
   {
    "id": "pb43480ef",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU LANSADE \"EXCELLENCE\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2363,7 +2363,7 @@
   {
    "id": "p436ccdcc",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU VERMONT RÉSERVE 2025 — CHATEAU VERMONT",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2397,7 +2397,7 @@
   {
    "id": "pc8ffd820",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - GRAND VIN DE REIGNAC 2024 — GRAND VIN DE REIGNAC",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "17,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2431,7 +2431,7 @@
   {
    "id": "p4f419287",
    "nom": "AOP BOURGOGNE CHARDONNAY BLANC SEC - L'AURORE 2025 — L'AURORE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2584,7 +2584,7 @@
   {
    "id": "pa121d566",
    "nom": "AOP BOURGUEIL ROUGE BIO - DOMAINE CASLOT PONTONNIER \"LES COTEAUX\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2601,7 +2601,7 @@
   {
    "id": "p10a8a152",
    "nom": "AOP BOURGUEIL ROUGE BIO - FAMILLE AMIRAULT GROSBOIS \"LA BUTTE AUX ÂNES\" 2025",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2992,7 +2992,7 @@
   {
    "id": "p7599c84f",
    "nom": "AOP CHAMPAGNE BRUT - VRANKEN FONDATEUR — VRANKEN",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "17,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3060,7 +3060,7 @@
   {
    "id": "p25d51de0",
    "nom": "AOP CHINON ROUGE - LES TRIBORDAIS DE LOIRE 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3264,7 +3264,7 @@
   {
    "id": "p7859c499",
    "nom": "AOP CORBIÈRES ROUGE - LA ROUGEANTE 2025 — LA ROUGEANTE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3536,7 +3536,7 @@
   {
    "id": "p6e075e96",
    "nom": "AOP CRÉMANT D'ALSACE BRUT - WOLFBERGER — WOLFBERGER",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3587,7 +3587,7 @@
   {
    "id": "pf1be2f32",
    "nom": "AOP CRÉMANT DE BOURGOGNE BLANC DE BLANCS - VEUVE AMBAL \"MILLÉSIMÉ\" 2023 — VEUVE AMBAL",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "8,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3876,7 +3876,7 @@
   {
    "id": "pd6ab75ea",
    "nom": "AOP CÔTES DE PROVENCE ROSÉ - CHÂTEAU REILLANNE \"GRANDE RÉSERVE\" 2025 — CHATEAU REILLANNE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4131,7 +4131,7 @@
   {
    "id": "p8cb5e0ea",
    "nom": "AOP CÔTES DU ROUSSILLON BLANC SEC - LES VIGNES DU VENT 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4216,7 +4216,7 @@
   {
    "id": "p16e04331",
    "nom": "AOP CÔTES DU ROUSSILLON VILLAGES TAUTAVEL ROUGE \"SIGNATURE\" 2024",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4267,7 +4267,7 @@
   {
    "id": "p7652a93f",
    "nom": "AOP ENTRE-DEUX-MERS BLANC SEC - CUVÉE HORTENSE 2025 — SANS MARQUE SP",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4386,7 +4386,7 @@
   {
    "id": "p2854fff7",
    "nom": "AOP FRONSAC ROUGE - CHÂTEAU DE LA RIVIÈRE \"LE PRINCE\" 2024 — CHATEAU DE LA RIVIERE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4794,7 +4794,7 @@
   {
    "id": "pe1da4f1d",
    "nom": "AOP LA CLAPE BLANC SEC BIODYNAMIE - CHÂTEAU L'HOSPITALET \"LA RÉSERVE\" 2025 — GERARD BERTRAND",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4845,7 +4845,7 @@
   {
    "id": "p1049bf4f",
    "nom": "AOP LALANDE-DE-POMEROL ROUGE - CHÂTEAU CHAMPS DE LALANDE 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "9,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4879,7 +4879,7 @@
   {
    "id": "p61db6180",
    "nom": "AOP LANGUEDOC BLANC SEC - CHÂTEAU CAPITOUL \"GRAND TERROIR\" 2025 — CAPITOUL",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,55 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4998,7 +4998,7 @@
   {
    "id": "p43ec78b9",
    "nom": "AOP LIMOUX BLANC SEC - CHÂTEAU TERAMAS ASTRUC 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "8,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5100,7 +5100,7 @@
   {
    "id": "pb690fd52",
    "nom": "AOP MADIRAN ROUGE - APÉRO'NAUTES 2024",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5440,7 +5440,7 @@
   {
    "id": "pc1ed618b",
    "nom": "AOP MORGON ROUGE - ARNAUD AUCOEUR \"VIEILLES VIGNES\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5559,7 +5559,7 @@
   {
    "id": "p51be3d71",
    "nom": "AOP MUSCADET SÈVRE & MAINE SUR LIE — LES CARACTÈRES",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,89 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5644,7 +5644,7 @@
   {
    "id": "pf26d34e1",
    "nom": "AOP MÂCON VILLAGES BLANC SEC - LA BURGONDIE 2025 — LA BURGONDIE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5984,7 +5984,7 @@
   {
    "id": "pced40d4b",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - L'ANGELOT DE SEGUIN 2024",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "13,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6494,7 +6494,7 @@
   {
    "id": "p0788584e",
    "nom": "AOP SAINT-GEORGES SAINT-ÉMILION ROUGE - CHÂTEAU BERTIN \"CUVÉE PRESTIGE\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "8,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6647,7 +6647,7 @@
   {
    "id": "pa5c6d7c1",
    "nom": "AOP SAINT-NICOLAS-DE-BOURGUEIL ROUGE - LES TRIBORDAIS DE LOIRE 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6953,7 +6953,7 @@
   {
    "id": "p4ace0c80",
    "nom": "AOP SAUMUR CHAMPIGNY ROUGE - DOMAINE DES RAYNIÈRES 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7344,7 +7344,7 @@
   {
    "id": "peddfac8d",
    "nom": "AOP VENTOUX ROUGE - SOUS LES CERISIERS 2025 — SOUS LES CERISIERS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7378,7 +7378,7 @@
   {
    "id": "p0c991306",
    "nom": "AOP VIRÉ-CLESSÉ BLANC SEC - LA BURGONDIE 2025 — LA BURGONDIE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "9,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7531,7 +7531,7 @@
   {
    "id": "pb29a43ae",
    "nom": "BLAYE CÔTES DE BORDEAUX AOP",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7599,7 +7599,7 @@
   {
    "id": "p41806206",
    "nom": "BOISSON AU LAIT ET AU CACAO — CACOLAC",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7616,7 +7616,7 @@
   {
    "id": "p217a8095",
    "nom": "BOISSON TROPICAL — OASIS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7684,7 +7684,7 @@
   {
    "id": "pc0264368",
    "nom": "BORDEAUX SUPÉRIEUR AOP — VIEILLIS EN FÛTS DE CHÊNE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7837,7 +7837,7 @@
   {
    "id": "pc29986b4",
    "nom": "CAPSULES DE CAFÉ BY NESCAFÉ DOLCE GUSTO — STARBUCKS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "4,49 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7854,7 +7854,7 @@
   {
    "id": "p0fe4c38e",
    "nom": "CAPSULES DE CAFÉ — NESCAFÉ DOLCE GUSTO",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "8,05 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8126,7 +8126,7 @@
   {
    "id": "p2c5e83f1",
    "nom": "Crème fraiche d'Isigny AOP 35% Mat. Gr. — ISIGNY SAINTE-MÈRE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "3,49 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8364,7 +8364,7 @@
   {
    "id": "pd94b5a9d",
    "nom": "FUSILLI N°140 PASTA DI GRAGNANO IGP — TRADIZIONI D'ITALIA",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,46 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8466,7 +8466,7 @@
   {
    "id": "p980504a9",
    "nom": "IGP ATLANTIQUE ROUGE - LA CUVÉE DES DRÔLES 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "2,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8568,7 +8568,7 @@
   {
    "id": "ped482b87",
    "nom": "IGP CÔTES DE GASCOGNE BLANC MOELLEUX - MENARD \"CUVÉE OR PREMIUM\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8585,7 +8585,7 @@
   {
    "id": "p823116a5",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - DOMAINE DE L'HERRÉ 2025 — DOMAINE DE L HERRE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8602,7 +8602,7 @@
   {
    "id": "p38223ddc",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - DOMUS UBY \"SAUVIGNON GROS MANSENG\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8619,7 +8619,7 @@
   {
    "id": "pd6966a59",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - MENARD \"CUVÉE MARINE PREMIUM\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8653,7 +8653,7 @@
   {
    "id": "p6090a55b",
    "nom": "IGP CÔTES DE GASCOGNE LEGER BLANC \"ONÉA\"",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8704,7 +8704,7 @@
   {
    "id": "pfe327e2b",
    "nom": "IGP MÉDITERRANÉE ROSÉ - PERLE D'AZUR 2025 — PERIGORD D'ANTAN",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8721,7 +8721,7 @@
   {
    "id": "pf062504a",
    "nom": "IGP PAYS D'OC BLANC SEC - JEAN CLAUDE MAS \"LE PIOCH - VIOGNIER\" 2025 — JEAN CLAUDE MAS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8772,7 +8772,7 @@
   {
    "id": "pe584279b",
    "nom": "IGP PAYS D'OC BLANC SEC BIO - SO VIVE 9,5% 2025 — GERARD BERTRAND",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8840,7 +8840,7 @@
   {
    "id": "pfeca66c5",
    "nom": "IGP PAYS D'OC ROUGE - JEAN-CLAUDE MAS \"LE PIOCH - SYRAH\" 2025 — JEAN CLAUDE MAS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8857,7 +8857,7 @@
   {
    "id": "pd6f4e693",
    "nom": "IGP PAYS D'OC ROUGE - JEAN-CLAUDE MAS \"LES SCHISTES\" - \"SYRAH VIOGNIER\" 2025 — JEAN CLAUDE MAS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "5,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8959,7 +8959,7 @@
   {
    "id": "pee77ad1f",
    "nom": "IGP VAL DE LOIRE BLANC SEC - L'HAMEÇON \"SAUVIGNON CHARDONNAY\" 2025",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9469,7 +9469,7 @@
   {
    "id": "pc789d7f2",
    "nom": "PASTIS DE MARSEILLE — VIVALIS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "17,41 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9894,7 +9894,7 @@
   {
    "id": "p4495ac9b",
    "nom": "ROCAMADOUR AOP 24% MAT. GR. — NOS RÉGIONS ONT DU TALENT",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "2,69 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10319,7 +10319,7 @@
   {
    "id": "pa3f1441b",
    "nom": "SAUCISSES DE MONTBELIARD IGP — NOS RÉGIONS ONT DU TALENT",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,18 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10421,7 +10421,7 @@
   {
    "id": "p03845aa4",
    "nom": "SIROP DE GRENADINE — FRUCCI",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10642,7 +10642,7 @@
   {
    "id": "p057e5577",
    "nom": "VIN DE FRANCE BLANC SEC - LA VIEILLE FERME 2025 — LA VIEILLE FERME",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10659,7 +10659,7 @@
   {
    "id": "p1ceb6161",
    "nom": "VIN DE FRANCE BLANC SEC - MR CHENIN 2025 — MR PINOT",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10710,7 +10710,7 @@
   {
    "id": "p78eed04a",
    "nom": "VIN DE FRANCE EFFERVESCENT BLANC DE BLANCS - LA BULLE DU PIOCH — JEAN CLAUDE MAS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "6,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10778,7 +10778,7 @@
   {
    "id": "pc2c01ad1",
    "nom": "VIN DE FRANCE ROUGE - NOUS CINQ 2024 — NOUS CINQ",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -10897,7 +10897,7 @@
   {
    "id": "pec5977da",
    "nom": "ADOUCISSANT — SOUPLINE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "6,27 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -10965,7 +10965,7 @@
   {
    "id": "pb9c5a2d2",
    "nom": "CROQUETTES POUR PETIT CHIEN — ULTIMA",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "5,39 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -10982,7 +10982,7 @@
   {
    "id": "p8ec2ff02",
    "nom": "CROQUETTES SPÉCIAL CHAT STÉRILISÉ BIFENSIS — PURINA ONE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "12,99 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -10999,7 +10999,7 @@
   {
    "id": "pbdfb2357",
    "nom": "DENTIFRICE — SIGNAL",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,97 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11084,7 +11084,7 @@
   {
    "id": "pf17349fb",
    "nom": "LESSIVE CAPSULE — DASH",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "13,47 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11101,7 +11101,7 @@
   {
    "id": "pd1c871d9",
    "nom": "LESSIVE CAPSULES — ARIEL",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "11,23 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11135,7 +11135,7 @@
   {
    "id": "p7ad89e0f",
    "nom": "LITIÈRE CARBONITE CHATS STÉRILISÉS — TRANQUILLE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "5,99 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11152,7 +11152,7 @@
   {
    "id": "p7d78c095",
    "nom": "LITIÈRE MINÉRALE HYGIÉNIQUE — TOUS MES AMIS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "4,65 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11169,7 +11169,7 @@
   {
    "id": "pd7f9106b",
    "nom": "MOUCHOIRS BLANCS 2 PLIS — CARESSE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "1,69 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11186,7 +11186,7 @@
   {
    "id": "p259396dc",
    "nom": "MOUCHOIRS BLANCS — CARESSE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,40 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11203,7 +11203,7 @@
   {
    "id": "p898bb6b6",
    "nom": "NETTOYANT MENAGER — BIOVIE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11237,7 +11237,7 @@
   {
    "id": "p80496886",
    "nom": "RASOIR — GILLETTE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "39,10 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11254,7 +11254,7 @@
   {
    "id": "pd7e3aaed",
    "nom": "SHAMPOOING — FRUCTIS DE GARNIER",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,57 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11288,7 +11288,7 @@
   {
    "id": "p96a42557",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME LESSIVE \"CHANTECLAIR\" — CHANTECLAIR",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "6,45 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -11305,7 +11305,7 @@
   {
    "id": "pfdfdff5a",
    "nom": "\"Planta fin\" tartine et cuisson doux 50% Mat. Gr. format spécial — PLANTA FIN",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,78 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11356,7 +11356,7 @@
   {
    "id": "p078aa5d5",
    "nom": "ACTIV' GEL 3 EN 1 DISQUE WC — SYPHON",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "2,49 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11458,7 +11458,7 @@
   {
    "id": "pbe16b56b",
    "nom": "AMANDES — VAHINÉ",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11492,7 +11492,7 @@
   {
    "id": "pad1cde61",
    "nom": "ARBRE À CHAT — TOUS MES AMIS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "13,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11526,7 +11526,7 @@
   {
    "id": "p70fd941e",
    "nom": "ASSIETTE PLATE \"GUSTAVE\" BLEUE 25,5CM",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "3,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11543,7 +11543,7 @@
   {
    "id": "p4454678f",
    "nom": "ASSOUPLISSANT — SOUPLINE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11594,7 +11594,7 @@
   {
    "id": "p359ca050",
    "nom": "BARRE DE SON S55H — TCL",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "117,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11849,7 +11849,7 @@
   {
    "id": "pb4857bbf",
    "nom": "CHANGES BÉBÉ ULTRA CONFORT — MOTS D'ENFANTS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "6,19 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11900,7 +11900,7 @@
   {
    "id": "pd3851981",
    "nom": "COCOTTE RONDE MARRON Ø 28 CM — HOMESIDE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "29,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11934,7 +11934,7 @@
   {
    "id": "p8df63676",
    "nom": "COLLANT ELASTIVOILE AFFINANT X1 — WELL",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12036,7 +12036,7 @@
   {
    "id": "pb6bd2ff8",
    "nom": "CULOTTE CONFORT MEDIUM — CHORYS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "7,93 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12172,7 +12172,7 @@
   {
    "id": "p751b066b",
    "nom": "DOUCHE — SANEX",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12240,7 +12240,7 @@
   {
    "id": "pc79e449e",
    "nom": "EAU DE TOILETTE — ADIDAS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "8,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12291,7 +12291,7 @@
   {
    "id": "p67234585",
    "nom": "Extra tendre doux 70% Mat. Gr. — ELLE & VIRE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,53 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12325,7 +12325,7 @@
   {
    "id": "p64c7a4c4",
    "nom": "FOIE DE MORUE — NAUTILUS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,13 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12410,7 +12410,7 @@
   {
    "id": "p75bb9a03",
    "nom": "HOUMOUS — TABLES DU MONDE",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,38 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12478,7 +12478,7 @@
   {
    "id": "p09b0d6c1",
    "nom": "LEGGING ENFANT — TISSAIA BASICS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12563,7 +12563,7 @@
   {
    "id": "p95daf530",
    "nom": "Leerdammer Original 27,5% Mat.Gr. — LEERDAMMER",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "3,23 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12597,7 +12597,7 @@
   {
    "id": "p67ea40e0",
    "nom": "MAISON DE TOILETTE — TOUS MES AMIS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "9,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12631,7 +12631,7 @@
   {
    "id": "p5e82f17f",
    "nom": "MIX SNACKS POUR CHAT — TOUS MES AMIS",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12699,7 +12699,7 @@
   {
    "id": "p602061a2",
    "nom": "NAPOLITAIN",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12784,7 +12784,7 @@
   {
    "id": "p86b30dcc",
    "nom": "PANTALON NUIT ADULTE — TISSAIA",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "12,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12835,7 +12835,7 @@
   {
    "id": "p9613fc33",
    "nom": "PESTO — FLORELLI",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,89 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12852,7 +12852,7 @@
   {
    "id": "p5fd0d707",
    "nom": "PIED MIXEUR — ELSAY",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "14,98 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12886,7 +12886,7 @@
   {
    "id": "p40910f9d",
    "nom": "POUBELLE À PÉDALE 30L BEIGE — BRABANTIA",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "54,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13311,7 +13311,7 @@
   {
    "id": "p7b7b7756",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"LES REPAS PLAISIR\"",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "1,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13362,7 +13362,7 @@
   {
    "id": "pe7de056a",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"MOUTON CADET\". — MOUTON CADET",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13379,7 +13379,7 @@
   {
    "id": "p7d8e9d50",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"RIO MARE\" — RIO MARE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "0,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13396,7 +13396,7 @@
   {
    "id": "p0571eb71",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"ST DIÉRY.\" — SAINT DIÉRY",
-   "remise": "Remise sur le 2e produit ou plus",
+   "remise": "2e produit remisé",
    "prix": "2,16 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13447,7 +13447,7 @@
   {
    "id": "pc5160eec",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME CITY ACTION POMPIERS, COUNTRY ET I LOVE HORSES DE \"PLAYMOBIL\" — PLAYMOBIL",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "39,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13464,7 +13464,7 @@
   {
    "id": "pe0f891e8",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME D'AMPOULES AUTO \"BOSCH\" — BOSCH",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "14,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13481,7 +13481,7 @@
   {
    "id": "p99909f26",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME DE CIRCUITS DE BILLES \"GRAVITRAX\" — RAVENSBURGER",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "12,06 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13498,7 +13498,7 @@
   {
    "id": "p0a441256",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME DE LIQUIDES DE REFROIDISSEMENT \"TECH9\" — TECH9",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "9,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13515,7 +13515,7 @@
   {
    "id": "p91ac78b8",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME GRIFFOIR \"TOUS MES AMIS\" — TOUS MES AMIS",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "7,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13532,7 +13532,7 @@
   {
    "id": "p650bfcae",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME JEUX DE SOCIETE DE \"JEUX RAVENSBURGER\" — RAVENSBURGER",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "18,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13600,7 +13600,7 @@
   {
    "id": "p4659bab4",
    "nom": "TABLETTES LAVE-VAISSELLE — UNI VERT",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -13736,7 +13736,7 @@
   {
    "id": "p02c9ce81",
    "nom": "Véhicule et Figurine – Mission Dino — PAT PATROUILLE",
-   "remise": "Avantage ticket E.Leclerc",
+   "remise": "Ticket E.Leclerc",
    "prix": "16,90 €",
    "prix_avant": "",
    "categorie": "autre",
