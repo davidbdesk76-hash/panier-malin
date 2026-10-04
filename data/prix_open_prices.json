@@ -1,11 +1,12 @@
 {
+ "version": 2,
  "date": "2026-10-04",
  "prix": {
   "Pâtes": {
    "kg": 1.38
   },
   "Spaghetti": {
-   "kg": 1.54
+   "kg": 1.48
   },
   "Tagliatelles": {
    "kg": 3.71
@@ -48,7 +49,7 @@
    "kg": 9.51
   },
   "Fromage à raclette": {
-   "kg": 13.5
+   "kg": 12.88
   },
   "Fromage frais": {
    "kg": 13.44
@@ -60,7 +61,7 @@
    "kg": 13.71
   },
   "Escalopes de dinde": {
-   "kg": 20.92
+   "kg": 21.13
   },
   "Coulis de tomate": {
    "kg": 2.23
@@ -72,58 +73,57 @@
    "kg": 3.32
   },
   "Pois chiches": {
-   "kg": 3.8
+   "kg": 3.55
   },
   "Lait de coco": {
    "l": 2.65
   },
   "Haricots verts": {
-   "kg": 5.57
+   "kg": 6.99
   },
   "Olives": {
    "kg": 13.27
   },
   "Pommes de terre": {
-   "kg": 3.4,
-   "piece": 0.51
+   "kg": 2.47,
+   "piece": 0.37
   },
   "Courgettes": {
-   "kg": 7.21,
-   "piece": 1.8
+   "kg": 1.79,
+   "piece": 0.45
   },
   "Tomates cerises": {
-   "kg": 9.96,
-   "piece": 0.99
+   "kg": 7.99
   },
   "Champignons": {
-   "kg": 4.26
+   "kg": 10.95
   },
   "Champignons de Paris": {
-   "kg": 4.26
+   "kg": 10.95
   },
   "Carotte": {
-   "kg": 2.07,
-   "piece": 0.21
+   "kg": 1.99,
+   "piece": 0.2
   },
   "Carottes": {
-   "kg": 2.07,
-   "piece": 0.21
+   "kg": 1.99,
+   "piece": 0.2
   },
   "Oignon": {
-   "kg": 15.89,
-   "piece": 2.81
+   "kg": 2.87,
+   "piece": 0.34
   },
   "Oignons": {
-   "kg": 15.89,
-   "piece": 2.81
+   "kg": 2.87,
+   "piece": 0.34
   },
   "Tomates": {
-   "kg": 2.96,
-   "piece": 0.36
+   "kg": 4.99,
+   "piece": 0.6
   },
   "Pommes": {
-   "kg": 3.86,
-   "piece": 3.09
+   "kg": 2.94,
+   "piece": 0.44
   },
   "Poires": {
    "kg": 3.95,
@@ -131,48 +131,41 @@
   },
   "Bananes": {
    "kg": 1.99,
-   "piece": 1.99
+   "piece": 0.3
   },
   "Poireaux": {
-   "kg": 14.53,
-   "piece": 2.91
+   "kg": 2.99,
+   "piece": 0.6
   },
   "Kiwis": {
-   "kg": 5.5,
-   "piece": 0.86
+   "kg": 5.65,
+   "piece": 0.45
   },
   "Oranges": {
-   "kg": 2.9,
-   "l": 3.67,
-   "piece": 0.58
+   "kg": 2.99,
+   "piece": 0.6
   },
   "Citron": {
-   "kg": 3.99,
-   "l": 37.9,
-   "piece": 0.79
+   "kg": 3.97,
+   "piece": 0.48
   },
   "Endives": {
-   "kg": 3.29,
-   "piece": 1.5
+   "kg": 2.99,
+   "piece": 0.36
   },
   "Échalotes": {
-   "kg": 35.83,
-   "piece": 1.07
+   "kg": 6.49,
+   "piece": 0.19
   },
   "Potiron ou butternut": {
-   "kg": 3.32
+   "kg": 2.97
   },
   "Fruits (cerises, poires, pommes)": {
-   "kg": 3.86,
-   "piece": 3.09
+   "kg": 2.94
   },
   "Brocoli": {
-   "kg": 2.3,
-   "piece": 1.65
-  },
-  "Chou-fleur": {
-   "kg": 2.0,
-   "piece": 2.99
+   "kg": 6.99,
+   "piece": 2.8
   }
  }
 }

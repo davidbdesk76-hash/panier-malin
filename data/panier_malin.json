@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-04T21:03",
+ "genere_le": "2026-10-04T21:09",
  "promos_maj_le": "2026-10-04T20:36",
  "magasins": [
   {
@@ -12153,8 +12153,8 @@
    "temps_min": 15,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "6,88 €",
-   "prix_par_personne": "1,72 €",
+   "prix_revient": "6,38 €",
+   "prix_par_personne": "1,60 €",
    "economie": "0,17 €",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12182,7 +12182,7 @@
      "quantite": "250 g",
      "promo_id": "p847bd0a4",
      "en_promo": true,
-     "prix": "2,49 €",
+     "prix": "2,00 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -12262,9 +12262,9 @@
    "temps_min": 40,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "10,58 €",
-   "prix_par_personne": "2,64 €",
-   "economie": "0,23 €",
+   "prix_revient": "10,64 €",
+   "prix_par_personne": "2,66 €",
+   "economie": "0,22 €",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
@@ -12282,7 +12282,7 @@
      "quantite": "500 g",
      "promo_id": "p4910f764",
      "en_promo": true,
-     "prix": "0,54 €",
+     "prix": "0,52 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -12300,7 +12300,7 @@
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,21 €",
+     "prix": "0,20 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12309,7 +12309,7 @@
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,25 €",
+     "prix": "0,34 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12390,8 +12390,8 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "8,82 €",
-   "prix_par_personne": "2,20 €",
+   "prix_revient": "9,82 €",
+   "prix_par_personne": "2,46 €",
    "economie": "",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12412,7 +12412,7 @@
      "en_promo": false,
      "prix": "0,80 €",
      "prix_approximatif": true,
-     "prix_source": "open_prices"
+     "prix_source": "estimation"
     },
     {
      "nom": "Mozzarella",
@@ -12437,7 +12437,7 @@
      "quantite": "150 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,64 €",
+     "prix": "1,64 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     }
@@ -12454,8 +12454,8 @@
    "temps_min": 20,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "24,08 €",
-   "prix_par_personne": "6,02 €",
+   "prix_revient": "22,47 €",
+   "prix_par_personne": "5,62 €",
    "economie": "",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12465,7 +12465,7 @@
      "quantite": "800 g",
      "promo_id": "pfed8251e",
      "en_promo": true,
-     "prix": "10,80 €",
+     "prix": "10,30 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -12474,7 +12474,7 @@
      "quantite": "1,2 kg",
      "promo_id": "",
      "en_promo": false,
-     "prix": "4,08 €",
+     "prix": "2,96 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12508,8 +12508,8 @@
    "temps_min": 15,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "7,64 €",
-   "prix_par_personne": "1,91 €",
+   "prix_revient": "6,53 €",
+   "prix_par_personne": "1,63 €",
    "economie": "",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12519,7 +12519,7 @@
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,16 €",
+     "prix": "1,20 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12537,7 +12537,7 @@
      "quantite": "3",
      "promo_id": "pd0c14ca9",
      "en_promo": true,
-     "prix": "2,58 €",
+     "prix": "1,35 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -12546,7 +12546,7 @@
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,80 €",
+     "prix": "0,88 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12571,8 +12571,8 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "8,77 €",
-   "prix_par_personne": "2,19 €",
+   "prix_revient": "7,84 €",
+   "prix_par_personne": "1,96 €",
    "economie": "",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12591,7 +12591,7 @@
      "quantite": "1 kg",
      "promo_id": "",
      "en_promo": false,
-     "prix": "3,40 €",
+     "prix": "2,47 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12625,8 +12625,8 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 1,
-   "prix_revient": "11,60 €",
-   "prix_par_personne": "2,90 €",
+   "prix_revient": "12,01 €",
+   "prix_par_personne": "3,00 €",
    "economie": "",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12654,7 +12654,7 @@
      "quantite": "3",
      "promo_id": "p847bd0a4",
      "en_promo": true,
-     "prix": "1,08 €",
+     "prix": "1,80 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -12672,7 +12672,7 @@
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,79 €",
+     "prix": "0,48 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     }
@@ -12688,8 +12688,8 @@
    "temps_min": 30,
    "personnes": 4,
    "nb_promos": 1,
-   "prix_revient": "22,88 €",
-   "prix_par_personne": "5,72 €",
+   "prix_revient": "19,38 €",
+   "prix_par_personne": "4,84 €",
    "economie": "",
    "prix_approximatif": true,
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
@@ -12708,7 +12708,7 @@
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "3,60 €",
+     "prix": "0,90 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     },
@@ -12717,7 +12717,7 @@
      "quantite": "250 g",
      "promo_id": "p847bd0a4",
      "en_promo": true,
-     "prix": "2,49 €",
+     "prix": "2,00 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -12726,7 +12726,7 @@
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,79 €",
+     "prix": "0,48 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     }
