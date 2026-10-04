@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genere_le": "2026-10-04T20:29",
- "promos_maj_le": "2026-10-04T20:29",
+ "genere_le": "2026-10-04T20:36",
+ "promos_maj_le": "2026-10-04T20:36",
  "magasins": [
   {
    "id": "houlme",
@@ -58,23 +58,8 @@
   {
    "id": "pc9763eda",
    "nom": "2 MAXI CROQUE MONSIEUR JAMBON FROMAGE — CÔTÉ SNACK",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,60 €",
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "bapeaume",
-    "houlme"
-   ],
-   "du": "2026-09-29",
-   "au": "2026-10-10",
-   "catalogue": "Un octobre gourmand"
-  },
-  {
-   "id": "p0885011f",
-   "nom": "3 MINI PIZZAS JAMBON FROMAGE SURGELÉES — CÔTÉ SNACK",
-   "remise": "TEL %",
-   "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
    "magasins": [
@@ -88,7 +73,7 @@
   {
    "id": "pb4f59b2e",
    "nom": "4 Escalopes milanaise nature — DOUCE FRANCE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,63 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -103,7 +88,7 @@
   {
    "id": "pf3d0eaae",
    "nom": "8 Steaks hachés 100% pur bœuf 15% Mat. Gr.",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,77 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -118,7 +103,7 @@
   {
    "id": "p267f48a1",
    "nom": "8 saucisses de toulouse pur porc \"TENDRE & PLUS\" — TENDRE & PLUS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,18 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -133,7 +118,7 @@
   {
    "id": "p2109d46f",
    "nom": "Boudin noir aux oignons brasse \"TRADILEGE\"",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,45 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -148,7 +133,7 @@
   {
    "id": "p5c3ce483",
    "nom": "Crevettes ASC Ail et Persil à Poêler — DELPIERRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,08 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -163,7 +148,7 @@
   {
    "id": "p4938677f",
    "nom": "Crevettes cuites",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,47 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -178,7 +163,7 @@
   {
    "id": "pb9cb1507",
    "nom": "JAMBON CUIT À L'ÉTOUFFÉE DE QUALITÉ SUPÉRIEURE SANS COUENNE À TENEUR EN SEL RÉDUIT DE 25% — TRADILÈGE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,95 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -193,7 +178,7 @@
   {
    "id": "pcbc597d3",
    "nom": "Jambon Cru Serrano STG — CÉSAR MORONI",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,99 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -208,7 +193,7 @@
   {
    "id": "p214b51bb",
    "nom": "MENU COMPLET LAPIN — TOUS MES AMIS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,88 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -223,7 +208,7 @@
   {
    "id": "p58c64a66",
    "nom": "MOULE 9 MUFFINS — HOMESIDE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -238,7 +223,7 @@
   {
    "id": "p0cf0ac4f",
    "nom": "Marguerites Ricotta épinards — L'ITALIE DES PATES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,89 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -253,7 +238,7 @@
   {
    "id": "pb05ad2b1",
    "nom": "Mini involtini Speck - Chorizo 19% Mat.Gr. — VALCREST",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,87 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -268,7 +253,7 @@
   {
    "id": "p9eed7635",
    "nom": "Pasta salade Poulet rôti Caesar sauce Caesar — SODEBO",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "2,07 €",
    "prix_avant": "3,14 €",
    "categorie": "viande_poisson",
@@ -283,7 +268,7 @@
   {
    "id": "p7a8649c6",
    "nom": "PÂTE À TARTINER — BONNE MAMAN",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "3,72 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -298,7 +283,7 @@
   {
    "id": "p4910f764",
    "nom": "PÂTES LES PROTEINÉES — PANZANI",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "1,39 €",
    "prix_avant": "1,99 €",
    "categorie": "viande_poisson",
@@ -313,7 +298,7 @@
   {
    "id": "p303ef88d",
    "nom": "Pâte à pizza — CROUSTIPATE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,68 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -328,7 +313,7 @@
   {
    "id": "pd223e2e0",
    "nom": "Pâte à tarte Feuilletée Pur Beurre Trésor de Grand Mère — HERTA",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -343,7 +328,7 @@
   {
    "id": "p71ccce2b",
    "nom": "RILLETTES DE POULET RÔTI EN COCOTTE — TRADILÈGE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,79 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -358,7 +343,7 @@
   {
    "id": "pef8ce84a",
    "nom": "Rôti de porc 100% filet 3% Mat.Gr. conservation sans nitrite — FLEURY MICHON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,38 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -373,7 +358,7 @@
   {
    "id": "pafb8aac6",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME SALADE EN CONSERVE \"CÔTÉ SNACK\" — CÔTÉ SNACK",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,91 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -388,7 +373,7 @@
   {
    "id": "pc0d785cf",
    "nom": "Saumon fumé Norvège ASC — PETIT NAVIRE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "10,47 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -403,7 +388,7 @@
   {
    "id": "pc728cbb1",
    "nom": "Saumon vidé",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,97 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -418,7 +403,7 @@
   {
    "id": "p3b4a155d",
    "nom": "Terrine de campagne Label rouge — MADRANGE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,90 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -433,7 +418,7 @@
   {
    "id": "p4fa00f68",
    "nom": "VIANDE BOVINE : FAUX FILET*** A GRILLER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -448,7 +433,7 @@
   {
    "id": "p04a1bafd",
    "nom": "VIANDE BOVINE : FILET*** A ROTIR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "21,90 €",
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -463,7 +448,7 @@
   {
    "id": "p8deb2373",
    "nom": "8 tomates farcies — BIGARD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,75 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -478,7 +463,7 @@
   {
    "id": "pa0584b15",
    "nom": "BANANES — PANIER DU PRIMEUR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "1,19 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -493,7 +478,7 @@
   {
    "id": "p3b997fb2",
    "nom": "BOITE À AILS 0,9 L — GIMEL",
-   "remise": "Prix simple barré",
+   "remise": "-60 %",
    "prix": "3,00 €",
    "prix_avant": "7,50 €",
    "categorie": "fruits_legumes",
@@ -508,7 +493,7 @@
   {
    "id": "pf0adc13d",
    "nom": "Compotes Pomme Poire Offre découverte — ANDROS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,63 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -523,7 +508,7 @@
   {
    "id": "p77de6854",
    "nom": "Danonino aux fruits Offre familiale — DANONINO",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,24 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -538,7 +523,7 @@
   {
    "id": "pddadbc10",
    "nom": "JEUNES POUSSES D'ENDIVES DES HAUTS-DE-FRANCE — NOS RÉGIONS ONT DU TALENT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "1,64 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -553,7 +538,7 @@
   {
    "id": "pd0c14ca9",
    "nom": "KIWI VERT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,99 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -568,7 +553,7 @@
   {
    "id": "p3b8c7e87",
    "nom": "LE RAVIOLI SAUCE TOMATE CUISINÉE — PANZANI",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,99 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -583,7 +568,7 @@
   {
    "id": "p5d0c609f",
    "nom": "LÉGUMES BIEN CULTIVÉS — D'AUCY",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,27 €",
    "prix_avant": "1,93 €",
    "categorie": "fruits_legumes",
@@ -598,7 +583,7 @@
   {
    "id": "p847bd0a4",
    "nom": "Tomate cerise allongée ou mélangée",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,75 €",
    "prix_avant": "",
    "categorie": "fruits_legumes",
@@ -613,7 +598,7 @@
   {
    "id": "pb495ea35",
    "nom": "10 pains au chocolat pur beurre — 3M",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,79 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -628,7 +613,7 @@
   {
    "id": "p9fff52da",
    "nom": "6 tranches crémeuses au skyr 21% Mat. Gr. — COEUR DE LION",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,70 €",
    "prix_avant": "2,57 €",
    "categorie": "cremerie",
@@ -643,7 +628,7 @@
   {
    "id": "p0c09ddd8",
    "nom": "CHOCOLAT AU LAIT AUX NOISETTES ENTIÈRES — TABLETTE D'OR",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,28 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -658,7 +643,7 @@
   {
    "id": "p3978380c",
    "nom": "CRÈME DESSERT — MONT BLANC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,65 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -673,7 +658,7 @@
   {
    "id": "p0f91f4cc",
    "nom": "Crème dessert chocolat noir 70% — BONNE MAMAN",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,23 €",
    "prix_avant": "1,87 €",
    "categorie": "cremerie",
@@ -688,7 +673,7 @@
   {
    "id": "pf98f27e5",
    "nom": "La Pizz 4 fromages format généreux — SODEBO",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,97 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -703,7 +688,7 @@
   {
    "id": "pad60fba7",
    "nom": "Lait uht vitamine D demi-écrémé format XL — LACTEL",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,98 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -718,7 +703,7 @@
   {
    "id": "p01c77d7c",
    "nom": "MOZZARELLA FORMAT MAXI 16% MAT. GR. — LES CROISÉS",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,82 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -731,24 +716,9 @@
    "catalogue": "Un octobre gourmand"
   },
   {
-   "id": "p99778de8",
-   "nom": "Pizza crousti fine 4 fromages Au feu de bois surgelée — MARIE",
-   "remise": "BRII %",
-   "prix": "1,89 €",
-   "prix_avant": "2,86 €",
-   "categorie": "cremerie",
-   "magasins": [
-    "bapeaume",
-    "houlme"
-   ],
-   "du": "2026-09-29",
-   "au": "2026-10-10",
-   "catalogue": "Un octobre gourmand"
-  },
-  {
    "id": "pfed8251e",
    "nom": "Raclette poivre 28% Mat.Gr. — ERMITAGE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,75 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -763,7 +733,7 @@
   {
    "id": "pff24a6fd",
    "nom": "Riz au lait Vanille — LA FERMIÈRE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,27 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -778,7 +748,7 @@
   {
    "id": "pfd111f71",
    "nom": "Roses au chocolat au lait — LIGHTBODY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,40 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -793,7 +763,7 @@
   {
    "id": "p7b7a721a",
    "nom": "SABLÉS CÉRÉALE CHOCOLAT AU LAIT LOT DE 4 — P'TIT DÉLI",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,76 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -808,7 +778,7 @@
   {
    "id": "p6d76731e",
    "nom": "TABLETTE SANS CACAO LAIT CARAMEL — TABLETTE D'OR",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,09 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -823,7 +793,7 @@
   {
    "id": "p7d892b81",
    "nom": "YAOURTS BRASSÉS AUX FRUITS AVEC MORCEAUX — DÉLISSE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,78 €",
    "prix_avant": "",
    "categorie": "cremerie",
@@ -838,7 +808,7 @@
   {
    "id": "paec7f4ea",
    "nom": "3 mini pains préfou à l'huile d'olive — MIX BUFFET",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,90 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -853,7 +823,7 @@
   {
    "id": "p884342d7",
    "nom": "6 Suisses aux pépites de chocolat",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,90 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -868,7 +838,7 @@
   {
    "id": "p33924051",
    "nom": "BARRES D'AVOINE PROTÉINÉES — TREK",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "2,50 €",
    "prix_avant": "3,79 €",
    "categorie": "epicerie",
@@ -883,7 +853,7 @@
   {
    "id": "p77021a79",
    "nom": "BARRES — KINDER CHOCOLAT",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,98 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -898,7 +868,7 @@
   {
    "id": "p568db108",
    "nom": "BARRES — KIT KAT",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "4,73 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -913,7 +883,7 @@
   {
    "id": "pa00e6148",
    "nom": "BISCUITS LES PÉPITES — LA MÈRE POULARD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,20 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -928,7 +898,7 @@
   {
    "id": "p194f4d08",
    "nom": "BOL À SOUPE AVEC 2 ANSES 15CM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,50 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -943,7 +913,7 @@
   {
    "id": "pae158a9f",
    "nom": "CRÊPES CHOCOLAT — ST MICHEL",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,25 €",
    "prix_avant": "1,89 €",
    "categorie": "epicerie",
@@ -958,7 +928,7 @@
   {
    "id": "p3078c240",
    "nom": "CUPS DE NOUILLES JAPONAISES — TANOSHI",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "2,02 €",
    "prix_avant": "2,89 €",
    "categorie": "epicerie",
@@ -973,7 +943,7 @@
   {
    "id": "p4702b6b7",
    "nom": "Entremets Trio de Chocolats",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,57 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -988,7 +958,7 @@
   {
    "id": "p73da6151",
    "nom": "FRITEUSE SANS HUILE + LIVRE 50 RECETTES — BOSCH",
-   "remise": "Prix simple barré",
+   "remise": "-32 %",
    "prix": "149,00 €",
    "prix_avant": "219,00 €",
    "categorie": "epicerie",
@@ -1003,7 +973,7 @@
   {
    "id": "p55795722",
    "nom": "FRITEUSE À HUILE — MOULINEX",
-   "remise": "Prix simple barré",
+   "remise": "-29 %",
    "prix": "49,99 €",
    "prix_avant": "69,99 €",
    "categorie": "epicerie",
@@ -1018,7 +988,7 @@
   {
    "id": "p3df46de9",
    "nom": "Flan choco cookie",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1033,7 +1003,7 @@
   {
    "id": "p5890841e",
    "nom": "Gâche tranchée éclats 3 chocolats",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,65 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1048,7 +1018,7 @@
   {
    "id": "p514d357f",
    "nom": "HUILE D'OLIVE EXTRA VIERGE — PIERONI",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,99 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1063,7 +1033,7 @@
   {
    "id": "p7ffc763c",
    "nom": "MAXI FORMAT X72 GOURDES PANACHÉES SANS SUCRES AJOUTÉS — DOUCEUR DU VERGER",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "21,49 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1078,7 +1048,7 @@
   {
    "id": "p7cce58cf",
    "nom": "MOUTARDE OU MAYONNAISE — MAILLE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,35 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1093,7 +1063,7 @@
   {
    "id": "pcec3f682",
    "nom": "ROCHERS — POULAIN",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "2,64 €",
    "prix_avant": "3,77 €",
    "categorie": "epicerie",
@@ -1108,7 +1078,7 @@
   {
    "id": "p912ca3e3",
    "nom": "SACHET FRAÎCHEUR EN SAUCE POUR CHAT DÉLICES DU JOUR — SHEBA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,75 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1123,7 +1093,7 @@
   {
    "id": "p8463b04f",
    "nom": "SAUCE — HEINZ",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,73 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1138,7 +1108,7 @@
   {
    "id": "p45edb73b",
    "nom": "SOUPE POUR CHAT — SHEBA",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,89 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1153,7 +1123,7 @@
   {
    "id": "pf15f7d5d",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME BISCUITS \"GRAINÉA\" — GRAINÉA",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "0,96 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1168,7 +1138,7 @@
   {
    "id": "p21213eb4",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME D'HUILES AUTO \"ELF\" — ELF",
-   "remise": "BRII %",
+   "remise": "-25 %",
    "prix": "41,92 €",
    "prix_avant": "55,90 €",
    "categorie": "epicerie",
@@ -1183,7 +1153,7 @@
   {
    "id": "p30f9474f",
    "nom": "TABLETTE DE CHOCOLAT HÉRITAGE 1901 — VILLARS",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,90 €",
    "prix_avant": "2,88 €",
    "categorie": "epicerie",
@@ -1198,7 +1168,7 @@
   {
    "id": "p2b8b0f7b",
    "nom": "TABLETTE KIT KAT — NESTLÉ",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1213,7 +1183,7 @@
   {
    "id": "pdbf52cf5",
    "nom": "TABLETTES DE CHOCOLAT NOIR — POULAIN",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "5,86 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1228,7 +1198,7 @@
   {
    "id": "pdedeea4b",
    "nom": "TABLETTES DE CHOCOLAT — MILKA",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1243,7 +1213,7 @@
   {
    "id": "p078b145a",
    "nom": "Tranches végé Lentilles Corail — FLEURY MICHON",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,07 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1258,7 +1228,7 @@
   {
    "id": "pafb71677",
    "nom": "Viennois L'Original Chocolat offre découverte \"NESTLE\" — VIENNOIS",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "1,57 €",
    "prix_avant": "",
    "categorie": "epicerie",
@@ -1271,10 +1241,40 @@
    "catalogue": "Un octobre gourmand"
   },
   {
+   "id": "p025675fc",
+   "nom": "15 Gaufres surgelées Cheddar Paprika — TIPIAK",
+   "remise": "-34 %",
+   "prix": "2,61 €",
+   "prix_avant": "3,95 €",
+   "categorie": "surgeles",
+   "magasins": [
+    "bapeaume",
+    "houlme"
+   ],
+   "du": "2026-09-29",
+   "au": "2026-10-10",
+   "catalogue": "Un octobre gourmand"
+  },
+  {
    "id": "p0d835eb2",
    "nom": "3 Bâtonnets glacés Noix de coco amandes — RAFFAELLO",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,49 €",
+   "prix_avant": "",
+   "categorie": "surgeles",
+   "magasins": [
+    "bapeaume",
+    "houlme"
+   ],
+   "du": "2026-09-29",
+   "au": "2026-10-10",
+   "catalogue": "Un octobre gourmand"
+  },
+  {
+   "id": "p0885011f",
+   "nom": "3 MINI PIZZAS JAMBON FROMAGE SURGELÉES — CÔTÉ SNACK",
+   "remise": "Avantage ticket E.Leclerc",
+   "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "surgeles",
    "magasins": [
@@ -1288,7 +1288,7 @@
   {
    "id": "p3dc3e482",
    "nom": "4 PANIERS FEUILLETÉS JAMBON FROMAGE SURGELÉS — CÔTÉ TABLE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,15 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1303,7 +1303,7 @@
   {
    "id": "p447e73e8",
    "nom": "6 Cônes glacés Chocolat Intense — EXTRÊME",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,29 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1318,7 +1318,7 @@
   {
    "id": "pbc592498",
    "nom": "CORDONS BLEUS DE POULET SURGELÉS — CÔTÉ CROC",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,49 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1333,7 +1333,7 @@
   {
    "id": "p5d540088",
    "nom": "HACHÉ MŒLLEUX SURGELÉ — FÉRIAL",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,69 €",
    "prix_avant": "",
    "categorie": "surgeles",
@@ -1346,9 +1346,24 @@
    "catalogue": "Un octobre gourmand"
   },
   {
+   "id": "p99778de8",
+   "nom": "Pizza crousti fine 4 fromages Au feu de bois surgelée — MARIE",
+   "remise": "-34 %",
+   "prix": "1,89 €",
+   "prix_avant": "2,86 €",
+   "categorie": "surgeles",
+   "magasins": [
+    "bapeaume",
+    "houlme"
+   ],
+   "du": "2026-09-29",
+   "au": "2026-10-10",
+   "catalogue": "Un octobre gourmand"
+  },
+  {
    "id": "p2842363b",
    "nom": "ALSACE AOP GEWURZTRAMINER — CÉCILE DIEBLOT - VIEILLES VIGNES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1363,7 +1378,7 @@
   {
    "id": "pfe3fc439",
    "nom": "ALSACE AOP GEWURZTRAMINER — VENDANGES TARDIVES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1378,7 +1393,7 @@
   {
    "id": "p97d0d24f",
    "nom": "ALSACE AOP PINOT NOIR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1393,7 +1408,7 @@
   {
    "id": "p2965e631",
    "nom": "ALSACE GRAND CRU MAMBOURG AOP PINOT GRIS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1408,7 +1423,7 @@
   {
    "id": "p892dcf14",
    "nom": "ALSACE GRAND CRU MANDELBERG AOP GEWURZTRAMINER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1423,7 +1438,7 @@
   {
    "id": "p2ff58ad4",
    "nom": "ANJOU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,35 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1438,7 +1453,7 @@
   {
    "id": "pffb1bdad",
    "nom": "ANJOU AOP — LES RHYOLITES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1453,7 +1468,7 @@
   {
    "id": "p2e6c4d86",
    "nom": "ANJOU BRISSAC AOP — LA CHEVALERIE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1468,7 +1483,7 @@
   {
    "id": "p28c52362",
    "nom": "AOC CÔTES DU RHÔNE VIN ROUGE — LES COMBES DE SAINT SAUVEUR",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "9,21 €",
    "prix_avant": "13,95 €",
    "categorie": "boissons",
@@ -1483,7 +1498,7 @@
   {
    "id": "p922d1fd6",
    "nom": "AOP ALOXE CORTON ROUGE - ROUGEOT DUPIN 2023 — MARC ROUGEOT DUPIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1498,7 +1513,7 @@
   {
    "id": "pfec22a33",
    "nom": "AOP ALSACE EDELZWICKER BLANC SEC - ALBERT SCHOECH — INSPIRATION TERROIRS ALBERT SCHOECH",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1513,7 +1528,7 @@
   {
    "id": "p72375f99",
    "nom": "AOP ALSACE GEWURZTRAMINER BLANC MOELLEUX - ANNE-LAURE LITZ 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1528,7 +1543,7 @@
   {
    "id": "p94bcd9d0",
    "nom": "AOP ALSACE GEWURZTRAMINER DEMI-SEC - KLIPFEL \"RÉSERVE DES REMPARTS\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1543,7 +1558,7 @@
   {
    "id": "p1be62d9d",
    "nom": "AOP ALSACE GEWURZTRAMINER SÉLECTION DE GRAINS NOBLES BLANC MOELLEUX BIO - DOMAINE F. ENGEL \"TERRE ET PASSION\" 2023 — DOMAINE ENGEL",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1558,7 +1573,7 @@
   {
    "id": "pe54ad128",
    "nom": "AOP ALSACE GRAND CRU BRAND RIESLING BLANC SEC - CAVE DE TURCKHEIM 2023 — CAVE DE TURCKHEIM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1573,7 +1588,7 @@
   {
    "id": "p13ffa971",
    "nom": "AOP ALSACE GRAND CRU MAMBOURG GEWURZTRAMINER BLANC MOELLEUX - BESTHEIM 2023 — BESTHEIM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1588,7 +1603,7 @@
   {
    "id": "pd15c3ba4",
    "nom": "AOP ALSACE GRAND CRU SONNENGLANZ GEWURZTRAMINER BLANC MOELLEUX - CAVE DE BEBLENHEIM 2024 — CAVE DE BEBLENHEIM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1603,7 +1618,7 @@
   {
    "id": "pb4ad6007",
    "nom": "AOP ALSACE GRAND CRU SONNENGLANZ PINOT GRIS BLANC MOELLEUX - CAVE DE BEBLENHEIM 2024 — CAVE DE BEBLENHEIM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1618,7 +1633,7 @@
   {
    "id": "p660fbe90",
    "nom": "AOP ALSACE MUSCAT BLANC MOELLEUX - HENRI EHRHART 9% 2025 — HENRI EHRHART",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1633,7 +1648,7 @@
   {
    "id": "p59babe04",
    "nom": "AOP ALSACE PINOT BLANC BLANC SEC - ANNE-LAURE LITZ 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1648,7 +1663,7 @@
   {
    "id": "pc9335c93",
    "nom": "AOP ALSACE PINOT GRIS BLANC SEC BIO - LOUIS HAULLER \"VIEILLES VIGNES\" 2025 — FAMILLE HAULLER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1663,7 +1678,7 @@
   {
    "id": "pbee20af1",
    "nom": "AOP ALSACE PINOT NOIR ROUGE - GEORGES SCHERB 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1678,7 +1693,7 @@
   {
    "id": "p145f6993",
    "nom": "AOP ALSACE RIESLING BLANC SEC - \"HORSTADEN\" 2025 — HORSTADEN",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1693,7 +1708,7 @@
   {
    "id": "pfe65a053",
    "nom": "AOP ALSACE RIESLING BLANC SEC - DOMAINE THIRION ET FILS \"TERROIR DU HAUT KOENIGSBOURG\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1708,7 +1723,7 @@
   {
    "id": "p118ea70f",
    "nom": "AOP ALSACE SYLVANER BLANC SEC - CAVE DE BEBLENHEIM \"VIEILLES VIGNES\" 2025 — CAVE DE BEBLENHEIM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1723,7 +1738,7 @@
   {
    "id": "p3db3b312",
    "nom": "AOP ANJOU BLANC SEC - LES DEUX VALLÉES \"CHENIN\" 2025 — LES DEUX VALLEES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1738,7 +1753,7 @@
   {
    "id": "pf6e81b0e",
    "nom": "AOP ANJOU BLANC SEC BIO - CHÂTEAU DE FESLES 2024 — CHATEAU DE FESLES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1753,7 +1768,7 @@
   {
    "id": "pb28bc7a2",
    "nom": "AOP BANYULS ROUGE - \"RIMAGE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1768,7 +1783,7 @@
   {
    "id": "paf402f25",
    "nom": "AOP BEAUJOLAIS BLANC SEC - GRANITIS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1783,7 +1798,7 @@
   {
    "id": "p105a5205",
    "nom": "AOP BEAUJOLAIS ROUGE - CHÂTEAU DE CHANZÉ \"PIERRES DORÉES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1798,7 +1813,7 @@
   {
    "id": "pe724a711",
    "nom": "AOP BEAUMES DE VENISE ROUGE - ROMAIN DUVERNAY 2025 — ROMAIN DUVERNAY",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1813,7 +1828,7 @@
   {
    "id": "p524d21bd",
    "nom": "AOP BEAUNE 1ER CRU ROUGE - DOMAINE RENÉ MONNIER \"LES CENT-VIGNES\" 2023 — DOMAINE RENE MONNIER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "36,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1828,7 +1843,7 @@
   {
    "id": "p4f12b712",
    "nom": "AOP BERGERAC ROUGE - MONSIEUR DE CYRANO 2025 — MONSIEUR DE CYRANO",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "3,27 €",
    "prix_avant": "4,95 €",
    "categorie": "boissons",
@@ -1843,7 +1858,7 @@
   {
    "id": "pbd82a75c",
    "nom": "AOP BLAYE CÔTES DE BORDEAUX BLANC SEC - CHÂTEAU LACAUSSADE SAINT-MARTIN \"TROIS MOULINS\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1858,7 +1873,7 @@
   {
    "id": "p1b6f5cc6",
    "nom": "AOP BLAYE CÔTES DE BORDEAUX ROUGE - CHÂTEAU GRAULET 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1873,7 +1888,7 @@
   {
    "id": "p7113daf8",
    "nom": "AOP BLAYE CÔTES DE BORDEAUX ROUGE - CHÂTEAU PETIT BOYER \"LA PASSION\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1888,7 +1903,7 @@
   {
    "id": "p9fff92a1",
    "nom": "AOP BLAYE CÔTES DE BORDEAUX ROUGE - CHÂTEAU PIRON LA ROMAINE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1903,7 +1918,7 @@
   {
    "id": "p7075bf7e",
    "nom": "AOP BORDEAUX CABERNET FRANC ROUGE - MATHIAS ICARD \"COURANT LIBRE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1918,7 +1933,7 @@
   {
    "id": "pb804ca1b",
    "nom": "AOP BORDEAUX ROUGE - CHÂTEAU DES TROIS TOURS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1933,7 +1948,7 @@
   {
    "id": "p69345740",
    "nom": "AOP BORDEAUX ROUGE - CHÂTEAU TOUR LA VÉRITÉ 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1948,7 +1963,7 @@
   {
    "id": "pede7fe74",
    "nom": "AOP BORDEAUX ROUGE - DIVINUS CHÂTEAU DE BONNET 2022",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1963,7 +1978,7 @@
   {
    "id": "p6aef91d8",
    "nom": "AOP BORDEAUX SAUVIGNON BLANC SEC - MATHIAS ICARD \"COURANT LIBRE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1978,7 +1993,7 @@
   {
    "id": "pe65aad94",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU ARNAUD 2025 — CHATEAU ARNAUD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -1993,7 +2008,7 @@
   {
    "id": "paddec40b",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU DE REIGNAC 2024 — CHATEAU DE REIGNAC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2008,7 +2023,7 @@
   {
    "id": "p51623795",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU LABATUT \"GRANDE RÉSERVE\" 2022 — CHATEAU LABATUT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2023,7 +2038,7 @@
   {
    "id": "pb43480ef",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU LANSADE \"EXCELLENCE\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2038,7 +2053,7 @@
   {
    "id": "p0be2a4f8",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU REIGNAC DE TIZAC 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2053,7 +2068,7 @@
   {
    "id": "p0200befa",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU ROQUES MAURIAC \"CUVÉE HÉLÈNE\" 2024 — CHATEAU ROQUES MAURIAC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2068,7 +2083,7 @@
   {
    "id": "p436ccdcc",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - CHÂTEAU VERMONT RÉSERVE 2025 — CHATEAU VERMONT",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2083,7 +2098,7 @@
   {
    "id": "p39cd2d81",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - GRAND VIN DE REIGNAC 2020 — GRAND VIN DE REIGNAC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "39,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2098,7 +2113,7 @@
   {
    "id": "pc8ffd820",
    "nom": "AOP BORDEAUX SUPÉRIEUR ROUGE - GRAND VIN DE REIGNAC 2024 — GRAND VIN DE REIGNAC",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "17,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2113,7 +2128,7 @@
   {
    "id": "pdf8b6c74",
    "nom": "AOP BOURGOGNE ALIGOTÉ BLANC SEC - SANGOUARD-CHÉNÉ \"COEUR DE FAMILLE\" 2025 — SANGOUARD-CHENE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2128,7 +2143,7 @@
   {
    "id": "p4f419287",
    "nom": "AOP BOURGOGNE CHARDONNAY BLANC SEC - L'AURORE 2025 — L'AURORE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2143,7 +2158,7 @@
   {
    "id": "p624432ae",
    "nom": "AOP BOURGOGNE CHARDONNAY BLANC SEC BIO - KUNDRAT ET FILS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2158,7 +2173,7 @@
   {
    "id": "p387449cb",
    "nom": "AOP BOURGOGNE CÔTE CHALONNAISE BLANC SEC - LA BURGONDIE 2025 — LA BURGONDIE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2173,7 +2188,7 @@
   {
    "id": "pa82cdf92",
    "nom": "AOP BOURGOGNE CÔTE CHALONNAISE ROUGE - CHÂTEAU DU CRAY 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2188,7 +2203,7 @@
   {
    "id": "p934845e4",
    "nom": "AOP BOURGOGNE HAUTES CÔTES DE BEAUNE BLANC SEC - CLOSERIE DES POINTEAUX \"LES SAVINES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2203,7 +2218,7 @@
   {
    "id": "pa66de72a",
    "nom": "AOP BOURGOGNE HAUTES CÔTES DE BEAUNE ROUGE - AURÈLE LEDUC 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2218,7 +2233,7 @@
   {
    "id": "p0434b95e",
    "nom": "AOP BOURGOGNE HAUTES CÔTES DE NUITS ROUGE - CLOSERIE DES POINTEAUX 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2233,7 +2248,7 @@
   {
    "id": "p33c269f8",
    "nom": "AOP BOURGOGNE PINOT NOIR ROUGE - MAISON PETITCLOT \"GOURBEIL\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2248,7 +2263,7 @@
   {
    "id": "p6f0c6e96",
    "nom": "AOP BOURGUEIL ROUGE - DOMAINE CHRISTOPHE ET PHILIPPE PITAULT - LES TERRASSES \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2263,7 +2278,7 @@
   {
    "id": "pa121d566",
    "nom": "AOP BOURGUEIL ROUGE BIO - DOMAINE CASLOT PONTONNIER \"LES COTEAUX\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2278,7 +2293,7 @@
   {
    "id": "p10a8a152",
    "nom": "AOP BOURGUEIL ROUGE BIO - FAMILLE AMIRAULT GROSBOIS \"LA BUTTE AUX ÂNES\" 2025",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2293,7 +2308,7 @@
   {
    "id": "p1a23d930",
    "nom": "AOP BROUILLY ROUGE - GRANIT ROSE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2308,7 +2323,7 @@
   {
    "id": "p0b645f65",
    "nom": "AOP BUZET ROUGE - BOUQUET D'ARÔMES 2025",
-   "remise": "BRII %",
+   "remise": "-25 %",
    "prix": "3,71 €",
    "prix_avant": "4,95 €",
    "categorie": "boissons",
@@ -2323,7 +2338,7 @@
   {
    "id": "p8dc8fc65",
    "nom": "AOP CABARDÈS ROUGE - CHÂTEAU AUZIAS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2338,7 +2353,7 @@
   {
    "id": "pddf55964",
    "nom": "AOP CABERNET D'ANJOU ROSÉ - LES 3 TERROIRS - \"Granite, Schiste & Sable\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2353,7 +2368,7 @@
   {
    "id": "pdca581ee",
    "nom": "AOP CAHORS ROUGE - ARBORESCENCE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2368,7 +2383,7 @@
   {
    "id": "p7b3b7e6c",
    "nom": "AOP CAHORS ROUGE - LA PART DES BICHES 2024 — CLOS TRIGUEDINA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2383,7 +2398,7 @@
   {
    "id": "pfdcf8d9a",
    "nom": "AOP CAIRANNE ROUGE - LE VERDIER J. BOULARD 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2398,7 +2413,7 @@
   {
    "id": "pe1e8f25b",
    "nom": "AOP CAIRANNE ROUGE BIO - VIGNOBLES ANDRÉ FARJON 2025 — VIGNOBLES ANDRE FARJON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2413,7 +2428,7 @@
   {
    "id": "p46859fd9",
    "nom": "AOP CASTILLON CÔTES DE BORDEAUX ROUGE - CHÂTEAU ROC DE MONTPEZAT 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2428,7 +2443,7 @@
   {
    "id": "p7ab9e076",
    "nom": "AOP CHABLIS 1ER CRU BLANC SEC - DOMAINE VOCORET \"RÉSERVE DE FAMILLE\" 2025 — CHABLIS 1ER CRU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "20,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2443,7 +2458,7 @@
   {
    "id": "p76b0f3c3",
    "nom": "AOP CHABLIS BLANC SEC - UNION DES VITICULTEURS DE CHABLIS \"GRANDE CUVÉE\" 2025 — UVC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2458,7 +2473,7 @@
   {
    "id": "p1f379979",
    "nom": "AOP CHAMPAGNE BLANC DE BLANCS - GH MARTEL — MARTEL & CIE",
-   "remise": "BRII %",
+   "remise": "-15 %",
    "prix": "22,01 €",
    "prix_avant": "25,90 €",
    "categorie": "boissons",
@@ -2473,7 +2488,7 @@
   {
    "id": "p96682d7b",
    "nom": "AOP CHAMPAGNE BLANC DE NOIRS - MONTAUDON — MONTAUDON",
-   "remise": "BRII EURO",
+   "remise": "-20 %",
    "prix": "19,90 €",
    "prix_avant": "24,90 €",
    "categorie": "boissons",
@@ -2488,7 +2503,7 @@
   {
    "id": "p5621130b",
    "nom": "AOP CHAMPAGNE BRUT - GASTON DERICBOURG \"PREMIER CRU\" — GASTON DERICBOURG",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2503,7 +2518,7 @@
   {
    "id": "p874131f2",
    "nom": "AOP CHAMPAGNE BRUT - LAURENT-PERRIER — LAURENT PERRIER",
-   "remise": "BRII EURO",
+   "remise": "-5 %",
    "prix": "36,60 €",
    "prix_avant": "38,60 €",
    "categorie": "boissons",
@@ -2518,7 +2533,7 @@
   {
    "id": "pab3180eb",
    "nom": "AOP CHAMPAGNE BRUT - LÉON LAUNOIS \"CUVÉE RÉSERVÉE\"",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2533,7 +2548,7 @@
   {
    "id": "pa759a11f",
    "nom": "AOP CHAMPAGNE BRUT - MARQUIS DE VAUZELLE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2548,7 +2563,7 @@
   {
    "id": "p2edf2d60",
    "nom": "AOP CHAMPAGNE BRUT - MOËT & CHANDON \"IMPÉRIAL\" — MOËT ET CHANDON",
-   "remise": "BRII EURO",
+   "remise": "-10 %",
    "prix": "34,60 €",
    "prix_avant": "38,60 €",
    "categorie": "boissons",
@@ -2563,7 +2578,7 @@
   {
    "id": "pdbbf8042",
    "nom": "AOP CHAMPAGNE BRUT - MUMM CORDON ROUGE 2019 — G.H.MUMM",
-   "remise": "BRII EURO",
+   "remise": "-8 %",
    "prix": "34,90 €",
    "prix_avant": "37,90 €",
    "categorie": "boissons",
@@ -2578,7 +2593,7 @@
   {
    "id": "p8c89c8db",
    "nom": "AOP CHAMPAGNE BRUT - MUMM CORDON ROUGE — G.H.MUMM",
-   "remise": "BRII EURO",
+   "remise": "-3 %",
    "prix": "27,90 €",
    "prix_avant": "28,90 €",
    "categorie": "boissons",
@@ -2593,7 +2608,7 @@
   {
    "id": "pd1377d96",
    "nom": "AOP CHAMPAGNE BRUT - STANISLAS BONAFÉ \"CUVÉE SB\"",
-   "remise": "BRII %",
+   "remise": "-10 %",
    "prix": "17,91 €",
    "prix_avant": "19,90 €",
    "categorie": "boissons",
@@ -2608,7 +2623,7 @@
   {
    "id": "p132ab7f1",
    "nom": "AOP CHAMPAGNE BRUT - VEUVE CLICQUOT \"CARTE JAUNE\" — VEUVE CLIQUOT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "42,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2623,7 +2638,7 @@
   {
    "id": "p7599c84f",
    "nom": "AOP CHAMPAGNE BRUT - VRANKEN FONDATEUR — VRANKEN",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "17,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2638,7 +2653,7 @@
   {
    "id": "p1ae88194",
    "nom": "AOP CHAMPAGNE BRUT CUVÉE DE LA REINE — MARIE STUART",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2653,7 +2668,7 @@
   {
    "id": "p2465e6aa",
    "nom": "AOP CHEVERNY BLANC SEC - LA CLOSERIE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2668,7 +2683,7 @@
   {
    "id": "p144ea6e0",
    "nom": "AOP CHINON ROUGE - DOMAINE DE LA MORANDIÈRE \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2683,7 +2698,7 @@
   {
    "id": "p25d51de0",
    "nom": "AOP CHINON ROUGE - LES TRIBORDAIS DE LOIRE 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2698,7 +2713,7 @@
   {
    "id": "p977c4811",
    "nom": "AOP CHIROUBLES ROUGE - \"SÉLECTION PARCELLAIRE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2713,7 +2728,7 @@
   {
    "id": "p1feaf25b",
    "nom": "AOP CHÂTEAU CHALON BLANC SEC - MARCEL CABELIER - VIN JAUNE DE GRANDE GARDE 2018 — MARCEL CABELIER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2728,7 +2743,7 @@
   {
    "id": "p38198179",
    "nom": "AOP CHÂTEAUNEUF-DU-PAPE BLANC SEC - CHEMIN DU NONCE 2025 — LE CHERCHE MIDI",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2743,7 +2758,7 @@
   {
    "id": "p66ba244e",
    "nom": "AOP CHÂTEAUNEUF-DU-PAPE ROUGE - CHEMIN DU NONCE 2025 — LE CHERCHE MIDI",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,35 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2758,7 +2773,7 @@
   {
    "id": "pe6ff6db9",
    "nom": "AOP CHÂTEAUNEUF-DU-PAPE ROUGE - LE GRAND PRÈBOIS 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "23,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2773,7 +2788,7 @@
   {
    "id": "p0e982e87",
    "nom": "AOP CLAIRETTE DE DIE DOUX - DOMAINE FONTAINE MILHOMMES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2788,7 +2803,7 @@
   {
    "id": "pa87f2943",
    "nom": "AOP CLAIRETTE DE DIE DOUX - TRADITION GRANDE RÉSERVE — JAILLANCE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2803,7 +2818,7 @@
   {
    "id": "pa06dbf94",
    "nom": "AOP COLLIOURE ROUGE BIO - LES CLOS DE PAULILLES \"JULES PAMS\" 2024 — CAZES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2818,7 +2833,7 @@
   {
    "id": "p45ba60df",
    "nom": "AOP CONDRIEU BLANC SEC - VIGNOBLE OLIVIER DECELLE \"LES CHAILLÉES\" 2023 — VIGNOBLES OLIVIER DECELLE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2833,7 +2848,7 @@
   {
    "id": "pbc75c094",
    "nom": "AOP CORBIÈRES ROUGE - ABEILLES DE FONTENELLES 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2848,7 +2863,7 @@
   {
    "id": "pd2001589",
    "nom": "AOP CORBIÈRES ROUGE - CHÂTEAU LA VOULTE-GASPARETS \"CUVÉE RÉSERVÉE\" 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,35 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2863,7 +2878,7 @@
   {
    "id": "p7859c499",
    "nom": "AOP CORBIÈRES ROUGE - LA ROUGEANTE 2025 — LA ROUGEANTE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2878,7 +2893,7 @@
   {
    "id": "pe1339475",
    "nom": "AOP CORBIÈRES ROUGE - LES HAUTS DE CASTELMAURE 2024 — CASTELMAURE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "13,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2893,7 +2908,7 @@
   {
    "id": "p3af7e220",
    "nom": "AOP CORBIÈRES-BOUTENAC ROUGE - ÊTRE ET RENAÎTRE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2908,7 +2923,7 @@
   {
    "id": "p9a89c388",
    "nom": "AOP CORNAS ROUGE - DOMAINE VINCENT PARIS \"GRANIT'30\" 2024 — VINCENT PARIS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2923,7 +2938,7 @@
   {
    "id": "pc552f1ff",
    "nom": "AOP CORSE ROSÉ - MILELLI PRESTIGE 2025 — CHEVRON VILLETTE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2938,7 +2953,7 @@
   {
    "id": "p9b9691d6",
    "nom": "AOP COSTIÈRES DE NÎMES ROUGE - M. CHAPOUTIER 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2953,7 +2968,7 @@
   {
    "id": "pa6abc2f6",
    "nom": "AOP COTEAUX BOURGUIGNONS BLANC SEC - JEAN MARC AUJOUX 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2968,7 +2983,7 @@
   {
    "id": "p84cd6574",
    "nom": "AOP COTEAUX BOURGUIGNONS ROUGE - MOILLARD \"LES PIERRES PLATES\" 2025 — MOILLARD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2983,7 +2998,7 @@
   {
    "id": "pfb317819",
    "nom": "AOP COTEAUX D'ANCENIS BLANC MOELLEUX - DOMAINE DU BUISSON \"MALVOISIE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -2998,7 +3013,7 @@
   {
    "id": "pbe92833b",
    "nom": "AOP COTEAUX DE L'AUBANCE BLANC MOELLEUX - DUMNACUS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3013,7 +3028,7 @@
   {
    "id": "p9b266468",
    "nom": "AOP COTEAUX DU LAYON BLANC MOELLEUX - DOMAINE DES DEUX VALLÉES \"LES JUSTICES\" 2025 — DOMAINE DES DEUX VALLEES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3028,7 +3043,7 @@
   {
    "id": "pd75c18c1",
    "nom": "AOP CROZES-HERMITAGE BLANC SEC - LES HAUTS DE PAVIÈRES 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3043,7 +3058,7 @@
   {
    "id": "p4b060140",
    "nom": "AOP CROZES-HERMITAGE ROUGE - LAURENT BROTTE 2024 — LAURENT BROTTE",
-   "remise": "BRII EURO",
+   "remise": "-15 %",
    "prix": "11,75 €",
    "prix_avant": "13,75 €",
    "categorie": "boissons",
@@ -3058,7 +3073,7 @@
   {
    "id": "p4a28c86a",
    "nom": "AOP CROZES-HERMITAGE ROUGE - PERLE DE SCHISTES 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3073,7 +3088,7 @@
   {
    "id": "pf6d75deb",
    "nom": "AOP CROZES-HERMITAGE ROUGE BIO - M.CHAPOUTIER 2024 — M CHAPOUTIER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3088,7 +3103,7 @@
   {
    "id": "p5a1fb0c7",
    "nom": "AOP CRÉMANT D'ALSACE BRUT - HENRI EHRHART 2024 — HENRI EHRHART",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3103,7 +3118,7 @@
   {
    "id": "p6e075e96",
    "nom": "AOP CRÉMANT D'ALSACE BRUT - WOLFBERGER — WOLFBERGER",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3118,7 +3133,7 @@
   {
    "id": "p2aac356b",
    "nom": "AOP CRÉMANT DE BORDEAUX BLANC DE NOIRS - BALLARIN \"BLACK PEARL\"",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "5,60 €",
    "prix_avant": "8,49 €",
    "categorie": "boissons",
@@ -3133,7 +3148,7 @@
   {
    "id": "p637e891d",
    "nom": "AOP CRÉMANT DE BORDEAUX BRUT - CHÂTEAU PUY CASTÉRA — L'OCTAVE DU CHATEAU PUY CASTERA",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "4,86 €",
    "prix_avant": "6,95 €",
    "categorie": "boissons",
@@ -3148,7 +3163,7 @@
   {
    "id": "pf1be2f32",
    "nom": "AOP CRÉMANT DE BOURGOGNE BLANC DE BLANCS - VEUVE AMBAL \"MILLÉSIMÉ\" 2023 — VEUVE AMBAL",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "8,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3163,7 +3178,7 @@
   {
    "id": "pf577a36e",
    "nom": "AOP CRÉMANT DE BOURGOGNE BRUT - L'AURORE — L'AURORE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3178,7 +3193,7 @@
   {
    "id": "p1c67a602",
    "nom": "AOP CRÉMANT DE BOURGOGNE BRUT — MOILLARD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3193,7 +3208,7 @@
   {
    "id": "p031f15ec",
    "nom": "AOP CRÉMANT DE LIMOUX BRUT - AGUILA — AGUILA",
-   "remise": "BRII %",
+   "remise": "-25 %",
    "prix": "4,84 €",
    "prix_avant": "6,45 €",
    "categorie": "boissons",
@@ -3208,7 +3223,7 @@
   {
    "id": "p2323f717",
    "nom": "AOP CRÉMANT DE LOIRE BRUT - CHÂTEAU LA VARIÈRE — CHATEAU LA VARIERE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3223,7 +3238,7 @@
   {
    "id": "pec52b24c",
    "nom": "AOP CRÉMANT DE LOIRE BRUT - LACHETEAU — LACHETEAU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3238,7 +3253,7 @@
   {
    "id": "p3f167b0e",
    "nom": "AOP CRÉMANT DE LOIRE BRUT — LACHETEAU",
-   "remise": "BRII %",
+   "remise": "Remise immédiate",
    "prix": "0,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3253,7 +3268,7 @@
   {
    "id": "p3557affe",
    "nom": "AOP CÔTE DE BEAUNE-VILLAGES ROUGE - JEAN BOUCHARD 2023 — BOUCHARD AÎNÉ & FILS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "17,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3268,7 +3283,7 @@
   {
    "id": "pa3aa744c",
    "nom": "AOP CÔTE DE BROUILLY ROUGE - SEBASTIEN CONDEMINE VIGNERON 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3283,7 +3298,7 @@
   {
    "id": "p301801cb",
    "nom": "AOP CÔTE DE NUITS-VILLAGES ROUGE - PATRICK HUDELOT 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3298,7 +3313,7 @@
   {
    "id": "p5e3a7d3c",
    "nom": "AOP CÔTE RÔTIE ROUGE - ALBERT VANEL 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "39,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3313,7 +3328,7 @@
   {
    "id": "pbe43cb5d",
    "nom": "AOP CÔTE-RÔTIE ROUGE - CHEVALIER CHASTELLON 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "38,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3328,7 +3343,7 @@
   {
    "id": "p5f059801",
    "nom": "AOP CÔTES DE BERGERAC BLANC MOELLEUX - LES RAISINS OUBLIÉS 2025 — LES RAISINS OUBLIES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3343,7 +3358,7 @@
   {
    "id": "p8852ddf0",
    "nom": "AOP CÔTES DE BOURG ROUGE - CHÂTEAU DU BOUSQUET 2023 — CHATEAUX ET DOMAINES CASTEL",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3358,7 +3373,7 @@
   {
    "id": "pc5617e1c",
    "nom": "AOP CÔTES DE BOURG ROUGE - CHÂTEAU LA CROIX DE PUYBARBE 2025 — CHATEAU LA CROIX DE PUYBARBE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3373,7 +3388,7 @@
   {
    "id": "pac02f8a5",
    "nom": "AOP CÔTES DE PROVENCE BLANC SEC - VILLA LOUISE \"CUVÉE SALINE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3388,7 +3403,7 @@
   {
    "id": "p38dee1ac",
    "nom": "AOP CÔTES DE PROVENCE BLANC SEC BIO - FAUVETTE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3403,7 +3418,7 @@
   {
    "id": "pd6ab75ea",
    "nom": "AOP CÔTES DE PROVENCE ROSÉ - CHÂTEAU REILLANNE \"GRANDE RÉSERVE\" 2025 — CHATEAU REILLANNE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3418,7 +3433,7 @@
   {
    "id": "p9961f54a",
    "nom": "AOP CÔTES DE PROVENCE ROSÉ - VILLA LOUISE \"CUVÉE SALINE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3433,7 +3448,7 @@
   {
    "id": "p6eafd200",
    "nom": "AOP CÔTES DE PROVENCE ROSÉ BIO - FAUVETTE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3448,7 +3463,7 @@
   {
    "id": "p38aaf7d5",
    "nom": "AOP CÔTES DE PROVENCE ROSÉ BIO - PEYRASSOL \"LES COMMANDEURS\" 2025 — PEYRASSOL",
-   "remise": "BRII %",
+   "remise": "-20 %",
    "prix": "11,00 €",
    "prix_avant": "13,75 €",
    "categorie": "boissons",
@@ -3463,7 +3478,7 @@
   {
    "id": "p072c5b76",
    "nom": "AOP CÔTES DU MARMANDAIS ROUGE BIO - CHÂTEAU TERREBERT 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3478,7 +3493,7 @@
   {
    "id": "pc85a003b",
    "nom": "AOP CÔTES DU RHÔNE ROUGE - BRUNEL DE LA GARDINE 2024 — BRUNEL DE LA GARDINE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3493,7 +3508,7 @@
   {
    "id": "pe2656a34",
    "nom": "AOP CÔTES DU RHÔNE ROUGE - DOMAINE D'ARTIGNAN \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3508,7 +3523,7 @@
   {
    "id": "pc0382733",
    "nom": "AOP CÔTES DU RHÔNE ROUGE - FAMILLE ESPÉRANDIEU \"SECRET DE VIGNERON\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3523,7 +3538,7 @@
   {
    "id": "p8131438e",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES CHUSCLAN ROUGE - DOMAINE DE RABUSAS 2025 — DOMAINE DE RABUSAS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3538,7 +3553,7 @@
   {
    "id": "p243cfe20",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES PLAN DE DIEU ROUGE BIO - LA PETITE COUR 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3553,7 +3568,7 @@
   {
    "id": "pc022b53c",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES ROUGE - ANDRÉ BRUNEL \"CUVÉE ORION\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3568,7 +3583,7 @@
   {
    "id": "p935e3b49",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES ROUGE - DAVID GIVAUDAN \"LE LOUP\" 2025 — DAVID GIVAUDAN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3583,7 +3598,7 @@
   {
    "id": "pd78e8f65",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES SAINTE-CÉCILE ROUGE - CHÂTEAU DE RUTH \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3598,7 +3613,7 @@
   {
    "id": "p3abcb001",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES SÉGURET ROUGE - ROMAIN DUVERNAY 2025 — ROMAIN DUVERNAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3613,7 +3628,7 @@
   {
    "id": "pb717ae32",
    "nom": "AOP CÔTES DU RHÔNE VILLAGES VISAN ROUGE - FAMILLE MARC ROMAIN \"LES RAMIÈRES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3628,7 +3643,7 @@
   {
    "id": "p8cb5e0ea",
    "nom": "AOP CÔTES DU ROUSSILLON BLANC SEC - LES VIGNES DU VENT 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3643,7 +3658,7 @@
   {
    "id": "pbdc0b252",
    "nom": "AOP CÔTES DU ROUSSILLON ROSÉ - SAINT ROCH CORBAROL 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3658,7 +3673,7 @@
   {
    "id": "p579e0c21",
    "nom": "AOP CÔTES DU ROUSSILLON ROUGE - VIGNOBLES JONQUÈRES D'ORIOLA \"ALTITUDE\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3673,7 +3688,7 @@
   {
    "id": "p7e56c2c3",
    "nom": "AOP CÔTES DU ROUSSILLON ROUGE BIODYNAMIE - MAS AMIEL \"PUR SCHISTE\" 2025 — MAS AMIEL",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,35 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3688,7 +3703,7 @@
   {
    "id": "p90a0f71d",
    "nom": "AOP CÔTES DU ROUSSILLON VILLAGES ROUGE BIO - \"RACINE CARRÉE\" 2025 — LA RACINE CARREE ROUGE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3703,7 +3718,7 @@
   {
    "id": "p16e04331",
    "nom": "AOP CÔTES DU ROUSSILLON VILLAGES TAUTAVEL ROUGE \"SIGNATURE\" 2024",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3718,7 +3733,7 @@
   {
    "id": "p66754745",
    "nom": "AOP ENTRE-DEUX-MERS BLANC SEC - CHÂTEAU CAZALIS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3733,7 +3748,7 @@
   {
    "id": "p6d0ab234",
    "nom": "AOP ENTRE-DEUX-MERS BLANC SEC - CHÂTEAU HAUT BARAILLOT \"GRANDE CUVÉE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3748,7 +3763,7 @@
   {
    "id": "p7652a93f",
    "nom": "AOP ENTRE-DEUX-MERS BLANC SEC - CUVÉE HORTENSE 2025 — SANS MARQUE SP",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3763,7 +3778,7 @@
   {
    "id": "p4d7bf258",
    "nom": "AOP ENTRE-DEUX-MERS ROUGE - CHÂTEAU HAUT BARAILLOT \"GRANDE CUVÉE\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3778,7 +3793,7 @@
   {
    "id": "p40b7462b",
    "nom": "AOP FAUGÈRES ROUGE BIO - CHÂTEAU LES ESTANILLES \"LA CHAPELLE\" 2024 — CHATEAU ESTANILLES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3793,7 +3808,7 @@
   {
    "id": "pf940ff58",
    "nom": "AOP FAUGÈRES ROUGE BIO - DOMAINE LA TOUR PENEDESSES 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3808,7 +3823,7 @@
   {
    "id": "p466ae653",
    "nom": "AOP FITOU ROUGE - DOMAINE LANGOUSTET 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3823,7 +3838,7 @@
   {
    "id": "p30aedca1",
    "nom": "AOP FLEURIE ROUGE - GUILLAUME MANIN VIGNERON 2025 — GUILLAUME MANIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3838,7 +3853,7 @@
   {
    "id": "pca208781",
    "nom": "AOP FRANCS CÔTES DE BORDEAUX ROUGE - CHÂTEAU DE FRANCS \"LES CERISIERS\" 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3853,7 +3868,7 @@
   {
    "id": "p2854fff7",
    "nom": "AOP FRONSAC ROUGE - CHÂTEAU DE LA RIVIÈRE \"LE PRINCE\" 2024 — CHATEAU DE LA RIVIERE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3868,7 +3883,7 @@
   {
    "id": "p75d3b9f0",
    "nom": "AOP FRONSAC ROUGE - CHÂTEAU DE LA RIVIÈRE 2024 — CHATEAU DE LA RIVIERE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3883,7 +3898,7 @@
   {
    "id": "pdfb2ea63",
    "nom": "AOP FRONTON ROUGE - CHÂTEAU BELLEVUE LA FORÊT \"CAPRICE\" 2024 — DOMAINE BELLEVUE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3898,7 +3913,7 @@
   {
    "id": "pc6f30b9c",
    "nom": "AOP GAILLAC ROUGE - DOMAINE BARREAU \"CUVÉE FEUILLE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3913,7 +3928,7 @@
   {
    "id": "pa3a5181e",
    "nom": "AOP GEVREY CHAMBERTIN ROUGE - PATRICK HUDELOT \"LE CARRON\" 2025 — GEVREY-CHAMBERTIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3928,7 +3943,7 @@
   {
    "id": "p5ba46fcf",
    "nom": "AOP GIGONDAS ROUGE - DOMAINE LE PÉAGE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "13,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3943,7 +3958,7 @@
   {
    "id": "p62cf004a",
    "nom": "AOP GRAVES BLANC SEC - CHÂTEAU ANDRÉA \"CUVÉE LES COLLINES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3958,7 +3973,7 @@
   {
    "id": "p7c88697d",
    "nom": "AOP GRAVES BLANC SEC - CHÂTEAU DE CHANTEGRIVE \"CUVÉE CAROLINE\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3973,7 +3988,7 @@
   {
    "id": "p7b510c4b",
    "nom": "AOP GRAVES ROUGE - CHÂTEAU CLARE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -3988,7 +4003,7 @@
   {
    "id": "p8cdf51c9",
    "nom": "AOP GRAVES ROUGE - CHÂTEAU MESTRE RENAUD 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4003,7 +4018,7 @@
   {
    "id": "p7f80462b",
    "nom": "AOP GRAVES ROUGE - CHÂTEAU PERRON 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4018,7 +4033,7 @@
   {
    "id": "p5dd569a8",
    "nom": "AOP GRAVES-DE-VAYRES BLANC SEC - CHÂTEAU CANTELAUDETTE - \"CUVÉE PRESTIGE\" 2025 — CHATEAU CANTELAUDETTE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4033,7 +4048,7 @@
   {
    "id": "pe81f0bfa",
    "nom": "AOP GRAVES-DE-VAYRES ROUGE - CHÂTEAU CANTELAUDETTE \"CUVÉE PRESTIGE\" 2024 — CHATEAU CANTELAUDETTE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4048,7 +4063,7 @@
   {
    "id": "p02446e6b",
    "nom": "AOP HAUT-MÉDOC 3ÈME GRAND CRU CLASSÉ ROUGE BIODYNAMIE - CHÂTEAU LA LAGUNE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "28,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4063,7 +4078,7 @@
   {
    "id": "pb75eeb3d",
    "nom": "AOP HAUT-MÉDOC 5ÈME GRAND CRU CLASSÉ ROUGE - CHÂTEAU BELGRAVE 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4078,7 +4093,7 @@
   {
    "id": "pa8548c88",
    "nom": "AOP HAUT-MÉDOC ROUGE - CHÂTEAU BREILLAN 2025 — CHATEAU BREILLAN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4093,7 +4108,7 @@
   {
    "id": "p9e552632",
    "nom": "AOP HAUT-MÉDOC ROUGE - CHÂTEAU PORTAL 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4108,7 +4123,7 @@
   {
    "id": "p7333c1d1",
    "nom": "AOP HAUT-MÉDOC ROUGE - CHÂTEAU SOCIANDO MALLET 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4123,7 +4138,7 @@
   {
    "id": "pc442dbae",
    "nom": "AOP HAUT-MÉDOC ROUGE BIO - CHÂTEAU BALAC 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4138,7 +4153,7 @@
   {
    "id": "pf05f1d2b",
    "nom": "AOP HAUT-MÉDOC ROUGE BIODYNAMIE - MOULIN DU CHÂTEAU LA LAGUNE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4153,7 +4168,7 @@
   {
    "id": "pfa06332f",
    "nom": "AOP JULIÉNAS ROUGE - ARNAUD AUCOEUR GRAND TERROIR \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4168,7 +4183,7 @@
   {
    "id": "pb175ef12",
    "nom": "AOP JURANÇON BLANC MOELLEUX - DOMAINE LAGUILHON 2024 — GRAIN D'AUTOMNE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4183,7 +4198,7 @@
   {
    "id": "p18474e9a",
    "nom": "AOP JURANÇON BLANC SEC - LIONEL OSMIN & CIE \"LES TERRASSES DE LAHITTE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4198,7 +4213,7 @@
   {
    "id": "p028a7e98",
    "nom": "AOP LA CLAPE BLANC SEC - AMBRINE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4213,7 +4228,7 @@
   {
    "id": "pe1da4f1d",
    "nom": "AOP LA CLAPE BLANC SEC BIODYNAMIE - CHÂTEAU L'HOSPITALET \"LA RÉSERVE\" 2025 — GERARD BERTRAND",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4228,7 +4243,7 @@
   {
    "id": "p285b37b2",
    "nom": "AOP LA CLAPE ROUGE BIO - MAS DE COURTAL 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4243,7 +4258,7 @@
   {
    "id": "pfd9c9b83",
    "nom": "AOP LA CLAPE ROUGE BIODYNAMIE - CHÂTEAU L'HOSPITALET \"LA RÉSERVE\" 2024 — GERARD BERTRAND",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4258,7 +4273,7 @@
   {
    "id": "p1049bf4f",
    "nom": "AOP LALANDE-DE-POMEROL ROUGE - CHÂTEAU CHAMPS DE LALANDE 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "9,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4273,7 +4288,7 @@
   {
    "id": "pbc95a08b",
    "nom": "AOP LALANDE-DE-POMEROL ROUGE - VIEUX DOMAINE BERTINEAU 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4288,7 +4303,7 @@
   {
    "id": "p61db6180",
    "nom": "AOP LANGUEDOC BLANC SEC - CHÂTEAU CAPITOUL \"GRAND TERROIR\" 2025 — CAPITOUL",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,55 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4303,7 +4318,7 @@
   {
    "id": "p20575354",
    "nom": "AOP LANGUEDOC BLANC SEC - CHÂTEAU LA NÉGLY \"L'ÉCUME\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4318,7 +4333,7 @@
   {
    "id": "p83726331",
    "nom": "AOP LANGUEDOC ROUGE - \"QUAND ON PARLE DU LOUP\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4333,7 +4348,7 @@
   {
    "id": "p30a0a828",
    "nom": "AOP LANGUEDOC ROUGE - LE DAHUT 2024 — LE DAHUT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4348,7 +4363,7 @@
   {
    "id": "p69400f63",
    "nom": "AOP LANGUEDOC ROUGE BIO - MAS FEUILLADE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4363,7 +4378,7 @@
   {
    "id": "p72846c96",
    "nom": "AOP LAUDUN BLANC SEC - CHÂTEAU COURAC \"ÉOLE\" 2024 — CHATEAU COURAC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,15 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4378,7 +4393,7 @@
   {
    "id": "p0ce86ab9",
    "nom": "AOP LAUDUN ROUGE - CHÂTEAU COURAC \"ÉOLE\" 2024 — CHATEAU COURAC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,15 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4393,7 +4408,7 @@
   {
    "id": "p43ec78b9",
    "nom": "AOP LIMOUX BLANC SEC - CHÂTEAU TERAMAS ASTRUC 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "8,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4408,7 +4423,7 @@
   {
    "id": "p538fc88c",
    "nom": "AOP LIRAC ROUGE - BRUNEL DE LA GARDINE 2024 — BRUNEL DE LA GARDINE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4423,7 +4438,7 @@
   {
    "id": "pa4fc756b",
    "nom": "AOP LISTRAC-MÉDOC ROUGE - CHÂTEAU LAGRAVE CISSAN \"CUVÉE OXYMORE\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4438,7 +4453,7 @@
   {
    "id": "pec1d8b04",
    "nom": "AOP LOUPIAC BLANC MOELLEUX - CHÂTEAU CORNÉLIEN 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4453,7 +4468,7 @@
   {
    "id": "p55105291",
    "nom": "AOP LUBERON ROUGE - DOMAINE D'AIGUES 2025 — DOMAINE D'AIGUES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4468,7 +4483,7 @@
   {
    "id": "p512068e7",
    "nom": "AOP LUSSAC SAINT-ÉMILION ROUGE - CHÂTEAU MARION D'AUDREN 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4483,7 +4498,7 @@
   {
    "id": "pb690fd52",
    "nom": "AOP MADIRAN ROUGE - APÉRO'NAUTES 2024",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4498,7 +4513,7 @@
   {
    "id": "p592e6f27",
    "nom": "AOP MARGAUX 4ÈME GRAND CRU CLASSÉ ROUGE - CHÂTEAU MARQUIS DE TERME 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4513,7 +4528,7 @@
   {
    "id": "pdf475829",
    "nom": "AOP MARGAUX CRU BOURGEOIS EXCEPTIONNEL ROUGE - CHÂTEAU D'ARSAC 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4528,7 +4543,7 @@
   {
    "id": "p3811c853",
    "nom": "AOP MARGAUX ROUGE - CHÂTEAU LA TOUR DE MONS 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4543,7 +4558,7 @@
   {
    "id": "p9511b968",
    "nom": "AOP MARGAUX ROUGE - L'ORANGERIE DU TERTRE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4558,7 +4573,7 @@
   {
    "id": "p6b55ff41",
    "nom": "AOP MARSANNAY BLANC SEC BIO - DOMAINE DU VIEUX COLLÈGE \"VIEILLES VIGNES\" 2024 — MARSANNAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "21,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4573,7 +4588,7 @@
   {
    "id": "p8ebcb2b1",
    "nom": "AOP MARSANNAY ROUGE BIO - DOMAINE DU VIEUX COLLÈGE \"LES CHAMPFLEURIS\" 2024 — MARSANNAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4588,7 +4603,7 @@
   {
    "id": "p97cedae7",
    "nom": "AOP MENETOU SALON BLANC SEC - SOPHIE ET ANTOINE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4603,7 +4618,7 @@
   {
    "id": "pbfdba7ac",
    "nom": "AOP MENETOU SALON ROUGE - SOPHIE ET ANTOINE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4618,7 +4633,7 @@
   {
    "id": "p3fbf90e7",
    "nom": "AOP MERCUREY BLANC SEC - JEAN BOUCHARD 2024 — BOUCHARD AÎNÉ & FILS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4633,7 +4648,7 @@
   {
    "id": "p4b9724ee",
    "nom": "AOP MERCUREY ROUGE - VICTOR BLACHET 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4648,7 +4663,7 @@
   {
    "id": "pe20f0dc7",
    "nom": "AOP MEURSAULT BLANC SEC - DOMAINE RENÉ MONNIER \"NOS VIEILLES VIGNES\" 2024 — DOMAINE RENE MONNIER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "39,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4663,7 +4678,7 @@
   {
    "id": "pdf11aa50",
    "nom": "AOP MINERVOIS LA LIVINIÈRE ROUGE - FAMILLE OURNAC 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4678,7 +4693,7 @@
   {
    "id": "pdd02be9f",
    "nom": "AOP MINERVOIS LA LIVINIÈRE ROUGE BIODYNAMIE - DOMAINE DES GARENNES 2024 — GERARD BERTRAND",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4693,7 +4708,7 @@
   {
    "id": "p906c2374",
    "nom": "AOP MINERVOIS ROUGE BIO - CHÂTEAU D'AGEL \"CUVÉE AGELLUM\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4708,7 +4723,7 @@
   {
    "id": "p9bbe1c73",
    "nom": "AOP MONBAZILLAC BLANC MOELLEUX - CHÂTEAU LE BOUSCAREL \"GRANDE RÉSERVE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4723,7 +4738,7 @@
   {
    "id": "p0ca7ff17",
    "nom": "AOP MONTAGNE SAINT-ÉMILION ROUGE - CHÂTEAU CHANTECLERC 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4738,7 +4753,7 @@
   {
    "id": "p3bff4348",
    "nom": "AOP MONTLOUIS-SUR-LOIRE BLANC SEC - MAISON LAUDACIUS \"CHENIN\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4753,7 +4768,7 @@
   {
    "id": "pd034885d",
    "nom": "AOP MONTLOUIS-SUR-LOIRE BRUT - CUVÉE DES ANGES \"MÉTHODE TRADITIONNELLE\"",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,79 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4768,7 +4783,7 @@
   {
    "id": "p9c2b1a75",
    "nom": "AOP MORGON ROUGE - \"SÉLECTION PARCELLAIRE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4783,7 +4798,7 @@
   {
    "id": "pc1ed618b",
    "nom": "AOP MORGON ROUGE - ARNAUD AUCOEUR \"VIEILLES VIGNES\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4798,7 +4813,7 @@
   {
    "id": "pc75515ca",
    "nom": "AOP MOSCATO D'ASTI BRUT - ABBAZIA \"IL PAPPAGALLO\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4813,7 +4828,7 @@
   {
    "id": "p749a8065",
    "nom": "AOP MOULIN-À-VENT ROUGE - DOMAINE DES CAVES \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,35 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4828,7 +4843,7 @@
   {
    "id": "pdddc2b5f",
    "nom": "AOP MOULIS ROUGE - CHÂTEAU MAUCAILLOU 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4843,7 +4858,7 @@
   {
    "id": "p625193f0",
    "nom": "AOP MOULIS ROUGE - LA CROIX MAZARIN 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4858,7 +4873,7 @@
   {
    "id": "pa6e42f70",
    "nom": "AOP MOULIS-EN-MÉDOC ROUGE - CHÂTEAU CHASSE-SPLEEN 2024 — CHATEAU CHASSE SPLEEN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4873,7 +4888,7 @@
   {
    "id": "pf00c9181",
    "nom": "AOP MOULIS-EN-MÉDOC ROUGE - CHÂTEAU POUJEAUX 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4888,7 +4903,7 @@
   {
    "id": "p51be3d71",
    "nom": "AOP MUSCADET SÈVRE & MAINE SUR LIE — LES CARACTÈRES",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,89 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4903,7 +4918,7 @@
   {
    "id": "p00100bf4",
    "nom": "AOP MUSCADET SÈVRE ET MAINE SUR LIE BLANC SEC - DOMAINE DES DEUX VALLONS \"TERRES BLANCHES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4918,7 +4933,7 @@
   {
    "id": "pb337f1ee",
    "nom": "AOP MUSCADET SÈVRE ET MAINE SUR LIE BLANC SEC - DOMAINE SALMON \"GRANDE RÉSERVE\" 2025 — DOMAINE SALMON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4933,7 +4948,7 @@
   {
    "id": "p2780e77f",
    "nom": "AOP MÂCON - LA ROCHE VINEUSE BLANC SEC - DOMAINE TERROIR DES FOSSILES 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4948,7 +4963,7 @@
   {
    "id": "pc9aefbb3",
    "nom": "AOP MÂCON PIERRECLOS ROUGE - DOMAINE LAPALUS MAURIS ET FILS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4963,7 +4978,7 @@
   {
    "id": "pf26d34e1",
    "nom": "AOP MÂCON VILLAGES BLANC SEC - LA BURGONDIE 2025 — LA BURGONDIE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4978,7 +4993,7 @@
   {
    "id": "p2124da93",
    "nom": "AOP MÂCON-IGÉ BLANC SEC - NAUDIN VARRAULT \"TERROIR D'EXCEPTION\" 2025 — NAUDIN VARRAULT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -4993,7 +5008,7 @@
   {
    "id": "pe3dfa4d8",
    "nom": "AOP MÂCON-VILLAGES CHARDONNAY BLANC SEC - SANGOUARD-CHÉNÉ \"ESPRIT DE FAMILLE\" 2025 — SANGOUARD-CHENE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5008,7 +5023,7 @@
   {
    "id": "p24d9d7ef",
    "nom": "AOP MÉDOC CRU BOURGEOIS ROUGE - CHÂTEAU TOUR PRIGNAC 2023 — CHATEAUX ET DOMAINES CASTEL",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5023,7 +5038,7 @@
   {
    "id": "p91823d9a",
    "nom": "AOP MÉDOC ROUGE - CHÂTEAU LES GRANDS CHÊNES 2023 — BERNARD MAGREZ",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "9,73 €",
    "prix_avant": "13,90 €",
    "categorie": "boissons",
@@ -5038,7 +5053,7 @@
   {
    "id": "p674c6bcb",
    "nom": "AOP NUITS-SAINT-GEORGES ROUGE - PATRICK HUDELOT \"GRAVELLES\" 2025 — SO SAND",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "28,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5053,7 +5068,7 @@
   {
    "id": "p55bcf091",
    "nom": "AOP PACHERENC DU VIC-BILH BLANC MOELLEUX - GRAINS DE ROY 2024 — GRAINS DE ROY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5068,7 +5083,7 @@
   {
    "id": "p804a1e37",
    "nom": "AOP PACHERENC DU VIC-BILH BLANC SEC - GRAINS DE ROY 2023 — GRAINS DE ROY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5083,7 +5098,7 @@
   {
    "id": "pd5f9d878",
    "nom": "AOP PAUILLAC ROUGE - DE BOURRAN 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5098,7 +5113,7 @@
   {
    "id": "p802f6313",
    "nom": "AOP PAUILLAC ROUGE - FLEUR DE PÉDESCLAUX 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5113,7 +5128,7 @@
   {
    "id": "p7be21f09",
    "nom": "AOP PESSAC LÉOGNAN GRAND CRU CLASSÉ DE GRAVES ROUGE - CHÂTEAU DE FIEUZAL 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5128,7 +5143,7 @@
   {
    "id": "pffceaa5f",
    "nom": "AOP PESSAC-LÉOGNAN BLANC SEC - CHÂTEAU DE CRUZEAU 2024 — CHATEAU DE CRUZEAU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5143,7 +5158,7 @@
   {
    "id": "p9aaac6a9",
    "nom": "AOP PESSAC-LÉOGNAN BLANC SEC - CHÂTEAU LA LOUVIÈRE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5158,7 +5173,7 @@
   {
    "id": "p2c35e5fa",
    "nom": "AOP PESSAC-LÉOGNAN BLANC SEC - L'ENCLOS DE CARBONNIEUX 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5173,7 +5188,7 @@
   {
    "id": "p1f979a67",
    "nom": "AOP PESSAC-LÉOGNAN BLANC SEC - LACROIX MARTILLAC 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5188,7 +5203,7 @@
   {
    "id": "pa7035e7f",
    "nom": "AOP PESSAC-LÉOGNAN GRAND CRU CLASSÉ DE GRAVES BLANC SEC - CHÂTEAU CARBONNIEUX 2024 — CHATEAU CARBONNIEUX",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "31,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5203,7 +5218,7 @@
   {
    "id": "pb69d9124",
    "nom": "AOP PESSAC-LÉOGNAN GRAND CRU CLASSÉ DE GRAVES ROUGE - CHÂTEAU CARBONNIEUX 2024 — CHATEAU CARBONNIEUX",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5218,7 +5233,7 @@
   {
    "id": "pe2ff2810",
    "nom": "AOP PESSAC-LÉOGNAN GRAND CRU CLASSÉ DE GRAVES ROUGE - CHÂTEAU OLIVIER 2020",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5233,7 +5248,7 @@
   {
    "id": "p10b06d48",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - CHÂTEAU DE CRUZEAU 2023 — CHATEAU DE CRUZEAU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5248,7 +5263,7 @@
   {
    "id": "p15d2167e",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - CHÂTEAU LA LOUVIÈRE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5263,7 +5278,7 @@
   {
    "id": "pced40d4b",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - L'ANGELOT DE SEGUIN 2024",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "13,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5278,7 +5293,7 @@
   {
    "id": "pfa2344dd",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - L'ENCLOS DE CARBONNIEUX 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5293,7 +5308,7 @@
   {
    "id": "p9aa6ff28",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - LACROIX MARTILLAC 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5308,7 +5323,7 @@
   {
    "id": "pdff18dc1",
    "nom": "AOP PESSAC-LÉOGNAN ROUGE - LES HAUTS DE LARRIVET HAUT BRION 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5323,7 +5338,7 @@
   {
    "id": "pe8e33f72",
    "nom": "AOP PETIT CHABLIS BLANC SEC - FAMILLE BROCARD \"LES MANANTS\" 2025 — FAMILLE BROCARD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5338,7 +5353,7 @@
   {
    "id": "pd10b4bfe",
    "nom": "AOP PIC SAINT-LOUP ROUGE - DOMAINE ROC DE BEAU-VOIR \"LA BONNE AMBIANCE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5353,7 +5368,7 @@
   {
    "id": "p2553444a",
    "nom": "AOP PIC SAINT-LOUP ROUGE BIO - DOMAINE HAUT MAGINIAI \"CLOS MAGINIAI\" 2025 — DOMAINE HAUT MAGINIAI",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5368,7 +5383,7 @@
   {
    "id": "p20e1f01f",
    "nom": "AOP POMEROL ROUGE - CHÂTEAU BEL-AIR 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5383,7 +5398,7 @@
   {
    "id": "pa3ebe80b",
    "nom": "AOP POMEROL ROUGE - CHÂTEAU TAILLEFER 2022",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5398,7 +5413,7 @@
   {
    "id": "p218a04ab",
    "nom": "AOP POMEROL ROUGE - CLOS RENÉ 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5413,7 +5428,7 @@
   {
    "id": "pf8e2311d",
    "nom": "AOP POMEROL ROUGE - LA CROIX DE CANTEREAU 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5428,7 +5443,7 @@
   {
    "id": "p20789582",
    "nom": "AOP POUILLY-FUISSÉ BLANC SEC - KUNDRAT ET FILS FAMILLE MARTIN 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "17,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5443,7 +5458,7 @@
   {
    "id": "pbd99f4ae",
    "nom": "AOP POUILLY-FUMÉ BLANC SEC - DOMAINE CHATELAIN \"HARMONIE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5458,7 +5473,7 @@
   {
    "id": "p95400ab7",
    "nom": "AOP POUILLY-FUMÉ BLANC SEC - JOSEPH BALLAND CHAPUIS \"TRADITION\" 2025 — SANS MARQUE SP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5473,7 +5488,7 @@
   {
    "id": "pcc692cba",
    "nom": "AOP PUISSEGUIN SAINT-ÉMILION ROUGE - CHÂTEAU ROC DE BÉCOT 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5488,7 +5503,7 @@
   {
    "id": "p5d215f24",
    "nom": "AOP PÉCHARMANT ROUGE - CHÂTEAU PEYRELEVADE 2024 — CHATEAU PEYRELEVADE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5503,7 +5518,7 @@
   {
    "id": "pd6373949",
    "nom": "AOP QUINCY BLANC SEC - DOMAINE DU PRESSOIR 2025 — QUINCY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5518,7 +5533,7 @@
   {
    "id": "p1b433a7a",
    "nom": "AOP RASTEAU ROUGE - ROMAIN DUVERNAY \"RD SELECT\" 2024 — RD SELECT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,35 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5533,7 +5548,7 @@
   {
    "id": "pb90d2654",
    "nom": "AOP REUILLY BLANC SEC - CHÂTEAU GAILLARD 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5548,7 +5563,7 @@
   {
    "id": "p990fc2b4",
    "nom": "AOP RIVESALTES AMBRÉ - LES VIGNES DU VENT 1969",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "42,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5563,7 +5578,7 @@
   {
    "id": "pe277499d",
    "nom": "AOP ROUSSETTE DE SAVOIE BLANC SEC - ALTESSE \"VIEILLES VIGNES\" 2025 — ALP'VIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5578,7 +5593,7 @@
   {
    "id": "p540eb6c1",
    "nom": "AOP RULLY BLANC SEC - DOMAINE VINCENT DAUX \"LES GAUDOIRS\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5593,7 +5608,7 @@
   {
    "id": "pbf3f1be5",
    "nom": "AOP RÉGNIÉ ROUGE - ÉTIENNE FOILLARD VIGNERON 2025 — ETIENNE FOILLARD",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5608,7 +5623,7 @@
   {
    "id": "pe81da555",
    "nom": "AOP SAINT-AMOUR ROUGE - DOMAINE DE LA PORTE DU PARADIS \"CŒUR DE PARADIS\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5623,7 +5638,7 @@
   {
    "id": "p860cd9bc",
    "nom": "AOP SAINT-BRIS BLANC SEC - VICTOR BLACHET 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5638,7 +5653,7 @@
   {
    "id": "pe298cbc3",
    "nom": "AOP SAINT-CHINIAN ROUGE - L'ÉLÉGANCE DE SCHISTE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5653,7 +5668,7 @@
   {
    "id": "p5b543184",
    "nom": "AOP SAINT-ESTÈPHE CRU BOURGEOIS EXCEPTIONNEL ROUGE - CHÂTEAU LAFFITTE CARCASSET 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5668,7 +5683,7 @@
   {
    "id": "p210446c7",
    "nom": "AOP SAINT-ESTÈPHE CRU BOURGEOIS EXCEPTIONNEL ROUGE - CHÂTEAU LILIAN LADOUYS 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5683,7 +5698,7 @@
   {
    "id": "p9869b842",
    "nom": "AOP SAINT-ESTÈPHE ROUGE - CHÂTEAU HAUT-MARBUZET 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5698,7 +5713,7 @@
   {
    "id": "p66c6e2a9",
    "nom": "AOP SAINT-ESTÈPHE ROUGE - PUY CASTÉRA 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5713,7 +5728,7 @@
   {
    "id": "p0788584e",
    "nom": "AOP SAINT-GEORGES SAINT-ÉMILION ROUGE - CHÂTEAU BERTIN \"CUVÉE PRESTIGE\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "8,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5728,7 +5743,7 @@
   {
    "id": "p864dacd3",
    "nom": "AOP SAINT-JOSEPH ROUGE - FAMILLE MARC ROMAIN \"LES ROCS\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5743,7 +5758,7 @@
   {
    "id": "p79149485",
    "nom": "AOP SAINT-JOSEPH ROUGE - VIGNOBLE OLIVIER DECELLE \"EMPREINTE\" 2025 — VIGNOBLES OLIVIER DECELLE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5758,7 +5773,7 @@
   {
    "id": "p099487f3",
    "nom": "AOP SAINT-JULIEN ROUGE - CHÂTEAU GLORIA 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5773,7 +5788,7 @@
   {
    "id": "p7508a6e6",
    "nom": "AOP SAINT-JULIEN ROUGE - CHÂTEAU LALANDE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "17,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5788,7 +5803,7 @@
   {
    "id": "p9a1d73b9",
    "nom": "AOP SAINT-JULIEN ROUGE - LES FIEFS DE LAGRANGE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5803,7 +5818,7 @@
   {
    "id": "p6ad38c3c",
    "nom": "AOP SAINT-MONT BLANC SEC - CÉPAGES RARES 2024 — CEPAGES RARES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5818,7 +5833,7 @@
   {
    "id": "p957466fd",
    "nom": "AOP SAINT-MONT ROUGE - \"LES VIEILLES VIGNES\" 2024 — LES VIEILLES VIGNES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5833,7 +5848,7 @@
   {
    "id": "p5b334d6b",
    "nom": "AOP SAINT-NICOLAS-DE-BOURGUEIL ROUGE - JOËL TALUAU \"LES RACINES DU TEMPS\" 2025 — SANS MARQUE SP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5848,7 +5863,7 @@
   {
    "id": "pa5c6d7c1",
    "nom": "AOP SAINT-NICOLAS-DE-BOURGUEIL ROUGE - LES TRIBORDAIS DE LOIRE 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5863,7 +5878,7 @@
   {
    "id": "ped011287",
    "nom": "AOP SAINT-VÉRAN BLANC SEC - CHÂTEAU DE LA TOUR DE L'ANGE \"MONT-SAINT-GILBERT\" 2025 — CHATEAU DE LA TOUR DE L ANGE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5878,7 +5893,7 @@
   {
    "id": "p4728fa72",
    "nom": "AOP SAINT-VÉRAN BLANC SEC - MAISON PETITCLOT 'LES ABELLES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5893,7 +5908,7 @@
   {
    "id": "p63c2eeac",
    "nom": "AOP SAINT-ÉMILION GRAND CRU CLASSÉ - 1ER GRAND CRU CLASSÉ ROUGE - CHÂTEAU TROTTEVIEILLE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "59,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5908,7 +5923,7 @@
   {
    "id": "p40c8916d",
    "nom": "AOP SAINT-ÉMILION GRAND CRU CLASSÉ ROUGE - CHÂTEAU DE PRESSAC 2024 — CHATEAU DE PRESSAC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "23,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5923,7 +5938,7 @@
   {
    "id": "p2d0f5a5a",
    "nom": "AOP SAINT-ÉMILION GRAND CRU CLASSÉ ROUGE - CHÂTEAU LAROZE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5938,7 +5953,7 @@
   {
    "id": "p0cddcb39",
    "nom": "AOP SAINT-ÉMILION GRAND CRU ROUGE - CHÂTEAU TOUR DE PRESSAC 2022",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5953,7 +5968,7 @@
   {
    "id": "pc86b9b73",
    "nom": "AOP SAINT-ÉMILION GRAND CRU ROUGE - CLOS LA GAFFELIÈRE 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5968,7 +5983,7 @@
   {
    "id": "pa719ef7a",
    "nom": "AOP SAINT-ÉMILION GRAND CRU ROUGE - RELAIS DE LA DOMINIQUE 2020",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5983,7 +5998,7 @@
   {
    "id": "pccc71102",
    "nom": "AOP SAINT-ÉMILION ROUGE - CHÂTEAU FRANC GUEYROT 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -5998,7 +6013,7 @@
   {
    "id": "p2576a34a",
    "nom": "AOP SAINT-ÉMILION ROUGE - CHÂTEAU LA GAFFELIÈRE 2024 — CHATEAU LA GAFFELIERE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "49,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6013,7 +6028,7 @@
   {
    "id": "p83041d61",
    "nom": "AOP SAINTE-CROIX DU MONT BLANC MOELLEUX - CHÂTEAU LA GRAVE \"CUVÉE LES COTEAUX\" 2025 — CHATEAU LAGRAVE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6028,7 +6043,7 @@
   {
    "id": "pdb4bb197",
    "nom": "AOP SANCERRE BLANC SEC - EMILIEN BRISSEZ \"LE CHÊNE DORE\" PRESTIGE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6043,7 +6058,7 @@
   {
    "id": "pc142759d",
    "nom": "AOP SANTENAY 1ER CRU ROUGE - CLOSERIE DES POINTEAUX \"CABOTTES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "27,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6058,7 +6073,7 @@
   {
    "id": "pfccf4a54",
    "nom": "AOP SANTENAY ROUGE - AURÈLE LEDUC 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6073,7 +6088,7 @@
   {
    "id": "p3332a903",
    "nom": "AOP SAUMUR BRUT - MLLE LADUBAY \"SUPRÊME\" MILLÉSIMÉ 2024 — MLLE LADUBAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6088,7 +6103,7 @@
   {
    "id": "p7270a6c2",
    "nom": "AOP SAUMUR BRUT BLANC — LACHETEAU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6103,7 +6118,7 @@
   {
    "id": "p58268385",
    "nom": "AOP SAUMUR CHAMPIGNY ROUGE - DOMAINE DES CHAMPS FLEURIS \"VIEILLES VIGNES\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6118,7 +6133,7 @@
   {
    "id": "p4ace0c80",
    "nom": "AOP SAUMUR CHAMPIGNY ROUGE - DOMAINE DES RAYNIÈRES 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6133,7 +6148,7 @@
   {
    "id": "pc91aff37",
    "nom": "AOP SAUMUR CHAMPIGNY ROUGE BIO - DOMAINE DAMOISELLE \"LES TENNIÈRES\" 2025 — DOMAINE DES DAMOISELLES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6148,7 +6163,7 @@
   {
    "id": "p5ddf0217",
    "nom": "AOP SAUSSIGNAC BLANC MOELLEUX - \"VENDANGES D'AUTREFOIS\" 2023",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6163,7 +6178,7 @@
   {
    "id": "pd211c381",
    "nom": "AOP SAUTERNES BLANC MOELLEUX - CHÂTEAU FILHOT 2022",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "22,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6178,7 +6193,7 @@
   {
    "id": "ped2db457",
    "nom": "AOP SAUTERNES BLANC MOELLEUX - CHÂTEAU HAUT COUSTET 2024 — HAUT COUSTET",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6193,7 +6208,7 @@
   {
    "id": "pa63bda36",
    "nom": "AOP SAVENNIÈRES BLANC SEC BIO - DOMAINE JO PITHON 2025 — DOMAINE JO PITHON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6208,7 +6223,7 @@
   {
    "id": "p9f8a180e",
    "nom": "AOP SAVIGNY-LÈS-BEAUNE ROUGE - DOMAINE DU BOIS NOËL 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "17,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6223,7 +6238,7 @@
   {
    "id": "p7a576972",
    "nom": "AOP SAVIGNY-LÈS-BEAUNE ROUGE - ROUGEOT DUPIN 2023 — ROUGEOT DUPIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "21,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6238,7 +6253,7 @@
   {
    "id": "p079cc815",
    "nom": "AOP SAVOIE ABYMES BLANC SEC - DOMAINE JEAN PERRIER \"ALTUS \" 2025 — DOMAINE JEAN PERRIER ET FILS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6253,7 +6268,7 @@
   {
    "id": "p3bf39878",
    "nom": "AOP SAVOIE BLANC SEC - APREMONT \"VIEILLES VIGNES\" 2025 — ALP'VIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6268,7 +6283,7 @@
   {
    "id": "p74d6d691",
    "nom": "AOP SAVOIE ROUGE - MONDEUSE \"VIEILLES VIGNES\" 2025 — ALP'VIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6283,7 +6298,7 @@
   {
    "id": "pb1f4af87",
    "nom": "AOP TAVEL ROSÉ - AUREUS 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6298,7 +6313,7 @@
   {
    "id": "pfc627970",
    "nom": "AOP TERRASSES DU LARZAC ROUGE - CHÂTEAU MANDAGOT \"GRAVITÉ ZÉRO\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6313,7 +6328,7 @@
   {
    "id": "p9eb525c8",
    "nom": "AOP TERRASSES DU LARZAC ROUGE - CLOS DES DAMES 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6328,7 +6343,7 @@
   {
    "id": "pfbfaf1d2",
    "nom": "AOP TERRASSES DU LARZAC ROUGE BIODYNAMIE - CHÂTEAU LA SAUVAGEONNE \"CUVÉE LES RUFFES\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,55 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6343,7 +6358,7 @@
   {
    "id": "pfde0c3e1",
    "nom": "AOP TOURAINE OISLY BLANC SEC - DOMAINE DE PIERRE 2025 — DOMAINE DE PIERRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6358,7 +6373,7 @@
   {
    "id": "p587fad83",
    "nom": "AOP TOURAINE ROUGE - LA CROIX BOUQUIE 2025 — DOMAINE DE LA CROIX BOUQUIE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6373,7 +6388,7 @@
   {
    "id": "p3adab713",
    "nom": "AOP TOURAINE SAUVIGNON BLANC SEC - DOMAINE DE POIX 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6388,7 +6403,7 @@
   {
    "id": "p3de726a4",
    "nom": "AOP TOURAINE SAUVIGNON BLANC SEC - LA CROIX BOUQUIE 2025 — DOMAINE DE LA CROIX BOUQUIE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6403,7 +6418,7 @@
   {
    "id": "pb7c7dea1",
    "nom": "AOP VACQUEYRAS BLANC SEC - DOMAINE FONT SARADE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6418,7 +6433,7 @@
   {
    "id": "p45baf3ef",
    "nom": "AOP VACQUEYRAS ROUGE - CHÂTEAU BRUNELY 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6433,7 +6448,7 @@
   {
    "id": "p42134f2b",
    "nom": "AOP VALENÇAY BLANC SEC - VIGNOBLE ROY \"LES BEAUX MONTS\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6448,7 +6463,7 @@
   {
    "id": "pe2e8ee0a",
    "nom": "AOP VALENÇAY ROUGE - VIGNOBLE ROY \"LES PETITS RANGS\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6463,7 +6478,7 @@
   {
    "id": "peddfac8d",
    "nom": "AOP VENTOUX ROUGE - SOUS LES CERISIERS 2025 — SOUS LES CERISIERS",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6478,7 +6493,7 @@
   {
    "id": "p5963522c",
    "nom": "AOP VIRÉ-CLESSÉ BLANC SEC - DOMAINE DE SEILLENAT 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6493,7 +6508,7 @@
   {
    "id": "p0c991306",
    "nom": "AOP VIRÉ-CLESSÉ BLANC SEC - LA BURGONDIE 2025 — LA BURGONDIE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "9,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6508,7 +6523,7 @@
   {
    "id": "p92ed09e5",
    "nom": "AOP VOUVRAY BLANC SEC - CHÂTEAU MONCONTOUR \"CUVÉE LES ROCHÈRES - CHENIN\" 2025 — CHATEAU MONCONTOUR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6523,7 +6538,7 @@
   {
    "id": "p739d3740",
    "nom": "AOP VOUVRAY BLANC SEC - THIERRY COSME 2025 — LES GRAPPES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6538,7 +6553,7 @@
   {
    "id": "pb8a9ecc0",
    "nom": "AOP VOUVRAY BRUT - DOMAINE SYLVAIN GAUDRON \"MÉTHODE TRADITIONNELLE\"",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6553,7 +6568,7 @@
   {
    "id": "p09a4c7f4",
    "nom": "ARBOIS AOP SAVAGNIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6568,7 +6583,7 @@
   {
    "id": "p852a40dc",
    "nom": "BARSAC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "39,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6583,7 +6598,7 @@
   {
    "id": "p7122eac2",
    "nom": "BEAUJOLAIS AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6598,7 +6613,7 @@
   {
    "id": "p8deccf54",
    "nom": "BIÈRE AROMATISÉE À LA CERISE — SLASH",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "2,05 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6613,7 +6628,7 @@
   {
    "id": "p39d61849",
    "nom": "BIÈRE BLONDE — 1664",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "1,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6628,7 +6643,7 @@
   {
    "id": "pb29a43ae",
    "nom": "BLAYE CÔTES DE BORDEAUX AOP",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6643,7 +6658,7 @@
   {
    "id": "p62b1310a",
    "nom": "BLAYE CÔTES DE BORDEAUX AOP — GRAND VIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6658,7 +6673,7 @@
   {
    "id": "p479034c2",
    "nom": "BLAYE CÔTES DE BORDEAUX AOP — TROIS MOULINS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6673,7 +6688,7 @@
   {
    "id": "p94c07ac1",
    "nom": "BOISSON ALCOOLISÉE À BASE DE BIÈRE AROMATISÉE CITRON & YUZU — SOMERSBY",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "2,42 €",
    "prix_avant": "3,67 €",
    "categorie": "boissons",
@@ -6688,7 +6703,7 @@
   {
    "id": "p41806206",
    "nom": "BOISSON AU LAIT ET AU CACAO — CACOLAC",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6703,7 +6718,7 @@
   {
    "id": "p217a8095",
    "nom": "BOISSON TROPICAL — OASIS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6718,7 +6733,7 @@
   {
    "id": "p03270468",
    "nom": "BORDEAUX AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6733,7 +6748,7 @@
   {
    "id": "p3dd21c14",
    "nom": "BORDEAUX AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6748,7 +6763,7 @@
   {
    "id": "p01adaed3",
    "nom": "BORDEAUX SUPÉRIEUR AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6763,7 +6778,7 @@
   {
    "id": "pc0264368",
    "nom": "BORDEAUX SUPÉRIEUR AOP — VIEILLIS EN FÛTS DE CHÊNE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6778,7 +6793,7 @@
   {
    "id": "paad1f161",
    "nom": "BOURGOGNE ALIGOTÉ AOP — ÉMOTIONS MINÉRALES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6793,7 +6808,7 @@
   {
    "id": "pd2148e97",
    "nom": "BOURGOGNE AOP PINOT NOIR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6808,7 +6823,7 @@
   {
    "id": "p7a914367",
    "nom": "BOURGOGNE AOP PINOT NOIR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6823,7 +6838,7 @@
   {
    "id": "p5977971c",
    "nom": "BOURGOGNE TONNERRE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6838,7 +6853,7 @@
   {
    "id": "p15a7ccc8",
    "nom": "BOURGUEIL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6853,7 +6868,7 @@
   {
    "id": "p7c2c7307",
    "nom": "BOURGUEIL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6868,7 +6883,7 @@
   {
    "id": "pdbad8abc",
    "nom": "CABERNET D'ANJOU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6883,7 +6898,7 @@
   {
    "id": "p7cebf85f",
    "nom": "CAIRANNE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,85 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6898,7 +6913,7 @@
   {
    "id": "pc29986b4",
    "nom": "CAPSULES DE CAFÉ BY NESCAFÉ DOLCE GUSTO — STARBUCKS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "4,49 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6913,7 +6928,7 @@
   {
    "id": "p0fe4c38e",
    "nom": "CAPSULES DE CAFÉ — NESCAFÉ DOLCE GUSTO",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "8,05 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6928,7 +6943,7 @@
   {
    "id": "p8a69e1c9",
    "nom": "CHABLIS AOP PREMIER CRU — LES FOURNEAUX",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6943,7 +6958,7 @@
   {
    "id": "p23ba2929",
    "nom": "CHASSAGNE- MONTRACHET AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "36,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6958,7 +6973,7 @@
   {
    "id": "p6d84d490",
    "nom": "CHEVERNY AOP — LES PARCELLAIRES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6973,7 +6988,7 @@
   {
    "id": "pdc8101fd",
    "nom": "CHINON AOP — GRAIN DE FOLIE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -6988,7 +7003,7 @@
   {
    "id": "p1bbfc140",
    "nom": "CHINON AOP — GRANDGOUSIER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7003,7 +7018,7 @@
   {
    "id": "p7cb4b052",
    "nom": "CHIROUBLES AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7018,7 +7033,7 @@
   {
    "id": "pf27ea942",
    "nom": "CHOREY-LÈS-BEAUNE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7033,7 +7048,7 @@
   {
    "id": "p38965ead",
    "nom": "CHÂTEAUNEUF-DU-PAPE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "22,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7048,7 +7063,7 @@
   {
    "id": "pe4c7222f",
    "nom": "CONDRIEU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "28,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7063,7 +7078,7 @@
   {
    "id": "p53f22158",
    "nom": "CORBIÈRES AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7078,7 +7093,7 @@
   {
    "id": "pe6fcc4de",
    "nom": "CORNAS AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7093,7 +7108,7 @@
   {
    "id": "p28afaa29",
    "nom": "COTEAUX D'ANCENIS AOP — MALVOISIE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7108,7 +7123,7 @@
   {
    "id": "p3bb688f9",
    "nom": "COTEAUX DE L'AUBANCE AOP — CUVÉE DES SCHISTES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7123,7 +7138,7 @@
   {
    "id": "pca4fe341",
    "nom": "COTEAUX DU LAYON AOP CHENIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7138,7 +7153,7 @@
   {
    "id": "pc682f808",
    "nom": "CRÉMANT DE LOIRE AOP — ELISA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7153,7 +7168,7 @@
   {
    "id": "p2c5e83f1",
    "nom": "Crème fraiche d'Isigny AOP 35% Mat. Gr. — ISIGNY SAINTE-MÈRE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "3,49 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7168,7 +7183,7 @@
   {
    "id": "p47b627d0",
    "nom": "CÔTE RÔTIE AOP — LES ELOTINS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "38,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7183,7 +7198,7 @@
   {
    "id": "p291270f3",
    "nom": "CÔTES DE JURA AOP CHARDONNAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7198,7 +7213,7 @@
   {
    "id": "p753799db",
    "nom": "CÔTES DE JURA AOP — VIN DE PAILLE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7213,7 +7228,7 @@
   {
    "id": "pcf21158f",
    "nom": "CÔTES DU RHÔNE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7228,7 +7243,7 @@
   {
    "id": "p1fb1bd80",
    "nom": "CÔTES DU RHÔNE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7243,7 +7258,7 @@
   {
    "id": "p09891cee",
    "nom": "CÔTES DU RHÔNE VILLAGES AOP LAUDUN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7258,7 +7273,7 @@
   {
    "id": "p5d21996a",
    "nom": "CÔTES DU RHÔNE VILLAGES AOP — LE CHEMIN DES OLIVIERS - CUVÉE PRESTIGE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7273,7 +7288,7 @@
   {
    "id": "p8adb0d7d",
    "nom": "DUCHÉ D'UZES AOP — LOU PASTRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7288,7 +7303,7 @@
   {
    "id": "pa2b46314",
    "nom": "EAU MINÉRALE NATURELLE — COURMAYEUR",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "2,59 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7303,7 +7318,7 @@
   {
    "id": "pb9139f91",
    "nom": "FAUGÈRES AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7318,7 +7333,7 @@
   {
    "id": "p37e94fd6",
    "nom": "FITOU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7333,7 +7348,7 @@
   {
    "id": "p446ffa7f",
    "nom": "FITOU AOP — CUVÉE EXCEPTION",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7348,7 +7363,7 @@
   {
    "id": "pb94aa3e8",
    "nom": "FLEURIE AOP — GRAND CARACTÈRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7363,7 +7378,7 @@
   {
    "id": "pd94b5a9d",
    "nom": "FUSILLI N°140 PASTA DI GRAGNANO IGP — TRADIZIONI D'ITALIA",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,46 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7378,7 +7393,7 @@
   {
    "id": "p3a6c3d7f",
    "nom": "GEVREY-CHAMBERTIN AOP — VIEILLES VIGNES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "48,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7393,7 +7408,7 @@
   {
    "id": "pffe8f940",
    "nom": "GIGONDAS AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7408,7 +7423,7 @@
   {
    "id": "p55788364",
    "nom": "HAUT-MÉDOC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "28,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7423,7 +7438,7 @@
   {
    "id": "p26b7c23f",
    "nom": "HAUT-MÉDOC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7438,7 +7453,7 @@
   {
    "id": "p43e986f6",
    "nom": "IG RHUM GUADELOUPE BELLEVUE BLANC — DOMAINE BELLEVUE",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "8,25 €",
    "prix_avant": "12,50 €",
    "categorie": "boissons",
@@ -7453,7 +7468,7 @@
   {
    "id": "p980504a9",
    "nom": "IGP ATLANTIQUE ROUGE - LA CUVÉE DES DRÔLES 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "2,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7468,7 +7483,7 @@
   {
    "id": "pc05cf1d6",
    "nom": "IGP CITÉ DE CARCASSONNE ROUGE - LA CABANE DE CHARLY \"MERLOT\" 2025 — C.BOUSQUET",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7483,7 +7498,7 @@
   {
    "id": "paa9a7c95",
    "nom": "IGP COLLINES RHODANIENNES ROUGE - ROMAIN DUVERNAY \"SYRAH\" 2025 — RD SELECT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7498,7 +7513,7 @@
   {
    "id": "pf39e6aea",
    "nom": "IGP CÔTES CATALANES BLANC SEC - MAISON LATOUR LAVAIL TERRE D'ARDOISE CARIGNAN \"VIEILLES VIGNES\" 2025 — MAS LAVAIL",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7513,7 +7528,7 @@
   {
    "id": "pf5559916",
    "nom": "IGP CÔTES CATALANES BLANC SEC - TESSELLAE \"CHARDONNAY\" 2025 — TESSELLAE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7528,7 +7543,7 @@
   {
    "id": "pce3ecdf6",
    "nom": "IGP CÔTES CATALANES ROUGE BIO - DOMAINE DE JAU \"SYRAH GRENACHE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7543,7 +7558,7 @@
   {
    "id": "ped482b87",
    "nom": "IGP CÔTES DE GASCOGNE BLANC MOELLEUX - MENARD \"CUVÉE OR PREMIUM\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7558,7 +7573,7 @@
   {
    "id": "p823116a5",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - DOMAINE DE L'HERRÉ 2025 — DOMAINE DE L HERRE",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7573,7 +7588,7 @@
   {
    "id": "p38223ddc",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - DOMUS UBY \"SAUVIGNON GROS MANSENG\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7588,7 +7603,7 @@
   {
    "id": "pd6966a59",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - MENARD \"CUVÉE MARINE PREMIUM\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7603,7 +7618,7 @@
   {
    "id": "p82d49a50",
    "nom": "IGP CÔTES DE GASCOGNE BLANC SEC - ÉLIA \"ÉDITION LIMITÉE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7618,7 +7633,7 @@
   {
    "id": "p6090a55b",
    "nom": "IGP CÔTES DE GASCOGNE LEGER BLANC \"ONÉA\"",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7633,7 +7648,7 @@
   {
    "id": "p4128f2d0",
    "nom": "IGP DES ALPILLES ROSÉ - DOMAINE DE SAINT ROCH \"GRANDE CUVÉE\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7648,7 +7663,7 @@
   {
    "id": "p2d0809dc",
    "nom": "IGP LAMBRUSCO DEMI-SEC BLANC - DELL'EMILIA SIGNORE GIUSEPPE — SIGNORE GIUSEPPE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7663,7 +7678,7 @@
   {
    "id": "pfe327e2b",
    "nom": "IGP MÉDITERRANÉE ROSÉ - PERLE D'AZUR 2025 — PERIGORD D'ANTAN",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,45 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7678,7 +7693,7 @@
   {
    "id": "pf062504a",
    "nom": "IGP PAYS D'OC BLANC SEC - JEAN CLAUDE MAS \"LE PIOCH - VIOGNIER\" 2025 — JEAN CLAUDE MAS",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7693,7 +7708,7 @@
   {
    "id": "p29e4a82d",
    "nom": "IGP PAYS D'OC BLANC SEC - MÉDUSA \"VIOGNIER\" 2025 — MEDUSA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7708,7 +7723,7 @@
   {
    "id": "pecf6afcd",
    "nom": "IGP PAYS D'OC BLANC SEC BIO - \"L'INDOMPTABLE DE CIGALUS\" 2025 — GERARD BERTRAND",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7723,7 +7738,7 @@
   {
    "id": "pe584279b",
    "nom": "IGP PAYS D'OC BLANC SEC BIO - SO VIVE 9,5% 2025 — GERARD BERTRAND",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7738,7 +7753,7 @@
   {
    "id": "pc9f36962",
    "nom": "IGP PAYS D'OC CHARDONNAY BLANC SEC - MAISON VENTENAC \"TÊTE EN L'AIR\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7753,7 +7768,7 @@
   {
    "id": "pb27c05de",
    "nom": "IGP PAYS D'OC MUSCAT BLANC SEC - DOMAINE LA PIERRE 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7768,7 +7783,7 @@
   {
    "id": "p12bbfac9",
    "nom": "IGP PAYS D'OC ROSÉ - LES BÉLIERS D'OC 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7783,7 +7798,7 @@
   {
    "id": "pfeca66c5",
    "nom": "IGP PAYS D'OC ROUGE - JEAN-CLAUDE MAS \"LE PIOCH - SYRAH\" 2025 — JEAN CLAUDE MAS",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7798,7 +7813,7 @@
   {
    "id": "pd6f4e693",
    "nom": "IGP PAYS D'OC ROUGE - JEAN-CLAUDE MAS \"LES SCHISTES\" - \"SYRAH VIOGNIER\" 2025 — JEAN CLAUDE MAS",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "5,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7813,7 +7828,7 @@
   {
    "id": "p194031b1",
    "nom": "IGP PAYS D'OC ROUGE - LA VICOMTÉ \"PINOT NOIR\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7828,7 +7843,7 @@
   {
    "id": "p211220dd",
    "nom": "IGP PAYS D'OC ROUGE BIO - L'INDOMPTABLE DE CIGALUS 2024 — GERARD BERTRAND",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7843,7 +7858,7 @@
   {
    "id": "p8c0984d3",
    "nom": "IGP PUY DE DÔME BLANC SEC - DESPRAT SAINT VERNY \"VIGNOBLE VOLCANIQUE - CHARDONNAY\" 2025 — LES GRAPPES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7858,7 +7873,7 @@
   {
    "id": "pc90e2496",
    "nom": "IGP PUY DE DÔME ROUGE - DESPRAT ST VERNY \"VIGNOBLE VOLCANIQUE PINOT NOIR\" 2025 — LES GRAPPES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7873,7 +7888,7 @@
   {
    "id": "pcc633188",
    "nom": "IGP SAINT-GUILHEM-LE-DÉSERT ROUGE - FONJOYA \"A CŒUR PERDU - GRENACHE\" 2025 — FONJOYA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7888,7 +7903,7 @@
   {
    "id": "pee77ad1f",
    "nom": "IGP VAL DE LOIRE BLANC SEC - L'HAMEÇON \"SAUVIGNON CHARDONNAY\" 2025",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7903,7 +7918,7 @@
   {
    "id": "pc5fec5fe",
    "nom": "IGP ÎLE DE BEAUTÉ ROSÉ - ISULA BELLEZZA 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7918,7 +7933,7 @@
   {
    "id": "pbb581c39",
    "nom": "IRANCY AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7933,7 +7948,7 @@
   {
    "id": "p9b3844e3",
    "nom": "JURANÇON AOP — VENDANGES TARDIVES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "13,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7948,7 +7963,7 @@
   {
    "id": "pb1b53baf",
    "nom": "JUS MULTIFRUITS — CIDOU",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "1,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7963,7 +7978,7 @@
   {
    "id": "p7705c9d8",
    "nom": "LALANDE-DE-POMEROL AOP — DU CHÂTEAU LAMOTHE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7978,7 +7993,7 @@
   {
    "id": "p17d100ee",
    "nom": "LIRAC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -7993,7 +8008,7 @@
   {
    "id": "pc9cf9fd2",
    "nom": "LIRAC AOP — RIVE DROITE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8008,7 +8023,7 @@
   {
    "id": "p63772701",
    "nom": "LUBERON AOP — AMÉDÉE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8023,7 +8038,7 @@
   {
    "id": "p29185dc6",
    "nom": "MARGAUX AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "85,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8038,7 +8053,7 @@
   {
    "id": "pa808530f",
    "nom": "MARGAUX AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8053,7 +8068,7 @@
   {
    "id": "pf58f78ce",
    "nom": "MARGAUX AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "32,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8068,7 +8083,7 @@
   {
    "id": "p834f1dfa",
    "nom": "MARGAUX AOP GRAND CRU CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "67,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8083,7 +8098,7 @@
   {
    "id": "p992d4718",
    "nom": "MARGAUX AOP GRAND CRU CLASSÉ — SCHRÖDER & SCHŸLER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "41,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8098,7 +8113,7 @@
   {
    "id": "p31608ec9",
    "nom": "MARSANNAY AOP — LA CHARME AUX PRÊTRES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "25,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8113,7 +8128,7 @@
   {
    "id": "p51e4059c",
    "nom": "MENETOU-SALON AOP — ANTOINE DE LA FARGE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8128,7 +8143,7 @@
   {
    "id": "p750329b1",
    "nom": "MERCUREY AOP — LE CRÊT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "22,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8143,7 +8158,7 @@
   {
    "id": "pafe7e21e",
    "nom": "MERCUREY AOP — VIEILLES VIGNES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8158,7 +8173,7 @@
   {
    "id": "p9fd4dce1",
    "nom": "MEURSAULT AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "49,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8173,7 +8188,7 @@
   {
    "id": "pe6d2cf32",
    "nom": "MINERVOIS LA LIVINIÈRE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8188,7 +8203,7 @@
   {
    "id": "p7587344a",
    "nom": "MONTAGNE SAINT-ÉMILION AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8203,7 +8218,7 @@
   {
    "id": "pfcd0a0ed",
    "nom": "MONTAGNE SAINT-ÉMILION AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "30,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8218,7 +8233,7 @@
   {
    "id": "p5ff27e07",
    "nom": "MOULIS EN MÉDOC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8233,7 +8248,7 @@
   {
    "id": "pd5dabb75",
    "nom": "MOULIS EN MÉDOC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "21,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8248,7 +8263,7 @@
   {
    "id": "p7728481c",
    "nom": "MOULIS EN MÉDOC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "21,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8263,7 +8278,7 @@
   {
    "id": "p602ea347",
    "nom": "MUSCADET SÈVRE ET MAINE SUR LIE AOP — CRU CLISSON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8278,7 +8293,7 @@
   {
    "id": "p6d4f9481",
    "nom": "MÂCON-BURGY AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8293,7 +8308,7 @@
   {
    "id": "pd56b1227",
    "nom": "MÂCON-VILLAGES AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8308,7 +8323,7 @@
   {
    "id": "pc80749e8",
    "nom": "MÉDOC AOP — CRU BOURGEOIS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8323,7 +8338,7 @@
   {
    "id": "p9b22478e",
    "nom": "MÉDOC AOP — FAMILLE RAYMOND",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8338,7 +8353,7 @@
   {
    "id": "pc789d7f2",
    "nom": "PASTIS DE MARSEILLE — VIVALIS",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "17,41 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8353,7 +8368,7 @@
   {
    "id": "pfbf4f763",
    "nom": "PATRIMONIO AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8368,7 +8383,7 @@
   {
    "id": "p55390c70",
    "nom": "PAUILLAC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "31,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8383,7 +8398,7 @@
   {
    "id": "pe2503223",
    "nom": "PAUILLAC AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8398,7 +8413,7 @@
   {
    "id": "pe4eb3e02",
    "nom": "PAUILLAC AOP GRAND CRU CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "85,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8413,7 +8428,7 @@
   {
    "id": "p5020ce23",
    "nom": "PAUILLAC AOP GRAND CRU CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "34,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8428,7 +8443,7 @@
   {
    "id": "pfee5ae67",
    "nom": "PAYS D'OC IGP CHARDONNAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8443,7 +8458,7 @@
   {
    "id": "pc9973232",
    "nom": "PAYS D'OC IGP — GRENACHE ROSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8458,7 +8473,7 @@
   {
    "id": "p66f146c3",
    "nom": "PESSAC-LÉOGNAN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8473,7 +8488,7 @@
   {
    "id": "p85bc4c73",
    "nom": "PESSAC-LÉOGNAN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "21,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8488,7 +8503,7 @@
   {
    "id": "pc4445692",
    "nom": "PESSAC-LÉOGNAN AOP GRAND CRU CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "75,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8503,7 +8518,7 @@
   {
    "id": "pa2c4a2a5",
    "nom": "PETIT CHABLIS AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8518,7 +8533,7 @@
   {
    "id": "pd9eec849",
    "nom": "PIC SAINT-LOUP AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,30 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8533,7 +8548,7 @@
   {
    "id": "pbcf777a2",
    "nom": "POMEROL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "25,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8548,7 +8563,7 @@
   {
    "id": "p6f49dfc6",
    "nom": "POMEROL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8563,7 +8578,7 @@
   {
    "id": "pfded2942",
    "nom": "POMEROL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "22,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8578,7 +8593,7 @@
   {
    "id": "p112697ae",
    "nom": "POMEROL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8593,7 +8608,7 @@
   {
    "id": "pf511046f",
    "nom": "POMEROL AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8608,7 +8623,7 @@
   {
    "id": "pe972fcc3",
    "nom": "POMMARD AOP — CLOS DU CHÂTEAU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "39,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8623,7 +8638,7 @@
   {
    "id": "pd1bdcd1f",
    "nom": "POUILLY-FUISSÉ AOP — ROCHE CLAIRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "17,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8638,7 +8653,7 @@
   {
    "id": "p3054f58e",
    "nom": "PUISSEGUIN-SAINT-ÉMILION AOP — CUVÉE D'EXCEPTION",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8653,7 +8668,7 @@
   {
    "id": "pf3213cbf",
    "nom": "Poulet fermier du Maine IGP LABEL ROUGE — LOUÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,58 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8668,7 +8683,7 @@
   {
    "id": "p2729d99c",
    "nom": "QUINCY AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8683,7 +8698,7 @@
   {
    "id": "p95b53595",
    "nom": "REUILLY AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8698,7 +8713,7 @@
   {
    "id": "p75918817",
    "nom": "REUILLY AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,70 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8713,7 +8728,7 @@
   {
    "id": "p4495ac9b",
    "nom": "ROCAMADOUR AOP 24% MAT. GR. — NOS RÉGIONS ONT DU TALENT",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "2,69 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8728,7 +8743,7 @@
   {
    "id": "p6ab2f2c0",
    "nom": "ROSÉ D'ANJOU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8743,7 +8758,7 @@
   {
    "id": "pd2ea439d",
    "nom": "SAINT-CHINIAN AOP — ROCHES NOIRES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,60 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8758,7 +8773,7 @@
   {
    "id": "pfb8fa6c0",
    "nom": "SAINT-ESTÈPHE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "13,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8773,7 +8788,7 @@
   {
    "id": "p4157dcac",
    "nom": "SAINT-ESTÈPHE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8788,7 +8803,7 @@
   {
    "id": "pb5aea15a",
    "nom": "SAINT-ESTÈPHE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8803,7 +8818,7 @@
   {
    "id": "p2a12f737",
    "nom": "SAINT-ESTÈPHE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "25,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8818,7 +8833,7 @@
   {
    "id": "p563334c1",
    "nom": "SAINT-ESTÈPHE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8833,7 +8848,7 @@
   {
    "id": "p9ddc3334",
    "nom": "SAINT-ESTÈPHE AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "16,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8848,7 +8863,7 @@
   {
    "id": "p5b640fa0",
    "nom": "SAINT-JULIEN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8863,7 +8878,7 @@
   {
    "id": "pc3889848",
    "nom": "SAINT-JULIEN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "25,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8878,7 +8893,7 @@
   {
    "id": "p31c89ae1",
    "nom": "SAINT-JULIEN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "22,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8893,7 +8908,7 @@
   {
    "id": "pcfddd3d7",
    "nom": "SAINT-JULIEN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8908,7 +8923,7 @@
   {
    "id": "pdf6b2224",
    "nom": "SAINT-JULIEN AOP PREMIER GRAND CRU CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "69,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8923,7 +8938,7 @@
   {
    "id": "p0a296f95",
    "nom": "SAINT-NICOLAS-DE-BOURGUEIL AOP — OSMOSE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8938,7 +8953,7 @@
   {
    "id": "p61d693ad",
    "nom": "SAINT-ROMAIN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8953,7 +8968,7 @@
   {
    "id": "p1037a2ef",
    "nom": "SAINT-VÉRAN AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8968,7 +8983,7 @@
   {
    "id": "p1f08535e",
    "nom": "SAINT-ÉMILION GRAND CRU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8983,7 +8998,7 @@
   {
    "id": "pe4aa8393",
    "nom": "SAINT-ÉMILION GRAND CRU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "18,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -8998,7 +9013,7 @@
   {
    "id": "p6bfc4c19",
    "nom": "SAINT-ÉMILION GRAND CRU AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "29,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9013,7 +9028,7 @@
   {
    "id": "p30fea138",
    "nom": "SAINT-ÉMILION GRAND CRU AOP CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "22,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9028,7 +9043,7 @@
   {
    "id": "pc77e8570",
    "nom": "SAINT-ÉMILION GRAND CRU AOP PREMIER GRAND CRU CLASSÉ",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "125,00 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9043,7 +9058,7 @@
   {
    "id": "p3d3bea51",
    "nom": "SAINT-ÉMILION GRAND CRU AOP — CUVÉE TRADITION",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9058,7 +9073,7 @@
   {
    "id": "p8cdfbf17",
    "nom": "SAINTE-CROIX-DU-MONT AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9073,7 +9088,7 @@
   {
    "id": "pd994f7bf",
    "nom": "SANCERRE AOP — PAR LA PETITE PERRIÈRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9088,7 +9103,7 @@
   {
    "id": "pa3f1441b",
    "nom": "SAUCISSES DE MONTBELIARD IGP — NOS RÉGIONS ONT DU TALENT",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,18 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9103,7 +9118,7 @@
   {
    "id": "p97a839eb",
    "nom": "SAUMUR AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9118,7 +9133,7 @@
   {
    "id": "pc34f5bb9",
    "nom": "SAUMUR-CHAMPIGNY AOP — LA MALICIEUSES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9133,7 +9148,7 @@
   {
    "id": "p478df4b7",
    "nom": "SAUMUR-CHAMPIGNY AOP — VIEILLES VIGNES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9148,7 +9163,7 @@
   {
    "id": "p60cb04c9",
    "nom": "SAUTERNES AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "14,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9163,7 +9178,7 @@
   {
    "id": "p98daeb37",
    "nom": "SAVENNIÈRES AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9178,7 +9193,7 @@
   {
    "id": "p03845aa4",
    "nom": "SIROP DE GRENADINE — FRUCCI",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9193,7 +9208,7 @@
   {
    "id": "p67973ef4",
    "nom": "STAR WARS : THE MANDALORIAN AND GROGU",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "15,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9208,7 +9223,7 @@
   {
    "id": "p993a9342",
    "nom": "TAVEL AOP — RIVE DROITE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9223,7 +9238,7 @@
   {
    "id": "p43f4ed08",
    "nom": "TOURAINE AOP — CÔT",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9238,7 +9253,7 @@
   {
    "id": "p2143a4b9",
    "nom": "TOURAINE CHENONCEAUX AOP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9253,7 +9268,7 @@
   {
    "id": "p60e51127",
    "nom": "TOURAINE SAUVIGNON AOP — FAMILLE VILLEMAINE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9268,7 +9283,7 @@
   {
    "id": "p95121a36",
    "nom": "VAL DE LOIRE IGP",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9283,7 +9298,7 @@
   {
    "id": "p858aa8e9",
    "nom": "VAL DE LOIRE IGP CHARDONNAY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,10 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9298,7 +9313,7 @@
   {
    "id": "p92476bc7",
    "nom": "VAL DE LOIRE IGP SAUVIGNON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9313,7 +9328,7 @@
   {
    "id": "p7f8b7a12",
    "nom": "VAL DE LOIRE IGP — LES TONTONS MELON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,75 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9328,7 +9343,7 @@
   {
    "id": "p8729108d",
    "nom": "VALENÇAY AOP — LES CHERTS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,99 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9343,7 +9358,7 @@
   {
    "id": "p538400e0",
    "nom": "VALENÇAY AOP — TERROIR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9358,7 +9373,7 @@
   {
    "id": "p1ac145d8",
    "nom": "VIN DE FRANCE BLANC SEC - CALMEL ET JOSEPH \"AMS STRAM GRAM\" VIOGNIER 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9373,7 +9388,7 @@
   {
    "id": "p057e5577",
    "nom": "VIN DE FRANCE BLANC SEC - LA VIEILLE FERME 2025 — LA VIEILLE FERME",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9388,7 +9403,7 @@
   {
    "id": "p1ceb6161",
    "nom": "VIN DE FRANCE BLANC SEC - MR CHENIN 2025 — MR PINOT",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9403,7 +9418,7 @@
   {
    "id": "p863a3fd5",
    "nom": "VIN DE FRANCE BLANC SEC BIO - FAMILLE GUILHEM \"BLANC DE NOIR\" 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9418,7 +9433,7 @@
   {
    "id": "pfc1170c2",
    "nom": "VIN DE FRANCE BRUT - APESANTEUR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9433,7 +9448,7 @@
   {
    "id": "p78eed04a",
    "nom": "VIN DE FRANCE EFFERVESCENT BLANC DE BLANCS - LA BULLE DU PIOCH — JEAN CLAUDE MAS",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "6,40 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9448,7 +9463,7 @@
   {
    "id": "p26d60a05",
    "nom": "VIN DE FRANCE PARTIELLEMENT DÉSALCOOLISÉ BLANC SEC - PYRÈNE \"L'INSOUCIANT\" 0,5%",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,25 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9463,7 +9478,7 @@
   {
    "id": "p96798032",
    "nom": "VIN DE FRANCE ROUGE - ESPRIT BORÉAL 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9478,7 +9493,7 @@
   {
    "id": "pd74f860e",
    "nom": "VIN DE FRANCE ROUGE - LES AMANTS DE SEPTEMBRE \"LES IMPÉTRANTS\" 2025 — LES AMANTS DE SEPTEMBRE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9493,7 +9508,7 @@
   {
    "id": "pc2c01ad1",
    "nom": "VIN DE FRANCE ROUGE - NOUS CINQ 2024 — NOUS CINQ",
-   "remise": "TEL Xeme",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,65 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9508,7 +9523,7 @@
   {
    "id": "p31506f7e",
    "nom": "VIN DE FRANCE ROUGE - TERRE MÉTISSÉE 2024 — TERRE METISSEE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9523,7 +9538,7 @@
   {
    "id": "p71e1c92b",
    "nom": "VIN DÉSALCOOLISÉ BRUT - NOZECO \"ÉDITION SPÉCIALE\" — NOZECO",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "3,23 €",
    "prix_avant": "4,90 €",
    "categorie": "boissons",
@@ -9538,7 +9553,7 @@
   {
    "id": "pc9266ff7",
    "nom": "VINSOBRES AOP — CUVÉE AD VITAM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "8,20 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9553,7 +9568,7 @@
   {
    "id": "p71adc3ed",
    "nom": "VIRÉ-CLESSÉ AOP — BRENOT - BERANGER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,90 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9568,7 +9583,7 @@
   {
    "id": "p53fbca60",
    "nom": "VOUVRAY AOP — LES ROCHÈRES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,80 €",
    "prix_avant": "",
    "categorie": "boissons",
@@ -9583,7 +9598,7 @@
   {
    "id": "p3609f00b",
    "nom": "WHISKY ORIGINAL — JAMESON",
-   "remise": "BRII EURO",
+   "remise": "-15 %",
    "prix": "22,85 €",
    "prix_avant": "26,85 €",
    "categorie": "boissons",
@@ -9598,7 +9613,7 @@
   {
    "id": "pec5977da",
    "nom": "ADOUCISSANT — SOUPLINE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "6,27 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9613,7 +9628,7 @@
   {
    "id": "pbf0bb4b2",
    "nom": "CROQUETTES POUR CHAT STÉRILISÉ — FRISKIES",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "5,73 €",
    "prix_avant": "8,19 €",
    "categorie": "hygiene_maison",
@@ -9628,7 +9643,7 @@
   {
    "id": "p164a7096",
    "nom": "CROQUETTES POUR CHIEN ACTIVE FRISKIES — PURINA",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "17,25 €",
    "prix_avant": "24,65 €",
    "categorie": "hygiene_maison",
@@ -9643,7 +9658,7 @@
   {
    "id": "p18a46091",
    "nom": "CROQUETTES POUR PETIT CHIEN — PURINA ONE",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "3,29 €",
    "prix_avant": "4,99 €",
    "categorie": "hygiene_maison",
@@ -9658,7 +9673,7 @@
   {
    "id": "pb9c5a2d2",
    "nom": "CROQUETTES POUR PETIT CHIEN — ULTIMA",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "5,39 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9673,7 +9688,7 @@
   {
    "id": "p8ec2ff02",
    "nom": "CROQUETTES SPÉCIAL CHAT STÉRILISÉ BIFENSIS — PURINA ONE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "12,99 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9688,7 +9703,7 @@
   {
    "id": "pbdfb2357",
    "nom": "DENTIFRICE — SIGNAL",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,97 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9703,7 +9718,7 @@
   {
    "id": "pcd7736e3",
    "nom": "DEODORANT ROLL ON — MONSAVON",
-   "remise": "BRII %",
+   "remise": "-40 %",
    "prix": "2,36 €",
    "prix_avant": "3,93 €",
    "categorie": "hygiene_maison",
@@ -9718,7 +9733,7 @@
   {
    "id": "pcb028c43",
    "nom": "ESSUIE-TOUT — FOXY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,97 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9733,7 +9748,7 @@
   {
    "id": "pe138fe50",
    "nom": "GEL NETTOYANT WC — HARPIC",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "1,69 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9748,7 +9763,7 @@
   {
    "id": "p6b0c3cfb",
    "nom": "LESSIVE \"X-TRA EXPRESS\" — X-TRA",
-   "remise": "BRII %",
+   "remise": "-40 %",
    "prix": "4,14 €",
    "prix_avant": "6,90 €",
    "categorie": "hygiene_maison",
@@ -9763,7 +9778,7 @@
   {
    "id": "pf17349fb",
    "nom": "LESSIVE CAPSULE — DASH",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "13,47 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9778,7 +9793,7 @@
   {
    "id": "pd1c871d9",
    "nom": "LESSIVE CAPSULES — ARIEL",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "11,23 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9793,7 +9808,7 @@
   {
    "id": "p22b36592",
    "nom": "LESSIVE LIQUIDE — BONUX",
-   "remise": "BRII %",
+   "remise": "-40 %",
    "prix": "8,39 €",
    "prix_avant": "13,98 €",
    "categorie": "hygiene_maison",
@@ -9808,7 +9823,7 @@
   {
    "id": "p7ad89e0f",
    "nom": "LITIÈRE CARBONITE CHATS STÉRILISÉS — TRANQUILLE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "5,99 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9823,7 +9838,7 @@
   {
    "id": "p7d78c095",
    "nom": "LITIÈRE MINÉRALE HYGIÉNIQUE — TOUS MES AMIS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "4,65 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9838,7 +9853,7 @@
   {
    "id": "pd7f9106b",
    "nom": "MOUCHOIRS BLANCS 2 PLIS — CARESSE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "1,69 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9853,7 +9868,7 @@
   {
    "id": "p259396dc",
    "nom": "MOUCHOIRS BLANCS — CARESSE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,40 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9868,7 +9883,7 @@
   {
    "id": "p898bb6b6",
    "nom": "NETTOYANT MENAGER — BIOVIE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9883,7 +9898,7 @@
   {
    "id": "p11bf6baa",
    "nom": "PAPIER-TOILETTE — FOXY",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9898,7 +9913,7 @@
   {
    "id": "p80496886",
    "nom": "RASOIR — GILLETTE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "39,10 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9913,7 +9928,7 @@
   {
    "id": "pd7e3aaed",
    "nom": "SHAMPOOING — FRUCTIS DE GARNIER",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,57 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9928,7 +9943,7 @@
   {
    "id": "p0c41bda1",
    "nom": "SHAMPOOING — HEAD & SHOULDERS",
-   "remise": "BRII %",
+   "remise": "-40 %",
    "prix": "3,89 €",
    "prix_avant": "6,48 €",
    "categorie": "hygiene_maison",
@@ -9943,7 +9958,7 @@
   {
    "id": "p96a42557",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME LESSIVE \"CHANTECLAIR\" — CHANTECLAIR",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "6,45 €",
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9958,7 +9973,7 @@
   {
    "id": "pfdfdff5a",
    "nom": "\"Planta fin\" tartine et cuisson doux 50% Mat. Gr. format spécial — PLANTA FIN",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,78 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -9973,7 +9988,7 @@
   {
    "id": "p80b982d8",
    "nom": "12 Macarons Octobre Rose",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,97 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -9986,24 +10001,9 @@
    "catalogue": "Un octobre gourmand"
   },
   {
-   "id": "p025675fc",
-   "nom": "15 Gaufres surgelées Cheddar Paprika — TIPIAK",
-   "remise": "BRII %",
-   "prix": "2,61 €",
-   "prix_avant": "3,95 €",
-   "categorie": "autre",
-   "magasins": [
-    "bapeaume",
-    "houlme"
-   ],
-   "du": "2026-09-29",
-   "au": "2026-10-10",
-   "catalogue": "Un octobre gourmand"
-  },
-  {
    "id": "pae3d0274",
    "nom": "ACE COMBAT 8 : WINGS OF THEVE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "60,36 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10018,7 +10018,7 @@
   {
    "id": "p078aa5d5",
    "nom": "ACTIV' GEL 3 EN 1 DISQUE WC — SYPHON",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "2,49 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10033,7 +10033,7 @@
   {
    "id": "p70302791",
    "nom": "ADBLUE 5L + FLEXIBLE — ADBLUE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10048,7 +10048,7 @@
   {
    "id": "p0fde7c64",
    "nom": "AFRIQUE DU SUD BLANC SEC - GOLD MOUNTAINS \"CHENIN\" 2026",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,70 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10063,7 +10063,7 @@
   {
    "id": "pfb6a12cc",
    "nom": "AFRIQUE DU SUD CHENIN BLANC SEC - KEN FORRESTER OLD VINE \"RÉSERVE\" 2025",
-   "remise": "BRII %",
+   "remise": "-25 %",
    "prix": "7,87 €",
    "prix_avant": "10,50 €",
    "categorie": "autre",
@@ -10078,7 +10078,7 @@
   {
    "id": "pfda60c4f",
    "nom": "AFRIQUE DU SUD ROUGE - UGABA 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "9,60 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10093,7 +10093,7 @@
   {
    "id": "p2c9aea2d",
    "nom": "ALIMENT COMPLÉMENTAIRE HYDRALIFE — PURINA ONE",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "2,24 €",
    "prix_avant": "3,40 €",
    "categorie": "autre",
@@ -10108,7 +10108,7 @@
   {
    "id": "pbe16b56b",
    "nom": "AMANDES — VAHINÉ",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10123,7 +10123,7 @@
   {
    "id": "pc4e57800",
    "nom": "AMER ITALIEN — APEROL",
-   "remise": "BRII %",
+   "remise": "-15 %",
    "prix": "6,71 €",
    "prix_avant": "7,90 €",
    "categorie": "autre",
@@ -10138,7 +10138,7 @@
   {
    "id": "pad1cde61",
    "nom": "ARBRE À CHAT — TOUS MES AMIS",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "13,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10153,7 +10153,7 @@
   {
    "id": "p379a2b5a",
    "nom": "ARGENTINE ROUGE BIODYNAMIE - DOMAINE BOUSQUET \"GAIA MALBEC\" 2023 — GAIA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "11,85 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10168,7 +10168,7 @@
   {
    "id": "p70fd941e",
    "nom": "ASSIETTE PLATE \"GUSTAVE\" BLEUE 25,5CM",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "3,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10183,7 +10183,7 @@
   {
    "id": "p4454678f",
    "nom": "ASSOUPLISSANT — SOUPLINE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10198,7 +10198,7 @@
   {
    "id": "p5d1ad5d2",
    "nom": "AUTOCUISEUR \"SECURE TRENDY\" 8L — TEFAL",
-   "remise": "Prix simple barré",
+   "remise": "-55 %",
    "prix": "44,90 €",
    "prix_avant": "99,99 €",
    "categorie": "autre",
@@ -10213,7 +10213,7 @@
   {
    "id": "pca31ced7",
    "nom": "BALAI À PLAT VAPORISATEUR 275ML 1.2 SPRAY — VILEDA",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "19,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10228,7 +10228,7 @@
   {
    "id": "p359ca050",
    "nom": "BARRE DE SON S55H — TCL",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "117,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10258,7 +10258,7 @@
   {
    "id": "pdca84453",
    "nom": "BISCOTTES — HEUDEBERT",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "1,67 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10273,7 +10273,7 @@
   {
    "id": "p740bdb6e",
    "nom": "BLOUSON ENFANT — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-28 %",
    "prix": "12,95 €",
    "prix_avant": "17,95 €",
    "categorie": "autre",
@@ -10288,7 +10288,7 @@
   {
    "id": "p1fcc2b31",
    "nom": "BOITE \"GRAND CHEF ECO\" RECTANGLE 1,2L — CURVER",
-   "remise": "Prix simple barré",
+   "remise": "-20 %",
    "prix": "2,80 €",
    "prix_avant": "3,50 €",
    "categorie": "autre",
@@ -10303,7 +10303,7 @@
   {
    "id": "pce64bd05",
    "nom": "BOITE CARRÉE \"COOK&HEAT\" 1L — PYREX",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "5,95 €",
    "prix_avant": "11,90 €",
    "categorie": "autre",
@@ -10318,7 +10318,7 @@
   {
    "id": "p91122dd7",
    "nom": "BONBONS — LA VOSGIENNE",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "1,65 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10333,7 +10333,7 @@
   {
    "id": "pab100b95",
    "nom": "BOTTE DE PLUIE ENFANT — LICENCES DIVERSES",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "9,06 €",
    "prix_avant": "12,95 €",
    "categorie": "autre",
@@ -10348,7 +10348,7 @@
   {
    "id": "pa234c3cc",
    "nom": "BOTTILLON ENFANT — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "16,06 €",
    "prix_avant": "22,95 €",
    "categorie": "autre",
@@ -10363,7 +10363,7 @@
   {
    "id": "pc2ca4c24",
    "nom": "BOUQUET DE 15 ROSES 50CM",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "6,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10378,7 +10378,7 @@
   {
    "id": "pd39d58ce",
    "nom": "BRASSIÈRE — SANS COMPLEXE",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "12,56 €",
    "prix_avant": "17,95 €",
    "categorie": "autre",
@@ -10393,7 +10393,7 @@
   {
    "id": "p37a9eb32",
    "nom": "BRASSIÈRE — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "9,06 €",
    "prix_avant": "12,95 €",
    "categorie": "autre",
@@ -10408,7 +10408,7 @@
   {
    "id": "p1402b8bc",
    "nom": "BÂTONNETS À MÂCHER POUR CHIEN DENTALIFE — PURINA",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "2,05 €",
    "prix_avant": "3,10 €",
    "categorie": "autre",
@@ -10423,7 +10423,7 @@
   {
    "id": "p55c8f9ce",
    "nom": "CASQUE SANS FIL TAH4500 — PHILIPS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "39,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10438,7 +10438,7 @@
   {
    "id": "pb2728e66",
    "nom": "CASSEROLE 16 CM — SITRAM",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "11,45 €",
    "prix_avant": "22,90 €",
    "categorie": "autre",
@@ -10453,7 +10453,7 @@
   {
    "id": "pb4857bbf",
    "nom": "CHANGES BÉBÉ ULTRA CONFORT — MOTS D'ENFANTS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "6,19 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10468,7 +10468,7 @@
   {
    "id": "p3759d663",
    "nom": "CHEWING-GUM — HOLLYWOOD",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "2,10 €",
    "prix_avant": "3,18 €",
    "categorie": "autre",
@@ -10483,7 +10483,7 @@
   {
    "id": "pfe1c13e4",
    "nom": "CHILI ROUGE - AETOS \"CARMENERE\" 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10498,7 +10498,7 @@
   {
    "id": "pd3851981",
    "nom": "COCOTTE RONDE MARRON Ø 28 CM — HOMESIDE",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "29,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10513,7 +10513,7 @@
   {
    "id": "pca398090",
    "nom": "COLLANT DIAMS VENTRE PLAT X1 — DIM",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "6,89 €",
    "prix_avant": "9,85 €",
    "categorie": "autre",
@@ -10528,7 +10528,7 @@
   {
    "id": "p8df63676",
    "nom": "COLLANT ELASTIVOILE AFFINANT X1 — WELL",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10543,7 +10543,7 @@
   {
    "id": "p435b1203",
    "nom": "COLLANT VOILANCE TAILLE FINE X1 — LE BOURGET",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "3,46 €",
    "prix_avant": "4,95 €",
    "categorie": "autre",
@@ -10558,7 +10558,7 @@
   {
    "id": "pdb6bd39c",
    "nom": "CONSOLE NINTENDO SWITCH 2 + MINECRAFT DUNGEONS II DELUXE EDITION SWITCH 2",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "455,79 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10573,7 +10573,7 @@
   {
    "id": "p4ed96766",
    "nom": "COUSCOUS — FERRERO",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "2,29 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10588,7 +10588,7 @@
   {
    "id": "pbf53fecc",
    "nom": "CRÊPIÈRE 24 CM",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "4,83 €",
    "prix_avant": "6,90 €",
    "categorie": "autre",
@@ -10603,7 +10603,7 @@
   {
    "id": "p346b090e",
    "nom": "CRÊPIÈRE 28 CM — SITRAM",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "13,95 €",
    "prix_avant": "27,90 €",
    "categorie": "autre",
@@ -10618,7 +10618,7 @@
   {
    "id": "pb6bd2ff8",
    "nom": "CULOTTE CONFORT MEDIUM — CHORYS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "7,93 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10633,7 +10633,7 @@
   {
    "id": "pd4a519c8",
    "nom": "Carte mémoire micro SD Ultra 64Go — SANDISK",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "24,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10648,7 +10648,7 @@
   {
    "id": "p10e2feb8",
    "nom": "Câble USB-C vers USB-C",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10663,7 +10663,7 @@
   {
    "id": "pd7cfc246",
    "nom": "DOC PROSECCO BRUT BIO - TERRE DEI BUTH \"GIRASOLE\" SPUMANTE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10678,7 +10678,7 @@
   {
    "id": "pdd73c06d",
    "nom": "DOC PROSECCO BRUT ROSÉ - ZIMOR 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10693,7 +10693,7 @@
   {
    "id": "pf7617111",
    "nom": "DOC PROSECCO DEMI-SEC - \"IL VERS\" MILLÉSIMÉ 2025",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10708,7 +10708,7 @@
   {
    "id": "pb5ff6d9c",
    "nom": "DOC PROSECCO DEMI-SEC - ZIMOR",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10723,7 +10723,7 @@
   {
    "id": "p7431dfec",
    "nom": "DORITOS",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "1,49 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10738,7 +10738,7 @@
   {
    "id": "p751b066b",
    "nom": "DOUCHE — SANEX",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10753,7 +10753,7 @@
   {
    "id": "pb9e432cd",
    "nom": "DOUDOUNE ENFANT — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "12,47 €",
    "prix_avant": "24,95 €",
    "categorie": "autre",
@@ -10768,7 +10768,7 @@
   {
    "id": "p334f5e0c",
    "nom": "Dorade Royale",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "7,38 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10783,7 +10783,7 @@
   {
    "id": "p0a6de915",
    "nom": "DÉBARDEUR AVEC BRASSIÉRE INTEGRÉE — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "9,06 €",
    "prix_avant": "12,95 €",
    "categorie": "autre",
@@ -10798,7 +10798,7 @@
   {
    "id": "pc79e449e",
    "nom": "EAU DE TOILETTE — ADIDAS",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "8,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10813,7 +10813,7 @@
   {
    "id": "p4821d1f9",
    "nom": "ENSEMBLE PYJAMA VELOURS + ROBE DE CHAMBRE ENFANT — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-25 %",
    "prix": "14,95 €",
    "prix_avant": "19,95 €",
    "categorie": "autre",
@@ -10828,7 +10828,7 @@
   {
    "id": "pfdd594d9",
    "nom": "ESPRESSO CONCENTRATE — NESCAFÉ",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "4,09 €",
    "prix_avant": "6,19 €",
    "categorie": "autre",
@@ -10843,7 +10843,7 @@
   {
    "id": "p67234585",
    "nom": "Extra tendre doux 70% Mat. Gr. — ELLE & VIRE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,53 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10858,7 +10858,7 @@
   {
    "id": "p7b9e9b9e",
    "nom": "FAITOUT 24 CM — SITRAM",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "24,95 €",
    "prix_avant": "49,90 €",
    "categorie": "autre",
@@ -10873,7 +10873,7 @@
   {
    "id": "p64c7a4c4",
    "nom": "FOIE DE MORUE — NAUTILUS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,13 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10888,7 +10888,7 @@
   {
    "id": "p34b9d133",
    "nom": "FOUR À MICRO-ONDES — SEVERIN",
-   "remise": "BRII EURO",
+   "remise": "-14 %",
    "prix": "94,00 €",
    "prix_avant": "109,00 €",
    "categorie": "autre",
@@ -10903,7 +10903,7 @@
   {
    "id": "pd2ac9679",
    "nom": "FRITEUSE SEMI-PROFESSIONNELLE — TEFAL",
-   "remise": "Prix simple barré",
+   "remise": "-36 %",
    "prix": "44,99 €",
    "prix_avant": "69,99 €",
    "categorie": "autre",
@@ -10918,7 +10918,7 @@
   {
    "id": "p38874f74",
    "nom": "GOURDE ISOTHERME 500 ML \"AUTOMNE\" — DUCK'N",
-   "remise": "Prix simple barré",
+   "remise": "-44 %",
    "prix": "4,99 €",
    "prix_avant": "8,99 €",
    "categorie": "autre",
@@ -10933,7 +10933,7 @@
   {
    "id": "p3eba8d03",
    "nom": "HONGRIE TOKAJI BLANC MOELLEUX - GRAND TOKAJ SZAMORODNI \"CLASSIC SELECTION\" 2022",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10948,7 +10948,7 @@
   {
    "id": "p75bb9a03",
    "nom": "HOUMOUS — TABLES DU MONDE",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,38 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -10963,7 +10963,7 @@
   {
    "id": "p22d56aa9",
    "nom": "ITALIE DOCG MOSCATO D'ASTI FRIZZANTE BLANC - NEIRANO PITULE 2025 — NEIRANO",
-   "remise": "BRII %",
+   "remise": "-25 %",
    "prix": "6,37 €",
    "prix_avant": "8,50 €",
    "categorie": "autre",
@@ -10978,7 +10978,7 @@
   {
    "id": "p0573368c",
    "nom": "Imprimante Multifonction DeskJet 2923 — HP",
-   "remise": "BRII EURO",
+   "remise": "-23 %",
    "prix": "49,90 €",
    "prix_avant": "64,90 €",
    "categorie": "autre",
@@ -10993,7 +10993,7 @@
   {
    "id": "p2172fe45",
    "nom": "Jeu d'échecs en bois",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11008,7 +11008,7 @@
   {
    "id": "p09b0d6c1",
    "nom": "LEGGING ENFANT — TISSAIA BASICS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "3,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11023,7 +11023,7 @@
   {
    "id": "p222260bd",
    "nom": "LOT DE 3 BOXERS HOMME — ATHENA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "10,49 €",
    "prix_avant": "14,99 €",
    "categorie": "autre",
@@ -11038,7 +11038,7 @@
   {
    "id": "p645aec0b",
    "nom": "LOT DE 3 BOXERS HOMME — ATHENA",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "13,47 €",
    "prix_avant": "26,95 €",
    "categorie": "autre",
@@ -11053,7 +11053,7 @@
   {
    "id": "p386a352b",
    "nom": "LOT DE 3 BOXERS HOMME — DIM",
-   "remise": "Prix simple barré",
+   "remise": "-40 %",
    "prix": "13,11 €",
    "prix_avant": "21,85 €",
    "categorie": "autre",
@@ -11068,7 +11068,7 @@
   {
    "id": "p1030a9e4",
    "nom": "LOT DE 3 BOXERS HOMME — DIM",
-   "remise": "Prix simple barré",
+   "remise": "-40 %",
    "prix": "13,77 €",
    "prix_avant": "22,95 €",
    "categorie": "autre",
@@ -11083,7 +11083,7 @@
   {
    "id": "p95daf530",
    "nom": "Leerdammer Original 27,5% Mat.Gr. — LEERDAMMER",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "3,23 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11098,7 +11098,7 @@
   {
    "id": "pade48bd5",
    "nom": "MAESTRO SWITCH",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "26,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11113,7 +11113,7 @@
   {
    "id": "p67ea40e0",
    "nom": "MAISON DE TOILETTE — TOUS MES AMIS",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "9,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11128,7 +11128,7 @@
   {
    "id": "p339a5651",
    "nom": "MEUBLE MICRO-ONDES ET RANGEMENTS MULTI-NIVEAUX",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "27,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11143,7 +11143,7 @@
   {
    "id": "p5e82f17f",
    "nom": "MIX SNACKS POUR CHAT — TOUS MES AMIS",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11158,7 +11158,7 @@
   {
    "id": "p77594cc9",
    "nom": "MONTRE CONNECTÉE GALAXY WATCH 7 40 MM — SAMSUNG",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "169,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11173,7 +11173,7 @@
   {
    "id": "p8b0b4f3f",
    "nom": "MULTICUISEUR COOKEO — MOULINEX",
-   "remise": "Prix simple barré",
+   "remise": "-26 %",
    "prix": "199,99 €",
    "prix_avant": "269,99 €",
    "categorie": "autre",
@@ -11188,7 +11188,7 @@
   {
    "id": "p29f5dcc0",
    "nom": "Morgan et ses robes",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "12,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11203,7 +11203,7 @@
   {
    "id": "p602061a2",
    "nom": "NAPOLITAIN",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11218,7 +11218,7 @@
   {
    "id": "p1ed358b0",
    "nom": "OS NOUES \"DELICHEWS\" — VITAKRAFT",
-   "remise": "X+Y OFFERTS",
+   "remise": "Produits offerts",
    "prix": "3,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11233,7 +11233,7 @@
   {
    "id": "pf485a882",
    "nom": "PACK SMARTPHONE RENO 13FS — OPPO",
-   "remise": "Prix simple barré",
+   "remise": "-25 %",
    "prix": "299,90 €",
    "prix_avant": "399,90 €",
    "categorie": "autre",
@@ -11248,7 +11248,7 @@
   {
    "id": "p5b052b17",
    "nom": "PANIER COUCHAGE CHIEN",
-   "remise": "Prix simple barré",
+   "remise": "-40 %",
    "prix": "5,90 €",
    "prix_avant": "9,90 €",
    "categorie": "autre",
@@ -11263,7 +11263,7 @@
   {
    "id": "p2b4eee5d",
    "nom": "PANIER POUR ANIMAUX — TOUS MES AMIS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11278,7 +11278,7 @@
   {
    "id": "p86b30dcc",
    "nom": "PANTALON NUIT ADULTE — TISSAIA",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "12,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11293,7 +11293,7 @@
   {
    "id": "pa4d86f43",
    "nom": "PC Portable N15R53-8SL256 — THOMSON",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "329,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11308,7 +11308,7 @@
   {
    "id": "pbf08de0e",
    "nom": "PC Portable Vivobook X1504MA-BQ011W — ASUS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "699,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11323,7 +11323,7 @@
   {
    "id": "p9613fc33",
    "nom": "PESTO — FLORELLI",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,89 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11338,7 +11338,7 @@
   {
    "id": "p5fd0d707",
    "nom": "PIED MIXEUR — ELSAY",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "14,98 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11353,7 +11353,7 @@
   {
    "id": "pcca61e73",
    "nom": "PORTUGAL ROUGE - MARQUES DE MONTEMOR 2024",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "5,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11368,7 +11368,7 @@
   {
    "id": "p40910f9d",
    "nom": "POUBELLE À PÉDALE 30L BEIGE — BRABANTIA",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "54,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11383,7 +11383,7 @@
   {
    "id": "p8f8ae55d",
    "nom": "POÊLE 20 CM — SITRAM",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "9,95 €",
    "prix_avant": "19,90 €",
    "categorie": "autre",
@@ -11398,7 +11398,7 @@
   {
    "id": "p555d0c64",
    "nom": "POÊLE 28 CM — MENASTYL",
-   "remise": "Prix simple barré",
+   "remise": "-40 %",
    "prix": "9,54 €",
    "prix_avant": "15,90 €",
    "categorie": "autre",
@@ -11413,7 +11413,7 @@
   {
    "id": "p5164d400",
    "nom": "POÊLE 28CM",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "7,45 €",
    "prix_avant": "14,90 €",
    "categorie": "autre",
@@ -11428,7 +11428,7 @@
   {
    "id": "p120fe58f",
    "nom": "POÊLE MULTI-USAGE 22 CM NOIR — TEFAL",
-   "remise": "Prix simple barré",
+   "remise": "-53 %",
    "prix": "18,90 €",
    "prix_avant": "39,90 €",
    "categorie": "autre",
@@ -11443,7 +11443,7 @@
   {
    "id": "peca5ee6a",
    "nom": "PYJAMA LONG ADULTE BIO — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-33 %",
    "prix": "9,95 €",
    "prix_avant": "14,95 €",
    "categorie": "autre",
@@ -11458,7 +11458,7 @@
   {
    "id": "p120341d8",
    "nom": "PYJAMA LONG VELOURS HOMME BIO — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-32 %",
    "prix": "16,95 €",
    "prix_avant": "24,95 €",
    "categorie": "autre",
@@ -11473,7 +11473,7 @@
   {
    "id": "p8707fdca",
    "nom": "Passerelle Multimédia LEAP NEVE — STRONG",
-   "remise": "Prix simple barré",
+   "remise": "-33 %",
    "prix": "59,90 €",
    "prix_avant": "89,90 €",
    "categorie": "autre",
@@ -11488,7 +11488,7 @@
   {
    "id": "p67f512f5",
    "nom": "ROBE DE CHAMBRE FEMME — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-25 %",
    "prix": "14,95 €",
    "prix_avant": "19,95 €",
    "categorie": "autre",
@@ -11503,7 +11503,7 @@
   {
    "id": "pa48c74a7",
    "nom": "ROSIER POT 12CM Coloris rose",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "4,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11518,7 +11518,7 @@
   {
    "id": "pc40903f5",
    "nom": "SACHET DE 6 BOULES DE GRAISSES",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "0,69 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11533,7 +11533,7 @@
   {
    "id": "p8ca0ec07",
    "nom": "SACHETS FRAÎCHEUR SPÉCIAL CHAT STÉRILISÉ — PURINA ONE",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "3,88 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11548,7 +11548,7 @@
   {
    "id": "p7761d9b6",
    "nom": "SACHETS FRAÎCHEUR — WHISKAS",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,70 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11563,7 +11563,7 @@
   {
    "id": "p40d838d7",
    "nom": "SERVIETTES 3 PLIS \"GRANDE RAYURE SABLE DU DESERT\" 33CM — ATELIER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "1,70 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11578,7 +11578,7 @@
   {
    "id": "p4e797af7",
    "nom": "SET AMOVIBLE 9 PIÈCES — ARTHUR MARTIN",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "36,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11593,7 +11593,7 @@
   {
    "id": "pce976685",
    "nom": "SHIRATAKI DE KONJAC — GAYELORD HAUSER",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,18 €",
    "prix_avant": "1,79 €",
    "categorie": "autre",
@@ -11608,7 +11608,7 @@
   {
    "id": "p469a3bce",
    "nom": "SLIP — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "4,86 €",
    "prix_avant": "6,95 €",
    "categorie": "autre",
@@ -11623,7 +11623,7 @@
   {
    "id": "pedab5d56",
    "nom": "SMARTPHONE HONOR 400 SMART — HONOR",
-   "remise": "BRII EURO",
+   "remise": "-10 %",
    "prix": "179,90 €",
    "prix_avant": "199,90 €",
    "categorie": "autre",
@@ -11638,7 +11638,7 @@
   {
    "id": "pbc97a813",
    "nom": "SOUP' ROYALE GOURMET — PURINA",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "1,84 €",
    "prix_avant": "2,79 €",
    "categorie": "autre",
@@ -11653,7 +11653,7 @@
   {
    "id": "pd54cd82a",
    "nom": "SOUTIEN-GORGE AVEC ARMATURES TULLE DESIGN — WELL",
-   "remise": "Prix simple barré",
+   "remise": "-40 %",
    "prix": "13,92 €",
    "prix_avant": "23,20 €",
    "categorie": "autre",
@@ -11668,7 +11668,7 @@
   {
    "id": "p82256193",
    "nom": "SOUTIEN-GORGE AVEC ARMATURES — BRIGITTE BARDOT",
-   "remise": "Prix simple barré",
+   "remise": "-35 %",
    "prix": "16,21 €",
    "prix_avant": "24,95 €",
    "categorie": "autre",
@@ -11683,7 +11683,7 @@
   {
    "id": "pb7c76b22",
    "nom": "SOUTIEN-GORGE AVEC ARMATURES — SANS COMPLEXE",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "14,66 €",
    "prix_avant": "20,95 €",
    "categorie": "autre",
@@ -11698,7 +11698,7 @@
   {
    "id": "pa40021ad",
    "nom": "SOUTIEN-GORGE AVEC ARMATURES — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "9,76 €",
    "prix_avant": "13,95 €",
    "categorie": "autre",
@@ -11713,7 +11713,7 @@
   {
    "id": "p06a2021a",
    "nom": "SOUTIEN-GORGE AVEC COQUES — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-30 %",
    "prix": "10,46 €",
    "prix_avant": "14,95 €",
    "categorie": "autre",
@@ -11728,7 +11728,7 @@
   {
    "id": "p5f47ca5e",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"EDGAR COOPER\"",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "5,33 €",
    "prix_avant": "7,62 €",
    "categorie": "autre",
@@ -11743,7 +11743,7 @@
   {
    "id": "p7b7b7756",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"LES REPAS PLAISIR\"",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "1,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11758,7 +11758,7 @@
   {
    "id": "pb477e75d",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"LILY'S KITCHEN\" — ORGAKIDDY",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "5,80 €",
    "prix_avant": "8,79 €",
    "categorie": "autre",
@@ -11773,7 +11773,7 @@
   {
    "id": "p3493f57e",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"MAISON NET\" — MAISON NETT",
-   "remise": "BRII %",
+   "remise": "-40 %",
    "prix": "1,97 €",
    "prix_avant": "3,28 €",
    "categorie": "autre",
@@ -11788,7 +11788,7 @@
   {
    "id": "pe7de056a",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"MOUTON CADET\". — MOUTON CADET",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "8,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11803,7 +11803,7 @@
   {
    "id": "p7d8e9d50",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"RIO MARE\" — RIO MARE",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "0,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11818,7 +11818,7 @@
   {
    "id": "p0571eb71",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"ST DIÉRY.\" — SAINT DIÉRY",
-   "remise": "-X% sur le Xeme produit",
+   "remise": "Remise sur le 2e produit ou plus",
    "prix": "2,16 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11833,7 +11833,7 @@
   {
    "id": "pba7501b8",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"ULTIMA NATURE\" — ULTIMA",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "4,47 €",
    "prix_avant": "6,78 €",
    "categorie": "autre",
@@ -11848,7 +11848,7 @@
   {
    "id": "p7d524d9a",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"ZUBROWKA\". — ZUBROWKA",
-   "remise": "BRII %",
+   "remise": "-20 %",
    "prix": "9,84 €",
    "prix_avant": "12,30 €",
    "categorie": "autre",
@@ -11863,7 +11863,7 @@
   {
    "id": "pc5160eec",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME CITY ACTION POMPIERS, COUNTRY ET I LOVE HORSES DE \"PLAYMOBIL\" — PLAYMOBIL",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "39,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11878,7 +11878,7 @@
   {
    "id": "pe0f891e8",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME D'AMPOULES AUTO \"BOSCH\" — BOSCH",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "14,50 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11893,7 +11893,7 @@
   {
    "id": "p99909f26",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME DE CIRCUITS DE BILLES \"GRAVITRAX\" — RAVENSBURGER",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "12,06 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11908,7 +11908,7 @@
   {
    "id": "p0a441256",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME DE LIQUIDES DE REFROIDISSEMENT \"TECH9\" — TECH9",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "9,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11923,7 +11923,7 @@
   {
    "id": "p91ac78b8",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME GRIFFOIR \"TOUS MES AMIS\" — TOUS MES AMIS",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "7,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11938,7 +11938,7 @@
   {
    "id": "p650bfcae",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME JEUX DE SOCIETE DE \"JEUX RAVENSBURGER\" — RAVENSBURGER",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "18,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -11953,7 +11953,7 @@
   {
    "id": "p081a6f79",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME L'EMBLÉMATIQUE \"JEAN LARNAUDIE\" AU RAYON ÉPICERIE — JEAN LARNAUDIE",
-   "remise": "BRII %",
+   "remise": "-34 %",
    "prix": "9,89 €",
    "prix_avant": "14,99 €",
    "categorie": "autre",
@@ -11968,7 +11968,7 @@
   {
    "id": "pf0f90db5",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME SNACKS “PEDIGREE”. — PEDIGREE",
-   "remise": "BRII %",
+   "remise": "-30 %",
    "prix": "3,95 €",
    "prix_avant": "5,64 €",
    "categorie": "autre",
@@ -11983,7 +11983,7 @@
   {
    "id": "p52726f84",
    "nom": "SWEAT OU PANTALON CHAUD ENFANT — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-40 %",
    "prix": "7,77 €",
    "prix_avant": "12,95 €",
    "categorie": "autre",
@@ -11998,7 +11998,7 @@
   {
    "id": "p4659bab4",
    "nom": "TABLETTES LAVE-VAISSELLE — UNI VERT",
-   "remise": "TEL %",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "4,99 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12013,7 +12013,7 @@
   {
    "id": "p284267cc",
    "nom": "TASSE CITROUILLE 20CL — CHRIS G COLLECTION",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "1,85 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12043,7 +12043,7 @@
   {
    "id": "p663d5ef5",
    "nom": "TELEPHONE MOBILE LEVA E10 — DORO",
-   "remise": "BRII EURO",
+   "remise": "-14 %",
    "prix": "59,99 €",
    "prix_avant": "69,99 €",
    "categorie": "autre",
@@ -12058,7 +12058,7 @@
   {
    "id": "p6e1cb053",
    "nom": "TV QLED 75QEF1 75\" (pouces) 190 cm — SAMSUNG",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "699,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12073,7 +12073,7 @@
   {
    "id": "pa7e2040f",
    "nom": "TV QNED MINI LED 55QNED82B 55\" (pouces) 139 cm. — LG",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "599,00 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12088,7 +12088,7 @@
   {
    "id": "p3196d3a3",
    "nom": "VESTE ZIPPÉE ENFANT — TISSAIA",
-   "remise": "Prix simple barré",
+   "remise": "-20 %",
    "prix": "11,95 €",
    "prix_avant": "14,95 €",
    "categorie": "autre",
@@ -12103,7 +12103,7 @@
   {
    "id": "pfea248e0",
    "nom": "VIANDE BOVINE : BOURGUIGNON** A MIJOTER",
-   "remise": "Prix simple",
+   "remise": "",
    "prix": "10,95 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12118,7 +12118,7 @@
   {
    "id": "p02c9ce81",
    "nom": "Véhicule et Figurine – Mission Dino — PAT PATROUILLE",
-   "remise": "TEL EURO",
+   "remise": "Avantage ticket E.Leclerc",
    "prix": "16,90 €",
    "prix_avant": "",
    "categorie": "autre",
@@ -12133,7 +12133,7 @@
   {
    "id": "pbafd438a",
    "nom": "WOK 28CM — SITRAM",
-   "remise": "Prix simple barré",
+   "remise": "-50 %",
    "prix": "17,95 €",
    "prix_avant": "35,90 €",
    "categorie": "autre",
@@ -12261,7 +12261,7 @@
     {
      "nom": "Emmental",
      "quantite": "8 tranches",
-     "promo_id": "p0885011f"
+     "promo_id": "pf98f27e5"
     },
     {
      "nom": "Beurre",
