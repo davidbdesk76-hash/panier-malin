@@ -3,7 +3,7 @@ Panier Malin - collecte automatique (GitHub Actions, sans IA)
 
 - Promos des E.Leclerc Le Houlme et Bapeaume (catalogues e.leclerc : page du magasin + API des catalogues)
 - Recettes simples choisies dans scripts/recettes_base.json selon les promos, avec leur prix de revient
-  (prix normaux estimés dans scripts/prix_reference.json, réduits pour les ingrédients en promo)
+  (prix normaux : vos tickets > moyennes Open Prices > estimations de scripts/prix_reference.json)
 - Infos du Houlme : PanneauPocket + actualités et agenda de le-houlme.fr
 
 Écrit data/panier_malin.json. Une partie qui échoue garde les données précédentes.
@@ -461,8 +461,8 @@ def quantite_unite(txt):
 
 
 def prix_normal(nom, quantite, table):
-    """Prix estimé hors promo de la quantité utilisée, ou None si inconnu."""
-    prix = table.get(nom)
+    """Prix hors promo de la quantité utilisée, ou None si inconnu."""
+    prix = table.get(nom, ({}, ""))[0]
     if not prix:
         return None
     q, unite = quantite_unite(quantite)
@@ -487,15 +487,126 @@ def coef_promo(p):
     return 1 - int(m.group(1)) / 100 if m else 1.0
 
 
+OPEN_PRICES_API = "https://prices.openfoodfacts.org/api/v1/prices"
+OPEN_PRICES_CACHE = RACINE / "data" / "prix_open_prices.json"
+OPEN_PRICES_JOURS = 7  # on ne réinterroge Open Prices qu'une fois par semaine
+
+
+def mediane(v):
+    v = sorted(v)
+    n = len(v)
+    return v[n // 2] if n % 2 else (v[n // 2 - 1] + v[n // 2]) / 2
+
+
+def prix_open_prices_tag(tag):
+    """Prix médian non promo en France pour une catégorie Open Food Facts : {'kg': x} / {'l': x} / {'piece': x}."""
+    depuis = (AUJOURDHUI - dt.timedelta(days=548)).isoformat()
+    vus = []
+    for params in ({"category_tag": tag}, {"product__categories_tags__contains": tag}):
+        r = SESSION.get(OPEN_PRICES_API, timeout=30, params={**params, "currency": "EUR", "date__gte": depuis,
+                                                             "order_by": "-date", "size": 100})
+        r.raise_for_status()
+        vus += r.json().get("items", [])
+    par = {"kg": [], "l": [], "piece": []}
+    leclerc = {"kg": [], "l": [], "piece": []}
+    for it in vus:
+        loc = it.get("location") or {}
+        if loc.get("osm_address_country_code") not in (None, "FR") or it.get("price_is_discounted"):
+            continue
+        prix = it.get("price")
+        if not isinstance(prix, (int, float)) or prix <= 0:
+            continue
+        unite, val = None, None
+        if it.get("type") == "CATEGORY":
+            if it.get("price_per") == "KILOGRAM":
+                unite, val = "kg", prix
+            elif it.get("price_per") == "UNIT":
+                unite, val = "piece", prix
+        else:
+            prod = it.get("product") or {}
+            q, u = prod.get("product_quantity"), (prod.get("product_quantity_unit") or "").lower()
+            if isinstance(q, (int, float)) and q > 0:
+                if u == "g":
+                    unite, val = "kg", prix / (q / 1000)
+                elif u == "ml":
+                    unite, val = "l", prix / (q / 1000)
+        if unite:
+            par[unite].append(val)
+            if "leclerc" in norm(loc.get("osm_brand") or loc.get("osm_name") or ""):
+                leclerc[unite].append(val)
+    res = {}
+    for unite in par:
+        source = leclerc[unite] if len(leclerc[unite]) >= 3 else par[unite]
+        if len(source) >= 3:
+            res[unite] = round(mediane(source), 2)
+    return res
+
+
+def prix_open_prices(config):
+    """Prix Open Prices par ingrédient, gardés en cache une semaine dans data/prix_open_prices.json."""
+    cache = {}
+    if OPEN_PRICES_CACHE.exists():
+        cache = json.loads(OPEN_PRICES_CACHE.read_text(encoding="utf-8"))
+        if cache.get("date", "") >= (AUJOURDHUI - dt.timedelta(days=OPEN_PRICES_JOURS)).isoformat():
+            return cache.get("prix", {})
+    print("Open Prices…")
+    par_tag, erreurs = {}, 0
+    for c in config.values():
+        tag = c["tag"]
+        if tag in par_tag:
+            continue
+        try:
+            par_tag[tag] = prix_open_prices_tag(tag)
+        except Exception as e:
+            erreurs += 1
+            par_tag[tag] = None
+            if erreurs == 3:
+                avertissements.append(f"Open Prices injoignable ({e}) : prix estimés utilisés")
+                return cache.get("prix", {})
+    prix = {}
+    for nom, c in config.items():
+        trouve = par_tag.get(c["tag"])
+        if not trouve:
+            continue
+        p = dict(trouve)
+        if "kg" in p and c.get("poids_piece_kg") and "piece" not in p:
+            p["piece"] = round(p["kg"] * c["poids_piece_kg"], 2)
+        prix[nom] = p
+    print(f"  {len(prix)} ingrédients avec un prix Open Prices")
+    OPEN_PRICES_CACHE.parent.mkdir(exist_ok=True)
+    OPEN_PRICES_CACHE.write_text(json.dumps({"date": AUJOURDHUI.isoformat(), "prix": prix}, ensure_ascii=False, indent=1),
+                                 encoding="utf-8")
+    return prix
+
+
+def table_des_prix():
+    """Prix normaux par ingrédient + d'où vient chaque prix : mes_prix > Open Prices > estimation."""
+    ref = json.loads((RACINE / "scripts" / "prix_reference.json").read_text(encoding="utf-8"))
+    table = {nom: (dict(p), "estimation") for nom, p in ref["prix"].items()}
+    for nom, p in prix_open_prices(ref.get("open_prices", {})).items():
+        estim = table.get(nom, ({}, ""))[0]
+        # garde-fou : un prix Open Prices très loin de l'estimation est sans doute un autre produit
+        bons = {u: v for u, v in p.items() if u not in estim or 0.4 * estim[u] <= v <= 2.5 * estim[u]}
+        if bons:
+            table[nom] = ({**estim, **bons}, "open_prices")
+    for nom, p in (ref.get("mes_prix") or {}).items():
+        table[nom] = ({**table.get(nom, ({}, ""))[0], **p}, "mes_prix")
+    return table
+
+
 def tete_produit(nom):
     """Début du nom du produit, sans la marque ni le nombre : « 8 saucisses de toulouse — X » -> « saucisse de toulouse »."""
     t = singulier(nom.split(" — ")[0])
     return re.sub(r"^(lot de |x ?)?\d+( x)? ", "", t)
 
 
+NOTE_PRIX = ("Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices "
+             "ou estimations), sauf ceux relevés sur vos tickets de caisse.")
+
+
 def choisir_recettes(promos, n=10):
     base = json.loads((RACINE / "scripts" / "recettes_base.json").read_text(encoding="utf-8"))
-    table = json.loads((RACINE / "scripts" / "prix_reference.json").read_text(encoding="utf-8"))["prix"]
+    table = table_des_prix()
     base = [r for r in base if r["temps_min"] <= RECETTE_TEMPS_MAX and len(r["ingredients"]) <= RECETTE_INGREDIENTS_MAX
             and len(r["etapes"]) <= RECETTE_ETAPES_MAX]
     cuisine = [p for p in promos if p["categorie"] in CATEGORIES_CUISINE and not PAS_INGREDIENT.search(norm(p["nom"]))]
@@ -524,8 +635,11 @@ def choisir_recettes(promos, n=10):
                 total_sans_promo += normal
             if promo:
                 utilises.add(promo["id"])
+            source = "promo" if promo else table.get(ing["nom"], ({}, "estimation"))[1]
             ingredients.append({"nom": ing["nom"], "quantite": ing["quantite"], "promo_id": promo["id"] if promo else "",
-                                "en_promo": bool(promo), "prix": fmt_prix(cout) if normal is not None else ""})
+                                "en_promo": bool(promo), "prix": fmt_prix(cout) if normal is not None else "",
+                                "prix_approximatif": source != "mes_prix",
+                                "prix_source": source})
         nb = len(utilises)
         if nb and complet:
             candidates.append((nb, total_sans_promo - total, total, r, ingredients))
@@ -541,6 +655,8 @@ def choisir_recettes(promos, n=10):
                       "personnes": r["personnes"], "nb_promos": nb,
                       "prix_revient": fmt_prix(total), "prix_par_personne": fmt_prix(total / r["personnes"]),
                       "economie": fmt_prix(eco) if eco >= 0.05 else "",
+                      "prix_approximatif": any(i["prix_approximatif"] for i in ings),
+                      "note_prix": NOTE_PRIX,
                       "ingredients": ings, "etapes": r["etapes"]})
         if len(choix) >= n:
             break

@@ -1,5 +1,6 @@
 {
- "_explication": "Prix normaux estimés (hors promo) en euros, par kg, par litre (l), par pièce ou par unité de cuisine (gousse, tranche, cas = cuillère à soupe, cac = cuillère à café, pot, boite, bocal, bouquet, pincee, grappe). Ils servent à calculer le prix de revient des recettes : modifiez-les librement.",
+ "_explication": "Prix normaux (hors promo) en euros, par kg, par litre (l), par pièce ou par unité de cuisine (gousse, tranche, cas = cuillère à soupe, cac = cuillère à café, pot, boite, bocal, bouquet, pincee, grappe). Ordre de priorité : 1) « mes_prix » (vos prix relevés sur vos tickets de caisse, même format que « prix »), 2) moyenne Open Prices (data/prix_open_prices.json, mise à jour chaque semaine), 3) « prix » (estimations). Exemple de mes_prix : \"Bœuf haché\": {\"kg\": 11.90}.",
+ "mes_prix": {},
  "prix": {
   "Ail": {
    "gousse": 0.1
@@ -380,6 +381,217 @@
   },
   "Œufs": {
    "piece": 0.3
+  }
+ },
+ "open_prices": {
+  "Pâtes": {
+   "tag": "en:dry-pastas"
+  },
+  "Spaghetti": {
+   "tag": "en:spaghetti"
+  },
+  "Tagliatelles": {
+   "tag": "en:tagliatelle"
+  },
+  "Crozets ou pâtes": {
+   "tag": "en:dry-pastas"
+  },
+  "Feuilles de lasagne": {
+   "tag": "en:lasagna-sheets"
+  },
+  "Riz": {
+   "tag": "en:rices"
+  },
+  "Riz rond": {
+   "tag": "en:rices"
+  },
+  "Riz arborio": {
+   "tag": "en:risotto-rices"
+  },
+  "Semoule": {
+   "tag": "en:semolinas"
+  },
+  "Farine": {
+   "tag": "en:wheat-flours"
+  },
+  "Sucre": {
+   "tag": "en:white-sugars"
+  },
+  "Lait": {
+   "tag": "en:semi-skimmed-milks"
+  },
+  "Crème fraîche": {
+   "tag": "en:creme-fraiche"
+  },
+  "Crème": {
+   "tag": "en:creams"
+  },
+  "Beurre": {
+   "tag": "en:butters"
+  },
+  "Emmental râpé": {
+   "tag": "en:grated-cheese"
+  },
+  "Parmesan": {
+   "tag": "en:parmigiano-reggiano"
+  },
+  "Mozzarella": {
+   "tag": "en:mozzarella"
+  },
+  "Fromage à raclette": {
+   "tag": "en:raclette"
+  },
+  "Fromage frais": {
+   "tag": "en:fresh-cheeses"
+  },
+  "Lardons": {
+   "tag": "en:lardons"
+  },
+  "Bœuf haché": {
+   "tag": "en:minced-beef"
+  },
+  "Filets de poulet": {
+   "tag": "en:chicken-breasts"
+  },
+  "Escalopes de dinde": {
+   "tag": "en:turkey-cutlets"
+  },
+  "Tomates concassées": {
+   "tag": "en:crushed-tomatoes"
+  },
+  "Coulis de tomate": {
+   "tag": "en:tomato-sauces"
+  },
+  "Sauce tomate": {
+   "tag": "en:tomato-sauces"
+  },
+  "Lentilles": {
+   "tag": "en:lentils"
+  },
+  "Pois chiches": {
+   "tag": "en:chickpeas"
+  },
+  "Haricots rouges": {
+   "tag": "en:red-kidney-beans"
+  },
+  "Lait de coco": {
+   "tag": "en:coconut-milks"
+  },
+  "Haricots verts": {
+   "tag": "en:green-beans"
+  },
+  "Chapelure": {
+   "tag": "en:breadcrumbs"
+  },
+  "Olives": {
+   "tag": "en:olives"
+  },
+  "Pommes de terre": {
+   "tag": "en:potatoes",
+   "poids_piece_kg": 0.15
+  },
+  "Courgettes": {
+   "tag": "en:zucchini",
+   "poids_piece_kg": 0.25
+  },
+  "Tomates cerises": {
+   "tag": "en:cherry-tomatoes"
+  },
+  "Champignons": {
+   "tag": "en:mushrooms"
+  },
+  "Champignons de Paris": {
+   "tag": "en:mushrooms"
+  },
+  "Carotte": {
+   "tag": "en:carrots",
+   "poids_piece_kg": 0.1
+  },
+  "Carottes": {
+   "tag": "en:carrots",
+   "poids_piece_kg": 0.1
+  },
+  "Oignon": {
+   "tag": "en:onions",
+   "poids_piece_kg": 0.12
+  },
+  "Oignons": {
+   "tag": "en:onions",
+   "poids_piece_kg": 0.12
+  },
+  "Tomates": {
+   "tag": "en:tomatoes",
+   "poids_piece_kg": 0.12
+  },
+  "Pommes": {
+   "tag": "en:apples",
+   "poids_piece_kg": 0.15
+  },
+  "Poires": {
+   "tag": "en:pears",
+   "poids_piece_kg": 0.15
+  },
+  "Bananes": {
+   "tag": "en:bananas",
+   "poids_piece_kg": 0.15
+  },
+  "Poireaux": {
+   "tag": "en:leeks",
+   "poids_piece_kg": 0.2
+  },
+  "Poivron": {
+   "tag": "en:bell-peppers",
+   "poids_piece_kg": 0.18
+  },
+  "Poivrons": {
+   "tag": "en:bell-peppers",
+   "poids_piece_kg": 0.18
+  },
+  "Kiwis": {
+   "tag": "en:kiwis",
+   "poids_piece_kg": 0.08
+  },
+  "Oranges": {
+   "tag": "en:oranges",
+   "poids_piece_kg": 0.2
+  },
+  "Citron": {
+   "tag": "en:lemons",
+   "poids_piece_kg": 0.12
+  },
+  "Endives": {
+   "tag": "en:endives",
+   "poids_piece_kg": 0.12
+  },
+  "Navet": {
+   "tag": "en:turnips",
+   "poids_piece_kg": 0.15
+  },
+  "Navets": {
+   "tag": "en:turnips",
+   "poids_piece_kg": 0.15
+  },
+  "Échalotes": {
+   "tag": "en:shallots",
+   "poids_piece_kg": 0.03
+  },
+  "Aubergine": {
+   "tag": "en:eggplants",
+   "poids_piece_kg": 0.3
+  },
+  "Potiron ou butternut": {
+   "tag": "en:pumpkins"
+  },
+  "Fruits (cerises, poires, pommes)": {
+   "tag": "en:apples"
+  },
+  "Brocoli": {
+   "tag": "en:broccoli",
+   "poids_piece_kg": 0.4
+  },
+  "Chou-fleur": {
+   "tag": "en:cauliflowers",
+   "poids_piece_kg": 0.8
   }
  }
 }
