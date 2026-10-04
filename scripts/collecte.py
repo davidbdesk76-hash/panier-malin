@@ -490,6 +490,7 @@ def coef_promo(p):
 OPEN_PRICES_API = "https://prices.openfoodfacts.org/api/v1/prices"
 OPEN_PRICES_CACHE = RACINE / "data" / "prix_open_prices.json"
 OPEN_PRICES_JOURS = 7  # on ne réinterroge Open Prices qu'une fois par semaine
+OPEN_PRICES_VERSION = 2  # à augmenter quand le calcul change, pour forcer une mise à jour
 
 
 def mediane(v):
@@ -509,7 +510,12 @@ def prix_open_prices_tag(tag):
         vus += r.json().get("items", [])
     par = {"kg": [], "l": [], "piece": []}
     leclerc = {"kg": [], "l": [], "piece": []}
+    # produit frais (prix au kg relevé en rayon) : on ignore les produits emballés de la même catégorie
+    # (« oignons frits », « jus de citron »…)
+    frais = sum(1 for it in vus if it.get("type") == "CATEGORY" and it.get("price_per") == "KILOGRAM") >= 3
     for it in vus:
+        if frais and it.get("type") != "CATEGORY":
+            continue
         loc = it.get("location") or {}
         if loc.get("osm_address_country_code") not in (None, "FR") or it.get("price_is_discounted"):
             continue
@@ -520,7 +526,7 @@ def prix_open_prices_tag(tag):
         if it.get("type") == "CATEGORY":
             if it.get("price_per") == "KILOGRAM":
                 unite, val = "kg", prix
-            elif it.get("price_per") == "UNIT":
+            elif it.get("price_per") == "UNIT" and not frais:
                 unite, val = "piece", prix
         else:
             prod = it.get("product") or {}
@@ -547,7 +553,8 @@ def prix_open_prices(config):
     cache = {}
     if OPEN_PRICES_CACHE.exists():
         cache = json.loads(OPEN_PRICES_CACHE.read_text(encoding="utf-8"))
-        if cache.get("date", "") >= (AUJOURDHUI - dt.timedelta(days=OPEN_PRICES_JOURS)).isoformat():
+        if (cache.get("version") == OPEN_PRICES_VERSION
+                and cache.get("date", "") >= (AUJOURDHUI - dt.timedelta(days=OPEN_PRICES_JOURS)).isoformat()):
             return cache.get("prix", {})
     print("Open Prices…")
     par_tag, erreurs = {}, 0
@@ -569,12 +576,12 @@ def prix_open_prices(config):
         if not trouve:
             continue
         p = dict(trouve)
-        if "kg" in p and c.get("poids_piece_kg") and "piece" not in p:
+        if "kg" in p and c.get("poids_piece_kg"):
             p["piece"] = round(p["kg"] * c["poids_piece_kg"], 2)
         prix[nom] = p
     print(f"  {len(prix)} ingrédients avec un prix Open Prices")
     OPEN_PRICES_CACHE.parent.mkdir(exist_ok=True)
-    OPEN_PRICES_CACHE.write_text(json.dumps({"date": AUJOURDHUI.isoformat(), "prix": prix}, ensure_ascii=False, indent=1),
+    OPEN_PRICES_CACHE.write_text(json.dumps({"version": OPEN_PRICES_VERSION, "date": AUJOURDHUI.isoformat(), "prix": prix}, ensure_ascii=False, indent=1),
                                  encoding="utf-8")
     return prix
 
@@ -582,16 +589,31 @@ def prix_open_prices(config):
 def table_des_prix():
     """Prix normaux par ingrédient + d'où vient chaque prix : mes_prix > Open Prices > estimation."""
     ref = json.loads((RACINE / "scripts" / "prix_reference.json").read_text(encoding="utf-8"))
-    table = {nom: (dict(p), "estimation") for nom, p in ref["prix"].items()}
-    for nom, p in prix_open_prices(ref.get("open_prices", {})).items():
-        estim = table.get(nom, ({}, ""))[0]
+    config = ref.get("open_prices", {})
+    # table[nom] = (prix par unité, source par unité)
+    table = {nom: (dict(p), {u: "estimation" for u in p}) for nom, p in ref["prix"].items()}
+    for nom, p in prix_open_prices(config).items():
+        estim = dict(table.get(nom, ({}, {}))[0])
+        poids = config.get(nom, {}).get("poids_piece_kg")
+        if "kg" not in estim and "piece" in estim and poids:
+            estim["kg"] = estim["piece"] / poids
         # garde-fou : un prix Open Prices très loin de l'estimation est sans doute un autre produit
-        bons = {u: v for u, v in p.items() if u not in estim or 0.4 * estim[u] <= v <= 2.5 * estim[u]}
-        if bons:
-            table[nom] = ({**estim, **bons}, "open_prices")
+        for u, v in p.items():
+            if u in estim and 0.5 * estim[u] <= v <= 2.0 * estim[u]:
+                table[nom][0][u] = v
+                table[nom][1][u] = "open_prices"
     for nom, p in (ref.get("mes_prix") or {}).items():
-        table[nom] = ({**table.get(nom, ({}, ""))[0], **p}, "mes_prix")
+        prix, src = table.get(nom, ({}, {}))
+        table[nom] = ({**prix, **p}, {**src, **{u: "mes_prix" for u in p}})
     return table
+
+
+def source_prix(nom, quantite, table):
+    prix, src = table.get(nom, ({}, {}))
+    q, unite = quantite_unite(quantite)
+    if unite in src:
+        return src[unite]
+    return next(iter(src.values()), "estimation") if len(prix) == 1 else "estimation"
 
 
 def tete_produit(nom):
@@ -635,7 +657,7 @@ def choisir_recettes(promos, n=10):
                 total_sans_promo += normal
             if promo:
                 utilises.add(promo["id"])
-            source = "promo" if promo else table.get(ing["nom"], ({}, "estimation"))[1]
+            source = "promo" if promo else source_prix(ing["nom"], ing["quantite"], table)
             ingredients.append({"nom": ing["nom"], "quantite": ing["quantite"], "promo_id": promo["id"] if promo else "",
                                 "en_promo": bool(promo), "prix": fmt_prix(cout) if normal is not None else "",
                                 "prix_approximatif": source != "mes_prix",
