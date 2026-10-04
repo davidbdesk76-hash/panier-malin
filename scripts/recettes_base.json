@@ -174,7 +174,10 @@
     "nom": "Lait",
     "quantite": "20 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -235,9 +238,9 @@
     "quantite": "800 g",
     "mots": [
      "tomates concassees",
-     "coulis de tomate",
-     "sauce tomate",
-     "tomate"
+     "tomate concassee",
+     "pulpe de tomate",
+     "tomates pelees"
     ]
    },
    {
@@ -293,16 +296,19 @@
     "nom": "Coulis de tomate",
     "quantite": "70 cl",
     "mots": [
-     "coulis",
+     "coulis de tomate",
      "sauce tomate",
-     "tomate"
+     "passata"
     ]
    },
    {
     "nom": "Lait",
     "quantite": "50 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -364,7 +370,9 @@
     "quantite": "400 g",
     "mots": [
      "tomates concassees",
-     "tomate"
+     "tomate concassee",
+     "pulpe de tomate",
+     "tomates pelees"
     ]
    },
    {
@@ -430,7 +438,11 @@
    {
     "nom": "Huile",
     "quantite": "2 c. à soupe",
-    "mots": []
+    "mots": [
+     "huile de tournesol",
+     "huile de colza",
+     "huile vegetale"
+    ]
    }
   ],
   "etapes": [
@@ -613,7 +625,10 @@
     "nom": "Lait",
     "quantite": "20 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -669,7 +684,10 @@
     "nom": "Lait",
     "quantite": "20 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -803,8 +821,7 @@
     "nom": "Reblochon",
     "quantite": "1",
     "mots": [
-     "reblochon",
-     "raclette"
+     "reblochon"
     ]
    },
    {
@@ -939,7 +956,9 @@
     "nom": "Pavés de saumon",
     "quantite": "4",
     "mots": [
-     "saumon"
+     "pave de saumon",
+     "saumon frais",
+     "filet de saumon"
     ]
    },
    {
@@ -979,7 +998,9 @@
     "nom": "Saumon",
     "quantite": "300 g",
     "mots": [
-     "saumon"
+     "pave de saumon",
+     "saumon frais",
+     "filet de saumon"
     ]
    },
    {
@@ -1099,7 +1120,10 @@
     "nom": "Lait",
     "quantite": "20 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    }
   ],
@@ -1315,7 +1339,10 @@
     "nom": "Lait",
     "quantite": "40 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -1569,7 +1596,10 @@
     "nom": "Lait",
     "quantite": "50 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -1619,7 +1649,10 @@
     "nom": "Lait",
     "quantite": "50 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -1861,8 +1894,8 @@
     "quantite": "20 cl",
     "mots": [
      "sauce tomate",
-     "coulis",
-     "tomate"
+     "coulis de tomate",
+     "passata"
     ]
    },
    {
@@ -2468,7 +2501,10 @@
     "nom": "Lait",
     "quantite": "20 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -2503,6 +2539,7 @@
     "nom": "Moutarde à l'ancienne",
     "quantite": "2 c. à soupe",
     "mots": [
+     "moutarde a l'ancienne",
      "moutarde"
     ]
    },
@@ -2639,7 +2676,10 @@
     "nom": "Lait",
     "quantite": "40 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -2742,7 +2782,7 @@
     "nom": "Yaourt nature",
     "quantite": "1 pot",
     "mots": [
-     "yaourt"
+     "yaourt nature"
     ]
    },
    {
@@ -2771,7 +2811,9 @@
     "nom": "Huile",
     "quantite": "1/2 pot",
     "mots": [
-     "huile"
+     "huile de tournesol",
+     "huile de colza",
+     "huile vegetale"
     ]
    }
   ],
@@ -2805,7 +2847,10 @@
     "nom": "Lait",
     "quantite": "50 cl",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {
@@ -2837,7 +2882,10 @@
     "nom": "Lait",
     "quantite": "1 l",
     "mots": [
-     "lait"
+     "lait demi",
+     "lait entier",
+     "lait ecreme",
+     "lait uht"
     ]
    },
    {

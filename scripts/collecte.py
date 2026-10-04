@@ -2,7 +2,8 @@
 Panier Malin - collecte automatique (GitHub Actions, sans IA)
 
 - Promos des E.Leclerc Le Houlme et Bapeaume (catalogues e.leclerc : page du magasin + API des catalogues)
-- Recettes choisies dans scripts/recettes_base.json selon les promos
+- Recettes simples choisies dans scripts/recettes_base.json selon les promos, avec leur prix de revient
+  (prix normaux estimés dans scripts/prix_reference.json, réduits pour les ingrédients en promo)
 - Infos du Houlme : PanneauPocket + actualités et agenda de le-houlme.fr
 
 Écrit data/panier_malin.json. Une partie qui échoue garde les données précédentes.
@@ -424,36 +425,123 @@ def lire_promos(catalogues):
 
 # ------------------------------------------------------------------ recettes
 
+# Recettes « simples » : rapides, peu d'ingrédients, peu d'étapes
+RECETTE_TEMPS_MAX = 45
+RECETTE_INGREDIENTS_MAX = 6
+RECETTE_ETAPES_MAX = 5
+# produits en promo à ne jamais prendre comme ingrédient (plats tout prêts, desserts, animaux…)
+PAS_INGREDIENT = re.compile(r"\b(dessert|chocolat|snack|menu|patee|croquette|chat|chien|tous mes amis|biscuit|barre|"
+                            r"compote|riz au lait|pasta salade|danonino|yaourt aux fruits|muffin|sandwich|croque|pizz|"
+                            r"farci|ravioli|cups|nouilles|tartiner|creme dessert|entremets)", re.I)
+
+UNITES = [  # (motif, unité du tableau de prix, facteur)
+    (r"kg", "kg", 1), (r"g", "kg", 0.001), (r"l", "l", 1), (r"cl", "l", 0.01), (r"ml", "l", 0.001),
+    (r"gousses?", "gousse", 1), (r"tranches?", "tranche", 1), (r"c\. ?a soupe", "cas", 1), (r"c\. ?a cafe", "cac", 1),
+    (r"pots?", "pot", 1), (r"boites?", "boite", 1), (r"bocal", "bocal", 1), (r"bouquet", "bouquet", 1),
+    (r"pincee", "pincee", 1), (r"grappe", "grappe", 1),
+]
+
+
+def quantite_unite(txt):
+    """'600 g' -> (0.6, 'kg') ; '1/2 pot' -> (0.5, 'pot') ; '3' -> (3, 'piece')."""
+    t = norm(txt).replace(" 2 ", " ")
+    brut = unicodedata.normalize("NFKD", txt).encode("ascii", "ignore").decode().lower()
+    m = re.match(r"\s*(\d+)\s*/\s*(\d+)\s*(.*)", brut) or re.match(r"\s*(\d+(?:[.,]\d+)?)\s*(.*)", brut)
+    if not m:
+        return 1.0, "piece"
+    if len(m.groups()) == 3:
+        q, reste = int(m.group(1)) / int(m.group(2)), m.group(3)
+    else:
+        q, reste = float(m.group(1).replace(",", ".")), m.group(2)
+    reste = reste.strip()
+    for motif, unite, f in UNITES:
+        if re.fullmatch(motif, reste):
+            return q * f, unite
+    return q, "piece"
+
+
+def prix_normal(nom, quantite, table):
+    """Prix estimé hors promo de la quantité utilisée, ou None si inconnu."""
+    prix = table.get(nom)
+    if not prix:
+        return None
+    q, unite = quantite_unite(quantite)
+    if unite in prix:
+        return q * prix[unite]
+    if unite == "piece" and len(prix) == 1:  # « 1 mozzarella », « 1 boîte »…
+        return q * next(iter(prix.values()))
+    return None
+
+
+def coef_promo(p):
+    """Prix promo / prix normal pour la promo, si on peut le savoir."""
+    try:
+        if p.get("prix_avant"):
+            a = float(p["prix_avant"].replace(" €", "").replace(",", "."))
+            n = float(p["prix"].replace(" €", "").replace(",", "."))
+            if a > n > 0:
+                return n / a
+    except ValueError:
+        pass
+    m = re.search(r"-\s?(\d{1,2})\s?%", p.get("remise") or "")
+    return 1 - int(m.group(1)) / 100 if m else 1.0
+
+
+def tete_produit(nom):
+    """Début du nom du produit, sans la marque ni le nombre : « 8 saucisses de toulouse — X » -> « saucisse de toulouse »."""
+    t = singulier(nom.split(" — ")[0])
+    return re.sub(r"^(lot de |x ?)?\d+( x)? ", "", t)
+
+
 def choisir_recettes(promos, n=10):
     base = json.loads((RACINE / "scripts" / "recettes_base.json").read_text(encoding="utf-8"))
-    cuisine = [p for p in promos if p["categorie"] in CATEGORIES_CUISINE]
-    index = [(" " + singulier(p["nom"]) + " ", p) for p in cuisine]
+    table = json.loads((RACINE / "scripts" / "prix_reference.json").read_text(encoding="utf-8"))["prix"]
+    base = [r for r in base if r["temps_min"] <= RECETTE_TEMPS_MAX and len(r["ingredients"]) <= RECETTE_INGREDIENTS_MAX
+            and len(r["etapes"]) <= RECETTE_ETAPES_MAX]
+    cuisine = [p for p in promos if p["categorie"] in CATEGORIES_CUISINE and not PAS_INGREDIENT.search(norm(p["nom"]))]
+    index = [(" " + tete_produit(p["nom"]) + " ", p) for p in cuisine]
     candidates = []
     for r in base:
         ingredients, utilises = [], set()
+        total = total_sans_promo = 0.0
+        complet = True
         for ing in r["ingredients"]:
             promo = None
             for mot in ing.get("mots", []):
                 cle = " " + singulier(mot) + " "
-                promo = next((p for n_, p in index if cle in n_ and p["id"] not in utilises
+                # le produit doit COMMENCER par l'ingrédient (« Oignons jaunes » oui, « Boudin aux oignons » non)
+                promo = next((p for n_, p in index if n_.startswith(cle) and p["id"] not in utilises
                               and not (" pomme de terre" in n_ and "terre" not in cle)), None)
                 if promo:
                     break
+            normal = prix_normal(ing["nom"], ing["quantite"], table)
+            if normal is None:
+                complet = False
+                cout = 0.0
+            else:
+                cout = normal * (coef_promo(promo) if promo else 1.0)
+                total += cout
+                total_sans_promo += normal
             if promo:
                 utilises.add(promo["id"])
-            ingredients.append({"nom": ing["nom"], "quantite": ing["quantite"], "promo_id": promo["id"] if promo else ""})
+            ingredients.append({"nom": ing["nom"], "quantite": ing["quantite"], "promo_id": promo["id"] if promo else "",
+                                "en_promo": bool(promo), "prix": fmt_prix(cout) if normal is not None else ""})
         nb = len(utilises)
-        if nb:
-            candidates.append((nb, r, ingredients))
-    candidates.sort(key=lambda x: (-x[0], x[1]["titre"]))
+        if nb and complet:
+            candidates.append((nb, total_sans_promo - total, total, r, ingredients))
+    # d'abord les recettes avec le plus d'ingrédients en promo, puis la plus grosse économie
+    candidates.sort(key=lambda x: (-x[0], -x[1], x[3]["titre"]))
     choix, deja = [], {}
-    for nb, r, ings in candidates:
+    for nb, eco, total, r, ings in candidates:
         principal = next(i["promo_id"] for i in ings if i["promo_id"])
         if deja.get(principal, 0) >= 2:  # variété : pas 5 recettes avec le même produit
             continue
         deja[principal] = deja.get(principal, 0) + 1
         choix.append({"id": "r" + court_id(r["titre"]), "titre": r["titre"], "temps_min": r["temps_min"],
-                      "personnes": r["personnes"], "nb_promos": nb, "ingredients": ings, "etapes": r["etapes"]})
+                      "personnes": r["personnes"], "nb_promos": nb,
+                      "prix_revient": fmt_prix(total), "prix_par_personne": fmt_prix(total / r["personnes"]),
+                      "economie": fmt_prix(eco) if eco >= 0.05 else "",
+                      "ingredients": ings, "etapes": r["etapes"]})
         if len(choix) >= n:
             break
     return choix
@@ -637,6 +725,7 @@ def main():
         print("  catalogues inchangés")
     # retirer les promos terminées
     data["promos"] = [p for p in data["promos"] if not p.get("au") or p["au"] >= AUJOURDHUI.isoformat()]
+    data["recettes"] = choisir_recettes(data["promos"]) if data["promos"] else data["recettes"]
 
     print("Ma ville…")
     ville = collecter_ville()
