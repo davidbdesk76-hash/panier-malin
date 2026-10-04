@@ -37,6 +37,7 @@ jobs:
         run: |
           git config user.name "panier-malin-bot"
           git config user.email "actions@users.noreply.github.com"
+          mkdir -p data debug
           git add -A data debug
           if git diff --cached --quiet; then
             echo "Rien de nouveau"
