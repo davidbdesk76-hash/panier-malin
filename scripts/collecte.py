@@ -330,16 +330,16 @@ def libelle_remise(code):
     c = norm(code)
     if not c or c.startswith("prix simple"):
         return ""
-    if c.startswith("tel"):
-        return "Avantage ticket E.Leclerc"
+    if c.startswith("tel") or c.startswith("avantage ticket") or c == "ticket e leclerc":
+        return "Ticket E.Leclerc"
     if c.startswith("brii"):
         return "Remise immédiate"
     if "offert" in c and re.search(r"\d", code):
         return propre(code)
     if "offert" in c:
         return "Produits offerts"
-    if "xeme" in c or "eme produit" in c:
-        return "Remise sur le 2e produit ou plus"
+    if "xeme" in c or "eme produit" in c or "2e produit" in c:
+        return "2e produit remisé"
     if re.search(r"\bX\b|X%|Y\b", code):
         return ""
     return propre(code)
