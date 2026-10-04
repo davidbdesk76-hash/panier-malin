@@ -223,7 +223,7 @@ def produits_texte(soup):
 
 
 def remise_calculee(p):
-    if p["remise"] or not p["prix_avant"]:
+    if not p["prix_avant"] or (p["remise"] and "%" in p["remise"]):
         return p["remise"]
     a = float(p["prix_avant"].replace(" €", "").replace(",", "."))
     n = float(p["prix"].replace(" €", "").replace(",", "."))
@@ -231,7 +231,7 @@ def remise_calculee(p):
 
 
 CATS = [
-    ("surgeles", ["surgele", "glace", "glaces", "cornet", "frites surgelees", "picard"]),
+    ("surgeles", ["surgele", "surgelee", "glace", "glaces", "cornet", "frites surgelees", "picard"]),
     ("hygiene_maison", ["lessive", "shampooing", "gel douche", "dentifrice", "papier toilette", "essuie tout", "couches",
                         "deodorant", "liquide vaisselle", "nettoyant", "eponge", "mouchoirs", "rasoir", "adoucissant",
                         "javel", "sac poubelle", "pastilles lave", "savon", "coton", "litiere", "croquettes", "patee"]),
@@ -323,6 +323,27 @@ def nombre(v):
         return None
 
 
+def libelle_remise(code):
+    """L'API donne un type d'offre (« Prix simple », « TEL % », « -X% sur le Xeme produit »…), pas un texte prêt
+    à afficher : on le traduit. La remise en % est recalculée avec l'ancien prix quand il est connu."""
+    c = norm(code)
+    if not c or c.startswith("prix simple"):
+        return ""
+    if c.startswith("tel"):
+        return "Avantage ticket E.Leclerc"
+    if c.startswith("brii"):
+        return "Remise immédiate"
+    if "offert" in c and re.search(r"\d", code):
+        return propre(code)
+    if "offert" in c:
+        return "Produits offerts"
+    if "xeme" in c or "eme produit" in c:
+        return "Remise sur le 2e produit ou plus"
+    if re.search(r"\bX\b|X%|Y\b", code):
+        return ""
+    return propre(code)
+
+
 def produits_catalogue(cat):
     """Produits d'un catalogue, lus directement dans l'API JSON des catalogues e.leclerc."""
     r = SESSION.get(f"{CATALOGUE_API}/{cat['op']}/{cat['shop']}/products", timeout=40, headers={
@@ -347,7 +368,7 @@ def produits_catalogue(cat):
         nom = propre(" — ".join(x for x in [p.get("name"), p.get("brand")] if x))
         produits.append({"nom": nom, "prix": fmt_prix(prix),
                          "prix_avant": fmt_prix(avant) if avant and avant > prix else "",
-                         "remise": propre(p.get("discountLabel") or ""),
+                         "remise": libelle_remise(p.get("discountLabel") or ""),
                          "theme": propre(p.get("thematic") or "")})
     if not produits:
         sauver_debug(f"catalogue_{cat['op']}_{cat['shop']}", r.text)
@@ -602,7 +623,9 @@ def main():
     vus = sorted([{"numero": c["numero"], "magasins": sorted(c["magasins"]), "du": c["du"], "au": c["au"]}
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
-    if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif):
+    # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
+    codes_bruts = any(libelle_remise(p.get("remise", "")) != p.get("remise", "") for p in data["promos"])
+    if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
         promos = lire_promos(catalogues)
         if promos:
             data["promos"], data["catalogues_vus"] = promos, vus
