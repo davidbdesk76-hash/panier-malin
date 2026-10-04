@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-04T20:47",
+ "genere_le": "2026-10-04T21:03",
  "promos_maj_le": "2026-10-04T20:36",
  "magasins": [
   {
@@ -12153,37 +12153,47 @@
    "temps_min": 15,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "6,25 €",
-   "prix_par_personne": "1,56 €",
-   "economie": "0,22 €",
+   "prix_revient": "6,88 €",
+   "prix_par_personne": "1,72 €",
+   "economie": "0,17 €",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Pâtes",
      "quantite": "400 g",
      "promo_id": "p4910f764",
      "en_promo": true,
-     "prix": "0,50 €"
+     "prix": "0,39 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Pesto",
      "quantite": "1 pot",
      "promo_id": "",
      "en_promo": false,
-     "prix": "2,50 €"
+     "prix": "2,50 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Tomates cerises",
      "quantite": "250 g",
      "promo_id": "p847bd0a4",
      "en_promo": true,
-     "prix": "1,75 €"
+     "prix": "2,49 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Mozzarella",
      "quantite": "1",
      "promo_id": "p01c77d7c",
      "en_promo": true,
-     "prix": "1,50 €"
+     "prix": "1,50 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     }
    ],
    "etapes": [
@@ -12197,37 +12207,47 @@
    "temps_min": 40,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "14,24 €",
-   "prix_par_personne": "3,56 €",
-   "economie": "0,36 €",
+   "prix_revient": "14,44 €",
+   "prix_par_personne": "3,61 €",
+   "economie": "0,45 €",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Filet mignon de porc",
      "quantite": "800 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "12,00 €"
+     "prix": "12,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Moutarde à l'ancienne",
      "quantite": "2 c. à soupe",
      "promo_id": "p7cce58cf",
      "en_promo": true,
-     "prix": "0,20 €"
+     "prix": "0,20 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Crème fraîche",
      "quantite": "20 cl",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,20 €"
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Tagliatelles",
      "quantite": "400 g",
      "promo_id": "p4910f764",
      "en_promo": true,
-     "prix": "0,84 €"
+     "prix": "1,04 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     }
    ],
    "etapes": [
@@ -12242,51 +12262,65 @@
    "temps_min": 40,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "10,33 €",
-   "prix_par_personne": "2,58 €",
-   "economie": "0,27 €",
+   "prix_revient": "10,58 €",
+   "prix_par_personne": "2,64 €",
+   "economie": "0,23 €",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Bœuf haché",
      "quantite": "500 g",
      "promo_id": "p5d540088",
      "en_promo": true,
-     "prix": "6,00 €"
+     "prix": "6,00 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Spaghetti",
      "quantite": "500 g",
      "promo_id": "p4910f764",
      "en_promo": true,
-     "prix": "0,63 €"
+     "prix": "0,54 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Tomates concassées",
      "quantite": "800 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "2,00 €"
+     "prix": "2,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Carotte",
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,20 €"
+     "prix": "0,21 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Oignon",
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,25 €"
+     "prix": "0,25 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Parmesan",
      "quantite": "50 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,25 €"
+     "prix": "1,58 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -12301,37 +12335,47 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "4,60 €",
-   "prix_par_personne": "1,15 €",
-   "economie": "0,22 €",
+   "prix_revient": "4,40 €",
+   "prix_par_personne": "1,10 €",
+   "economie": "0,17 €",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Pâtes",
      "quantite": "400 g",
      "promo_id": "p4910f764",
      "en_promo": true,
-     "prix": "0,50 €"
+     "prix": "0,39 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Jambon blanc",
      "quantite": "4 tranches",
      "promo_id": "pb9cb1507",
      "en_promo": true,
-     "prix": "2,00 €"
+     "prix": "2,00 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Crème fraîche",
      "quantite": "20 cl",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,20 €"
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Emmental râpé",
      "quantite": "100 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,90 €"
+     "prix": "0,82 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -12346,44 +12390,56 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "9,20 €",
-   "prix_par_personne": "2,30 €",
+   "prix_revient": "8,82 €",
+   "prix_par_personne": "2,20 €",
    "economie": "",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Pâte à pizza",
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "3,00 €"
+     "prix": "3,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Sauce tomate",
      "quantite": "20 cl",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,80 €"
+     "prix": "0,80 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Mozzarella",
      "quantite": "250 g",
      "promo_id": "p01c77d7c",
      "en_promo": true,
-     "prix": "2,50 €"
+     "prix": "2,38 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Jambon",
      "quantite": "4 tranches",
      "promo_id": "pb9cb1507",
      "en_promo": true,
-     "prix": "2,00 €"
+     "prix": "2,00 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Champignons",
      "quantite": "150 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,90 €"
+     "prix": "0,64 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -12398,37 +12454,47 @@
    "temps_min": 20,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "22,32 €",
-   "prix_par_personne": "5,58 €",
+   "prix_revient": "24,08 €",
+   "prix_par_personne": "6,02 €",
    "economie": "",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Fromage à raclette",
      "quantite": "800 g",
      "promo_id": "pfed8251e",
      "en_promo": true,
-     "prix": "11,20 €"
+     "prix": "10,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Pommes de terre",
      "quantite": "1,2 kg",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,92 €"
+     "prix": "4,08 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Charcuterie",
      "quantite": "400 g",
      "promo_id": "pcbc597d3",
      "en_promo": true,
-     "prix": "7,20 €"
+     "prix": "7,20 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Cornichons",
      "quantite": "1 bocal",
      "promo_id": "",
      "en_promo": false,
-     "prix": "2,00 €"
+     "prix": "2,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     }
    ],
    "etapes": [
@@ -12442,44 +12508,56 @@
    "temps_min": 15,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "6,10 €",
-   "prix_par_personne": "1,53 €",
+   "prix_revient": "7,64 €",
+   "prix_par_personne": "1,91 €",
    "economie": "",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Oranges",
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,00 €"
+     "prix": "1,16 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Bananes",
      "quantite": "2",
      "promo_id": "pa0584b15",
      "en_promo": true,
-     "prix": "0,60 €"
+     "prix": "0,60 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Kiwis",
      "quantite": "3",
      "promo_id": "pd0c14ca9",
      "en_promo": true,
-     "prix": "1,20 €"
+     "prix": "2,58 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Pommes",
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,80 €"
+     "prix": "0,80 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Raisin",
      "quantite": "1 grappe",
      "promo_id": "",
      "en_promo": false,
-     "prix": "2,50 €"
+     "prix": "2,50 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     }
    ],
    "etapes": [
@@ -12493,37 +12571,47 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "7,02 €",
-   "prix_par_personne": "1,76 €",
+   "prix_revient": "8,77 €",
+   "prix_par_personne": "2,19 €",
    "economie": "",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Saucisses",
      "quantite": "8",
      "promo_id": "p267f48a1",
      "en_promo": true,
-     "prix": "4,80 €"
+     "prix": "4,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Pommes de terre",
      "quantite": "1 kg",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,60 €"
+     "prix": "3,40 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Lait",
      "quantite": "20 cl",
      "promo_id": "pad60fba7",
      "en_promo": true,
-     "prix": "0,22 €"
+     "prix": "0,18 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Beurre",
      "quantite": "40 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,40 €"
+     "prix": "0,38 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -12537,44 +12625,56 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 1,
-   "prix_revient": "10,70 €",
-   "prix_par_personne": "2,67 €",
+   "prix_revient": "11,60 €",
+   "prix_par_personne": "2,90 €",
    "economie": "",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Filets de poulet",
      "quantite": "600 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "7,20 €"
+     "prix": "8,23 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Semoule",
      "quantite": "250 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,50 €"
+     "prix": "0,50 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Tomates",
      "quantite": "3",
      "promo_id": "p847bd0a4",
      "en_promo": true,
-     "prix": "1,50 €"
+     "prix": "1,08 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Concombre",
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,00 €"
+     "prix": "1,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Citron",
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,50 €"
+     "prix": "0,79 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -12588,37 +12688,47 @@
    "temps_min": 30,
    "personnes": 4,
    "nb_promos": 1,
-   "prix_revient": "19,85 €",
-   "prix_par_personne": "4,96 €",
+   "prix_revient": "22,88 €",
+   "prix_par_personne": "5,72 €",
    "economie": "",
+   "prix_approximatif": true,
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
      "nom": "Dos de cabillaud",
      "quantite": "4",
      "promo_id": "",
      "en_promo": false,
-     "prix": "16,00 €"
+     "prix": "16,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
     },
     {
      "nom": "Courgettes",
      "quantite": "2",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,60 €"
+     "prix": "3,60 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     },
     {
      "nom": "Tomates cerises",
      "quantite": "250 g",
      "promo_id": "p847bd0a4",
      "en_promo": true,
-     "prix": "1,75 €"
+     "prix": "2,49 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
     },
     {
      "nom": "Citron",
      "quantite": "1",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,50 €"
+     "prix": "0,79 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
