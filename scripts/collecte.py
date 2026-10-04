@@ -1,7 +1,7 @@
 """
 Panier Malin - collecte automatique (GitHub Actions, sans IA)
 
-- Promos des E.Leclerc Le Houlme et Bapeaume (123catalogue.fr)
+- Promos des E.Leclerc Le Houlme et Bapeaume (catalogues e.leclerc : page du magasin + API des catalogues)
 - Recettes choisies dans scripts/recettes_base.json selon les promos
 - Infos du Houlme : PanneauPocket + actualités et agenda de le-houlme.fr
 
@@ -30,9 +30,13 @@ MAINTENANT = dt.datetime.now(TZ)
 AUJOURDHUI = MAINTENANT.date()
 
 MAGASINS = [
-    {"id": "houlme", "nom": "Le Houlme", "url": "https://www.123catalogue.fr/catalogue/eleclerc/le-houlme"},
-    {"id": "bapeaume", "nom": "Bapeaume", "url": "https://www.123catalogue.fr/catalogue/eleclerc/bapeaume-les-rouen"},
+    {"id": "houlme", "nom": "Le Houlme", "url": "https://www.e.leclerc/mag/e-leclerc-le-houlme"},
+    {"id": "bapeaume", "nom": "Bapeaume", "url": "https://www.e.leclerc/mag/e-leclerc-bapeaume"},
 ]
+CATALOGUE_SITE = "https://nos-catalogues-promos-v2.e.leclerc"
+CATALOGUE_API = "https://nos-catalogues-promos-v2-api.e.leclerc"
+RE_LIEN_CATALOGUE = re.compile(r"nos-catalogues-promos-v2\.e\.leclerc/catalog/([A-Za-z0-9]+)/(\d+)")
+CATALOGUES_EXCLUS = re.compile(r"voyage|s[ée]jour|croisi[èe]re", re.I)
 SOURCES_VILLE = {
     "panneaupocket": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770",
     "actus": "https://www.le-houlme.fr/5930-toutes-les-actualites.htm",
@@ -272,26 +276,37 @@ def categorie(nom):
 
 
 def catalogues_magasin(mag):
+    """Catalogues en cours d'un magasin : liens nos-catalogues-promos-v2.e.leclerc/catalog/<opération>/<magasin>
+    trouvés dans la page e.leclerc du magasin (comme la fonction Supabase de MonLeclercMaVille)."""
     soup, html = lire(mag["url"], f"magasin_{mag['id']}")
     catalogues = {}
     for a in soup.find_all("a", href=True):
-        m = re.search(r"/catalogue/eleclerc/(\d+)(?:[/?#]|$)", a["href"])
+        m = RE_LIEN_CATALOGUE.search(a["href"])
         if not m:
             continue
-        num = m.group(1)
-        bloc, dates = a, []
-        for _ in range(4):
-            dates = dates_dans(propre(bloc.get_text(" ")))
-            if len(dates) >= 2 or bloc.parent is None:
-                break
-            bloc = bloc.parent
+        op, shop = m.group(1), m.group(2)
+        libelle = propre(a.get_text(" "))
         img = a.find("img")
-        titre = propre(a.get_text(" ")) or (propre(img.get("alt", "")) if img else "")
-        c = catalogues.setdefault(num, {"numero": num, "url": urljoin(mag["url"], a["href"]), "titre": titre, "du": "", "au": ""})
+        if not libelle and img:
+            libelle = propre(img.get("alt", ""))
+        if CATALOGUES_EXCLUS.search(libelle):
+            continue
+        num = f"{op}/{shop}"
+        dates = dates_dans(libelle)
+        titre = re.sub(r"\s+du\s.+$", "", libelle, flags=re.I).strip()
+        c = catalogues.setdefault(num, {"numero": num, "op": op, "shop": shop,
+                                        "url": f"{CATALOGUE_SITE}/catalog/{op}/{shop}", "titre": titre, "du": "", "au": ""})
         if len(dates) >= 2 and not c["au"]:
             c["du"], c["au"] = dates[0].isoformat(), dates[1].isoformat()
         if titre and not c["titre"]:
             c["titre"] = titre
+    if not catalogues:
+        # liens présents ailleurs que dans des <a> (données JSON de la page)
+        for m in RE_LIEN_CATALOGUE.finditer(html):
+            op, shop = m.group(1), m.group(2)
+            num = f"{op}/{shop}"
+            catalogues.setdefault(num, {"numero": num, "op": op, "shop": shop,
+                                        "url": f"{CATALOGUE_SITE}/catalog/{op}/{shop}", "titre": "", "du": "", "au": ""})
     valides = [c for c in catalogues.values()
                if (not c["au"] or c["au"] >= AUJOURDHUI.isoformat()) and (not c["du"] or c["du"] <= AUJOURDHUI.isoformat())]
     if not valides:
@@ -299,29 +314,43 @@ def catalogues_magasin(mag):
     return valides
 
 
+def nombre(v):
+    if v in (None, ""):
+        return None
+    try:
+        return float(str(v).replace(",", "."))
+    except ValueError:
+        return None
+
+
 def produits_catalogue(cat):
-    soup, html = lire(cat["url"], f"catalogue_{cat['numero']}")
-    pages = [soup]
-    # pagination éventuelle : liens vers le même catalogue avec un numéro de page
-    vus = {cat["url"]}
-    for a in soup.find_all("a", href=True):
-        u = urljoin(cat["url"], a["href"])
-        if f"/{cat['numero']}" in u and re.search(r"(page[=/-]?\d+|/\d+$)", u.replace(f"/{cat['numero']}", "", 1)) and u not in vus and len(vus) < 30:
-            vus.add(u)
-            try:
-                pages.append(lire(u, f"catalogue_{cat['numero']}_p{len(vus)}")[0])
-            except Exception:
-                pass
+    """Produits d'un catalogue, lus directement dans l'API JSON des catalogues e.leclerc."""
+    r = SESSION.get(f"{CATALOGUE_API}/{cat['op']}/{cat['shop']}/products", timeout=40, headers={
+        "Accept": "application/json, text/plain, */*",
+        "Origin": CATALOGUE_SITE,
+        "Referer": cat["url"],
+    })
+    r.raise_for_status()
+    if debug_actif:
+        sauver_debug(f"catalogue_{cat['op']}_{cat['shop']}", r.text)
+    data = r.json()
+    if isinstance(data, dict):
+        data = data.get("products") or data.get("items") or []
     produits = []
-    for s in pages:
-        trouves = produits_jsonld(s) or produits_texte(s)
-        produits += trouves
+    for p in data if isinstance(data, list) else []:
+        if not isinstance(p, dict) or not p.get("name"):
+            continue
+        prix = nombre(p.get("price"))
+        if prix is None:
+            continue
+        avant = nombre(p.get("priceWithoutDiscount"))
+        nom = propre(" — ".join(x for x in [p.get("name"), p.get("brand")] if x))
+        produits.append({"nom": nom, "prix": fmt_prix(prix),
+                         "prix_avant": fmt_prix(avant) if avant and avant > prix else "",
+                         "remise": propre(p.get("discountLabel") or ""),
+                         "theme": propre(p.get("thematic") or "")})
     if not produits:
-        sauver_debug(f"catalogue_{cat['numero']}", html)
-    if not cat["du"]:
-        d = dates_dans(propre(soup.get_text(" ")))
-        if len(d) >= 2:
-            cat["du"], cat["au"] = d[0].isoformat(), d[1].isoformat()
+        sauver_debug(f"catalogue_{cat['op']}_{cat['shop']}", r.text)
     return produits
 
 
@@ -350,6 +379,8 @@ def lire_promos(catalogues):
             continue
         for p in produits:
             p["categorie"] = categorie(p["nom"])
+            if p["categorie"] == "autre" and p.get("theme"):
+                p["categorie"] = categorie(p["theme"])
         # un catalogue presque sans alimentaire (jouets, bricolage...) est ignoré
         alim = [p for p in produits if p["categorie"] != "autre"]
         if produits and len(alim) < 0.3 * len(produits):
