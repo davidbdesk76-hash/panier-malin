@@ -1,0 +1,47 @@
+name: Collecte Panier Malin
+
+on:
+  schedule:
+    # toutes les 3 heures, de 6h à 21h (heure de Paris en été ; une heure plus tôt en hiver)
+    - cron: "17 4,7,10,13,16,19 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**", "debug/.actif"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install requests beautifulsoup4
+
+      - name: Collecte
+        run: python scripts/collecte.py
+
+      - name: Enregistrer les données
+        run: |
+          git config user.name "panier-malin-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data debug
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau"
+          else
+            git commit -m "Données du $(TZ=Europe/Paris date +'%Y-%m-%d %Hh%M')"
+            git pull --rebase
+            git push
+          fi
