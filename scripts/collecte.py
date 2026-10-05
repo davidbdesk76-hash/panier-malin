@@ -268,10 +268,35 @@ RE_TICKET_PRIX = re.compile(r"au prix de (\d+[,.]\d{2})\s?€\s*avec un Ticket E
 TICKET_EXPLIC = "Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin."
 
 
-def detail_remise(remise, description, prix, prix_avant):
-    """(libellé court, explication, % d'économie réelle) à partir du type d'offre et du texte de la promo.
-    Leclerc écrit le montant dans la description : « Par 2 (400 g) : 3,85 € au lieu de 5,50 € » ou
-    « Par 2 (150 CL) : 13,00 € avec 3,25 € en Ticket E.Leclerc »."""
+def detail_remise(remise, description, prix, prix_avant, brut=None):
+    """(libellé court, explication, % d'économie réelle) à partir du type d'offre.
+    1) champs de l'API (discountAmount, discountUnit, discountPriceQty, priceWithTEL) ;
+    2) sinon le texte : « Par 2 (400 g) : 3,85 € au lieu de 5,50 € », « … avec 3,25 € en Ticket E.Leclerc »."""
+    b = brut or {}
+    montant = nombre(b.get("discountAmount"))
+    unite = (b.get("discountUnit") or "").upper()
+    qte = int(nombre(b.get("discountPriceQty")) or 0)
+    prix_u = nombre(b.get("price")) or 0
+    if montant and remise == "Ticket E.Leclerc":
+        avec_tel = nombre(b.get("priceWithTEL"))
+        par = f" par {qte}" if qte >= 2 else ""
+        if unite == "PERCENT":
+            pct = round(montant)
+            gain = f", soit {fmt_prix(prix_u - avec_tel)} : le produit vous revient à {fmt_prix(avec_tel)}" \
+                if avec_tel and prix_u > avec_tel else ""
+            return (f"Ticket -{pct} %{par}", f"{pct} % du prix crédités en Ticket E.Leclerc{par}{gain}. " + TICKET_EXPLIC, pct)
+        pct = round(montant / prix_u * 100) if prix_u else 0
+        return (f"Ticket {fmt_prix(montant)}{par}", f"{fmt_prix(montant)} crédités en Ticket E.Leclerc{par}. " + TICKET_EXPLIC, pct)
+    if montant and remise == "2e produit remisé" and unite == "PERCENT":
+        n = qte if qte >= 2 else 2
+        pct_n = round(montant)
+        pct = round(pct_n / n)
+        court = f"{n}e offert" if pct_n >= 100 else f"{n}e à -{pct_n} %"
+        expl = f"Le {n}e produit identique à -{pct_n} %"
+        if prix_u:
+            total = prix_u * n - prix_u * montant / 100
+            expl += f" : {n} pour {fmt_prix(total)} au lieu de {fmt_prix(prix_u * n)}"
+        return (court, expl + f" (soit -{pct} % sur le lot). Avantage appliqué en caisse.", pct)
     d = description or ""
     m = RE_PAR_TICKET.search(d)
     if m:
@@ -526,6 +551,7 @@ def collecter_promos():
     return catalogues
 
 
+PROMO_VERSION = 2  # à augmenter quand la lecture des promos change : toutes les promos sont alors relues
 OFFRES_INCONNUES = []  # exemples bruts d'offres sans montant, enregistrés dans debug/ pour améliorer la lecture
 
 
@@ -549,12 +575,13 @@ def lire_promos(catalogues):
             if cle in promos:
                 promos[cle]["magasins"] = sorted(set(promos[cle]["magasins"]) | set(cat["magasins"]))
                 continue
-            court, explication, pct = detail_remise(remise_calculee(p), p.get("description", ""), p["prix"], p["prix_avant"])
+            court, explication, pct = detail_remise(remise_calculee(p), p.get("description", ""), p["prix"],
+                                                    p["prix_avant"], p.get("brut"))
             if court in ("Ticket E.Leclerc", "2e produit remisé") and len(OFFRES_INCONNUES) < 12:
                 OFFRES_INCONNUES.append(p.get("brut", {}))
             promos[cle] = {
                 "id": "p" + court_id(cle), "nom": p["nom"], "remise": court, "remise_detail": explication,
-                "remise_pct": pct, "prix": p["prix"],
+                "remise_pct": pct, "prix": p["prix"], "v": PROMO_VERSION,
                 "prix_avant": p["prix_avant"], "categorie": p["categorie"], "magasins": list(cat["magasins"]),
                 "du": cat["du"], "au": cat["au"], "catalogue": cat["titre"] or num,
                 "catalogue_url": cat.get("url", ""), "image": p.get("image", ""),
@@ -771,9 +798,14 @@ def photo_wiki(requete):
     """Photo (vignette 800 px) de l'article Wikipédia du plat : titre exact d'abord, sinon recherche (fr puis en)."""
     base = {"action": "query", "format": "json", "prop": "pageimages", "piprop": "thumbnail",
             "pithumbsize": 800, "redirects": 1}
-    essais = [("fr", {**base, "titles": requete}),
-              ("fr", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3}),
-              ("en", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3})]
+    if requete.startswith("en:"):  # article anglais demandé explicitement (« en:Pork chop »)
+        requete = requete[3:]
+        essais = [("en", {**base, "titles": requete}),
+                  ("en", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3})]
+    else:
+        essais = [("fr", {**base, "titles": requete}),
+                  ("fr", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3}),
+                  ("en", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3})]
     for langue, params in essais:
         r = SESSION.get(f"https://{langue}.wikipedia.org/w/api.php", params=params, headers=WIKI_UA, timeout=20)
         r.raise_for_status()
@@ -790,8 +822,8 @@ def photos_recettes(base):
     cache = json.loads(PHOTOS_CACHE.read_text(encoding="utf-8")) if PHOTOS_CACHE.exists() else {}
     change, erreurs = False, 0
     for r in base:
-        q = r.get("wiki") or r["titre"]
-        if q in cache or r.get("photo"):
+        q = r.get("wiki", r["titre"])
+        if not q or q in cache or r.get("photo"):
             continue
         try:
             cache[q] = photo_wiki(q)
@@ -874,9 +906,9 @@ def choisir_recettes(promos, n=10):
                       # photos des produits en promo de la recette (pour illustrer la carte dans l'appli)
                       "images": [par_id[i["promo_id"]]["image"] for i in ings
                                  if i["promo_id"] and par_id.get(i["promo_id"], {}).get("image")][:3],
-                      "photo": r.get("photo") or photos.get(r.get("wiki") or r["titre"], ""),
+                      "photo": r.get("photo") or photos.get(r.get("wiki", r["titre"]), ""),
                       "photo_credit": "Photo : Wikimédia Commons"
-                      if not r.get("photo") and photos.get(r.get("wiki") or r["titre"]) else "",
+                      if not r.get("photo") and photos.get(r.get("wiki", r["titre"])) else "",
                       "note_prix": NOTE_PRIX,
                       "ingredients": ings, "etapes": r["etapes"]})
         if len(choix) >= n:
@@ -1133,8 +1165,8 @@ def collecter_transport():
         if periodes and not any((p.get(1, [0])[0] or 0) <= dans_7_jours and (not p.get(2) or p[2][0] >= maintenant)
                                 for p in periodes):
             continue
-        titre = pb_texte(a[10][0]) if a.get(10) else ""
-        texte = pb_texte(a[11][0]) if a.get(11) else ""
+        titre = texte_html(pb_texte(a[10][0])) if a.get(10) else ""
+        texte = texte_html(pb_texte(a[11][0]), 1500) if a.get(11) else ""
         lien = pb_texte(a[8][0]) if a.get(8) else ""
         lignes, reseau = set(), False
         for sel in a.get(5, []):
@@ -1148,7 +1180,18 @@ def collecter_transport():
         concernees = sorted(l for l in lignes if l.upper() in LIGNES_HOULME)
         cause = CAUSES.get(a.get(6, [0])[0], "")
         greve = cause == "Grève" or bool(re.search(r"gr[eè]ve|mouvement social", norm(titre + " " + texte)))
-        if not concernees and not (reseau or (greve and not lignes)):
+        effet = a.get(7, [0])[0]
+        tout = norm(titre + " " + texte)
+        perturbation = greve or effet in (1, 2, 3, 4, 6, 9) or bool(re.search(
+            r"perturb|interromp|devie|deviation|retard|non desservi|ne circule|supprime|travaux|incident|neige|verglas", tout))
+        if not concernees:
+            # alerte sans ligne précise : seulement une vraie perturbation de tout le réseau
+            # (pas les actualités du réseau, ni une grève limitée à un autre secteur comme Elbeuf)
+            generale = bool(re.search(r"ensemble du reseau|tout le reseau|toutes les lignes|houlme", tout))
+            autre_secteur = bool(re.search(r"secteur|elbeuf|uniquement|rive gauche", tout))
+            if not ((reseau or greve) and perturbation and (generale or not autre_secteur)):
+                continue
+        elif not perturbation and effet in (0, 5, 7, 8):
             continue
         cle = norm(titre)[:60]
         if cle in vues:
@@ -1258,7 +1301,7 @@ def main():
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
     # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
-    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "remise_detail" not in p
+    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or p.get("v") != PROMO_VERSION
                        for p in data["promos"])
                    or any("Ã" in c.get("titre", "") for c in data["catalogues_vus"]))
     if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
