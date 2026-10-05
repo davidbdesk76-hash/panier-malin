@@ -255,35 +255,79 @@ def remise_calculee(p):
     return f"-{round((1 - n / a) * 100)} %" if a > n else ""
 
 
+# Rayons, testés dans cet ordre (le premier qui correspond gagne) : les non-alimentaires et les produits
+# « transformés » d'abord, pour que « chocolat au lait » ne parte pas en crèmerie ni « moule à muffins » en poissonnerie.
 CATS = [
-    ("surgeles", ["surgele", "surgelee", "glace", "glaces", "cornet", "frites surgelees", "picard"]),
-    ("hygiene_maison", ["lessive", "shampooing", "gel douche", "dentifrice", "papier toilette", "essuie tout", "couches",
-                        "deodorant", "liquide vaisselle", "nettoyant", "eponge", "mouchoirs", "rasoir", "adoucissant",
-                        "javel", "sac poubelle", "pastilles lave", "savon", "coton", "litiere", "croquettes", "patee"]),
-    ("boissons", ["vin", "aop", "aoc", "igp", "champagne", "cremant", "biere", "whisky", "rhum", "vodka", "pastis",
-                  "cidre", "jus", "soda", "cola", "eau minerale", "eau de source", "eau gazeuse", "sirop", "nectar",
-                  "cafe", "the ", "infusion", "chateau", "cuvee", "porto", "ricard", "liqueur", "boisson"]),
-    ("viande_poisson", ["poulet", "dinde", "boeuf", "bœuf", "veau", "porc", "agneau", "canard", "jambon", "saucisse",
-                        "steak", "hache", "roti", "cote", "filet", "escalope", "lardon", "bacon", "chipolata", "merguez",
-                        "saumon", "cabillaud", "colin", "thon", "crevette", "moule", "poisson", "truite", "lieu",
-                        "sardine", "maquereau", "volaille", "cuisse", "pintade", "lapin", "saucisson", "pate ", "terrine",
-                        "rillettes", "chorizo", "blanc de", "noix de saint", "surimi", "gambas", "andouillette", "boudin"]),
+    ("animaux", ["chat", "chats", "chien", "chiens", "croquette", "litiere", "patee", "griffoir", "arbre a chat",
+                 "tous mes ami", "purina", "whiskas", "sheba", "pedigree", "friskies", "felix", "gourmet", "vitakraft",
+                 "ultima", "edgar cooper", "lily s kitchen", "dentalife", "boule de graisse", "animaux", "oiseau"]),
+    ("maison", ["poele", "casserole", "cocotte ronde", "cocotte en fonte", "wok", "crepiere", "faitout", "autocuiseur", "friteuse", "micro onde",
+                "mixeur", "multicuiseur", "cookeo", "moule a", "muffin", "boite", "assiette", "tasse", "bol a",
+                "gourde isotherme", "poubelle", "balai", "serviette", "set amovible", "meuble", "tv", "pc portable",
+                "smartphone", "telephone", "console", "nintendo", "switch", "casque", "imprimante", "cable", "usb",
+                "carte memoire", "montre", "barre de son", "passerelle", "jeu", "jeux", "playmobil", "gravitrax",
+                "figurine", "pat patrouille", "pyjama", "boxer", "soutien gorge", "collant", "slip", "sweat", "veste",
+                "blouson", "doudoune", "botte", "bottillon", "legging", "t shirt", "tee shirt", "robe", "culotte",
+                "brassiere", "debardeur", "pantalon", "rosier", "bouquet de", "adblue", "auto", "ampoule",
+                "refroidissement", "echec", "ace combat", "star war", "morgan", "maestro"]),
+    ("hygiene_maison", ["lessive", "shampooing", "douche", "dentifrice", "papier toilette", "essuie tout", "couches",
+                        "change bebe", "deodorant", "liquide vaisselle", "lave vaisselle", "nettoyant", "eponge",
+                        "mouchoir", "rasoir", "adoucissant", "assouplissant", "javel", "sac poubelle", "savon", "coton",
+                        "wc", "eau de toilette", "parfum", "creme solaire", "maison net"]),
+    ("surgeles", ["surgele", "surgelee", "glace", "glaces", "glace", "cone glace", "baton glace", "batonnet glace",
+                  "cornet", "picard"]),
+    ("sucre", ["chocolat", "biscuit", "sable", "barre", "tablette", "bonbon", "crepe", "gateau", "madeleine",
+               "pain au chocolat", "brioche", "macaron", "napolitain", "chewing gum", "rocher", "pate a tartiner",
+               "confiture", "miel", "nutella", "cereale", "compote", "gourde", "entremet", "flan", "creme dessert",
+               "riz au lait", "dessert", "danonino", "gache", "viennois", "grainea", "pepite", "cookie", "gaufre"]),
+    ("boissons", ["vin", "aop", "aoc", "igp", "doc", "docg", "champagne", "cremant", "prosecco", "moscato", "spumante",
+                  "biere", "whisky", "rhum", "vodka", "pastis", "aperol", "amer", "zubrowka", "cidre", "jus", "soda",
+                  "cola", "eau minerale", "eau de source", "eau gazeuse", "sirop", "nectar", "cafe", "capsule",
+                  "espresso", "the", "infusion", "chateau", "cuvee", "porto", "ricard", "liqueur", "boisson", "rouge",
+                  "blanc sec", "rose", "mouton cadet", "tokaji", "cacolac"]),
+    ("traiteur", ["croque", "pizza", "marguerite", "tortellini", "pate a tarte", "pate feuilletee", "pate brisee", "pate sablee", "pizz", "quiche", "lasagne", "plat cuisine", "pasta salade", "salade en conserve",
+                  "tomate farcie", "ravioli", "houmous", "panier feuillete", "taboule", "sandwich", "wrap", "nem",
+                  "soupe", "veloute", "tranches vege", "tranche vege", "repas plaisir", "rio mare", "nouilles"]),
+    ("viande_poisson", ["poulet", "dinde", "boeuf", "bœuf", "bovine", "viande", "bourguignon", "veau", "porc", "agneau",
+                        "canard", "jambon", "saucisse", "steak", "hache", "roti", "cote", "filet", "escalope", "lardon",
+                        "bacon", "chipolata", "merguez", "saumon", "cabillaud", "colin", "thon", "crevette", "moule",
+                        "poisson", "truite", "lieu", "sardine", "maquereau", "volaille", "cuisse", "pintade", "lapin",
+                        "saucisson", "pate de campagne", "terrine", "rillette", "chorizo", "speck", "involtini",
+                        "blanc de", "noix de saint", "surimi", "gambas", "andouillette", "boudin", "dorade", "morue",
+                        "cordon bleu"]),
     ("cremerie", ["lait", "yaourt", "fromage", "emmental", "comte", "camembert", "brie", "beurre", "creme fraiche",
-                  "creme ", "oeuf", "œuf", "mozzarella", "raclette", "chevre", "coulommiers", "roquefort", "gruyere",
-                  "fromage blanc", "petit suisse", "dessert lacte", "skyr", "feta", "parmesan", "reblochon", "mascarpone"]),
+                  "creme", "oeuf", "œuf", "mozzarella", "raclette", "chevre", "coulommiers", "roquefort", "gruyere",
+                  "fromage blanc", "petit suisse", "suisse", "skyr", "feta", "parmesan", "reblochon", "mascarpone",
+                  "leerdammer", "tartine et cuisson", "extra tendre", "st diery", "saint diery"]),
     ("fruits_legumes", ["pomme", "poire", "banane", "orange", "clementine", "mandarine", "citron", "raisin", "fraise",
                         "kiwi", "ananas", "melon", "peche", "abricot", "prune", "tomate", "courgette", "carotte",
                         "salade", "laitue", "endive", "poireau", "oignon", "echalote", "ail", "pomme de terre",
                         "patate", "champignon", "poivron", "aubergine", "concombre", "chou", "brocoli", "haricot vert",
                         "epinard", "potiron", "butternut", "courge", "avocat", "radis", "navet", "celeri", "fenouil",
-                        "betterave", "mache", "cerise", "framboise", "myrtille", "noix", "chataigne", "legume", "fruit"]),
-    ("epicerie", ["pates", "pate ", "spaghetti", "penne", "riz", "farine", "sucre", "huile", "vinaigre", "moutarde",
-                  "mayonnaise", "ketchup", "sauce", "conserve", "biscuit", "gateau", "chocolat", "cereales", "confiture",
-                  "pain", "brioche", "chips", "compote", "lentille", "pois chiche", "haricot", "semoule", "quinoa",
-                  "bouillon", "epice", "sel", "poivre", "miel", "nutella", "pate a tartiner", "madeleine", "galette",
-                  "crepe", "pizza", "quiche", "lasagne", "plat cuisine", "soupe", "veloute", "tortilla", "wrap",
-                  "olive", "cornichon", "mais", "petits pois", "puree", "gnocchi", "ravioli", "nouilles"]),
+                        "betterave", "mache", "cerise", "framboise", "myrtille", "chataigne", "legume", "fruit"]),
+    ("epicerie", ["pates", "pate", "spaghetti", "penne", "marguerite", "riz", "farine", "sucre", "huile", "vinaigre",
+                  "moutarde", "mayonnaise", "ketchup", "sauce", "conserve", "cereales", "pain", "chips", "doritos",
+                  "lentille", "pois chiche", "haricot", "semoule", "couscous", "quinoa", "bouillon", "epice", "sel",
+                  "poivre", "galette", "tortilla", "olive", "cornichon", "mais", "petits pois", "puree", "gnocchi",
+                  "pesto", "amande", "noix", "biscotte", "shirataki", "larnaudie", "snack", "aperitif"]),
 ]
+
+# Rayon donné par Leclerc (« thematic » de l'API), utilisé en premier quand il est clair
+THEMES = [
+    ("animaux", r"animal|animaux"),
+    ("maison", r"textile|mode|vetement|lingerie|high tech|multimedia|electromenager|bazar|cuisine et maison|jouet|"
+               r"jeux|auto|jardin|bricolage|culture|maison"),
+    ("hygiene_maison", r"hygiene|beaute|entretien|droguerie|parfumerie|bebe"),
+    ("surgeles", r"surgele"),
+    ("boissons", r"vin|boisson|alcool|spiritueux|cave|biere"),
+    ("traiteur", r"traiteur"),
+    ("viande_poisson", r"boucherie|volaille|poissonnerie|maree|charcuterie"),
+    ("cremerie", r"cremerie|fromage|produits laitiers|ultra frais"),
+    ("fruits_legumes", r"fruits? et legumes|primeur"),
+    ("sucre", r"epicerie sucree|biscuit|confiserie|petit dejeuner"),
+    ("epicerie", r"epicerie"),
+]
+NON_ALIMENTAIRE = {"animaux", "maison", "hygiene_maison", "autre"}
 
 
 def singulier(txt):
@@ -291,7 +335,12 @@ def singulier(txt):
     return " ".join(w[:-1] if len(w) > 3 and w[-1] in "sx" else w for w in norm(txt).split())
 
 
-def categorie(nom):
+def categorie(nom, theme=""):
+    t = norm(theme)
+    if t:
+        for cat, motif in THEMES:
+            if re.search(motif, t):
+                return cat
     n = " " + singulier(nom) + " "
     for cat, mots in CATS:
         for m in mots:
@@ -427,11 +476,9 @@ def lire_promos(catalogues):
             avertissements.append(f"Catalogue {num} illisible : {e}")
             continue
         for p in produits:
-            p["categorie"] = categorie(p["nom"])
-            if p["categorie"] == "autre" and p.get("theme"):
-                p["categorie"] = categorie(p["theme"])
+            p["categorie"] = categorie(p["nom"], p.get("theme", ""))
         # un catalogue presque sans alimentaire (jouets, bricolage...) est ignoré
-        alim = [p for p in produits if p["categorie"] != "autre"]
+        alim = [p for p in produits if p["categorie"] not in NON_ALIMENTAIRE]
         if produits and len(alim) < 0.3 * len(produits):
             print(f"  catalogue {num} ignoré (non alimentaire)")
             continue
@@ -445,10 +492,11 @@ def lire_promos(catalogues):
                 "prix_avant": p["prix_avant"], "categorie": p["categorie"], "magasins": list(cat["magasins"]),
                 "du": cat["du"], "au": cat["au"], "catalogue": cat["titre"] or num,
                 "catalogue_url": cat.get("url", ""), "image": p.get("image", ""),
-                "description": p.get("description", ""),
+                "description": p.get("description", ""), "rayon_leclerc": p.get("theme", ""),
             }
         print(f"  catalogue {num} : {len(produits)} produits")
-    ordre = ["viande_poisson", "fruits_legumes", "cremerie", "epicerie", "surgeles", "boissons", "hygiene_maison", "autre"]
+    ordre = ["viande_poisson", "fruits_legumes", "cremerie", "traiteur", "epicerie", "sucre", "surgeles", "boissons",
+             "hygiene_maison", "animaux", "maison", "autre"]
     return sorted(promos.values(), key=lambda p: (ordre.index(p["categorie"]), p["nom"]))
 
 
@@ -660,6 +708,7 @@ def choisir_recettes(promos, n=10):
     table = table_des_prix()
     base = [r for r in base if r["temps_min"] <= RECETTE_TEMPS_MAX and len(r["ingredients"]) <= RECETTE_INGREDIENTS_MAX
             and len(r["etapes"]) <= RECETTE_ETAPES_MAX]
+    par_id = {p["id"]: p for p in promos}
     cuisine = [p for p in promos if p["categorie"] in CATEGORIES_CUISINE and not PAS_INGREDIENT.search(norm(p["nom"]))]
     index = [(" " + tete_produit(p["nom"]) + " ", p) for p in cuisine]
     candidates = []
@@ -707,6 +756,10 @@ def choisir_recettes(promos, n=10):
                       "prix_revient": fmt_prix(total), "prix_par_personne": fmt_prix(total / r["personnes"]),
                       "economie": fmt_prix(eco) if eco >= 0.05 else "",
                       "prix_approximatif": any(i["prix_approximatif"] for i in ings),
+                      # photos des produits en promo de la recette (pour illustrer la carte dans l'appli)
+                      "images": [par_id[i["promo_id"]]["image"] for i in ings
+                                 if i["promo_id"] and par_id.get(i["promo_id"], {}).get("image")][:3],
+                      "photo": r.get("photo", ""),
                       "note_prix": NOTE_PRIX,
                       "ingredients": ings, "etapes": r["etapes"]})
         if len(choix) >= n:
@@ -930,7 +983,7 @@ def main():
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
     # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
-    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "description" not in p
+    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "rayon_leclerc" not in p
                        for p in data["promos"])
                    or any("Ã" in c.get("titre", "") for c in data["catalogues_vus"]))
     if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
