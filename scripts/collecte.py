@@ -257,6 +257,65 @@ def remise_calculee(p):
 
 # Rayons, testés dans cet ordre (le premier qui correspond gagne) : les non-alimentaires et les produits
 # « transformés » d'abord, pour que « chocolat au lait » ne parte pas en crèmerie ni « moule à muffins » en poissonnerie.
+def euros(txt):
+    return float(txt.replace(",", "."))
+
+
+RE_PAR_LOT = re.compile(r"Par (\d+)[^:]{0,25}:\s*(\d+[,.]\d{2})\s*€\s*au lieu de\s*(\d+[,.]\d{2})\s*€", re.I)
+RE_PAR_TICKET = re.compile(r"Par (\d+)[^:]{0,25}:\s*(\d+[,.]\d{2})\s*€\s*avec\s*(\d+[,.]\d{2})\s*€\s*en\s*Ticket", re.I)
+RE_TICKET_PCT = re.compile(r"Ticket E\.?\s?Leclerc de (\d{1,2})\s?%", re.I)
+RE_TICKET_PRIX = re.compile(r"au prix de (\d+[,.]\d{2})\s?€\s*avec un Ticket E\.?\s?Leclerc de (\d+[,.]\d{2})\s?€", re.I)
+TICKET_EXPLIC = "Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin."
+
+
+def detail_remise(remise, description, prix, prix_avant):
+    """(libellé court, explication, % d'économie réelle) à partir du type d'offre et du texte de la promo.
+    Leclerc écrit le montant dans la description : « Par 2 (400 g) : 3,85 € au lieu de 5,50 € » ou
+    « Par 2 (150 CL) : 13,00 € avec 3,25 € en Ticket E.Leclerc »."""
+    d = description or ""
+    m = RE_PAR_TICKET.search(d)
+    if m:
+        n, total, ticket = int(m.group(1)), euros(m.group(2)), euros(m.group(3))
+        pct = round(ticket / total * 100) if total else 0
+        return (f"Ticket {fmt_prix(ticket)} par {n}",
+                f"Par {n} : {fmt_prix(total)}, dont {fmt_prix(ticket)} crédités en Ticket E.Leclerc (soit -{pct} %). "
+                + TICKET_EXPLIC, pct)
+    m = RE_PAR_LOT.search(d)
+    if m:
+        n, total, avant = int(m.group(1)), euros(m.group(2)), euros(m.group(3))
+        eco = avant - total
+        pct = round(eco / avant * 100) if avant else 0
+        if n == 2 and avant:
+            pct2 = round(eco / (avant / 2) * 100)
+            court = "2e offert" if pct2 >= 99 else f"2e à -{pct2} %"
+        else:
+            court = f"-{pct} % par {n}"
+        return (court, f"Par {n} : {fmt_prix(total)} au lieu de {fmt_prix(avant)}, "
+                       f"soit {fmt_prix(eco)} d'économie (-{pct} % sur le lot).", pct)
+    m = RE_TICKET_PRIX.search(d)
+    if m and remise == "Ticket E.Leclerc":
+        pct = round(euros(m.group(2)) / euros(m.group(1)) * 100)
+        return (f"Ticket -{pct} %", f"{pct} % du prix crédités en Ticket E.Leclerc. " + TICKET_EXPLIC, pct)
+    m = RE_TICKET_PCT.search(d)
+    if m and remise == "Ticket E.Leclerc":
+        pct = int(m.group(1))
+        return (f"Ticket -{pct} %", f"{pct} % du prix crédités en Ticket E.Leclerc. " + TICKET_EXPLIC, pct)
+    pct = 0
+    mm = re.search(r"-\s?(\d{1,2})\s?%", remise or "")
+    if mm:
+        pct = int(mm.group(1))
+    if remise == "Ticket E.Leclerc":
+        return (remise, "Une partie du prix est créditée sur votre carte E.Leclerc (montant indiqué en magasin), "
+                        "à utiliser lors d'un prochain passage.", 0)
+    if remise == "2e produit remisé":
+        return (remise, "Remise sur le 2e produit acheté ; le montant est indiqué en magasin.", 0)
+    if pct and prix_avant:
+        return (remise, f"{prix} au lieu de {prix_avant} (-{pct} %).", pct)
+    if remise == "Remise immédiate":
+        return (remise, "Remise déduite directement en caisse.", pct)
+    return (remise, "", pct)
+
+
 CATS = [
     ("animaux", ["chat", "chats", "chien", "chiens", "croquette", "litiere", "patee", "griffoir", "arbre a chat",
                  "tous mes ami", "purina", "whiskas", "sheba", "pedigree", "friskies", "felix", "gourmet", "vitakraft",
@@ -446,7 +505,7 @@ def produits_catalogue(cat):
                          "prix_avant": fmt_prix(avant) if avant and avant > prix else "",
                          "remise": libelle_remise(p.get("discountLabel") or ""),
                          "theme": propre(p.get("thematic") or ""), "image": image,
-                         "description": texte_html(p.get("description") or "")})
+                         "description": texte_html(p.get("description") or ""), "brut": p})
     if not produits:
         sauver_debug(f"catalogue_{cat['op']}_{cat['shop']}", r.text)
     return produits
@@ -465,6 +524,9 @@ def collecter_promos():
         for c in liste:
             catalogues.setdefault(c["numero"], {**c, "magasins": []})["magasins"].append(mag["id"])
     return catalogues
+
+
+OFFRES_INCONNUES = []  # exemples bruts d'offres sans montant, enregistrés dans debug/ pour améliorer la lecture
 
 
 def lire_promos(catalogues):
@@ -487,8 +549,12 @@ def lire_promos(catalogues):
             if cle in promos:
                 promos[cle]["magasins"] = sorted(set(promos[cle]["magasins"]) | set(cat["magasins"]))
                 continue
+            court, explication, pct = detail_remise(remise_calculee(p), p.get("description", ""), p["prix"], p["prix_avant"])
+            if court in ("Ticket E.Leclerc", "2e produit remisé") and len(OFFRES_INCONNUES) < 12:
+                OFFRES_INCONNUES.append(p.get("brut", {}))
             promos[cle] = {
-                "id": "p" + court_id(cle), "nom": p["nom"], "remise": remise_calculee(p), "prix": p["prix"],
+                "id": "p" + court_id(cle), "nom": p["nom"], "remise": court, "remise_detail": explication,
+                "remise_pct": pct, "prix": p["prix"],
                 "prix_avant": p["prix_avant"], "categorie": p["categorie"], "magasins": list(cat["magasins"]),
                 "du": cat["du"], "au": cat["au"], "catalogue": cat["titre"] or num,
                 "catalogue_url": cat.get("url", ""), "image": p.get("image", ""),
@@ -552,6 +618,8 @@ def prix_normal(nom, quantite, table):
 
 def coef_promo(p):
     """Prix promo / prix normal pour la promo, si on peut le savoir."""
+    if p.get("remise_pct"):
+        return 1 - p["remise_pct"] / 100
     try:
         if p.get("prix_avant"):
             a = float(p["prix_avant"].replace(" €", "").replace(",", "."))
@@ -983,7 +1051,7 @@ def main():
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
     # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
-    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "rayon_leclerc" not in p
+    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "remise_detail" not in p
                        for p in data["promos"])
                    or any("Ã" in c.get("titre", "") for c in data["catalogues_vus"]))
     if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
@@ -999,6 +1067,11 @@ def main():
     # retirer les promos terminées
     data["promos"] = [p for p in data["promos"] if not p.get("au") or p["au"] >= AUJOURDHUI.isoformat()]
     data["recettes"] = choisir_recettes(data["promos"]) if data["promos"] else data["recettes"]
+
+    if OFFRES_INCONNUES:
+        DEBUG.mkdir(exist_ok=True)
+        (DEBUG / "offres_sans_montant.json").write_text(
+            json.dumps(OFFRES_INCONNUES, ensure_ascii=False, indent=1, default=str), encoding="utf-8")
 
     print("Ma ville…")
     for it in ancien.get("ville", {}).get("actus", []) + ancien.get("ville", {}).get("agenda", []):
