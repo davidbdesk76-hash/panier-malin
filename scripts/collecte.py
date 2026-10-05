@@ -761,6 +761,52 @@ def source_prix(nom, quantite, table):
     return next(iter(src.values()), "estimation") if len(prix) == 1 else "estimation"
 
 
+# ------------------------------------------------------------------ photos des plats (Wikipédia / Wikimedia Commons)
+
+PHOTOS_CACHE = RACINE / "data" / "photos_recettes.json"
+WIKI_UA = {"User-Agent": "PanierMalin/1.0 (https://github.com/davidbdesk76-hash/panier-malin; appli perso)"}
+
+
+def photo_wiki(requete):
+    """Photo (vignette 800 px) de l'article Wikipédia du plat : titre exact d'abord, sinon recherche (fr puis en)."""
+    base = {"action": "query", "format": "json", "prop": "pageimages", "piprop": "thumbnail",
+            "pithumbsize": 800, "redirects": 1}
+    essais = [("fr", {**base, "titles": requete}),
+              ("fr", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3}),
+              ("en", {**base, "generator": "search", "gsrsearch": requete, "gsrlimit": 3})]
+    for langue, params in essais:
+        r = SESSION.get(f"https://{langue}.wikipedia.org/w/api.php", params=params, headers=WIKI_UA, timeout=20)
+        r.raise_for_status()
+        pages = sorted((r.json().get("query") or {}).get("pages", {}).values(), key=lambda x: x.get("index", 0))
+        for pg in pages:
+            src = (pg.get("thumbnail") or {}).get("source", "")
+            if src and not src.lower().endswith((".svg.png", ".gif")):
+                return src
+    return ""
+
+
+def photos_recettes(base):
+    """Photo de chaque plat, gardée dans data/photos_recettes.json (on ne cherche que les nouvelles)."""
+    cache = json.loads(PHOTOS_CACHE.read_text(encoding="utf-8")) if PHOTOS_CACHE.exists() else {}
+    change, erreurs = False, 0
+    for r in base:
+        q = r.get("wiki") or r["titre"]
+        if q in cache or r.get("photo"):
+            continue
+        try:
+            cache[q] = photo_wiki(q)
+            change = True
+        except Exception as e:
+            erreurs += 1
+            if erreurs >= 3:
+                avertissements.append(f"Photos des plats indisponibles pour l'instant ({e})")
+                break
+    if change:
+        PHOTOS_CACHE.parent.mkdir(exist_ok=True)
+        PHOTOS_CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+    return cache
+
+
 def tete_produit(nom):
     """Début du nom du produit, sans la marque ni le nombre : « 8 saucisses de toulouse — X » -> « saucisse de toulouse »."""
     t = singulier(nom.split(" — ")[0])
@@ -774,6 +820,7 @@ NOTE_PRIX = ("Prix de revient approximatif : les ingrédients hors promo sont es
 def choisir_recettes(promos, n=10):
     base = json.loads((RACINE / "scripts" / "recettes_base.json").read_text(encoding="utf-8"))
     table = table_des_prix()
+    photos = photos_recettes(base)
     base = [r for r in base if r["temps_min"] <= RECETTE_TEMPS_MAX and len(r["ingredients"]) <= RECETTE_INGREDIENTS_MAX
             and len(r["etapes"]) <= RECETTE_ETAPES_MAX]
     par_id = {p["id"]: p for p in promos}
@@ -827,7 +874,9 @@ def choisir_recettes(promos, n=10):
                       # photos des produits en promo de la recette (pour illustrer la carte dans l'appli)
                       "images": [par_id[i["promo_id"]]["image"] for i in ings
                                  if i["promo_id"] and par_id.get(i["promo_id"], {}).get("image")][:3],
-                      "photo": r.get("photo", ""),
+                      "photo": r.get("photo") or photos.get(r.get("wiki") or r["titre"], ""),
+                      "photo_credit": "Photo : Wikimédia Commons"
+                      if not r.get("photo") and photos.get(r.get("wiki") or r["titre"]) else "",
                       "note_prix": NOTE_PRIX,
                       "ingredients": ings, "etapes": r["etapes"]})
         if len(choix) >= n:
