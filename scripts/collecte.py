@@ -64,7 +64,13 @@ def norm(txt):
 
 
 def propre(txt):
-    return re.sub(r"\s+", " ", txt or "").strip()
+    txt = txt or ""
+    if "Ã" in txt or "â€" in txt:  # texte UTF-8 mal décodé : on le répare
+        try:
+            txt = txt.encode("latin-1").decode("utf-8")
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            pass
+    return re.sub(r"\s+", " ", txt).strip()
 
 
 def court_id(*parts):
@@ -74,6 +80,9 @@ def court_id(*parts):
 def lire(url, nom_debug):
     r = SESSION.get(url, timeout=40)
     r.raise_for_status()
+    # sans « charset » dans l'en-tête, requests lit la page en latin-1 (« rentrÃ©e ») : les sites lus sont en UTF-8
+    if "charset" not in (r.headers.get("Content-Type") or "").lower():
+        r.encoding = "utf-8"
     html = r.text
     if debug_actif:
         sauver_debug(nom_debug, html)
@@ -854,8 +863,9 @@ def main():
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
     # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
-    codes_bruts = any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "image" not in p
-                      for p in data["promos"])
+    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "image" not in p
+                       for p in data["promos"])
+                   or any("Ã" in c.get("titre", "") for c in data["catalogues_vus"]))
     if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
         promos = lire_promos(catalogues)
         if promos:
