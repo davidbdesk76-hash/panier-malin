@@ -1018,6 +1018,157 @@ def avec_detail(item):
     return item
 
 
+# ------------------------------------------------------------------ transports (réseau Astuce)
+
+# Lignes qui desservent Le Houlme (site de la mairie : 29, F4 ; 360 vers le collège Jean Zay)
+LIGNES_HOULME = ["F4", "29", "360"]
+ASTUCE_ALERTES = [
+    "https://api.mrn.cityway.fr/dataflow/info-transport/download?provider=ASTUCE&dataFormat=gtfs-rt",
+    "https://hexatransit.fr/datasets/services_rt/astuce/service_alerts.pb",  # copie de secours
+]
+ASTUCE_GTFS = "https://api.mrn.cityway.fr/dataflow/offre-tc/download?provider=ASTUCE&dataFormat=gtfs&dataProfil=ASTUCE"
+LIGNES_CACHE = RACINE / "data" / "astuce_lignes.json"
+EFFETS = {1: "Service interrompu", 2: "Service réduit", 3: "Retards importants", 4: "Déviation",
+          5: "Service renforcé", 6: "Service modifié", 9: "Arrêt déplacé", 11: "Accessibilité"}
+CAUSES = {3: "Problème technique", 4: "Grève", 5: "Manifestation", 6: "Accident", 8: "Météo",
+          9: "Maintenance", 10: "Travaux", 11: "Intervention de police", 12: "Urgence médicale"}
+
+
+def pb_lire(data):
+    """Petit lecteur protobuf (sans dépendance) : {numéro de champ: [valeurs]} ; bytes pour les sous-messages."""
+    champs, i, n = {}, 0, len(data)
+
+    def varint():
+        nonlocal i
+        v, decal = 0, 0
+        while True:
+            b = data[i]
+            i += 1
+            v |= (b & 0x7F) << decal
+            if b < 0x80:
+                return v
+            decal += 7
+
+    while i < n:
+        cle = varint()
+        num, type_ = cle >> 3, cle & 7
+        if type_ == 0:
+            val = varint()
+        elif type_ == 1:
+            val = data[i:i + 8]; i += 8
+        elif type_ == 2:
+            longueur = varint()
+            val = data[i:i + longueur]; i += longueur
+        elif type_ == 5:
+            val = data[i:i + 4]; i += 4
+        else:
+            raise ValueError("protobuf illisible")
+        champs.setdefault(num, []).append(val)
+    return champs
+
+
+def pb_texte(ts):
+    """TranslatedString -> texte (français de préférence)."""
+    textes = []
+    for tr in pb_lire(ts).get(1, []):
+        t = pb_lire(tr)
+        txt = t.get(1, [b""])[0].decode("utf-8", "replace")
+        langue = t.get(2, [b""])[0].decode("utf-8", "replace").lower()
+        textes.append((0 if langue.startswith("fr") else 1 if not langue else 2, txt))
+    return propre(sorted(textes)[0][1]) if textes else ""
+
+
+def lignes_astuce():
+    """route_id -> numéro de ligne (« F4 », « 29 »…), lu dans le GTFS et gardé une semaine."""
+    cache = json.loads(LIGNES_CACHE.read_text(encoding="utf-8")) if LIGNES_CACHE.exists() else {}
+    if cache.get("date", "") >= (AUJOURDHUI - dt.timedelta(days=7)).isoformat() and cache.get("routes"):
+        return cache["routes"]
+    import csv, io, zipfile
+    r = SESSION.get(ASTUCE_GTFS, timeout=90)
+    r.raise_for_status()
+    with zipfile.ZipFile(io.BytesIO(r.content)) as z:
+        nom = next(x for x in z.namelist() if x.endswith("routes.txt"))
+        texte = z.read(nom).decode("utf-8-sig")
+    routes = {row["route_id"]: (row.get("route_short_name") or row.get("route_long_name") or "").strip()
+              for row in csv.DictReader(io.StringIO(texte))}
+    LIGNES_CACHE.parent.mkdir(exist_ok=True)
+    LIGNES_CACHE.write_text(json.dumps({"date": AUJOURDHUI.isoformat(), "routes": routes}, ensure_ascii=False),
+                            encoding="utf-8")
+    return routes
+
+
+RE_LIGNES_TEXTE = re.compile(r"\blignes?\s+((?:[A-Z]?\d{1,3}|T\d|F\d)(?:\s*(?:,|et|/|-)\s*(?:[A-Z]?\d{1,3}|T\d|F\d))*)", re.I)
+
+
+def collecter_transport():
+    try:
+        routes = lignes_astuce()
+    except Exception as e:
+        routes = {}
+        print(f"  lignes Astuce non lues : {e}")
+    contenu, derniere_erreur = None, None
+    for url in ASTUCE_ALERTES:
+        try:
+            r = SESSION.get(url, timeout=40)
+            r.raise_for_status()
+            contenu = r.content
+            break
+        except Exception as e:
+            derniere_erreur = e
+    if contenu is None:
+        avertissements.append(f"Info trafic Astuce inaccessible : {derniere_erreur}")
+        return None
+    maintenant = int(MAINTENANT.timestamp())
+    dans_7_jours = maintenant + 7 * 86400
+    alertes, vues = [], set()
+    for ent in pb_lire(contenu).get(2, []):
+        e = pb_lire(ent)
+        if not e.get(5):
+            continue
+        a = pb_lire(e[5][0])
+        # période : en cours ou qui commence dans les 7 jours
+        periodes = [pb_lire(x) for x in a.get(1, [])]
+        debut = min((p.get(1, [0])[0] for p in periodes), default=0)
+        fin = max((p.get(2, [0])[0] for p in periodes), default=0)
+        if periodes and not any((p.get(1, [0])[0] or 0) <= dans_7_jours and (not p.get(2) or p[2][0] >= maintenant)
+                                for p in periodes):
+            continue
+        titre = pb_texte(a[10][0]) if a.get(10) else ""
+        texte = pb_texte(a[11][0]) if a.get(11) else ""
+        lien = pb_texte(a[8][0]) if a.get(8) else ""
+        lignes, reseau = set(), False
+        for sel in a.get(5, []):
+            s_ = pb_lire(sel)
+            if s_.get(2):
+                lignes.add(routes.get(s_[2][0].decode(), s_[2][0].decode()))
+            elif s_.get(1) and not s_.get(5) and not s_.get(4):
+                reseau = True
+        for m in RE_LIGNES_TEXTE.finditer(titre + " " + texte):
+            lignes |= {x.upper() for x in re.findall(r"[A-Z]?\d{1,3}|T\d|F\d", m.group(1), re.I)}
+        concernees = sorted(l for l in lignes if l.upper() in LIGNES_HOULME)
+        cause = CAUSES.get(a.get(6, [0])[0], "")
+        greve = cause == "Grève" or bool(re.search(r"gr[eè]ve|mouvement social", norm(titre + " " + texte)))
+        if not concernees and not (reseau or (greve and not lignes)):
+            continue
+        cle = norm(titre)[:60]
+        if cle in vues:
+            continue
+        vues.add(cle)
+        alertes.append({
+            "titre": titre or "Perturbation",
+            "texte": texte[:2000],
+            "lignes": concernees or ["Tout le réseau"],
+            "type": "Grève" if greve else EFFETS.get(a.get(7, [0])[0], cause or "Perturbation"),
+            "debut": dt.datetime.fromtimestamp(debut, TZ).strftime("%Y-%m-%dT%H:%M") if debut else "",
+            "fin": dt.datetime.fromtimestamp(fin, TZ).strftime("%Y-%m-%dT%H:%M") if fin else "",
+            "url": lien,
+        })
+    alertes.sort(key=lambda x: (x["debut"] > MAINTENANT.strftime("%Y-%m-%dT%H:%M"), x["debut"]))
+    return {"reseau": "Astuce", "lignes": LIGNES_HOULME, "alertes": alertes[:20],
+            "maj": MAINTENANT.strftime("%Y-%m-%dT%H:%M"),
+            "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"}
+
+
 def collecter_ville():
     limite_actus = (AUJOURDHUI - dt.timedelta(days=45)).isoformat()
     limite_alertes = (AUJOURDHUI - dt.timedelta(days=90)).isoformat()
@@ -1067,10 +1218,17 @@ def collecter_ville():
                 garde.append(x)
         return garde
 
+    try:
+        transport = collecter_transport()
+    except Exception as e:
+        transport = None
+        avertissements.append(f"Info trafic Astuce illisible : {e}")
+
     if not ok:
         return None
     return {
         "commune": "Le Houlme",
+        "transport": transport,
         "alertes": dedoublonner(alertes),
         "actus": sorted(dedoublonner(actus), key=lambda a: a["date"] or "0", reverse=True)[:25],
         "agenda": sorted(dedoublonner(agenda), key=lambda e: e["date"])[:25],
@@ -1127,6 +1285,8 @@ def main():
         if it.get("source") == "le-houlme.fr" and it.get("url") and "texte" in it:
             DETAILS_CACHE[it["url"]] = {"texte": it.get("texte", ""), "lieu": it.get("lieu", ""), "image": it.get("image", "")}
     ville = collecter_ville()
+    if ville and not ville.get("transport") and ancien.get("ville", {}).get("transport"):
+        ville["transport"] = ancien["ville"]["transport"]  # info trafic illisible cette fois : on garde la précédente
     if ville:
         data["ville"] = ville
     data["avertissements"] = avertissements
