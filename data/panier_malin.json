@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-05T13:30",
+ "genere_le": "2026-10-05T23:12",
  "promos_maj_le": "2026-10-05T06:32",
  "magasins": [
   {
@@ -18477,20 +18477,8 @@
     "29",
     "360"
    ],
-   "alertes": [
-    {
-     "titre": "F5 : déviation à Bonsecours dimanche 11 octobre de 11h15 à 12h30.",
-     "texte": "Dimanche 11 octobre 2026 de 11h15 à 12h30\nManifestation sportive \"La Robic\" à Bonsecours.\nDéviation dans les deux sens.\nArrêts non desservis de Thuringe à Route Neuve.\nPlan",
-     "lignes": [
-      "Tout le réseau"
-     ],
-     "type": "Déviation",
-     "debut": "2026-10-05T13:04",
-     "fin": "2026-10-11T13:04",
-     "url": "https://www.myastuce.fr/fr/transport-public-info?context=DisruptionDetail&disruptionId=23660"
-    }
-   ],
-   "maj": "2026-10-05T13:30",
+   "alertes": [],
+   "maj": "2026-10-05T23:12",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
