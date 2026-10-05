@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-05T06:07",
+ "genere_le": "2026-10-05T06:10",
  "promos_maj_le": "2026-10-05T06:07",
  "magasins": [
   {
@@ -17008,7 +17008,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/68b3ecd7a186cb0ea38e72051012eb9c",
     "https://leclerc.solidwind.io/v2/datafiles/0fbf3b68735c2b111c86454f31029d61"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Caprese_Salad_and_Hot_Coffee.jpg/960px-Caprese_Salad_and_Hot_Coffee.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17067,7 +17068,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/317a85676baddabd33c4f98581bdd980",
     "https://leclerc.solidwind.io/v2/datafiles/3333b3418ae035001e288daa343cf1fb"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Raclette_20040817_140816.jpg/960px-Raclette_20040817_140816.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17126,7 +17128,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/99c0875f759b37c770391c2a0ec911e1",
     "https://leclerc.solidwind.io/v2/datafiles/6e7521e60ee354ef4820010d7595dffd"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ravigote_%C3%A0_l%27%C3%A9chalotte.jpg/960px-Ravigote_%C3%A0_l%27%C3%A9chalotte.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17186,7 +17189,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/a6337f19ee3e6884b08170a66d930a3d",
     "https://leclerc.solidwind.io/v2/datafiles/6e7521e60ee354ef4820010d7595dffd"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg/960px-Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17264,7 +17268,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/6e7521e60ee354ef4820010d7595dffd",
     "https://leclerc.solidwind.io/v2/datafiles/a01ba6f0ee146c2be4b80b54e7b85a47"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/P%C3%A2t%C3%A9_en_cro%C3%BBte.JPG/960px-P%C3%A2t%C3%A9_en_cro%C3%BBte.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17324,7 +17329,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/c6eefb3f849c16d1896b2a32b11d2c85",
     "https://leclerc.solidwind.io/v2/datafiles/a01ba6f0ee146c2be4b80b54e7b85a47"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg/960px-The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped2%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17393,7 +17399,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/111bead56500e14e328fe4927aa35aa2",
     "https://leclerc.solidwind.io/v2/datafiles/25e456c1b3502daed1f1b1a8ce203bcc"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fruitsalad_2.jpg/960px-Fruitsalad_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17461,7 +17468,8 @@
     "https://leclerc.solidwind.io/v2/datafiles/1983517894d22d35692feb14782e2736",
     "https://leclerc.solidwind.io/v2/datafiles/583d270c40a941989b386fd6ac0bad86"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Currywurst_%26_Pommes_frites.jpg/960px-Currywurst_%26_Pommes_frites.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17519,7 +17527,8 @@
    "images": [
     "https://leclerc.solidwind.io/v2/datafiles/0fbf3b68735c2b111c86454f31029d61"
    ],
-   "photo": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Syrian_meal.jpg/960px-Syrian_meal.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
@@ -17586,7 +17595,8 @@
    "images": [
     "https://leclerc.solidwind.io/v2/datafiles/0fbf3b68735c2b111c86454f31029d61"
    ],
-   "photo": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pot-au-feu2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
