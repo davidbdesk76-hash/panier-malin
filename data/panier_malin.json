@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-05T06:32",
+ "genere_le": "2026-10-05T06:53",
  "promos_maj_le": "2026-10-05T06:32",
  "magasins": [
   {
@@ -18477,20 +18477,8 @@
     "29",
     "360"
    ],
-   "alertes": [
-    {
-     "titre": "Spectacles au théâtre Marx Dormoy - Allez-y en 27 !",
-     "texte": "🎭Le théâtre Charles Dullin étant en travaux, les spectacles ont lieu au théâtre Marx Dormoy de Grand Quevilly.\nPour faciliter vos retours, la Métropole Rouen Normandie et Réseau Astuce mettent en place, 20 minutes après le spectacle, plus de bus de la ligne 27. Prise en charge devant le théâtre Marx Dormoy jusqu'à l'arrêt \"Théâtre des Arts\".\n🚌 Les spectacles concernés sont :\nVendredi 2 octobre → Présentation de saison + French touch made in germany\nVendredi 9 octobre → Ben Herbert Larue\nJeudi 15 octobre → Génération Mitterrand\nVendredi 27 novembre → L'art d'avoir toujours raison\nMardi 8 décembre → Les swinging Poules\nMardi 2 février → Made in France\nSamedi 13 février → La trilogie du troisième type\nJeudi 25 mars → Audrey Vernon\nMardi 11 mai → Le bal des reines\n👉 Plus d'informations sur la ligne 27 ICI",
-     "lignes": [
-      "Tout le réseau"
-     ],
-     "type": "Perturbation",
-     "debut": "2026-09-25T00:00",
-     "fin": "",
-     "url": "https://www.myastuce.fr/fr/actualites/reseau-astuce-marx-dormoy-27"
-    }
-   ],
-   "maj": "2026-10-05T06:32",
+   "alertes": [],
+   "maj": "2026-10-05T06:53",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
