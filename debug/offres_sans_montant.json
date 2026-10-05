@@ -1,0 +1,2556 @@
+[
+ {
+  "uid": "066acb9f6267f1ff7aa9a20d65df26d4",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "MOUTARDE OU MAYONNAISE",
+  "brand": "MAILLE",
+  "description": "Moutarde L'Originale\n265 g.Le kg : 8,87 €.\nÉgalement disponible en variétés Moutarde au miel  285 g (le kg à l'unité : 8,42 €) au prix de 2,40 € l'unité, Mayonnaise fins gourmets ou  Mayonnaise fine 237 g (le kg à l'unité : 10,93 €) au prix de 2,59 € l'unité.",
+  "price": "2.35",
+  "codelec": "140403520",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "",
+  "discountAmount": "60",
+  "discountUnit": "PERCENT",
+  "discountLabel": "-X% sur le Xeme produit",
+  "meca": "meca17",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "2",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/99c0875f759b37c770391c2a0ec911e1"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:19:13.145644977Z",
+    "datafile_uid": "99c0875f759b37c770391c2a0ec911e1",
+    "name": "26G122G_8721201902130",
+    "sector_uid": "",
+    "source_datafile_uid": "99c0875f759b37c770391c2a0ec911e1",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:19:13.345469139Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "36d4ecb7f1344f9a632fbe91678b81e2",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/99c0875f759b37c770391c2a0ec911e1",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "8721201902130",
+  "ecoPart": "0",
+  "MEA": [],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "64819657",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "0",
+  "discountedPriceSecondProduct": "0.0",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "1692",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "0.00",
+  "containerPriceBeforeMeca": "8.87",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:44:53Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "8721201902130",
+   "8721201902376",
+   "8721201904592",
+   "8721201904844",
+   "8720181927584",
+   "8720181927577"
+  ],
+  "productMainAssetUID": "36d4ecb7f1344f9a632fbe91678b81e2",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "Avantage appliqué sur le produit le moins cher",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "1111",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "b240370c18acd56c28181005946ab13a",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "TABLETTE SANS CACAO LAIT CARAMEL",
+  "brand": "TABLETTE D'OR",
+  "description": "100 g.Le kg : 10,90 €.\nÉgalement disponible au même prix : lait feuilletine et lait riz soufflé.",
+  "price": "1.09",
+  "codelec": "060212030",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "0.82",
+  "discountAmount": "25",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/c694ff83b836028446371210fb4c21b2"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/0bd902df3216a2e7d4152127853a7716"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-09-17T06:08:54.627445262Z",
+    "datafile_uid": "c694ff83b836028446371210fb4c21b2",
+    "name": "26G122G_3564706822009",
+    "sector_uid": "",
+    "source_datafile_uid": "c694ff83b836028446371210fb4c21b2",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-09-17T06:08:54.750810669Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "a9b3875c3c7f7930d00c6def870ff054",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/c694ff83b836028446371210fb4c21b2",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-09-17T06:08:55.476590009Z",
+    "datafile_uid": "0bd902df3216a2e7d4152127853a7716",
+    "name": "26G122G_3564706822009",
+    "sector_uid": "",
+    "source_datafile_uid": "0bd902df3216a2e7d4152127853a7716",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-09-17T06:08:55.627760392Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "6c4e40094f7750ee56f4d25831519969",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/0bd902df3216a2e7d4152127853a7716",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564706822009",
+  "ecoPart": "0",
+  "MEA": [
+   "repere"
+  ],
+  "thematic": "Nouveau chez E.Leclerc",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "KIM S CHOCOLATES NV",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2116",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "10.90",
+  "containerPriceBeforeMeca": "10.90",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:37:07Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "3564706822009",
+   "3564706822016",
+   "3564706822023"
+  ],
+  "productMainAssetUID": "a9b3875c3c7f7930d00c6def870ff054",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "1112",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "6a0213bf73c782bd2c591821f999cddc",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "SABLÉS CÉRÉALE CHOCOLAT AU LAIT LOT DE 4",
+  "brand": "P'TIT DÉLI",
+  "description": "4x200g (800g).Le kg : 5,95 €.",
+  "price": "4.76",
+  "codelec": "020432010",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "3.81",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/d7fb2f2bbdf94e5adb86576d10ba66c7"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:09:08.579147491Z",
+    "datafile_uid": "d7fb2f2bbdf94e5adb86576d10ba66c7",
+    "name": "26G122G_3564706843493",
+    "sector_uid": "",
+    "source_datafile_uid": "d7fb2f2bbdf94e5adb86576d10ba66c7",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:09:08.763739889Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "076739bd6c27f8df04ac4eaa2c570f30",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/d7fb2f2bbdf94e5adb86576d10ba66c7",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564706843493",
+  "ecoPart": "0",
+  "MEA": [
+   "repere"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "BISCUIT INTERNATIONAL FRANCE",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2115",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "5.95",
+  "containerPriceBeforeMeca": "5.95",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:44:53Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "3564706843493"
+  ],
+  "productMainAssetUID": "076739bd6c27f8df04ac4eaa2c570f30",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "1112",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "5d1c439fd5de06d5733d43a85309d7c0",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "FUSILLI N°140 PASTA DI GRAGNANO IGP",
+  "brand": "TRADIZIONI D'ITALIA",
+  "description": "500 g.Le kg : 2,92 €.\nDifférentes variétés.",
+  "price": "1.46",
+  "codelec": "110562010",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "1.17",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/3f5860e613e76c85f2300ad4eb3b473b"
+   }
+  ],
+  "logos": [
+   "https://leclerc.solidwind.io/v2/datafiles/336b979a0f2a4667047d6a9d77be9079"
+  ],
+  "pictos": [
+   "https://leclerc.solidwind.io/v2/datafiles/a9017f67cb75ce42eafcad88e6e15a50"
+  ],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:20:44.421485391Z",
+    "datafile_uid": "3f5860e613e76c85f2300ad4eb3b473b",
+    "name": "26G122G_3760113765803",
+    "sector_uid": "",
+    "source_datafile_uid": "3f5860e613e76c85f2300ad4eb3b473b",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:20:44.567442559Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "c4daf52649586f948dea46c78418f7dd",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/3f5860e613e76c85f2300ad4eb3b473b",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "product-element",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2025-08-12T06:21:49.236889227Z",
+    "datafile_uid": "336b979a0f2a4667047d6a9d77be9079",
+    "name": "TRADIZIONI_ITALIA_HORIZONTAL",
+    "sector_uid": "",
+    "source_datafile_uid": "336b979a0f2a4667047d6a9d77be9079",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2025-08-12T06:21:49.417749855Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "logo",
+    "uid": "98f94ac5dcf12cb1f958dc74a5a81148",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/336b979a0f2a4667047d6a9d77be9079",
+    "extraMeta": []
+   }
+  ],
+  "pictosV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "product-element",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-10-03T20:43:36.936507618Z",
+    "datafile_uid": "a9017f67cb75ce42eafcad88e6e15a50",
+    "name": "IGP",
+    "sector_uid": "",
+    "source_datafile_uid": "a9017f67cb75ce42eafcad88e6e15a50",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-10-03T20:43:37.389955044Z",
+     "type": "published"
+    },
+    "tags": [
+     "Static",
+     "à classifier"
+    ],
+    "type": "picto",
+    "uid": "4b8706ee4ea13abd0371a6ddb1e57091",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/a9017f67cb75ce42eafcad88e6e15a50",
+    "extraMeta": [
+     {
+      "key": "pictoType",
+      "value": "IGP"
+     },
+     {
+      "key": "accessibility",
+      "value": "IGP - Indication géographique protégée"
+     }
+    ]
+   }
+  ],
+  "commentedPictos": [
+   {
+    "uid": "4b8706ee4ea13abd0371a6ddb1e57091",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/a9017f67cb75ce42eafcad88e6e15a50",
+    "comment": ""
+   }
+  ],
+  "isCC": false,
+  "ean": "3760113765803",
+  "ecoPart": "0",
+  "MEA": [],
+  "thematic": "Trafic",
+  "legalNotices": [
+   "Voir détails en points de vente.",
+   "IGP : Indication Géographique Protégée"
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "COOP ITALIAN FOOD",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2021",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "2.92",
+  "containerPriceBeforeMeca": "2.92",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-10-03T20:46:39Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {
+   "IGP": "https://leclerc.solidwind.io/v2/datafiles/a9017f67cb75ce42eafcad88e6e15a50"
+  },
+  "allergens": [
+   "gluten",
+   "moutarde",
+   "soja"
+  ],
+  "composition": "Ingrédient: Semoule de blé dur.",
+  "netContent": "0.5 KG",
+  "isPartitionedBy": [
+   "Valeur énergétique : 364.8 E14\nFibres alimentaires : 3 GRM\nProtéines : 14 GRM\nValeur énergétique : 1547.4 KJO\nAcides gras saturés : 0.3 GRM\nMatières grasses : 1.2 GRM\nSel : 0 GRM\nGlucides : 73 GRM\nSucres : 3.1 GRM"
+  ],
+  "instructions": "Instruction relative à la casserole\nPorter à ébullition 1 litre d’eau pour 100g de pâtes. Avant de verser les pâtes, ajouter 10g de gros sel pour 1 litre d'eau. Laisser cuire 13 minutes pour une cuisson al dente (ou 16 minutes pour une cuisson fondante) en remuant de temps en temps. Égoutter et assaisonner à votre goût.",
+  "conservations": "Avant ouverture: À conserver dans un endroit frais et sec, à l'abri de la lumière.",
+  "preparationInstructions": "Avant ouverture: À conserver dans un endroit frais et sec, à l'abri de la lumière.",
+  "contactName": "SCAMARK",
+  "eans": [
+   "3760113765803",
+   "3760113765643",
+   "3760113765728",
+   "3760113766008",
+   "3760113767623",
+   "3760113767661",
+   "3760113767708",
+   "3760113767746",
+   "3760113767784"
+  ],
+  "productMainAssetUID": "c4daf52649586f948dea46c78418f7dd",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "1111",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "8b14465866344e3beb6b170249b5a502",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"RIO MARE\"",
+  "brand": "RIO MARE",
+  "description": "Offre en “Ticket E.LECLERC” non cumulable avec les produits de la même gamme bénéficiant d’un autre “Ticket E.LECLERC” ou d’une autre promotion.",
+  "price": "0.0",
+  "codelec": "220201221",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "0.0",
+  "discountAmount": "34",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/3fcaa62ade73ad1b0b8f5e46f5598cdd"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/ed7fb7e003ee6c01d1eca27187db681f"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/6415958397bd91712053c23143d99dc6"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/3fec7927adec27d18c4bcb9d8aef3b81"
+   }
+  ],
+  "logos": [
+   "https://leclerc.solidwind.io/v2/datafiles/fd451b4f8906086f17be9d5c9ae71be1"
+  ],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-09-08T14:14:01.74484701Z",
+    "datafile_uid": "3fcaa62ade73ad1b0b8f5e46f5598cdd",
+    "name": "26G122G_8004030950047",
+    "sector_uid": "",
+    "source_datafile_uid": "3fcaa62ade73ad1b0b8f5e46f5598cdd",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-09-08T14:14:01.868386285Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "56af2c756ea1ed2aafae65c4b101d50e",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/3fcaa62ade73ad1b0b8f5e46f5598cdd",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:23:16.865739811Z",
+    "datafile_uid": "ed7fb7e003ee6c01d1eca27187db681f",
+    "name": "26G122G_8004030950047",
+    "sector_uid": "",
+    "source_datafile_uid": "ed7fb7e003ee6c01d1eca27187db681f",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:23:17.121792855Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "df4cef4d204694265d391ba3d0d87c57",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/ed7fb7e003ee6c01d1eca27187db681f",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:23:17.977223625Z",
+    "datafile_uid": "6415958397bd91712053c23143d99dc6",
+    "name": "26G122G_8004030950078",
+    "sector_uid": "",
+    "source_datafile_uid": "6415958397bd91712053c23143d99dc6",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:23:18.184117378Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "9627245fcb53f5caf2f82419a038a9b6",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/6415958397bd91712053c23143d99dc6",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:23:19.185146176Z",
+    "datafile_uid": "3fec7927adec27d18c4bcb9d8aef3b81",
+    "name": "26G122G_8004030950016",
+    "sector_uid": "",
+    "source_datafile_uid": "3fec7927adec27d18c4bcb9d8aef3b81",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:23:19.424771427Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "cd5af9b3f36c1334d243fb8ae33c1052",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/3fec7927adec27d18c4bcb9d8aef3b81",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "product-element",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-02-27T07:14:49.943186954Z",
+    "datafile_uid": "fd451b4f8906086f17be9d5c9ae71be1",
+    "name": "RIO MARE",
+    "sector_uid": "",
+    "source_datafile_uid": "fd451b4f8906086f17be9d5c9ae71be1",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-02-27T07:14:50.156286371Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "logo",
+    "uid": "a9aa4c2ba9e64c1b01cdc8a83bb80c6b",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/fd451b4f8906086f17be9d5c9ae71be1",
+    "extraMeta": []
+   }
+  ],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "8004030950047",
+  "ecoPart": "0",
+  "MEA": [
+   "tel"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "7001807",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [
+   6
+  ],
+  "refArticle": "1696",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "0.00",
+  "containerPriceBeforeMeca": "0.00",
+  "conditioningPrice": false,
+  "containerPriceUnit": "",
+  "lastUpdate": "2026-09-24T08:16:27Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [
+   "Poissons"
+  ],
+  "composition": "THON albacore**, huile d’olive, sel.\n**Thunnus (Neothunnus) albacares",
+  "netContent": "120 GRM",
+  "isPartitionedBy": [
+   "Valeur énergétique : 1057 KJO\nSucres : 0 GRM\nMatières grasses : 18 GRM\nGlucides : 0 GRM\nSel : 1.1 GRM\nAcides gras saturés : 3.1 GRM\nValeur énergétique : 254 E14\nProtéines : 23 GRM"
+  ],
+  "instructions": "Après ouverture, à conserver au réfrigérateur et à consommer dans les 2 jours.",
+  "conservations": "Après ouverture, à conserver au réfrigérateur et à consommer dans les 2 jours.",
+  "preparationInstructions": "Après ouverture, à conserver au réfrigérateur et à consommer dans les 2 jours.",
+  "contactName": "BOLTON FOOD",
+  "eans": [
+   "8004030950047",
+   "8004030950054",
+   "8004030950078",
+   "8004030950092",
+   "8004030950016",
+   "8004030950023",
+   "8004030950030"
+  ],
+  "productMainAssetUID": "56af2c756ea1ed2aafae65c4b101d50e",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": true,
+  "ubType": "UB Classique",
+  "categoryCode": "1111",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "ac2d6ae3f2542daf102597f2d336279c",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "MAXI FORMAT X72 GOURDES PANACHÉES SANS SUCRES AJOUTÉS",
+  "brand": "DOUCEUR DU VERGER",
+  "description": "72x90g (6,48kg).Le kg : 3,32 €.",
+  "price": "21.49",
+  "codelec": "202201020",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "17.19",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/2b5100ee681fc27de2b2ef207a794cf4"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:21:17.105900335Z",
+    "datafile_uid": "2b5100ee681fc27de2b2ef207a794cf4",
+    "name": "26G122G_3564706771383",
+    "sector_uid": "",
+    "source_datafile_uid": "2b5100ee681fc27de2b2ef207a794cf4",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:21:17.329053963Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "696cba0a9a54245af01a7c2f0bc5ce07",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/2b5100ee681fc27de2b2ef207a794cf4",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564706771383",
+  "ecoPart": "0",
+  "MEA": [
+   "repere"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "ANDROS FRANCE",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2114",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "3.32",
+  "containerPriceBeforeMeca": "3.32",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:44:52Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "3564706771383"
+  ],
+  "productMainAssetUID": "696cba0a9a54245af01a7c2f0bc5ce07",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "1112",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "0c999d5981857009abff3cc5d975fbcd",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "CHOCOLAT AU LAIT AUX NOISETTES ENTIÈRES ",
+  "brand": "TABLETTE D'OR",
+  "description": "200 g.Le kg : 11,40 €.",
+  "price": "2.28",
+  "codelec": "060201025",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "",
+  "discountAmount": "40",
+  "discountUnit": "PERCENT",
+  "discountLabel": "-X% sur le Xeme produit",
+  "meca": "meca17",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "2",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/1b7ac477ace7418d49040ef91ff73591"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:20:53.951570839Z",
+    "datafile_uid": "1b7ac477ace7418d49040ef91ff73591",
+    "name": "26G122G_3564700027509",
+    "sector_uid": "",
+    "source_datafile_uid": "1b7ac477ace7418d49040ef91ff73591",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:20:54.109813286Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "d64bff624aef62c703d441bb11e52855",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/1b7ac477ace7418d49040ef91ff73591",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564700027509",
+  "ecoPart": "0",
+  "MEA": [
+   "repere"
+  ],
+  "thematic": "Chocolats",
+  "legalNotices": [
+   "Voir détails en points de vente."
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "CEMOI CHOCOLATIER",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "0",
+  "discountedPriceSecondProduct": "0.0",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2124",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "0.00",
+  "containerPriceBeforeMeca": "11.40",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:37:13Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "3564700027509",
+   "3564700027479",
+   "3564700027486",
+   "3564700027493",
+   "3564700027516",
+   "3564700027523",
+   "3564700435014",
+   "3564706756151",
+   "3564706792883",
+   "3564706793231",
+   "3564706793316"
+  ],
+  "productMainAssetUID": "d64bff624aef62c703d441bb11e52855",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "Avantage appliqué sur le produit le moins cher",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "1112",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "4fa6400406e73891cf6923f4eb0eb656",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME BISCUITS \"GRAINÉA\"",
+  "brand": "GRAINÉA",
+  "description": "200 g.Le kg : 4,80 €.\nOffre en “Ticket E.LECLERC” non cumulable avec les produits de la même gamme bénéficiant d’un autre “Ticket E.LECLERC” ou d’une autre promotion.",
+  "price": "0.96",
+  "codelec": "260302010",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "0.77",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/a89a6049e8f63c22c0e4e6caa9f33c6f"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/8f10552f1e31dc8055c33bd8e643ca61"
+   },
+   {
+    "type": "ambiance",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/bbaed22b4b24567820475122146f2bf3"
+   },
+   {
+    "type": "ambiance",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/7adbf78e46c234d27a02ef28231f7a45"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-09-08T14:09:21.603082464Z",
+    "datafile_uid": "a89a6049e8f63c22c0e4e6caa9f33c6f",
+    "name": "26G122G_3564700855027",
+    "sector_uid": "",
+    "source_datafile_uid": "a89a6049e8f63c22c0e4e6caa9f33c6f",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-09-08T14:09:21.741928766Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "b01d59fbca7988fd6935f52ed475c419",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/a89a6049e8f63c22c0e4e6caa9f33c6f",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:12:01.696846694Z",
+    "datafile_uid": "8f10552f1e31dc8055c33bd8e643ca61",
+    "name": "26G122G_3564700855027",
+    "sector_uid": "",
+    "source_datafile_uid": "8f10552f1e31dc8055c33bd8e643ca61",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:12:01.861583937Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "ca98d0464facaa151d584c8f59c4cfb0",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/8f10552f1e31dc8055c33bd8e643ca61",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:12:02.649354102Z",
+    "datafile_uid": "bbaed22b4b24567820475122146f2bf3",
+    "name": "26G122G_1_AMB",
+    "sector_uid": "",
+    "source_datafile_uid": "bbaed22b4b24567820475122146f2bf3",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:12:02.789980706Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "ambiance",
+    "uid": "b892a0552372617788b6548a8415d3d5",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/bbaed22b4b24567820475122146f2bf3",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:12:03.622401961Z",
+    "datafile_uid": "7adbf78e46c234d27a02ef28231f7a45",
+    "name": "26G122G_1_AMB",
+    "sector_uid": "",
+    "source_datafile_uid": "7adbf78e46c234d27a02ef28231f7a45",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:12:03.791729027Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "ambiance",
+    "uid": "b4e207698ddb252d5dc1581e0386329f",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/7adbf78e46c234d27a02ef28231f7a45",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564700855027",
+  "ecoPart": "0",
+  "MEA": [
+   "tel",
+   "repere"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "BOUVARD BISCUITS",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2076",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "4.80",
+  "containerPriceBeforeMeca": "4.80",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:44:55Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [
+   "gluten",
+   "soja",
+   "fruits à coque",
+   "œufs",
+   "lait",
+   "graines de sésame"
+  ],
+  "composition": "Farine de blé 58 % ; sucre ; huile de colza ; flocons de soja 7 % ; germes de blé 5 % ; jus d’orange concentré 1,8 % (soit 9 % en équivalent fruit) ; amidon de maïs ; maltodextrine ; poudres à lever : E500, E450 ; arôme naturel d'orange ; fèves de soja décortiquées 0,1 % ; émulsifiant : lécithines (tournesol) ; sel ; minéraux : magnésium, fer ; vitamines : B1, B3, B6, B9, E ; enzyme (contient blé). \nTraces de fruits à coque, graines de sésame, œufs et lait.",
+  "netContent": "0.2 KG",
+  "isPartitionedBy": [
+   "Valeur énergétique : 455 E14\nSel : 0.38 GRM\nAcides gras saturés : 1.3 GRM\nValeur énergétique : 1912 KJO\nGlucides : 68 GRM\nSucres : 24 GRM\nMatières grasses : 15 GRM\nFibres alimentaires : 3.9 GRM\nProtéines : 10 GRM\nFer : 5.02 MC"
+  ],
+  "instructions": "",
+  "conservations": "Avant ouverture: À conserver dans un endroit frais et sec.",
+  "preparationInstructions": "Avant ouverture: À conserver dans un endroit frais et sec.",
+  "contactName": "SCAMARK",
+  "eans": [
+   "3564700855027",
+   "3564700855034",
+   "3564700855041",
+   "3564700855058",
+   "3564706609105",
+   "3564706609143",
+   "3564706618824",
+   "3564706618831"
+  ],
+  "productMainAssetUID": "b01d59fbca7988fd6935f52ed475c419",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": true,
+  "ubType": "UB Classique",
+  "categoryCode": "1112",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "f753de2021d325d92829935522187dff",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1007"
+  ],
+  "categoryChildUid": "c53cd661bc9b7915715746ea9b34fac7",
+  "name": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME SALADE EN CONSERVE \"CÔTÉ SNACK\"",
+  "brand": "CÔTÉ SNACK",
+  "description": "250 g.Le kg : 7,64 €.\nOffre en “Ticket E.LECLERC” non cumulable avec les produits de la même gamme bénéficiant d’un autre “Ticket E.LECLERC” ou d’une autre promotion.",
+  "price": "1.91",
+  "codelec": "220851010",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "1.53",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/38e97c1fcf7c10a033ee65b1447f80e0"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/d0cac2362e6ed66d9fa595fe06ff8f5b"
+   },
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/428929a379512e95e4d2579a734e48d2"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-09-08T14:11:30.282876423Z",
+    "datafile_uid": "38e97c1fcf7c10a033ee65b1447f80e0",
+    "name": "26G122G_3564700842058",
+    "sector_uid": "",
+    "source_datafile_uid": "38e97c1fcf7c10a033ee65b1447f80e0",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-09-08T14:11:30.402212435Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "de43834436412f00ae38e322aabc2d00",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/38e97c1fcf7c10a033ee65b1447f80e0",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:16:57.655857554Z",
+    "datafile_uid": "d0cac2362e6ed66d9fa595fe06ff8f5b",
+    "name": "26G122G_3564700842058",
+    "sector_uid": "",
+    "source_datafile_uid": "d0cac2362e6ed66d9fa595fe06ff8f5b",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:16:57.805377072Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "728de153003049f246b8b994dd39e1a6",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/d0cac2362e6ed66d9fa595fe06ff8f5b",
+    "extraMeta": []
+   },
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:16:58.694512689Z",
+    "datafile_uid": "428929a379512e95e4d2579a734e48d2",
+    "name": "26G122G_3564700842331",
+    "sector_uid": "",
+    "source_datafile_uid": "428929a379512e95e4d2579a734e48d2",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:16:58.841928542Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "b3694dfb0f6481ac975a29299cc828e2",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/428929a379512e95e4d2579a734e48d2",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564700842058",
+  "ecoPart": "0",
+  "MEA": [
+   "tel",
+   "repere"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "",
+  "originePays": "",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "PETIT PIERRE",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2084",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "7.64",
+  "containerPriceBeforeMeca": "7.64",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:44:56Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "3564700842058",
+   "3564700842096",
+   "3564700842171",
+   "3564700842256",
+   "3564700842294",
+   "3564700842331"
+  ],
+  "productMainAssetUID": "de43834436412f00ae38e322aabc2d00",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": true,
+  "ubType": "UB Classique",
+  "categoryCode": "1111",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "47d70e7c2913b3248ab918e46a47a08f",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1017"
+  ],
+  "categoryChildUid": "6da448c27725553bf20647563e043d7b",
+  "name": "ROCAMADOUR AOP 24% MAT. GR. ",
+  "brand": "NOS RÉGIONS ONT DU TALENT",
+  "description": "Au lait cru de chèvre. 3x35g (105g)\nLe kg : 25,62 €.\nÉgalement disponible au même prix : Crottin Poitevin au lait de chèvre pasteurisé 25% MAT. GR. 2X60G (Le Kg : 22,42€).",
+  "price": "2.69",
+  "codelec": "432142130",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "2.15",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/04f6605f52372a683b0e0e589bacdfc9"
+   }
+  ],
+  "logos": [],
+  "pictos": [
+   "https://leclerc.solidwind.io/v2/datafiles/feecb59f36fc8cbe8bdd99d98ec96af7"
+  ],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:15:12.377316414Z",
+    "datafile_uid": "04f6605f52372a683b0e0e589bacdfc9",
+    "name": "26G122G_3564709000923",
+    "sector_uid": "",
+    "source_datafile_uid": "04f6605f52372a683b0e0e589bacdfc9",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:15:12.544013071Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "737a30fc425b2c90018a3b7f0bab8959",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/04f6605f52372a683b0e0e589bacdfc9",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "product-element",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-10-03T20:44:58.407342418Z",
+    "datafile_uid": "feecb59f36fc8cbe8bdd99d98ec96af7",
+    "name": "AOP",
+    "sector_uid": "",
+    "source_datafile_uid": "feecb59f36fc8cbe8bdd99d98ec96af7",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-10-03T20:44:58.81873597Z",
+     "type": "published"
+    },
+    "tags": [
+     "Static",
+     "à classifier"
+    ],
+    "type": "picto",
+    "uid": "29d1515a72d765238590990562fc37da",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/feecb59f36fc8cbe8bdd99d98ec96af7",
+    "extraMeta": [
+     {
+      "key": "pictoType",
+      "value": "AOP"
+     },
+     {
+      "key": "accessibility",
+      "value": "AOP - Appellation d'origine protégée"
+     }
+    ]
+   }
+  ],
+  "commentedPictos": [
+   {
+    "uid": "29d1515a72d765238590990562fc37da",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/feecb59f36fc8cbe8bdd99d98ec96af7",
+    "comment": ""
+   }
+  ],
+  "isCC": false,
+  "ean": "3564709000923",
+  "ecoPart": "0",
+  "MEA": [
+   "region-talent"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   "% de Mat. Gr. sur produit fini.",
+   "AOP : Appellation d'Origine Protégée"
+  ],
+  "origine": "Origine",
+  "originePays": "France",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "FROMAGERIES TERROIRS DU SUD",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "2028",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "25.62",
+  "containerPriceBeforeMeca": "25.62",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-10-03T20:44:59Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {
+   "AOP": "https://leclerc.solidwind.io/v2/datafiles/feecb59f36fc8cbe8bdd99d98ec96af7"
+  },
+  "allergens": [],
+  "composition": "Ingrédients : Lait cru de chèvre, ferments (dont lait), sel, présure.",
+  "netContent": "0.105 KG",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "Avant ouverture: À conserver entre +2 °C et +6 °C.",
+  "preparationInstructions": "Avant ouverture: À conserver entre +2 °C et +6 °C.",
+  "contactName": "SCAMARK",
+  "eans": [
+   "3564709000923",
+   "3564709168722"
+  ],
+  "productMainAssetUID": "737a30fc425b2c90018a3b7f0bab8959",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "2541",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "b5e53ae10b05d5277bea69d1a2d6818f",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1017"
+  ],
+  "categoryChildUid": "6da448c27725553bf20647563e043d7b",
+  "name": "MOZZARELLA FORMAT MAXI 16% MAT. GR.",
+  "brand": "LES CROISÉS",
+  "description": "Au lait de vache pasteurisé.\n250 g.Le kg : 7,28 €.",
+  "price": "1.82",
+  "codelec": "432631020",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "1.46",
+  "discountAmount": "20",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/c6eefb3f849c16d1896b2a32b11d2c85"
+   }
+  ],
+  "logos": [],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:21:03.609906441Z",
+    "datafile_uid": "c6eefb3f849c16d1896b2a32b11d2c85",
+    "name": "26G122G_3564700549452",
+    "sector_uid": "",
+    "source_datafile_uid": "c6eefb3f849c16d1896b2a32b11d2c85",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:21:03.743374671Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "cb67afa96adff0d810d47e91ba1641f5",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/c6eefb3f849c16d1896b2a32b11d2c85",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3564700549452",
+  "ecoPart": "0",
+  "MEA": [
+   "repere"
+  ],
+  "thematic": "Trafic",
+  "legalNotices": [
+   "% de Mat. Gr. sur produit fini."
+  ],
+  "origine": "Origine",
+  "originePays": "Union Européenne",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "LACTALIS FROMAGES",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "1972",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "7.28",
+  "containerPriceBeforeMeca": "7.28",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:53:56Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [],
+  "composition": "",
+  "netContent": "",
+  "isPartitionedBy": [],
+  "instructions": "",
+  "conservations": "",
+  "preparationInstructions": "",
+  "contactName": "",
+  "eans": [
+   "3564700549452"
+  ],
+  "productMainAssetUID": "cb67afa96adff0d810d47e91ba1641f5",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "2541",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ },
+ {
+  "uid": "e6ebed01a32e12928b113bb0f222b0c8",
+  "operationUid": "f33ffd1b8c6ac198d2dc787eadeb85aa",
+  "categoriesParentUid": [
+   "1017"
+  ],
+  "categoryChildUid": "882c749f0771f73f46b9b9d98f7e8d0c",
+  "name": "Danonino aux fruits Offre familiale",
+  "brand": "DANONINO",
+  "description": "24x50 g (1,2 kg).\nLe kg : 3,53 €.",
+  "price": "4.24",
+  "codelec": "442423513",
+  "priceWithoutDiscount": "",
+  "priceWithTEL": "2.97",
+  "discountAmount": "30",
+  "discountUnit": "PERCENT",
+  "discountLabel": "TEL %",
+  "meca": "meca3",
+  "conditioning": "",
+  "offertX": "",
+  "offertY": "",
+  "discountPriceQty": "",
+  "erratum": "",
+  "acheterEnLigneUrl": "",
+  "images": [
+   {
+    "type": "packshot",
+    "url": "https://leclerc.solidwind.io/v2/datafiles/22d5ba6da72a4d375ff564f39fe4adc5"
+   }
+  ],
+  "logos": [
+   "https://leclerc.solidwind.io/v2/datafiles/fbe4f2fafbd5d9b22672f88b4d68db74"
+  ],
+  "pictos": [],
+  "imagesV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "picture",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2026-07-31T06:12:55.927249855Z",
+    "datafile_uid": "22d5ba6da72a4d375ff564f39fe4adc5",
+    "name": "26G122G_3033491685088",
+    "sector_uid": "",
+    "source_datafile_uid": "22d5ba6da72a4d375ff564f39fe4adc5",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2026-07-31T06:12:56.09265937Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "packshot",
+    "uid": "399644eec2f4fe1d4dc2ed04f0eb570d",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/22d5ba6da72a4d375ff564f39fe4adc5",
+    "extraMeta": []
+   }
+  ],
+  "logosV2": [
+   {
+    "brand_uids": [],
+    "briefing": "",
+    "categories": [],
+    "class": "product-element",
+    "comment": "",
+    "created_by": "1d4ab45cd44048bfbd0d5058ca8be498",
+    "created_on": "2025-08-06T10:02:12.637681866Z",
+    "datafile_uid": "fbe4f2fafbd5d9b22672f88b4d68db74",
+    "name": "Danonino HD 2019",
+    "sector_uid": "",
+    "source_datafile_uid": "fbe4f2fafbd5d9b22672f88b4d68db74",
+    "status": {
+     "by": "1d4ab45cd44048bfbd0d5058ca8be498",
+     "on": "2025-08-06T10:02:12.799328786Z",
+     "type": "published"
+    },
+    "tags": [],
+    "type": "logo",
+    "uid": "fa970abe60a26373389773819bdb973e",
+    "validity": {
+     "duration": "0s",
+     "end": "0001-01-01T00:00:00Z",
+     "start": "0001-01-01T00:00:00Z"
+    },
+    "url": "https://leclerc.solidwind.io/v2/datafiles/fbe4f2fafbd5d9b22672f88b4d68db74",
+    "extraMeta": []
+   }
+  ],
+  "pictosV2": [],
+  "commentedPictos": [],
+  "isCC": false,
+  "ean": "3033491685088",
+  "ecoPart": "0",
+  "MEA": [],
+  "thematic": "Trafic",
+  "legalNotices": [
+   ""
+  ],
+  "origine": "Origine",
+  "originePays": "France",
+  "unavailability": [],
+  "displaySupplierRef": false,
+  "supplierRef": "168508",
+  "lowerprice": "",
+  "mandatStartDate": "",
+  "mandatEndDate": "",
+  "ecatOnly": "false",
+  "priceFrom": false,
+  "codeService": "",
+  "france1": true,
+  "france2": true,
+  "france3": true,
+  "discountedPriceLot": "",
+  "discountedPriceSecondProduct": "",
+  "isPartner": false,
+  "vitesses": [
+   "26G122G_V2",
+   "26G122G_V1"
+  ],
+  "trade": [],
+  "refArticle": "1850",
+  "repairAbilityIndex": "",
+  "durabilityIndex": "",
+  "containerPrice": "3.53",
+  "containerPriceBeforeMeca": "3.53",
+  "conditioningPrice": false,
+  "containerPriceUnit": "Le kg",
+  "lastUpdate": "2026-09-23T09:53:52Z",
+  "section": "",
+  "geoArea": "",
+  "errata": "",
+  "ref_price": "",
+  "plusProduct": "",
+  "picto_wine_properties": "",
+  "picto_wine_advisor": "",
+  "picto_incroyables": false,
+  "namedPictos": {},
+  "allergens": [
+   "lait"
+  ],
+  "composition": "LAIT écrémé pasteurisé sucre (8,1%) crème pasteurisée (LAIT) fruits (6%en moyenne) : fraise, framboise, abricot, pêche-poire, banane jus de framboise à base de concentré (dans variété framboise) épaississants [(amidons transformés / E1442, E1422), gomme guar / E412] protéines de LAIT citrates de calcium jus concentré de sureau (dans variété framboise) jus d'abricot à base de concentré (dans variété abricot) concentrés de carotte noire, carotte et citrouille (dans variété fraise) concentré de carotte noire (dans variété abricot) arômes naturels correcteur d'acidité (acide citrique / E330) ferments lactiques (LAIT) vitamine D LAIT: Origine France",
+  "netContent": "1.2 KG",
+  "isPartitionedBy": [
+   "Protéines : 6.4 GRM\nMatières grasses : 2.9 GRM\nAcides gras saturés : 2 GRM\nValeur énergétique : 103 E14\nCalcium : 198 MGM\nSel : 0.08 GRM\nValeur énergétique : 433 KJO\nGlucides : 12.7 GRM\nVitamine D : 1.25 MC\nSucres : 12.1 GRM"
+  ],
+  "instructions": "A conserver entre +1°C et + 6°C maximum",
+  "conservations": "A conserver entre +1°C et + 6°C maximum",
+  "preparationInstructions": "A conserver entre +1°C et + 6°C maximum",
+  "contactName": "DANONE PRODUITS FRAIS",
+  "eans": [
+   "3033491685088"
+  ],
+  "productMainAssetUID": "399644eec2f4fe1d4dc2ed04f0eb570d",
+  "bundlePrice": "",
+  "bundleQty": "",
+  "duoTitle": "",
+  "duoDescription": "",
+  "duoPrice": "",
+  "productMecaTitle": "",
+  "perQuantityLabel": "",
+  "perQuantityPrice": "0.00",
+  "perQuantityText": "",
+  "mechanicMentions": {
+   "cheapestProduct": "",
+   "fromXAmountPurchase": "",
+   "fromXProductPurchase": "",
+   "reservedForCardholders": ""
+  },
+  "overloadProduct": {
+   "name": "",
+   "bottleQuantity": "",
+   "bottlePackaging": ""
+  },
+  "bottleQuantity": "",
+  "bottlePackaging": "",
+  "alcoholContent": 0,
+  "productTable": {
+   "columns": [],
+   "rows": []
+  },
+  "productInsert": false,
+  "ubType": "UB Classique",
+  "categoryCode": "2546",
+  "firstVariantPrice": 0,
+  "firstVariantLabel": "",
+  "advice": {
+   "category": "",
+   "name": "",
+   "job": "",
+   "text": "",
+   "title": "",
+   "label": ""
+  }
+ }
+]
