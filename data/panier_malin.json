@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-05T06:11",
+ "genere_le": "2026-10-05T06:27",
  "promos_maj_le": "2026-10-05T06:07",
  "magasins": [
   {
@@ -17645,6 +17645,106 @@
  ],
  "ville": {
   "commune": "Le Houlme",
+  "transport": {
+   "reseau": "Astuce",
+   "lignes": [
+    "F4",
+    "29",
+    "360"
+   ],
+   "alertes": [
+    {
+     "titre": "Venez encourager vos équipes ! Transports GRATUITS et RENFORCÉS !",
+     "texte": "<figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Banniere_Site_Internet_FCR_QRM_RNR_Hockey_11d474e961.png\"></figure><p><strong>STADE ROBERT DIOCHON</strong> <img src=\"https://media-prd.myastuce.fr/uploads/assets/RNR_test_c247b2147d.png\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Logo_QRM_Picto_13b814b626.png\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Logo_FCR_Picto_e5f931afed.png\"></p><p>Vous comptez vous rendre au stade Robert Diochon pour encourager votre équipe préférée ? Bonne nouvelle ! La Métropole Rouen Normandie et le Réseau Astuce mettent en place des <strong>dessertes supplémentaires.</strong></p><p>2h avant et 2h après le match, voyagez <strong>GRATUITEMENT</strong> sur le réseau Astuce à condition d'être muni de votre place pour le match du jour. Les samedis, vous devez valider votre titre de transport mais aucun décompte ne sera opéré. Plus d'infos <a href=\"https://www.myastuce.fr/fr/titre-gratuit-le-samedi\" target=\"_blank\" rel=\"noopener noreferrer\">ICI</a></p><p>Pensez à vous garer au Parking du Zénith Parc Expo ! <img src=\"https://media-prd.myastuce.fr/uploads/assets/P_r_3_dcee43996b.png\"> Plus d'infos sur les Parkings Relais <a href=\"https://www.myastuce.fr/fr/parking\" target=\"_blank\" rel=\"noopener noreferrer\">ICI</a></p><p>&nbsp;</p><p><strong>Matchs concernés par les dessertes supplémentaires :&nbsp;</strong></p><figure class=\"table\"><table><tbody><tr><td><img src=\"https://media-prd.myastuce.fr/uploads/assets/Logo_RNR_Picto_92400f88d4.png\"><strong>Vendredi 2 octobre - 20h</strong></td><td>Rouen Normandie Rugby - Albi</td><td><ul><li>+ de <img src=\"https://media-prd.myastuce.fr/uploads/assets/T4_3_52b4f95fa7.png\"> après le match. Du stade Robert Diochon en direction de Marie Curie - MTC.</li><li>+ de <img src=\"https://media-prd.myastuce.fr/uploads/assets/F1_3_61afaf8fd3.png\"> après le match. Du stade Robert Diochon en direction de Plaine de la Ronce.</li><li>Mise en place de navette après le match",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-08-04T09:33",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/Transports_gratuits_renforces"
+    },
+    {
+     "titre": "Nouveau dispositif billettique : ce qui change !",
+     "texte": "<p style=\"text-align:center;\"><span style=\"color:#0070C0;\"><strong><img src=\"https://media-prd.myastuce.fr/uploads/assets/Transdev_Rouen_Nouvelle_Billettique2026_Teasing_ecrans_TFT_1920x1080px_Generique_5884f723f5.jpg\"></strong></span><br><br><span class=\"text-big\" style=\"color:#0070C0;\"><strong>Nouveau dispositif de billettique : ce qui change&nbsp;!&nbsp;</strong></span></p><p><strong>Afin de simplifier l’usage des transports en commun, le système billettique évolue. Plusieurs changements importants sont mis en place progressivement à partir du 17 août.</strong></p><hr><p><strong><u><img src=\"https://media-prd.myastuce.fr/uploads/assets/titre_ticket_site_121478270d.png\"></u></strong></p><figure class=\"image image-style-align-center image_resized\" style=\"width:52.47%;\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/mascotte_ticket_site_644ade20b4.png\"></figure><p>Depuis le 17 août, un nouveau ticket rechargeable sans contact, pensé pour les voyageurs occasionnels, est déployé sur le réseau Astuce et remplace progressivement l’actuel ticket cartonné à décompte.</p><p>Ce nouveau ticket coûte <strong>20 centimes</strong>,<strong> se recharge</strong> et <strong>se conserve</strong>&nbsp;: ne jetez pas votre ticket&nbsp;!</p><p>Sur ce nouveau ticket, vous pouvez charger&nbsp;les titres :</p><ul style=\"list-style-type:disc;\"><li>1 Voyage,&nbsp;</li><li>10 Voyages, 10 Voyages jeunes, 10 Voyages PDE</li><li>DECOUVERTE 24 heures,</li><li>7 jours moins de 18 ans,</li><li>SENIOR 20 unités</li><li>DANS LA <span style=\"color:black;\">CITE</span></li><li><span style=\"color:black;\">GROUPE 10 personnes</span></li><li><span style=\"color:black;\">GROUPE Jeunes -18 ans 30 personnes</span></li></ul><p style=\"margin-left:18.0pt;\">&nbsp;</p><p><span style=\"color:#CC0066;\"><strong><u>Comment se le procurer et le recharger&nbsp;?&nbsp;</u></strong></span></p><ul style=\"list-style-type:disc;\"><li>Chez les <a href=\"https://www.myastuce.fr/fr/where-to-buy-tickets\" target=\"_blank\" rel=",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-08-17T08:22",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/nouvelle_billettique_2026"
+    },
+    {
+     "titre": "Agence des mobilités au centre commercial Saint-Sever !",
+     "texte": "<p>Retrouvez l’agence éphémère Astuce au sein du <span style=\"color:#CC0066;\">centre commercial Saint-Sever (face au Quick)</span> à Rouen, du <span style=\"color:#CC0066;\">17 août au 21 novembre 2026.</span></p><p>&nbsp;</p><p><strong>Les services suivants sont disponibles sur place :</strong></p><ul><li>Souscription, renouvellement et rechargement de titres ASTUCE ;</li><li>Informations sur le réseau, les horaires et les itinéraires.</li></ul><p><i>Le guichet “Recouvrement des amendes et régularisation” est accessible uniquement à l'agence des mobilités au Théâtre des Arts.</i></p><h3>&nbsp;</h3><h3><span style=\"color:#CC0066;\"><strong>Comment venir ?</strong></span></h3><p>Centre commercial Saint-Sever – Rez-de-chaussée<br>Avenue de Bretagne – 76100 Rouen</p><p><img src=\"https://media-prd.myastuce.fr/uploads/assets/Metro_3_056883413b.png\"> <img src=\"https://media-prd.myastuce.fr/uploads/assets/F1_3_a0b04ead88.png\"> <img src=\"https://media-prd.myastuce.fr/uploads/assets/F9_3_fec20ea5ea.png\"> <img src=\"https://media-prd.myastuce.fr/uploads/assets/27_3_138b234054.png\"> : station Saint-Sever</p><p>&nbsp;</p><h3><span style=\"color:#CC0066;\"><strong>Quand venir ?</strong></span></h3><p>Du lundi au vendredi : de 7h à 19h (jusque 20h du 31 août au 04 septembre)<br>Le samedi : de 9h30 à 17h30</p>",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-08-17T14:49",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/agence-saint-sever"
+    },
+    {
+     "titre": "Enquête Origine-Destination",
+     "texte": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\"><img class=\"image-style-align-right\" src=\"https://media-prd.myastuce.fr/uploads/assets/image_c56ce75e8b.png\">📍 <strong>Du 21 septembre au 16 octobre 2026</strong>, une enquête sera menée à bord des véhicules afin de mieux connaître les déplacements des voyageurs : lieu de départ, destination, correspondances… 🚊🚌</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">Durant votre trajet, un enquêteur ou une enquêtrice pourra vous inviter à répondre à quelques questions. <strong>Les équipes seront facilement reconnaissables grâce à leur badge</strong>.&nbsp;</span></p><p>&nbsp;</p><p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">🙏 Merci par avance pour votre participation ! <strong>Vos réponses contribueront à une meilleure connaissance des déplacements sur le territoire</strong>.</span></p>",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-09-20T10:00",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/Enquete_Origine_Destination"
+    },
+    {
+     "titre": "Spectacles au théâtre Marx Dormoy - Allez-y en 27 !",
+     "texte": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">🎭Le théâtre Charles Dullin étant en travaux, les spectacles ont lieu au théâtre Marx Dormoy de Grand Quevilly.</span></p><p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">Pour faciliter vos retours, la Métropole Rouen Normandie et Réseau Astuce mettent en place, 20 minutes après le spectacle, </span><span style=\"background-color:rgb(255,255,255);color:hsl(270,75%,60%);\"><strong>plus de bus de la ligne 27. </strong></span><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">Prise en charge </span><span style=\"background-color:rgb(255,255,255);color:hsl(270,75%,60%);\"><strong>devant le théâtre Marx Dormoy </strong></span><span style=\"background-color:rgb(255,255,255);color:hsl(0,0%,0%);\">jusqu'à l'arrêt</span><span style=\"background-color:rgb(255,255,255);color:hsl(270,75%,60%);\"><strong> \"Théâtre des Arts\".</strong></span></p><p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">🚌 Les spectacles concernés sont :</span></p><ul><li>Vendredi 2 octobre → Présentation de saison + French touch made in germany</li><li>Vendredi 9 octobre → Ben Herbert Larue</li><li>Jeudi 15 octobre → Génération Mitterrand</li><li>Vendredi 27 novembre → L'art d'avoir toujours raison</li><li>Mardi 8 décembre → Les swinging Poules</li><li>Mardi 2 février → Made in France</li><li>Samedi 13 février → La trilogie du troisième type</li><li>Jeudi 25 mars → Audrey Vernon</li><li>Mardi 11 mai → Le bal des reines</li></ul><p><span style=\"background-color:rgb(255,255,255);color:rgb(28,28,28);\">👉 Plus d'informations sur la ligne 27 </span><a href=\"https://www.myastuce.fr/fr/transport-public-horaire?lineId=24144&amp;context=ScheduleLine\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"background-color:rgb(255,255,255);color:hsl(270,75%,60%);\">ICI</span></a></p><figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Plan_27_Site_Internet_V2_10404262a3.p",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-09-25T00:00",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/reseau-astuce-marx-dormoy-27"
+    },
+    {
+     "titre": "Octobre Rose : Réseau Astuce et la Fondation Charles Nicolle-Normandie s'engagent !",
+     "texte": "<figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Octobre_Rose_1176x336_8c4c4a629e.jpg\"></figure><p><strong>À l'occasion d'Octobre Rose,</strong> Réseau Astuce et la Fondation Charles Nicolle-Normandie s'engagent dans <strong>la lutte contre le cancer du sein,</strong> en vous proposant un <strong>défi solidaire</strong> pour soutenir cette cause !</p><p><span style=\"color:#FF3399;\"><strong>Mais tout d'abord, Octobre Rose, c'est quoi ?</strong></span></p><p>Chaque année en octobre, cette campagne permet de parler du cancer du sein, de rappeler l'importance du dépistage et de mobiliser autour de la prévention, de la recherche et de l'accompagnement des personnes concernées.</p><p>Car saviez-vous que détecté tôt, le cancer du sein a 90% de chance d'être guéri ? Pourtant, moins d'une femme sur deux participe au dépistage organisé. Informer, sensibiliser, encourager à se faire dépister : ces gestes simples peuvent changer des vies !</p><p>Aujourd'hui, Réseau Astuce et la Fondation Charles Nicolle-Normandie vous lancent le défi de récolter 500€ pour la Fondation.</p><p><span style=\"color:#FF3399;\"><strong>Comment ?</strong></span></p><p>Rendez-vous sur le Club MyAstuce et participez à l'offre cagnotte grâce à vos points. L'objectif est d'atteindre 100 000 points pour la Fondation.</p><p><span style=\"color:#FF3399;\"><strong>Qu'est-ce que la Fondation Charles Nicolle-Normandie ?</strong></span></p><p>La fondation Charles Nicolle est la seule fondation reconnue d'utilité publique dans le domaine de la santé en Normandie. C'est un acteur clé de l'innovation médicale locale. Elle soutient le recherche, la formation et des projets à fort impact clinique pour une médecine moderne, humaine et ancrée sur le territoire. Elle participe également à l'amélioration de l'accueil et de la prise en charge des patients. Elle soutient les établissements publics de santé du territoire normands, au premier rang duquel le CHU de Rouen, et l'Université Rouen Normandi",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-10-01T12:18",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/octobre-rose"
+    },
+    {
+     "titre": "Retrouvez nos conseillers en mobilité !",
+     "texte": "<p><img class=\"image_resized\" style=\"width:56.22%;\" src=\"https://media-prd.myastuce.fr/uploads/assets/elements_pour_actu_site_web_02_7cb70e259b.png\"></p><p>&nbsp;</p><p>Retrouvez nos conseillers mobilité près de chez vous pour réaliser vos démarches en toute simplicité.</p><p>&nbsp;</p><h2>Sur place, nos équipes vous accompagnent pour &nbsp;:</h2><figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/elements_actu_site_web_03_8176da1b9a.png\"></figure><figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/elements_actu_site_web_04_933abad2a0.png\"></figure><figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/elements_actu_site_web_05_18f781b92e.png\"></figure><figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/elements_actu_site_web_06_3f7947be49.png\"></figure><figure class=\"image\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/elements_actu_site_web_07_4004e8b974.png\"></figure><hr><p><i><strong>Si vous possédez encore des tickets à décompte en version papier, profitez de ces rencontres pour les échanger gratuitement. Vos voyages restants seront transférés sur un nouveau ticket rechargeable sans contact.</strong></i></p><p>&nbsp;</p><p><i>Plus d'infos sur </i><a href=\"https://www.myastuce.fr/fr/actualites/nouvelle_billettique_2026\" target=\"_blank\" rel=\"noopener noreferrer\"><i>la nouvelle billettique</i></a><i> en place depuis le 17 août.&nbsp;</i></p><p>&nbsp;</p><hr><h2>Prochaines dates</h2><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td><figure class=\"image image-style-align-center\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Vignette_actu_site_web_10_9fb2a6b3c6.png\"></figure></td><td><p>&nbsp;</p><figure class=\"image image-style-align-center\"><img src=\"https://media-prd.myastuce.fr/uploads/assets/Vignette_actu_site_web_11_6ff517ba11.png\"></figure></td><td><p>&nbsp;</p><figure class=\"image image-style-align-center\"><img src=\"https://media-prd.myast",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Perturbation",
+     "debut": "2026-10-02T18:00",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/Retrouvez-nos-conseillers-en-mobilit%C3%A9"
+    },
+    {
+     "titre": "Grève lundi 5 octobre : Aucune ligne ne circule sur le secteur Elbeuf.",
+     "texte": "<p><span class=\"text-big\" style=\"color:#CC0066;\"><strong>Grève lundi 5 octobre : Aucune ligne ne circule sur le secteur Elbeuf</strong></span><br>&nbsp;</p><p style=\"text-align:justify;\">Dans le cadre du préavis de grève déposé pour le lundi 5 octobre, aucune ligne ne circule&nbsp;:&nbsp;</p><p style=\"text-align:justify;\">&nbsp;</p><ul style=\"list-style-type:disc;\"><li style=\"text-align:justify;\"><strong>Lignes régulières&nbsp;:</strong> A, B, C, F, G, I et F9 ne circulent pas.</li></ul><p style=\"margin-left:72.0pt;text-align:justify;\">&nbsp;</p><ul style=\"list-style-type:disc;\"><li style=\"text-align:justify;\"><strong>Lignes scolaires&nbsp;:</strong> 100, 101, 102, 103, 104, 106 et 311 (via Elbeuf) ne circulent pas.</li></ul><p style=\"margin-left:72.0pt;text-align:justify;\">&nbsp;</p><ul style=\"list-style-type:disc;\"><li style=\"text-align:justify;\"><strong>Le service</strong> <strong>Allobus</strong> n’est pas assuré.</li></ul><p style=\"margin-left:72.0pt;text-align:justify;\">&nbsp;</p><p style=\"margin-left:72.0pt;text-align:justify;\">&nbsp;</p><p style=\"text-align:justify;\">Les lignes du secteur Rouen et les services Filo’r ne sont pas impactés.</p><p style=\"text-align:justify;\">&nbsp;</p><p style=\"text-align:justify;\"><i><strong>→</strong></i><strong> L’Agence des Mobilités d’Elbeuf,&nbsp;</strong>84 rue des Martyrs<strong>&nbsp;: Fermée.</strong><br><br><strong><u>Retour à la normale le mardi 6 octobre</u></strong></p><p style=\"text-align:justify;\">&nbsp;</p><p>Il est conseillé aux voyageurs de s’informer en amont des perturbations prévues sur leur ligne, d’anticiper leurs déplacements et de rester informés des évolutions du trafic.</p><p>👉&nbsp;<a href=\"https://www.myastuce.fr/fr/transport-public-info\">https://www.myastuce.fr/fr/transport-public-info</a><br><br>&nbsp;</p>",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Grève",
+     "debut": "2026-10-03T11:57",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/greve-secteur-elbeuf"
+    }
+   ],
+   "maj": "2026-10-05T06:27",
+   "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
+  },
   "alertes": [
    {
     "titre": "FERMETURE DU PARC MUNICIPAL",
