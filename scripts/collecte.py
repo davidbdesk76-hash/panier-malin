@@ -1189,7 +1189,10 @@ def collecter_transport():
             # (pas les actualités du réseau, ni une grève limitée à un autre secteur comme Elbeuf)
             generale = bool(re.search(r"ensemble du reseau|tout le reseau|toutes les lignes|houlme", tout))
             autre_secteur = bool(re.search(r"secteur|elbeuf|uniquement|rive gauche", tout))
-            if not ((reseau or greve) and perturbation and (generale or not autre_secteur)):
+            # (les « travaux » d'un théâtre ou d'un stade ne sont pas une perturbation des bus : mots plus stricts ici)
+            forte = greve or effet in (1, 2, 3) or bool(re.search(
+                r"perturb|interromp|ne circule|non desservi|aucun bus|aucune ligne|reseau (est )?(arrete|interrompu)", tout))
+            if lignes or not ((reseau or greve) and forte and (generale or not autre_secteur)):
                 continue
         elif not perturbation and effet in (0, 5, 7, 8):
             continue
