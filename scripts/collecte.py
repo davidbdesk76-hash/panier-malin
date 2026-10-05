@@ -73,6 +73,21 @@ def propre(txt):
     return re.sub(r"\s+", " ", txt).strip()
 
 
+def texte_html(html, n=1200):
+    """Texte lisible depuis un bout de HTML (descriptions produits)."""
+    if not html:
+        return ""
+    soup = BeautifulSoup(str(html), "html.parser")
+    for br in soup.find_all("br"):
+        br.replace_with("\n")
+    for bloc in soup.find_all(["p", "li", "div", "h1", "h2", "h3", "h4", "tr"]):
+        bloc.append("\n")
+    t = soup.get_text("")
+    lignes = [propre(x) for x in t.split("\n") if propre(x)]
+    t = "\n".join(lignes)
+    return t if len(t) <= n else t[:n].rsplit(" ", 1)[0] + "…"
+
+
 def court_id(*parts):
     return hashlib.sha1("|".join(parts).encode()).hexdigest()[:8]
 
@@ -381,7 +396,8 @@ def produits_catalogue(cat):
         produits.append({"nom": nom, "prix": fmt_prix(prix),
                          "prix_avant": fmt_prix(avant) if avant and avant > prix else "",
                          "remise": libelle_remise(p.get("discountLabel") or ""),
-                         "theme": propre(p.get("thematic") or ""), "image": image})
+                         "theme": propre(p.get("thematic") or ""), "image": image,
+                         "description": texte_html(p.get("description") or "")})
     if not produits:
         sauver_debug(f"catalogue_{cat['op']}_{cat['shop']}", r.text)
     return produits
@@ -429,6 +445,7 @@ def lire_promos(catalogues):
                 "prix_avant": p["prix_avant"], "categorie": p["categorie"], "magasins": list(cat["magasins"]),
                 "du": cat["du"], "au": cat["au"], "catalogue": cat["titre"] or num,
                 "catalogue_url": cat.get("url", ""), "image": p.get("image", ""),
+                "description": p.get("description", ""),
             }
         print(f"  catalogue {num} : {len(produits)} produits")
     ordre = ["viande_poisson", "fruits_legumes", "cremerie", "epicerie", "surgeles", "boissons", "hygiene_maison", "autre"]
@@ -709,6 +726,11 @@ def est_alerte(texte):
     return any(" " + m in t for m in MOTS_ALERTE)
 
 
+# boutons et compteurs de PanneauPocket (« 1 sur 14 », « Sur Twitter », « Copier le lien »…)
+RE_PARTAGE = re.compile(r"(\d+ sur \d+|sur (twitter|facebook|x|whatsapp|linkedin)|par (e ?mail|sms)|copier le lien|"
+                        r"partager( sur .*)?|imprimer|fermer|telecharger|agrandir)")
+
+
 def panneaupocket():
     url = SOURCES_VILLE["panneaupocket"]
     soup, html = lire(url, "panneaupocket")
@@ -726,6 +748,7 @@ def panneaupocket():
         titre_el = bloc.find(["h1", "h2", "h3", "h4", "h5", "strong", "b"])
         lignes = [propre(x) for x in bloc.get_text("\n").split("\n") if propre(x)]
         lignes = [l for l in lignes if not marque.search(l) and not re.fullmatch(r"(Le Houlme|76770|\d{5})", l)
+                  and not RE_PARTAGE.fullmatch(norm(l))
                   and norm(l) not in ("voir", "lire la suite", "en savoir plus", "partager", "imprimer")]
         titre = propre(titre_el.get_text(" ")) if titre_el else (lignes[0] if lignes else "")
         corps = propre(" ".join(l for l in lignes if l != titre))
@@ -783,6 +806,48 @@ def site_mairie(cle, motif_lien):
     return items
 
 
+DETAILS_CACHE = {}  # url -> {"texte", "lieu", "image"}, rempli avec les données précédentes dans main()
+
+
+def detail_page(url):
+    """Texte complet, lieu et affiche d'une page d'actualité ou d'événement de le-houlme.fr."""
+    if url in DETAILS_CACHE:
+        return DETAILS_CACHE[url]
+    soup, html = lire(url, "detail")
+    meta = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
+    image = soup.find("meta", attrs={"property": "og:image"})
+    for t in soup(["script", "style", "nav", "footer", "header", "form", "aside"]):
+        t.decompose()
+    zone = soup.find("main") or soup.find("article") or soup.body or soup
+    paras = []
+    for el in zone.find_all(["p", "li"]):
+        x = propre(el.get_text(" "))
+        if len(x) >= 35 and x not in paras and not RE_PARTAGE.fullmatch(norm(x)):
+            paras.append(x)
+    texte = "\n".join(paras) or propre(meta.get("content", "")) if meta else "\n".join(paras)
+    plat = propre(zone.get_text(" "))
+    lieu = re.search(r"\bLieu\s*:?\s*(.{3,60}?)(?:\s+(?:Dates?|Horaires?|Heure|Adresse|Contact|Tarif)\b|$)", plat)
+    d = {"texte": texte[:2000], "lieu": propre(lieu.group(1)) if lieu else "",
+         "image": urljoin(url, image["content"]) if image and image.get("content") else ""}
+    DETAILS_CACHE[url] = d
+    return d
+
+
+def avec_detail(item):
+    """Complète un élément (actu ou événement de le-houlme.fr) avec le texte de sa page."""
+    try:
+        d = detail_page(item["url"])
+    except Exception:
+        return item
+    if d["texte"]:
+        item["texte"] = d["texte"]
+    if d["image"]:
+        item["image"] = d["image"]
+    if d["lieu"] and not item.get("lieu"):
+        item["lieu"] = d["lieu"]
+    return item
+
+
 def collecter_ville():
     limite_actus = (AUJOURDHUI - dt.timedelta(days=45)).isoformat()
     limite_alertes = (AUJOURDHUI - dt.timedelta(days=90)).isoformat()
@@ -792,10 +857,10 @@ def collecter_ville():
         for it in panneaupocket():
             ok += 1
             if est_alerte(it["titre"]) and (not it["date"] or it["date"] >= limite_alertes):
-                alertes.append({"titre": it["titre"], "texte": resume(it["texte"], 300), "source": "PanneauPocket", "url": it["url"]})
+                alertes.append({"titre": it["titre"], "texte": it["texte"][:2000], "source": "PanneauPocket", "url": it["url"]})
             elif not it["date"] or it["date"] >= limite_actus:
                 actus.append({"titre": it["titre"], "date": it["date"], "resume": resume(it["texte"]),
-                              "source": "PanneauPocket", "url": it["url"]})
+                              "texte": it["texte"][:2000], "source": "PanneauPocket", "url": it["url"]})
     except Exception as e:
         avertissements.append(f"PanneauPocket inaccessible : {e}")
 
@@ -805,7 +870,8 @@ def collecter_ville():
             d = it["dates"][0].isoformat() if it["dates"] else ""
             if d and d < limite_actus:
                 continue
-            actus.append({"titre": it["titre"], "date": d, "resume": resume(it["texte"]), "source": "le-houlme.fr", "url": it["url"]})
+            actus.append(avec_detail({"titre": it["titre"], "date": d, "resume": resume(it["texte"]),
+                                      "source": "le-houlme.fr", "url": it["url"]}))
     except Exception as e:
         avertissements.append(f"Actualités le-houlme.fr inaccessibles : {e}")
 
@@ -816,8 +882,9 @@ def collecter_ville():
             if not futures:
                 continue
             lieu = re.search(r"(?:Lieu|Adresse)\s*:?\s*([^|•]{3,60})", it["texte"])
-            agenda.append({"titre": it["titre"], "date": futures[0].isoformat(), "heure": it["heure"],
-                           "lieu": propre(lieu.group(1)) if lieu else "", "source": "le-houlme.fr", "url": it["url"]})
+            agenda.append(avec_detail({"titre": it["titre"], "date": futures[0].isoformat(), "heure": it["heure"],
+                                       "lieu": propre(lieu.group(1)) if lieu else "", "source": "le-houlme.fr",
+                                       "url": it["url"]}))
     except Exception as e:
         avertissements.append(f"Agenda le-houlme.fr inaccessible : {e}")
 
@@ -863,7 +930,7 @@ def main():
                   for c in catalogues.values()], key=lambda c: c["numero"])
     anciens_nums = sorted(c.get("numero", "") for c in data["catalogues_vus"])
     # promos enregistrées avec les codes bruts de l'API (ancienne version du script) : on les relit
-    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "image" not in p
+    codes_bruts = (any(libelle_remise(p.get("remise", "")) != p.get("remise", "") or "description" not in p
                        for p in data["promos"])
                    or any("Ã" in c.get("titre", "") for c in data["catalogues_vus"]))
     if catalogues and ([c["numero"] for c in vus] != anciens_nums or not data["promos"] or debug_actif or codes_bruts):
@@ -881,6 +948,9 @@ def main():
     data["recettes"] = choisir_recettes(data["promos"]) if data["promos"] else data["recettes"]
 
     print("Ma ville…")
+    for it in ancien.get("ville", {}).get("actus", []) + ancien.get("ville", {}).get("agenda", []):
+        if it.get("source") == "le-houlme.fr" and it.get("url") and "texte" in it:
+            DETAILS_CACHE[it["url"]] = {"texte": it.get("texte", ""), "lieu": it.get("lieu", ""), "image": it.get("image", "")}
     ville = collecter_ville()
     if ville:
         data["ville"] = ville
