@@ -50,7 +50,8 @@
    "Couper le poulet en morceaux et le dorer 5 min à la poêle.",
    "Ajouter l'oignon émincé et les champignons tranchés, cuire 10 min.",
    "Verser la crème, saler, poivrer et laisser mijoter 5 min."
-  ]
+  ],
+  "wiki": "Poulet à la crème"
  },
  {
   "titre": "Poulet rôti et pommes de terre au four",
@@ -99,7 +100,8 @@
    "Couper les pommes de terre en quartiers, les mélanger avec l'huile, l'ail et les herbes.",
    "Poser le poulet sur les pommes de terre, saler, poivrer.",
    "Enfourner 1 h 15 en arrosant à mi-cuisson."
-  ]
+  ],
+  "wiki": "Poulet rôti"
  },
  {
   "titre": "Émincé de dinde au curry et riz",
@@ -145,7 +147,8 @@
    "Émincer la dinde et la faire dorer avec l'oignon.",
    "Ajouter le curry puis le lait de coco, mijoter 10 min.",
    "Servir avec le riz."
-  ]
+  ],
+  "wiki": "Poulet au curry"
  },
  {
   "titre": "Hachis parmentier",
@@ -209,7 +212,8 @@
    "Faire revenir l'oignon et la viande hachée 8 min.",
    "Mettre la viande dans un plat, couvrir de purée et de fromage.",
    "Gratiner 20 min à 200 °C."
-  ]
+  ],
+  "wiki": "Hachis parmentier"
  },
  {
   "titre": "Spaghetti bolognaise",
@@ -269,7 +273,8 @@
    "Faire revenir l'oignon et la carotte hachés, puis la viande.",
    "Ajouter les tomates, saler, poivrer et mijoter 25 min.",
    "Cuire les spaghetti, servir avec la sauce et le parmesan."
-  ]
+  ],
+  "wiki": "Spaghetti alla bolognese"
  },
  {
   "titre": "Lasagnes à la bolognaise",
@@ -341,7 +346,8 @@
    "Faire une béchamel : beurre fondu, farine, puis le lait en fouettant.",
    "Alterner pâtes, sauce et béchamel dans un plat, finir par le fromage.",
    "Cuire 35 min à 180 °C."
-  ]
+  ],
+  "wiki": "Lasagnes"
  },
  {
   "titre": "Chili con carne",
@@ -401,7 +407,8 @@
    "Faire revenir l'oignon et le poivron, puis la viande.",
    "Ajouter tomates, haricots égouttés, cumin et paprika.",
    "Mijoter 25 min, servir avec le riz."
-  ]
+  ],
+  "wiki": "Chili con carne"
  },
  {
   "titre": "Steaks hachés, frites au four et salade",
@@ -449,7 +456,8 @@
    "Couper les pommes de terre en frites, les huiler et les cuire 30 min à 220 °C.",
    "Cuire les steaks à la poêle 3 à 4 min par face.",
    "Servir avec la salade assaisonnée."
-  ]
+  ],
+  "wiki": "Steak frites"
  },
  {
   "titre": "Bœuf bourguignon",
@@ -507,7 +515,8 @@
    "Dorer la viande en morceaux avec les lardons et les oignons.",
    "Ajouter le vin, les carottes en rondelles, thym, laurier ; couvrir d'eau.",
    "Mijoter 2 h 30 à feu doux, ajouter les champignons 20 min avant la fin."
-  ]
+  ],
+  "wiki": "Bœuf bourguignon"
  },
  {
   "titre": "Côtes de porc à la moutarde et haricots verts",
@@ -552,7 +561,8 @@
    "Cuire les haricots verts 10 min à l'eau salée.",
    "Dorer les côtes 5 min par face.",
    "Retirer la viande, déglacer avec la crème et la moutarde, napper."
-  ]
+  ],
+  "wiki": "Côte de porc"
  },
  {
   "titre": "Rôti de porc aux pommes",
@@ -596,7 +606,8 @@
    "Préchauffer le four à 180 °C.",
    "Dorer le rôti au beurre sur toutes les faces.",
    "L'entourer des pommes et oignons en quartiers, enfourner 1 h."
-  ]
+  ],
+  "wiki": "Rôti de porc"
  },
  {
   "titre": "Saucisses, purée maison",
@@ -642,7 +653,8 @@
   "etapes": [
    "Cuire les pommes de terre 20 min, les écraser avec le lait chaud et le beurre.",
    "Cuire les saucisses à la poêle 15 min en les retournant."
-  ]
+  ],
+  "wiki": "Bangers and mash"
  },
  {
   "titre": "Quiche lorraine",
@@ -705,7 +717,8 @@
    "Faire revenir les lardons, les répartir sur la pâte.",
    "Battre œufs, crème, lait, fromage ; verser.",
    "Cuire 35 min."
-  ]
+  ],
+  "wiki": "Quiche lorraine"
  },
  {
   "titre": "Croque-monsieur et salade",
@@ -756,7 +769,8 @@
    "Beurrer le pain, garnir de jambon et de fromage.",
    "Cuire 10 min au four à 200 °C ou à l'appareil.",
    "Servir avec la salade."
-  ]
+  ],
+  "wiki": "Croque-monsieur"
  },
  {
   "titre": "Gratin de pâtes au jambon",
@@ -802,7 +816,8 @@
    "Cuire les pâtes.",
    "Mélanger avec le jambon coupé et la crème, saler, poivrer.",
    "Couvrir de fromage et gratiner 15 min à 200 °C."
-  ]
+  ],
+  "wiki": "Gratin de macaronis"
  },
  {
   "titre": "Croziflette",
@@ -852,7 +867,8 @@
    "Faire revenir oignon et lardons, ajouter la crème.",
    "Mélanger avec les crozets dans un plat, couvrir de reblochon.",
    "Gratiner 15 min à 200 °C."
-  ]
+  ],
+  "wiki": "Croziflette"
  },
  {
   "titre": "Tartiflette",
@@ -902,7 +918,8 @@
    "Faire revenir oignons et lardons.",
    "Mélanger avec la crème dans un plat, poser le reblochon coupé en deux.",
    "Cuire 25 min à 200 °C."
-  ]
+  ],
+  "wiki": "Tartiflette"
  },
  {
   "titre": "Raclette",
@@ -945,7 +962,8 @@
   "etapes": [
    "Cuire les pommes de terre en robe des champs 25 min.",
    "Servir avec le fromage fondu à l'appareil, la charcuterie et les cornichons."
-  ]
+  ],
+  "wiki": "Raclette"
  },
  {
   "titre": "Pavés de saumon, riz et brocolis",
@@ -987,7 +1005,8 @@
    "Cuire le riz et le brocoli à la vapeur.",
    "Cuire le saumon 4 min par face à la poêle.",
    "Arroser de jus de citron."
-  ]
+  ],
+  "wiki": "Saumon (aliment)"
  },
  {
   "titre": "Pâtes au saumon et à la crème",
@@ -1033,7 +1052,8 @@
    "Cuire les pâtes.",
    "Couper le saumon en dés, le cuire 3 min dans la crème.",
    "Ajouter le zeste de citron, mélanger avec les pâtes."
-  ]
+  ],
+  "wiki": "Pâtes au saumon"
  },
  {
   "titre": "Cabillaud en papillote et légumes",
@@ -1077,7 +1097,8 @@
    "Préchauffer le four à 200 °C.",
    "Poser poisson et légumes en tranches sur du papier cuisson, citron, huile, sel.",
    "Fermer les papillotes, cuire 20 min."
-  ]
+  ],
+  "wiki": "Papillote"
  },
  {
   "titre": "Poisson pané maison et purée",
@@ -1131,7 +1152,8 @@
    "Préparer une purée avec les pommes de terre et le lait.",
    "Passer le poisson dans l'œuf battu puis la chapelure.",
    "Cuire 4 min par face dans l'huile chaude."
-  ]
+  ],
+  "wiki": "Poisson pané"
  },
  {
   "titre": "Moules marinières et frites",
@@ -1173,7 +1195,8 @@
    "Préparer des frites au four, 30 min à 220 °C.",
    "Faire suer les échalotes, ajouter les moules et le vin.",
    "Couvrir et cuire 6 min jusqu'à ouverture."
-  ]
+  ],
+  "wiki": "Moules-frites"
  },
  {
   "titre": "Crevettes sautées à l'ail et riz",
@@ -1212,7 +1235,8 @@
    "Cuire le riz.",
    "Faire sauter les crevettes 4 min avec l'ail et l'huile.",
    "Parsemer de persil, servir."
-  ]
+  ],
+  "wiki": "Gambas al ajillo"
  },
  {
   "titre": "Salade niçoise",
@@ -1268,7 +1292,8 @@
    "Cuire les œufs 10 min et les haricots 8 min.",
    "Disposer salade, tomates, haricots, thon, œufs et olives.",
    "Assaisonner de vinaigrette."
-  ]
+  ],
+  "wiki": "Salade niçoise"
  },
  {
   "titre": "Gratin de courgettes",
@@ -1312,7 +1337,8 @@
    "Couper les courgettes en rondelles et les faire revenir 10 min.",
    "Battre œufs, crème et fromage.",
    "Verser sur les courgettes dans un plat, cuire 25 min à 180 °C."
-  ]
+  ],
+  "wiki": "Gratin de courgettes"
  },
  {
   "titre": "Gratin dauphinois",
@@ -1357,7 +1383,8 @@
    "Préchauffer le four à 160 °C, frotter le plat avec l'ail.",
    "Trancher finement les pommes de terre, les ranger dans le plat.",
    "Couvrir de lait et crème salés, cuire 1 h 15."
-  ]
+  ],
+  "wiki": "Gratin dauphinois"
  },
  {
   "titre": "Ratatouille",
@@ -1404,7 +1431,8 @@
    "Couper tous les légumes en dés.",
    "Les faire revenir séparément à l'huile d'olive.",
    "Réunir avec thym et laurier, mijoter 40 min."
-  ]
+  ],
+  "wiki": "Ratatouille"
  },
  {
   "titre": "Soupe de légumes",
@@ -1452,7 +1480,8 @@
    "Couper les légumes, les couvrir d'eau salée.",
    "Cuire 30 min puis mixer.",
    "Ajouter la crème."
-  ]
+  ],
+  "wiki": "Soupe de légumes"
  },
  {
   "titre": "Velouté de potiron",
@@ -1496,7 +1525,8 @@
    "Éplucher et couper le potiron et les pommes de terre.",
    "Faire revenir l'oignon, ajouter les légumes et couvrir d'eau.",
    "Cuire 25 min, mixer avec la crème."
-  ]
+  ],
+  "wiki": "Soupe au potiron"
  },
  {
   "titre": "Poireaux vinaigrette et œufs mimosa",
@@ -1537,7 +1567,8 @@
    "Cuire les poireaux 15 min et les œufs 10 min.",
    "Préparer une vinaigrette moutardée pour les poireaux.",
    "Couper les œufs, mélanger les jaunes à la mayonnaise et garnir."
-  ]
+  ],
+  "wiki": "Poireaux vinaigrette"
  },
  {
   "titre": "Omelette aux pommes de terre et oignons",
@@ -1571,7 +1602,8 @@
    "Faire dorer les pommes de terre en dés et l'oignon 15 min.",
    "Verser les œufs battus salés, cuire à feu doux 8 min.",
    "Retourner ou finir 3 min au four."
-  ]
+  ],
+  "wiki": "Tortilla de patatas"
  },
  {
   "titre": "Endives au jambon",
@@ -1631,7 +1663,8 @@
    "Faire une béchamel avec beurre, farine et lait.",
    "Rouler chaque endive dans une tranche de jambon, napper de béchamel et de fromage.",
    "Gratiner 20 min à 200 °C."
-  ]
+  ],
+  "wiki": "Endives au jambon"
  },
  {
   "titre": "Chou-fleur au gratin",
@@ -1683,7 +1716,8 @@
    "Cuire les bouquets de chou-fleur 10 min.",
    "Préparer la béchamel.",
    "Napper, couvrir de fromage, gratiner 20 min à 200 °C."
-  ]
+  ],
+  "wiki": "Gratin de chou-fleur"
  },
  {
   "titre": "Pot-au-feu",
@@ -1733,7 +1767,8 @@
    "Couvrir la viande d'eau froide salée avec bouquet garni, porter à ébullition et écumer.",
    "Cuire 2 h à petit feu.",
    "Ajouter les légumes, cuire encore 45 min."
-  ]
+  ],
+  "wiki": "Pot-au-feu"
  },
  {
   "titre": "Blanquette de veau",
@@ -1782,7 +1817,8 @@
    "Cuire les champignons à part.",
    "Lier le bouillon avec la crème, ajouter viande et champignons.",
    "Servir avec le riz."
-  ]
+  ],
+  "wiki": "Blanquette de veau"
  },
  {
   "titre": "Sauté de porc au caramel",
@@ -1824,7 +1860,8 @@
    "Faire un caramel avec le sucre et un peu d'eau.",
    "Ajouter le porc en dés et le soja, cuire 25 min.",
    "Servir avec le riz."
-  ]
+  ],
+  "wiki": "Porc au caramel"
  },
  {
   "titre": "Wraps au poulet",
@@ -1875,7 +1912,8 @@
    "Cuire le poulet émincé avec des épices.",
    "Tartiner les galettes de fromage frais.",
    "Garnir de poulet, salade et tomate, rouler."
-  ]
+  ],
+  "wiki": "Wrap (cuisine)"
  },
  {
   "titre": "Pizza maison",
@@ -1924,7 +1962,8 @@
    "Préchauffer le four à 240 °C.",
    "Étaler la pâte, la couvrir de sauce, jambon, champignons et mozzarella.",
    "Cuire 12 à 15 min."
-  ]
+  ],
+  "wiki": "Pizza"
  },
  {
   "titre": "Risotto aux champignons",
@@ -1971,7 +2010,8 @@
    "Faire revenir l'oignon et les champignons.",
    "Ajouter le riz, le nacrer, puis verser le bouillon louche par louche pendant 18 min.",
    "Finir avec le parmesan."
-  ]
+  ],
+  "wiki": "Risotto"
  },
  {
   "titre": "Pâtes carbonara",
@@ -2014,7 +2054,8 @@
    "Cuire les pâtes.",
    "Dorer les lardons.",
    "Hors du feu, mélanger pâtes, lardons, œufs battus et parmesan."
-  ]
+  ],
+  "wiki": "Spaghetti alla carbonara"
  },
  {
   "titre": "Couscous poulet merguez",
@@ -2069,7 +2110,8 @@
    "Dorer le poulet, ajouter légumes, épices à couscous et eau, cuire 50 min.",
    "Ajouter les pois chiches 10 min avant la fin.",
    "Griller les merguez, préparer la semoule."
-  ]
+  ],
+  "wiki": "Couscous"
  },
  {
   "titre": "Tajine de poulet aux carottes",
@@ -2117,7 +2159,8 @@
    "Dorer le poulet et les oignons avec cumin et curcuma.",
    "Ajouter les carottes et un verre d'eau, couvrir 45 min.",
    "Servir avec la semoule."
-  ]
+  ],
+  "wiki": "Tajine"
  },
  {
   "titre": "Lentilles aux saucisses",
@@ -2157,7 +2200,8 @@
   "etapes": [
    "Mettre lentilles, carottes et oignon dans une cocotte, couvrir d'eau.",
    "Ajouter les saucisses, cuire 40 min à petit feu."
-  ]
+  ],
+  "wiki": "Petit salé aux lentilles"
  },
  {
   "titre": "Chou farci simplifié",
@@ -2198,7 +2242,8 @@
    "Blanchir les feuilles de chou 5 min.",
    "Mélanger chair à saucisse, oignon et riz cru.",
    "Alterner feuilles et farce dans une cocotte, un peu d'eau, cuire 1 h."
-  ]
+  ],
+  "wiki": "Chou farci"
  },
  {
   "titre": "Escalopes de veau à la normande",
@@ -2247,7 +2292,8 @@
    "Cuire les pommes de terre à l'eau.",
    "Dorer les escalopes 3 min par face.",
    "Ajouter champignons, cidre et crème, mijoter 5 min."
-  ]
+  ],
+  "wiki": "Escalope normande"
  },
  {
   "titre": "Cuisses de poulet au four, légumes rôtis",
@@ -2288,7 +2334,8 @@
    "Préchauffer le four à 200 °C.",
    "Disposer légumes coupés et cuisses dans un plat, huile, sel, herbes.",
    "Cuire 50 min."
-  ]
+  ],
+  "wiki": "Poulet rôti"
  },
  {
   "titre": "Brochettes de poulet et taboulé",
@@ -2334,7 +2381,8 @@
   "etapes": [
    "Préparer le taboulé : semoule réhydratée, tomates, concombre, citron, huile, menthe.",
    "Enfiler le poulet en dés sur des piques, cuire 12 min à la poêle."
-  ]
+  ],
+  "wiki": "Taboulé"
  },
  {
   "titre": "Salade de pâtes au thon",
@@ -2383,7 +2431,8 @@
   "etapes": [
    "Cuire et refroidir les pâtes.",
    "Mélanger avec thon, tomates en dés, maïs et mayonnaise."
-  ]
+  ],
+  "wiki": "Salade de pâtes"
  },
  {
   "titre": "Galettes complètes",
@@ -2426,7 +2475,8 @@
    "Chauffer une galette dans une poêle beurrée.",
    "Ajouter fromage, jambon et casser un œuf au centre.",
    "Replier les bords quand l'œuf est pris."
-  ]
+  ],
+  "wiki": "Galette de sarrasin"
  },
  {
   "titre": "Soupe à l'oignon gratinée",
@@ -2476,7 +2526,8 @@
    "Faire fondre les oignons émincés au beurre 20 min.",
    "Ajouter le bouillon, cuire 15 min.",
    "Verser dans des bols, poser pain et fromage, gratiner."
-  ]
+  ],
+  "wiki": "Soupe à l'oignon"
  },
  {
   "titre": "Parmentier de canard",
@@ -2520,7 +2571,8 @@
    "Effilocher le canard, le faire revenir avec les échalotes.",
    "Préparer une purée.",
    "Monter le parmentier, gratiner 20 min à 200 °C."
-  ]
+  ],
+  "wiki": "Parmentier de canard"
  },
  {
   "titre": "Filet mignon à la moutarde à l'ancienne",
@@ -2564,7 +2616,8 @@
    "Dorer le filet mignon entier, puis cuire 25 min à couvert.",
    "Ajouter crème et moutarde 5 min.",
    "Servir tranché avec les tagliatelles."
-  ]
+  ],
+  "wiki": "Filet mignon de porc"
  },
  {
   "titre": "Pâtes au pesto, tomates et mozzarella",
@@ -2605,7 +2658,8 @@
   "etapes": [
    "Cuire les pâtes.",
    "Mélanger avec pesto, tomates coupées et mozzarella en dés."
-  ]
+  ],
+  "wiki": "Pesto alla genovese"
  },
  {
   "titre": "Croquettes de pommes de terre et steak",
@@ -2646,7 +2700,8 @@
    "Râper les pommes de terre, mélanger à l'œuf et la farine.",
    "Cuire des galettes à la poêle 4 min par face.",
    "Cuire les steaks."
-  ]
+  ],
+  "wiki": "Croquette de pommes de terre"
  },
  {
   "titre": "Clafoutis aux fruits",
@@ -2701,7 +2756,8 @@
    "Préchauffer le four à 180 °C.",
    "Mélanger œufs, sucre, farine puis lait.",
    "Verser sur les fruits dans un plat beurré, cuire 40 min."
-  ]
+  ],
+  "wiki": "Clafoutis"
  },
  {
   "titre": "Crumble aux pommes",
@@ -2741,7 +2797,8 @@
    "Couper les pommes en dés dans un plat.",
    "Sabler farine, sucre et beurre du bout des doigts.",
    "Recouvrir les pommes, cuire 30 min à 180 °C."
-  ]
+  ],
+  "wiki": "Crumble"
  },
  {
   "titre": "Compote de pommes et poires maison",
@@ -2771,7 +2828,8 @@
   "etapes": [
    "Éplucher et couper les fruits.",
    "Cuire 20 min à couvert avec un fond d'eau, écraser."
-  ]
+  ],
+  "wiki": "Compote"
  },
  {
   "titre": "Gâteau au yaourt",
@@ -2821,7 +2879,8 @@
    "Préchauffer le four à 180 °C.",
    "Mélanger tous les ingrédients dans l'ordre, avec un sachet de levure.",
    "Cuire 35 min dans un moule beurré."
-  ]
+  ],
+  "wiki": "Gâteau au yaourt"
  },
  {
   "titre": "Crêpes",
@@ -2864,7 +2923,8 @@
   "etapes": [
    "Mélanger farine et œufs, ajouter le lait petit à petit, puis le beurre fondu.",
    "Laisser reposer 30 min, cuire les crêpes à la poêle."
-  ]
+  ],
+  "wiki": "Crêpe"
  },
  {
   "titre": "Riz au lait",
@@ -2900,7 +2960,8 @@
    "Porter le lait à frémir avec la vanille.",
    "Ajouter le riz, cuire 35 min à feu très doux en remuant.",
    "Ajouter le sucre à la fin."
-  ]
+  ],
+  "wiki": "Riz au lait"
  },
  {
   "titre": "Salade de fruits frais",
@@ -2948,6 +3009,7 @@
   "etapes": [
    "Éplucher et couper tous les fruits.",
    "Arroser d'un jus d'orange, servir frais."
-  ]
+  ],
+  "wiki": "Salade de fruits"
  }
 ]
