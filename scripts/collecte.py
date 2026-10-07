@@ -39,6 +39,7 @@ LIDL = {"id": "lidl", "nom": "Lidl"}
 LIDL_CATALOGUES_URL = "https://www.lidl.fr/c/catalogues-en-ligne/s10017753"
 LIDL_LEAFLET_API = "https://endpoints.leaflets.schwarz/v4/flyer"
 RE_LIDL_LEAFLET = re.compile(r"/l/catalogue-de-la-semaine/([a-z0-9-]+)/")
+LIDL_VERSION = 3  # à augmenter quand la lecture des catalogues Lidl change : ils sont alors relus
 LIDL_JOURS_AVANCE = 2  # catalogues qui commencent dans les 2 prochains jours : inclus (« à partir de jeudi »)
 ACTION = {"id": "action", "nom": "Action"}
 ACTION_URL = "https://www.action.com/fr-fr/les-affaires-du-moment/"
@@ -666,49 +667,127 @@ def lire_pdf(url):
     return [(page.extract_text() or "") for page in lecteur.pages]
 
 
-RE_PDF_PRIX = re.compile(r"^(?:€\s*)?(\d{1,3})\s*[.,]\s*(\d{2})\s*€?\*?$|^(\d{1,3})\s*€\s*(\d{2})$")
-RE_PDF_REMISE = re.compile(r"^-\s?\d{1,2}\s?%|^\d\s?\+\s?\d\s+offert|^\d\s?(?:e|ème)\s+(?:à|a)\s|^lot de \d", re.I)
-RE_PDF_BRUIT = re.compile(r"(=|/kg|/l\b|le kg|le litre|prix au|soit|dont|éco-?part|ecopart|offre valable|"
-                          r"photos? non contractuelle|dans la limite|selon disponibilit|www\.|lidl\.fr|lidl plus|"
-                          r"^à partir d|^du \d|^le produit|^la barquette|^le lot|^le sachet|^la pièce|^les \d|"
-                          r"^\d+ ?(g|kg|ml|cl|l)\b|origine|^ref|^réf|^\*)", re.I)
+# Lecture du texte des catalogues Lidl : chaque produit finit par son numéro d'article « no12345 » suivi des prix
+# et de la remise ; le nom (marque en majuscules + nom) est juste avant, puis la description (« Le kilo », « 500 g »...).
+
+RE_LIDL_ANCRE = re.compile(r"^n[o°]\s?\d{2,}(?:/\d+)?\s*(.*)$")
+RE_LIDL_PRIX = re.compile(r"^(\d{1,4})\.\s?(\d{2})\s*\**$")
+RE_LIDL_PCT = re.compile(r"^-\s?(\d{1,2})\s?%")
+RE_LIDL_QUEUE = re.compile(r"^(le 2e produit|sur le 2e|offre flash|seulement|dont .*[ée]co|.*origine$|\(\d\)|\*+)", re.I)
+RE_LIDL_BRUIT = re.compile(r"^(rayon|frais|surgel[ée]|toujours|plus de|promos|avec$|s\d{2}/\d{4}|du jeudi|du lundi|du mercredi|du dimanche|"
+                      r"jeudi \d|lundi \d|mercredi \d|dimanche \d|suggestions? de|photos? non|plus d'informations|pour votre sant|"
+                      r"les articles de cette|lidl\.fr|commandez|uniquement en ligne|moins cher|opportunit|dernière minute|"
+                      r"jusqu'à|à partir de|exclusivit|nouveau|nouveauté|offre flash|seulement|-\s?\d+\s?%|sur le 2e|le 2e produit|"
+                      r"\d{1,4}\.\s?\d{2}\s*$|.*origine$|\*|.*transform[ée]|le mois|plus ?plus|toujours|.*[.!?,]$|-|.*€)", re.I)
+RE_LIDL_DESCR = re.compile(r"^(le produit|les \d|la barquette|le kilo|la pi[èe]ce|le sachet|le filet|l['’]unit[ée]|le lot|le paquet|"
+                      r"le pack|la bo[iî]te|la bouteille|le pot|la botte|le bouquet|le flow|cat[ée]gorie|calibres?|vari[ée]t[ée]s?|"
+                      r"dimensions|nature|traitement|\d+[\s,.]*\d*\s?(x|g|kg|ml|cl|l|pi[èe]ces|lavages|w)\b|\(|avec lidl|au lieu|"
+                      r".* : |.*: .*|le carton|la caisse|la bourriche|le plateau|la tranche|les 2|taille|pointure|coloris|capacit|puissance|mod[èe]les?)", re.I)
 
 
-def produits_pdf(pages):
-    """Produits « nom + prix » repérés dans le texte des pages d'un catalogue."""
-    produits, cles = [], set()
+RE_LIDL_MARQUE = re.compile(r"(?:[A-ZÀ-Ý][A-ZÀ-Ý0-9'’&.\-]+(?:\s+|$)){1,4}(?=[A-ZÀ-Ý]?[a-zà-ÿ]|$)")
+RE_LIDL_COUPE = re.compile(r"\s+(Au choix|Prix normal|Env\.|Ex\.|Du \d|Avec batterie|Usage|Dimensions|Dont|L ?['’]unit).*$")
+
+
+RE_LIDL_DEBUT = re.compile(r"^(?:L ?['’]unit\S*.*?OFFERTS?\s+|(?:offerts?|offertes?|xxl|exclu|nouveau)\s+)+", re.I)
+LIDL_GARDER_MAJ = {"BBQ", "ASC", "USB", "LED", "UNO", "XXL", "BIO", "AOP", "IGP", "AOC"}
+
+
+def lidl_est_marque(l):
+    lettres = re.sub(r"[^A-Za-zÀ-ÿ]", "", l)
+    return len(lettres) >= 2 and lettres == lettres.upper() and len(l) <= 30
+
+
+
+
+def produits_lidl_texte(pages):
+    produits = []
     for texte in pages:
-        lignes = [propre(l) for l in texte.split("\n") if propre(l)]
-        noms, i = [], 0
+        lignes = [re.sub(r"\s+", " ", l).strip() for l in texte.split("\n")]
+        lignes = [l for l in lignes if l]
+        debut = 0
+        i = 0
         while i < len(lignes):
-            l = lignes[i]
-            if RE_PDF_PRIX.match(l) or RE_PDF_REMISE.match(l):
-                prix, remise = [], ""
-                while i < len(lignes) and (RE_PDF_PRIX.match(lignes[i]) or RE_PDF_REMISE.match(lignes[i])
-                                           or RE_PDF_BRUIT.search(lignes[i])):
-                    m = RE_PDF_PRIX.match(lignes[i])
-                    if m:
-                        e, c = (m.group(1), m.group(2)) if m.group(1) else (m.group(3), m.group(4))
-                        prix.append(float(f"{e}.{c}"))
-                    elif RE_PDF_REMISE.match(lignes[i]) and not remise:
-                        remise = lignes[i]
-                    i += 1
-                prix = [x for x in prix if 0.1 <= x <= 2000]
-                if prix and noms:
-                    nom = " ".join(noms[-2:]) if len(noms[-1]) < 18 and len(noms) > 1 else noms[-1]
-                    nom = propre(nom)[:120]
-                    nouveau = min(prix)
-                    avant = max(prix) if max(prix) > nouveau * 1.05 else 0
-                    cle = norm(nom) + "|" + fmt_prix(nouveau)
-                    if cle not in cles and len(re.sub(r"[^A-Za-zÀ-ÿ]", "", nom)) >= 4:
-                        cles.add(cle)
-                        produits.append({"nom": nom, "prix": fmt_prix(nouveau),
-                                         "prix_avant": fmt_prix(avant) if avant else "", "remise": remise})
-                noms = []
+            m = RE_LIDL_ANCRE.match(lignes[i])
+            if not m:
+                i += 1
                 continue
-            if not RE_PDF_BRUIT.search(l) and len(re.sub(r"[^A-Za-zÀ-ÿ]", "", l)) >= 4 and len(l) <= 80:
-                noms.append(l)
-            i += 1
+            bloc = lignes[debut:i]
+            # queue : prix, remises, origines
+            prix, pct, second = [], None, False
+            reste = m.group(1).strip()
+            j = i + 1
+            queue = ([reste] if reste else []) + lignes[j:j + 8]
+            n = 0
+            for l in queue:
+                mp = RE_LIDL_PRIX.match(l)
+                mq = RE_LIDL_PCT.match(l)
+                if mp:
+                    prix.append(float(f"{mp.group(1)}.{mp.group(2)}"))
+                elif mq:
+                    pct = pct or int(mq.group(1))
+                elif re.match(r"^(le 2e produit|sur le 2e)", l, re.I):
+                    second = True
+                elif RE_LIDL_QUEUE.match(l):
+                    pass
+                else:
+                    break
+                n += 1
+            consommees = n - (1 if reste else 0)
+            debut = i + 1 + max(consommees, 0)
+            i = debut
+            if not prix:
+                continue
+            # nom : marque (majuscules) + lignes jusqu'à la description
+            utiles = [l for l in bloc if not RE_LIDL_BRUIT.match(l)]
+            marque, nom, descr = [], [], []
+            etat = "marque"
+            for l in utiles:
+                if etat in ("marque", "nom") and not RE_LIDL_DESCR.match(l):
+                    if etat == "marque" and lidl_est_marque(l) and not nom:
+                        marque.append(l)
+                        continue
+                    etat = "nom"
+                    nom.append(l)
+                else:
+                    etat = "descr"
+                    descr.append(l)
+            if not nom and not marque:
+                continue
+            nom_txt = " ".join(nom)
+            # un bloc peut traîner du texte du produit précédent : on garde la fin
+            if len(nom_txt) > 70 and len(nom) > 3:
+                nom_txt = " ".join(nom[-3:])
+            brut = re.sub(r"\s*\(\d\)\s*", " ", (" ".join(marque) + " " + nom_txt)).strip()
+            # du texte publicitaire avant la marque (« dans vos MARIBEL Confiture ») : on part de la marque
+            mm = RE_LIDL_MARQUE.search(brut)
+            if mm and mm.start() > 0 and RE_LIDL_MARQUE.match(brut) is None:
+                brut = brut[mm.start():]
+            brut = RE_LIDL_COUPE.sub("", brut)
+            mm = RE_LIDL_MARQUE.match(brut)
+            nom_complet = (mm.group(0).strip().title() + " " + brut[mm.end():].strip()).strip() if mm else brut
+            nom_complet = RE_LIDL_DEBUT.sub("", nom_complet)
+            nom_complet = re.sub(r"\b[A-ZÀ-Ý][A-ZÀ-Ý'’\-]{2,}\b",
+                                 lambda w: w.group(0) if w.group(0) in LIDL_GARDER_MAJ else w.group(0).title(), nom_complet)
+            nom_complet = re.sub(r"\s+", " ", nom_complet)
+            nom_complet = re.sub(r"^[\d.,\s]+(?=[A-Za-zÀ-ÿ])", "", nom_complet).strip().rstrip("*").strip()
+            texte_bloc = " ".join(bloc)
+            lidl_plus = "avec lidl plus" in texte_bloc.lower()
+            haut, bas = max(prix), min(prix)
+            if second:
+                # « 2e produit à -68 % » : le prix affiché en gros est celui du 2e ; on montre le prix d'un produit
+                mlot = re.search(r"Les 2 produits\s*:?\s*(\d+,\d{2})\s*€", texte_bloc)
+                remise = f"-{pct} % sur le 2e" if pct else "2e produit remisé"
+                detail = f"Le 2e produit à {fmt_prix(bas)} : les 2 pour {mlot.group(1)} €." if mlot else f"Le 2e produit à {fmt_prix(bas)}."
+                produits.append({"nom": nom_complet, "prix": fmt_prix(haut), "prix_avant": "", "remise": remise,
+                                 "remise_detail": detail, "remise_pct": pct, "description": " · ".join(descr)[:300]})
+            else:
+                avant = haut if haut > bas * 1.03 else 0
+                remise = (f"-{pct} %" if pct else "") + (" avec Lidl Plus" if lidl_plus and pct else "")
+                detail = "Prix avec l'appli Lidl Plus (carte de fidélité)." if lidl_plus else ""
+                produits.append({"nom": nom_complet, "prix": fmt_prix(bas), "prix_avant": fmt_prix(avant) if avant else "",
+                                 "remise": remise.strip(), "remise_detail": detail, "remise_pct": pct,
+                                 "description": " · ".join(descr)[:300]})
     return produits
 
 
@@ -720,10 +799,36 @@ def lidl_produits(cat):
         DEBUG.mkdir(exist_ok=True)
         texte = "\n\n=== PAGE ===\n".join(pages)
         (DEBUG / f"{nom_debug}.txt").write_text(texte[:300000], encoding="utf-8")
-    return produits_pdf(pages)
+    return produits_lidl_texte(pages)
 
 
 RE_LIDL_PAS_PRODUIT = re.compile(r"^(lidl|catalogue|promo|offre|magasin|horaires|voir|page|prospectus|123catalogue)\b", re.I)
+
+
+LIDL_MARQUES_MAISON = re.compile(r"^(parkside|silvercrest|livarno|crivit|esmara|livergy|lupilu|pepperts|tronic|melinera|"
+                                 r"ernesto|auriol|sensiplast|ultimate speed|powerfix|florabest|playtive|zoofari|anker|remington|"
+                                 r"mattel|lego|philips|tefal|moulinex)\b", re.I)
+LIDL_MARQUES_HYGIENE = re.compile(r"^(w5|cien|purio|formil|doussy|sanytol|mr\.? propre|ushua|le petit marseillais|vania|always|"
+                                  r"oral[ -]?b|colgate|nivea|dove|airwick|tempo|lotus)\b", re.I)
+
+
+def categorie_lidl(nom, description=""):
+    """Rayon d'un produit Lidl : marques maison/non-alimentaires de Lidl, puis mots du nom, puis indices de la description."""
+    if LIDL_MARQUES_MAISON.match(nom):
+        return "maison"
+    if LIDL_MARQUES_HYGIENE.match(nom):
+        return "hygiene_maison"
+    cat = categorie(nom)
+    if cat != "autre":
+        return cat
+    d = norm(description)
+    if re.search(r"\bcategorie\b|\bcalibre|\bvariete", d):
+        return "fruits_legumes"
+    if re.search(r"\bpot\b|en coupe|bulbe|plante|fleur|orchidee|rosier|azalee", norm(nom)):
+        return "maison"
+    if re.search(r"\b\d+\s?(g|kg|ml|cl|l)\b|le kilo|1 kg|1 l\b", d):
+        return "epicerie"
+    return "autre"
 
 
 def collecter_lidl(ancien):
@@ -735,7 +840,9 @@ def collecter_lidl(ancien):
     if not cats:
         avertissements.append("Aucun catalogue Lidl trouvé : promos Lidl de la fois précédente conservées")
         return anciennes, ancien.get("lidl_catalogues_vus", [])
-    if nums == sorted(c.get("numero", "") for c in ancien.get("lidl_catalogues_vus", [])) and anciennes and not debug_actif:
+    meme_version = all(c.get("v") == LIDL_VERSION for c in ancien.get("lidl_catalogues_vus", []))
+    if (nums == sorted(c.get("numero", "") for c in ancien.get("lidl_catalogues_vus", [])) and anciennes
+            and meme_version and not debug_actif):
         print("  catalogues Lidl inchangés")
         return anciennes, ancien.get("lidl_catalogues_vus", [])
     promos = {}
@@ -752,19 +859,20 @@ def collecter_lidl(ancien):
             cle = norm(p["nom"]) + "|" + p["prix"]
             if cle in promos:
                 continue
-            court, explication, pct = detail_remise(remise_calculee(p), "", p["prix"], p["prix_avant"], None)
             promos[cle] = {
-                "id": "l" + court_id("lidl", cle), "nom": p["nom"], "remise": court, "remise_detail": explication,
-                "remise_pct": pct, "prix": p["prix"], "v": PROMO_VERSION, "prix_avant": p["prix_avant"],
-                "categorie": categorie(p["nom"]), "magasins": [LIDL["id"]], "du": cat["du"], "au": cat["au"],
-                "catalogue": cat["titre"] or "Catalogue Lidl", "catalogue_url": cat["url"], "image": "",
-                "description": "", "rayon_leclerc": "", "enseigne": "Lidl",
+                "id": "l" + court_id("lidl", cle), "nom": p["nom"], "remise": p["remise"],
+                "remise_detail": p.get("remise_detail", ""), "remise_pct": p.get("remise_pct"), "prix": p["prix"],
+                "v": PROMO_VERSION, "prix_avant": p["prix_avant"], "categorie": categorie_lidl(p["nom"], p.get("description", "")),
+                "magasins": [LIDL["id"]], "du": cat["du"], "au": cat["au"],
+                "catalogue": (cat["titre"] or "Catalogue Lidl") + (f" du {cat['du'][8:10]}/{cat['du'][5:7]}" if cat["du"] else ""),
+                "catalogue_url": cat["url"], "image": "", "description": p.get("description", ""),
+                "rayon_leclerc": "", "enseigne": "Lidl",
             }
     if not promos:
         avertissements.append("Aucun produit lu dans les catalogues Lidl : promos Lidl de la fois précédente conservées")
         return anciennes, ancien.get("lidl_catalogues_vus", [])
     vus = [{"numero": c["numero"], "titre": c["titre"], "url": c["url"], "du": c["du"], "au": c["au"],
-            "magasins": [LIDL["id"]]} for c in cats]
+            "magasins": [LIDL["id"]], "v": LIDL_VERSION} for c in cats]
     return list(promos.values()), sorted(vus, key=lambda c: c["numero"])
 
 
