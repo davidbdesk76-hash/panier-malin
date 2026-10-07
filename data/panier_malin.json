@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-07T10:22",
+ "genere_le": "2026-10-07T13:05",
  "promos_maj_le": "2026-10-06T13:17",
  "magasins": [
   {
@@ -30378,7 +30378,7 @@
    "au": "2026-10-13",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222261/chemin-de-table/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222261_5407010998702-110_01_l2ltu3.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222261_5407010998719-110_01_vvxl7p.webp",
    "description": "40 x 150 cm | Diverses couleurs | 4,98 €/m2",
    "detail": "40 x 150 cm | Diverses couleurs",
    "rayon_leclerc": "",
@@ -33525,7 +33525,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-07T10:22",
+   "maj": "2026-10-07T13:05",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -33650,6 +33650,16 @@
     "url": "https://www.le-houlme.fr/agenda/48274/5943-permanences-espace-numerique-mobile.htm",
     "texte": "Planning des permanences de septembre à décembre 2026 Pour les Permanences du Houlme - salle des Diesels de 14h -16h30",
     "image": "https://www.le-houlme.fr/uploads/Agenda/5c/48274_878_Ford-ENM-1024x651-1.jpg"
+   },
+   {
+    "titre": "Distribution des bons Apres banquet aux Anciens travailleurs",
+    "date": "2026-10-16",
+    "heure": "9h30",
+    "lieu": "",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/agenda/48885/5943-distribution-des-bons-apres-banquet-aux-anciens-travailleurs.htm",
+    "texte": "vendredi 16 octobre de 9h30 à 12h30 et de 14h00 à 16h00 au Foyer Communal La présentation de la carte est indispensable",
+    "image": "https://www.le-houlme.fr/uploads/Agenda/64/48885_450_029f85ba-6a78-4c4f-8cb0-1a0c4205aa6b.png"
    }
   ],
   "pratique": {
