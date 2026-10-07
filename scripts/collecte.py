@@ -2,7 +2,7 @@
 Panier Malin - collecte automatique (GitHub Actions, sans IA)
 
 - Promos de l'E.Leclerc du Houlme (catalogues e.leclerc : page du magasin + API des catalogues)
-- Promos du Lidl du Houlme (catalogues lus sur 123catalogue.fr)
+- Promos du Lidl (catalogues de la semaine lidl.fr : texte du PDF du catalogue)
 - Affaires de la semaine Action (action.com, les mêmes dans tous les magasins)
 - Recettes simples choisies dans scripts/recettes_base.json selon les promos, avec leur prix de revient
   (prix normaux : vos tickets > moyennes Open Prices > estimations de scripts/prix_reference.json)
@@ -36,9 +36,9 @@ MAGASINS = [
     {"id": "houlme", "nom": "Leclerc", "url": "https://www.e.leclerc/mag/e-leclerc-le-houlme"},
 ]
 LIDL = {"id": "lidl", "nom": "Lidl"}
-LIDL_MAGASIN_URL = "https://www.123catalogue.fr/catalogue/lidl/le-houlme"
-RE_LIDL_CATALOGUE = re.compile(r"/catalogue/lidl/(\d{3,})(?:/|$|\?|#)")
-LIDL_PAGES_MAX = 15
+LIDL_CATALOGUES_URL = "https://www.lidl.fr/c/catalogues-en-ligne/s10017753"
+LIDL_LEAFLET_API = "https://endpoints.leaflets.schwarz/v4/flyer"
+RE_LIDL_LEAFLET = re.compile(r"/l/catalogue-de-la-semaine/([a-z0-9-]+)/")
 LIDL_JOURS_AVANCE = 2  # catalogues qui commencent dans les 2 prochains jours : inclus (« à partir de jeudi »)
 ACTION = {"id": "action", "nom": "Action"}
 ACTION_URL = "https://www.action.com/fr-fr/les-affaires-du-moment/"
@@ -602,64 +602,125 @@ def lire_promos(catalogues):
     return sorted(promos.values(), key=lambda p: (ordre.index(p["categorie"]), p["nom"]))
 
 
-# ------------------------------------------------------------------ Lidl (123catalogue.fr)
+# ------------------------------------------------------------------ Lidl (catalogues lidl.fr)
+
+def lidl_slugs_calcules():
+    """Noms des catalogues « promos de la semaine » de Lidl (du jeudi au mercredi), si la page des catalogues
+    ne répond pas : semaine en cours et semaine suivante."""
+    jeudi = AUJOURDHUI - dt.timedelta(days=(AUJOURDHUI.weekday() - 3) % 7)
+    slugs = []
+    for debut in (jeudi, jeudi + dt.timedelta(days=7)):
+        fin = debut + dt.timedelta(days=6)
+        slugs.append(f"du-{debut:%d-%m}-au-{fin:%d-%m}-les-promos-de-la-semaine")
+    return slugs
+
 
 def lidl_catalogues():
-    """Catalogues Lidl du Houlme en cours (ou qui commencent dans les 2 jours) listés sur 123catalogue.fr."""
-    premiere = not (DEBUG / "lidl_magasin.html").exists()
-    soup, html = lire(LIDL_MAGASIN_URL, "lidl_magasin")
-    if premiere:
-        sauver_debug("lidl_magasin", html)
-    cats = {}
-    for a in soup.find_all("a", href=True):
-        m = RE_LIDL_CATALOGUE.search(a["href"] + "/")
-        if not m:
-            continue
-        num = m.group(1)
-        # les dates sont dans le lien ou dans le bloc qui l'entoure
-        dates, bloc = [], a
-        for _ in range(4):
-            dates = dates_dans(propre(bloc.get_text(" ")))
-            if len(dates) >= 2 or bloc.parent is None:
-                break
-            bloc = bloc.parent
-        c = cats.setdefault(num, {"numero": num, "url": f"https://www.123catalogue.fr/catalogue/lidl/{num}",
-                                  "titre": "", "du": "", "au": ""})
-        if len(dates) >= 2 and not c["au"]:
-            c["du"], c["au"] = min(dates[:2]).isoformat(), max(dates[:2]).isoformat()
-        titre = propre(a.get("title") or a.get_text(" "))
-        if titre and not c["titre"] and len(titre) < 80:
-            c["titre"] = re.sub(r"\s+du\s.+$", "", titre, flags=re.I)
+    """Catalogues Lidl de la semaine (et celui qui commence dans les 2 jours) : liste lue sur lidl.fr, détails
+    (dates, PDF) donnés par le service des catalogues en ligne de Lidl."""
+    slugs = []
+    try:
+        soup, html = lire(LIDL_CATALOGUES_URL, "lidl_catalogues")
+        for m in RE_LIDL_LEAFLET.finditer(html):
+            if m.group(1) not in slugs and "exclus-web" not in m.group(1):
+                slugs.append(m.group(1))
+    except Exception as e:
+        print(f"  page des catalogues Lidl illisible ({e}) : noms calculés")
+    if not slugs:
+        slugs = lidl_slugs_calcules()
     limite = (AUJOURDHUI + dt.timedelta(days=LIDL_JOURS_AVANCE)).isoformat()
-    return [c for c in cats.values()
-            if (not c["au"] or c["au"] >= AUJOURDHUI.isoformat()) and (not c["du"] or c["du"] <= limite)]
+    cats = []
+    for slug in slugs[:6]:
+        try:
+            r = SESSION.get(LIDL_LEAFLET_API, params={"flyer_identifier": slug, "region_id": 0, "region_code": 0},
+                            timeout=40)
+            r.raise_for_status()
+            f = (r.json() or {}).get("flyer") or {}
+        except Exception as e:
+            print(f"  catalogue Lidl {slug} illisible : {e}")
+            continue
+        du = (f.get("offerStartDate") or f.get("startDate") or "")[:10]
+        au = (f.get("offerEndDate") or f.get("endDate") or "")[:10]
+        pdf = f.get("hiResPdfUrl") or f.get("pdfUrl") or ""
+        if not pdf or (au and au < AUJOURDHUI.isoformat()) or (du and du > limite):
+            continue
+        cats.append({"numero": slug, "url": f"https://www.lidl.fr/l/catalogue-de-la-semaine/{slug}/ar/0",
+                     "titre": propre(f.get("title") or f.get("name") or "Catalogue Lidl"), "du": du, "au": au,
+                     "pdf": f.get("pdfUrl") or pdf,
+                     "liens": [l for pg in f.get("pages") or [] for l in (pg.get("links") or [])]})
+    return cats
+
+
+def lire_pdf(url):
+    """Texte de chaque page d'un PDF (pypdf est installé à la volée s'il manque)."""
+    try:
+        from pypdf import PdfReader
+    except ImportError:
+        import subprocess
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "pypdf"], check=True)
+        from pypdf import PdfReader
+    import io
+    r = SESSION.get(url, timeout=120)
+    r.raise_for_status()
+    lecteur = PdfReader(io.BytesIO(r.content))
+    return [(page.extract_text() or "") for page in lecteur.pages]
+
+
+RE_PDF_PRIX = re.compile(r"^(?:€\s*)?(\d{1,3})\s*[.,]\s*(\d{2})\s*€?\*?$|^(\d{1,3})\s*€\s*(\d{2})$")
+RE_PDF_REMISE = re.compile(r"^-\s?\d{1,2}\s?%|^\d\s?\+\s?\d\s+offert|^\d\s?(?:e|ème)\s+(?:à|a)\s|^lot de \d", re.I)
+RE_PDF_BRUIT = re.compile(r"(=|/kg|/l\b|le kg|le litre|prix au|soit|dont|éco-?part|ecopart|offre valable|"
+                          r"photos? non contractuelle|dans la limite|selon disponibilit|www\.|lidl\.fr|lidl plus|"
+                          r"^à partir d|^du \d|^le produit|^la barquette|^le lot|^le sachet|^la pièce|^les \d|"
+                          r"^\d+ ?(g|kg|ml|cl|l)\b|origine|^ref|^réf|^\*)", re.I)
+
+
+def produits_pdf(pages):
+    """Produits « nom + prix » repérés dans le texte des pages d'un catalogue."""
+    produits, cles = [], set()
+    for texte in pages:
+        lignes = [propre(l) for l in texte.split("\n") if propre(l)]
+        noms, i = [], 0
+        while i < len(lignes):
+            l = lignes[i]
+            if RE_PDF_PRIX.match(l) or RE_PDF_REMISE.match(l):
+                prix, remise = [], ""
+                while i < len(lignes) and (RE_PDF_PRIX.match(lignes[i]) or RE_PDF_REMISE.match(lignes[i])
+                                           or RE_PDF_BRUIT.search(lignes[i])):
+                    m = RE_PDF_PRIX.match(lignes[i])
+                    if m:
+                        e, c = (m.group(1), m.group(2)) if m.group(1) else (m.group(3), m.group(4))
+                        prix.append(float(f"{e}.{c}"))
+                    elif RE_PDF_REMISE.match(lignes[i]) and not remise:
+                        remise = lignes[i]
+                    i += 1
+                prix = [x for x in prix if 0.1 <= x <= 2000]
+                if prix and noms:
+                    nom = " ".join(noms[-2:]) if len(noms[-1]) < 18 and len(noms) > 1 else noms[-1]
+                    nom = propre(nom)[:120]
+                    nouveau = min(prix)
+                    avant = max(prix) if max(prix) > nouveau * 1.05 else 0
+                    cle = norm(nom) + "|" + fmt_prix(nouveau)
+                    if cle not in cles and len(re.sub(r"[^A-Za-zÀ-ÿ]", "", nom)) >= 4:
+                        cles.add(cle)
+                        produits.append({"nom": nom, "prix": fmt_prix(nouveau),
+                                         "prix_avant": fmt_prix(avant) if avant else "", "remise": remise})
+                noms = []
+                continue
+            if not RE_PDF_BRUIT.search(l) and len(re.sub(r"[^A-Za-zÀ-ÿ]", "", l)) >= 4 and len(l) <= 80:
+                noms.append(l)
+            i += 1
+    return produits
 
 
 def lidl_produits(cat):
-    """Produits d'un catalogue Lidl sur 123catalogue.fr (toutes ses pages : /<numéro>, /<numéro>/2, ...)."""
-    produits, cles = [], set()
-    for page in range(1, LIDL_PAGES_MAX + 1):
-        url = cat["url"] if page == 1 else f"{cat['url']}/{page}"
-        nom_debug = f"lidl_catalogue_{cat['numero']}_{page}"
-        premiere = page <= 2 and not (DEBUG / f"lidl_catalogue_p{page}.html").exists()
-        try:
-            soup, html = lire(url, nom_debug)
-        except requests.HTTPError:
-            break
-        if premiere:
-            sauver_debug(f"lidl_catalogue_p{page}", html)
-        if page == 1 and not cat["au"]:
-            dates = dates_dans(propre(soup.get_text(" "))[:5000])
-            if len(dates) >= 2:
-                cat["du"], cat["au"] = min(dates[:2]).isoformat(), max(dates[:2]).isoformat()
-        trouves = produits_jsonld(soup) or produits_texte(soup)
-        nouveaux = [p for p in trouves if norm(p["nom"]) + "|" + p["prix"] not in cles]
-        for p in nouveaux:
-            cles.add(norm(p["nom"]) + "|" + p["prix"])
-            produits.append(p)
-        if not nouveaux or f"/{cat['numero']}/{page + 1}" not in html:
-            break
-    return produits
+    """Produits d'un catalogue Lidl : texte du PDF du catalogue + produits liés (pages produit lidl.fr)."""
+    pages = lire_pdf(cat["pdf"])
+    nom_debug = "lidl_pdf_" + cat["numero"][:40]
+    if debug_actif or not (DEBUG / f"{nom_debug}.txt").exists():
+        DEBUG.mkdir(exist_ok=True)
+        texte = "\n\n=== PAGE ===\n".join(pages)
+        (DEBUG / f"{nom_debug}.txt").write_text(texte[:300000], encoding="utf-8")
+    return produits_pdf(pages)
 
 
 RE_LIDL_PAS_PRODUIT = re.compile(r"^(lidl|catalogue|promo|offre|magasin|horaires|voir|page|prospectus|123catalogue)\b", re.I)
@@ -672,7 +733,6 @@ def collecter_lidl(ancien):
     cats = lidl_catalogues()
     nums = sorted(c["numero"] for c in cats)
     if not cats:
-        sauver_debug("lidl_magasin", lire(LIDL_MAGASIN_URL, "lidl_magasin")[1])
         avertissements.append("Aucun catalogue Lidl trouvé : promos Lidl de la fois précédente conservées")
         return anciennes, ancien.get("lidl_catalogues_vus", [])
     if nums == sorted(c.get("numero", "") for c in ancien.get("lidl_catalogues_vus", [])) and anciennes and not debug_actif:
@@ -703,7 +763,8 @@ def collecter_lidl(ancien):
     if not promos:
         avertissements.append("Aucun produit lu dans les catalogues Lidl : promos Lidl de la fois précédente conservées")
         return anciennes, ancien.get("lidl_catalogues_vus", [])
-    vus = [{"numero": c["numero"], "titre": c["titre"], "url": c["url"], "du": c["du"], "au": c["au"]} for c in cats]
+    vus = [{"numero": c["numero"], "titre": c["titre"], "url": c["url"], "du": c["du"], "au": c["au"],
+            "magasins": [LIDL["id"]]} for c in cats]
     return list(promos.values()), sorted(vus, key=lambda c: c["numero"])
 
 
