@@ -648,6 +648,28 @@ def action_produits_json(html):
     return list(trouves.values())
 
 
+def action_produits_cartes(soup):
+    """Cartes produit d'action.com (data-testid « product-card ») : titre, détail, prix en deux morceaux."""
+    produits = []
+    for c in soup.find_all(attrs={"data-testid": "product-card"}):
+        def champ(nom):
+            el = c.find(attrs={"data-testid": nom})
+            return propre(el.get_text(" ")) if el else ""
+        lien = c.find("a", href=RE_ACTION_PRODUIT)
+        titre, entier, centimes = champ("product-card-title"), champ("product-card-price-whole"), champ("product-card-price-fractional")
+        if not (lien and titre and entier.isdigit()):
+            continue
+        centimes = centimes if centimes.isdigit() else "00"
+        img = c.find(attrs={"data-testid": "product-card-image"}) or c.find("img")
+        produits.append({"num": RE_ACTION_PRODUIT.search(lien["href"]).group(1), "nom": titre,
+                         "prix": float(f"{entier}.{centimes[:2].ljust(2, '0')}"),
+                         "detail": champ("product-card-description"),
+                         "prix_unite": champ("product-card-price-description"),
+                         "url": urljoin("https://www.action.com", lien["href"]),
+                         "image": (img.get("src") or "") if img else ""})
+    return produits
+
+
 def action_produits_html(soup):
     """Produits lus dans les cartes de la page : un lien /fr-fr/p/<numéro>/ par produit, le prix dans la carte."""
     cartes = {}
@@ -701,6 +723,27 @@ def action_produits_html(soup):
     return produits
 
 
+RE_ACTION_HYGIENE = re.compile(r"blush|mascara|vernis|rouge a levres|maquillage|fond de teint|creme|shampo|douche|savon|"
+                               r"deodorant|dentifrice|brosse a dents|pansement|lingette|coton tige|disques? de coton|coton demaquillant|parfum|eau de toilette|"
+                               r"lessive|nettoyant|eponge|papier toilette|mouchoir|couche|serum|masque|gel|lotion|rasoir|"
+                               r"sac poubelle|liquide vaisselle|tablettes? lave", re.I)
+RE_ACTION_CONTENANT = re.compile(r"pot|boite|bocal|gourde|bouteille|flacon|bidon|seau|vase|bougie|diffuseur|peinture|colle", re.I)
+
+
+def categorie_action(nom, detail=""):
+    """Rayon d'un produit Action : surtout du non-alimentaire, l'alimentaire se reconnaît à son poids / volume."""
+    n = norm(nom)
+    cat = categorie(nom)
+    if cat == "animaux":
+        return cat
+    if RE_ACTION_HYGIENE.search(n):
+        return "hygiene_maison"
+    vendu_au_poids = re.search(r"\b\d+(?:[,.]\d+)?\s?(?:g|kg|cl|ml|l)\b", detail or "")
+    if vendu_au_poids and not RE_ACTION_CONTENANT.search(n):
+        return cat if cat not in NON_ALIMENTAIRE else "epicerie"
+    return "maison"
+
+
 def collecter_action():
     """Affaires de la semaine Action (toutes les pages). Renvoie (produits, du, au)."""
     produits, du, au = {}, "", ""
@@ -712,7 +755,7 @@ def collecter_action():
             semaine = [d for d in dates if abs((d - AUJOURDHUI).days) <= 10]
             if len(semaine) >= 2:
                 du, au = min(semaine[:2]).isoformat(), max(semaine[:2]).isoformat()
-        trouves = action_produits_json(html) or action_produits_html(soup)
+        trouves = action_produits_cartes(soup) or action_produits_json(html) or action_produits_html(soup)
         nouveaux = [p for p in trouves if p["num"] not in produits]
         for p in nouveaux:
             produits[p["num"]] = p
@@ -728,14 +771,15 @@ def collecter_action():
         du, au = debut.isoformat(), (debut + dt.timedelta(days=6)).isoformat()
     promos = []
     for p in produits.values():
-        cat = categorie(p["nom"])
+        cat = categorie_action(p["nom"], p.get("detail", ""))
         promos.append({
             "id": "a" + court_id("action", p["num"], fmt_prix(p["prix"])), "nom": p["nom"],
             "remise": "Affaire de la semaine", "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
             "remise_pct": None, "prix": fmt_prix(p["prix"]), "v": PROMO_VERSION, "prix_avant": "",
             "categorie": cat, "magasins": [ACTION["id"]], "du": du, "au": au,
             "catalogue": "Les affaires du moment", "catalogue_url": p["url"] or ACTION_URL,
-            "image": p["image"], "description": "", "rayon_leclerc": "", "enseigne": "Action",
+            "image": p["image"], "description": " | ".join(x for x in [p.get("detail", ""), p.get("prix_unite", "")] if x),
+            "detail": p.get("detail", ""), "rayon_leclerc": "", "enseigne": "Action",
         })
     return promos
 
