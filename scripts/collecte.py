@@ -2,6 +2,7 @@
 Panier Malin - collecte automatique (GitHub Actions, sans IA)
 
 - Promos des E.Leclerc Le Houlme et Bapeaume (catalogues e.leclerc : page du magasin + API des catalogues)
+- Affaires de la semaine Action (action.com, les mêmes dans tous les magasins)
 - Recettes simples choisies dans scripts/recettes_base.json selon les promos, avec leur prix de revient
   (prix normaux : vos tickets > moyennes Open Prices > estimations de scripts/prix_reference.json)
 - Infos du Houlme : PanneauPocket + actualités et agenda de le-houlme.fr
@@ -34,6 +35,9 @@ MAGASINS = [
     {"id": "houlme", "nom": "Le Houlme", "url": "https://www.e.leclerc/mag/e-leclerc-le-houlme"},
     {"id": "bapeaume", "nom": "Bapeaume", "url": "https://www.e.leclerc/mag/e-leclerc-bapeaume"},
 ]
+ACTION = {"id": "action", "nom": "Action"}
+ACTION_URL = "https://www.action.com/fr-fr/les-affaires-du-moment/"
+ACTION_PAGES_MAX = 12
 CATALOGUE_SITE = "https://nos-catalogues-promos-v2.e.leclerc"
 CATALOGUE_API = "https://nos-catalogues-promos-v2-api.e.leclerc"
 RE_LIEN_CATALOGUE = re.compile(r"nos-catalogues-promos-v2\.e\.leclerc/catalog/([A-Za-z0-9]+)/(\d+)")
@@ -591,6 +595,149 @@ def lire_promos(catalogues):
     ordre = ["viande_poisson", "fruits_legumes", "cremerie", "traiteur", "epicerie", "sucre", "surgeles", "boissons",
              "hygiene_maison", "animaux", "maison", "autre"]
     return sorted(promos.values(), key=lambda p: (ordre.index(p["categorie"]), p["nom"]))
+
+
+# ------------------------------------------------------------------ Action
+
+RE_ACTION_PRODUIT = re.compile(r"/fr-fr/p/(\d+)/")
+RE_ACTION_PRIX = re.compile(r"(\d{1,4})\s*[,.]\s*(\d{2})\s*€?")
+
+
+def action_produits_json(html):
+    """Produits trouvés dans les données JSON de la page (Next.js, JSON-LD), si le site en fournit."""
+    blocs = re.findall(r'<script[^>]*(?:__NEXT_DATA__|application/ld\+json|application/json)[^>]*>(.*?)</script>', html, re.S)
+    trouves = {}
+
+    def visiter(o):
+        if isinstance(o, dict):
+            nom = o.get("name") or o.get("title")
+            ident = str(o.get("id") or o.get("sku") or o.get("productId") or "")
+            prix = None
+            for k in ("price", "sellingPrice", "currentPrice", "salesPrice"):
+                v = o.get(k)
+                if isinstance(v, dict):
+                    v = v.get("value") or v.get("amount") or v.get("price")
+                if v not in (None, ""):
+                    prix = nombre(v)
+                    break
+            if prix is None and isinstance(o.get("offers"), dict):
+                prix = nombre(o["offers"].get("price"))
+            url = o.get("url") or o.get("href") or o.get("slug") or ""
+            m = RE_ACTION_PRODUIT.search(str(url))
+            if isinstance(nom, str) and prix and (m or ident.isdigit()):
+                num = m.group(1) if m else ident
+                img = o.get("image")
+                if isinstance(img, list):
+                    img = img[0] if img else ""
+                if isinstance(img, dict):
+                    img = img.get("url") or img.get("src") or ""
+                trouves.setdefault(num, {"num": num, "nom": propre(nom), "prix": prix,
+                                         "url": urljoin("https://www.action.com", str(url)) if url else "",
+                                         "image": img if isinstance(img, str) else ""})
+            for v in o.values():
+                visiter(v)
+        elif isinstance(o, list):
+            for v in o:
+                visiter(v)
+
+    for b in blocs:
+        try:
+            visiter(json.loads(b))
+        except Exception:
+            pass
+    return list(trouves.values())
+
+
+def action_produits_html(soup):
+    """Produits lus dans les cartes de la page : un lien /fr-fr/p/<numéro>/ par produit, le prix dans la carte."""
+    cartes = {}
+    for a in soup.find_all("a", href=True):
+        m = RE_ACTION_PRODUIT.search(a["href"])
+        if m:
+            cartes.setdefault(m.group(1), []).append(a)
+    produits = []
+    for num, liens in cartes.items():
+        # la carte = le plus petit bloc parent qui contient un prix
+        bloc, texte = None, ""
+        for el in [liens[0]] + list(liens[0].parents)[:6]:
+            t = propre(el.get_text(" "))
+            if RE_ACTION_PRIX.search(t) or re.search(r"\d+\s*,\s*\d{2}|\d+\s+\d{2}\s*€", t):
+                bloc, texte = el, t
+                break
+        if bloc is None:
+            continue
+        nom = ""
+        for a in liens:
+            nom = propre(a.get("title") or a.get("aria-label") or "")
+            if nom:
+                break
+        if not nom:
+            titre = bloc.find(["h2", "h3", "h4"]) or bloc.find(attrs={"data-testid": re.compile("title|name", re.I)})
+            nom = propre(titre.get_text(" ")) if titre else ""
+        if not nom:
+            img = bloc.find("img", alt=True)
+            nom = propre(img["alt"]) if img else ""
+        if not nom:
+            continue
+        # prix principal : le premier prix qui n'est pas un prix au kilo / au mètre
+        sans_unitaires = re.sub(r"\d+\s*[,.]\s*\d{2}\s*€\s*/\s*(?:m\d?|kg|l|100\s*\w*)\b", " ", texte)
+        m = RE_ACTION_PRIX.search(sans_unitaires.replace(nom, " "))
+        if not m:
+            # prix écrit en deux morceaux (« 4 » « 69 » ou « 4 69 € »)
+            m2 = re.search(r"(?<![\d,.])(\d{1,4})\s+(\d{2})(?:\s*€|(?=\s|$))", sans_unitaires.replace(nom, " "))
+            if not m2:
+                continue
+            prix = float(f"{m2.group(1)}.{m2.group(2)}")
+        else:
+            prix = float(f"{m.group(1)}.{m.group(2)}")
+        img = bloc.find("img")
+        image = ""
+        if img:
+            image = img.get("src") or img.get("data-src") or ""
+            if not image and img.get("srcset"):
+                image = img["srcset"].split(",")[-1].strip().split(" ")[0]
+        produits.append({"num": num, "nom": nom, "prix": prix,
+                         "url": urljoin("https://www.action.com", liens[0]["href"]), "image": image})
+    return produits
+
+
+def collecter_action():
+    """Affaires de la semaine Action (toutes les pages). Renvoie (produits, du, au)."""
+    produits, du, au = {}, "", ""
+    for page in range(1, ACTION_PAGES_MAX + 1):
+        url = ACTION_URL if page == 1 else f"{ACTION_URL}?page={page}"
+        soup, html = lire(url, f"action_page{page}")
+        if page == 1:
+            dates = dates_dans(propre(soup.get_text(" "))[:20000])
+            semaine = [d for d in dates if abs((d - AUJOURDHUI).days) <= 10]
+            if len(semaine) >= 2:
+                du, au = min(semaine[:2]).isoformat(), max(semaine[:2]).isoformat()
+        trouves = action_produits_json(html) or action_produits_html(soup)
+        nouveaux = [p for p in trouves if p["num"] not in produits]
+        for p in nouveaux:
+            produits[p["num"]] = p
+        print(f"  Action page {page} : {len(trouves)} produits ({len(nouveaux)} nouveaux)")
+        if not nouveaux or f"page={page + 1}" not in html:
+            break
+    if len(produits) < 5 or not (DEBUG / "action_page1.html").exists():
+        # copie de la page (une seule fois, ou quand la lecture échoue) pour pouvoir ajuster la lecture
+        sauver_debug("action_page1", lire(ACTION_URL, "action_page1")[1])
+    if not au:
+        # semaine Action : du mercredi au mardi
+        debut = AUJOURDHUI - dt.timedelta(days=(AUJOURDHUI.weekday() - 2) % 7)
+        du, au = debut.isoformat(), (debut + dt.timedelta(days=6)).isoformat()
+    promos = []
+    for p in produits.values():
+        cat = categorie(p["nom"])
+        promos.append({
+            "id": "a" + court_id("action", p["num"], fmt_prix(p["prix"])), "nom": p["nom"],
+            "remise": "Affaire de la semaine", "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+            "remise_pct": None, "prix": fmt_prix(p["prix"]), "v": PROMO_VERSION, "prix_avant": "",
+            "categorie": cat, "magasins": [ACTION["id"]], "du": du, "au": au,
+            "catalogue": "Les affaires du moment", "catalogue_url": p["url"] or ACTION_URL,
+            "image": p["image"], "description": "", "rayon_leclerc": "", "enseigne": "Action",
+        })
+    return promos
 
 
 # ------------------------------------------------------------------ recettes
@@ -1290,9 +1437,10 @@ def main():
         "version": 1,
         "genere_le": MAINTENANT.strftime("%Y-%m-%dT%H:%M"),
         "promos_maj_le": ancien.get("promos_maj_le", ""),
-        "magasins": [{"id": m["id"], "nom": m["nom"]} for m in MAGASINS],
+        "magasins": [{"id": m["id"], "nom": m["nom"]} for m in MAGASINS] + [dict(ACTION)],
         "catalogues_vus": ancien.get("catalogues_vus", []),
-        "promos": ancien.get("promos", []),
+        # promos Leclerc seulement : celles d'Action sont relues à part et ajoutées à la fin
+        "promos": [p for p in ancien.get("promos", []) if ACTION["id"] not in p.get("magasins", [])],
         "recettes": ancien.get("recettes", []),
         "ville": ancien.get("ville", {}),
     }
@@ -1319,7 +1467,22 @@ def main():
         print("  catalogues inchangés")
     # retirer les promos terminées
     data["promos"] = [p for p in data["promos"] if not p.get("au") or p["au"] >= AUJOURDHUI.isoformat()]
+    # recettes : seulement avec les promos Leclerc (Action, c'est surtout du grignotage)
     data["recettes"] = choisir_recettes(data["promos"]) if data["promos"] else data["recettes"]
+
+    print("Action…")
+    anciennes_action = [p for p in ancien.get("promos", []) if ACTION["id"] in p.get("magasins", [])
+                        and (not p.get("au") or p["au"] >= AUJOURDHUI.isoformat())]
+    try:
+        action = collecter_action()
+    except Exception as e:
+        action = []
+        avertissements.append(f"Affaires Action illisibles : {e}")
+    if not action:
+        if not any("Action" in a for a in avertissements):
+            avertissements.append("Aucune affaire Action lue : celles de la fois précédente sont conservées")
+        action = anciennes_action
+    data["promos"] = data["promos"] + action
 
     if OFFRES_INCONNUES:
         DEBUG.mkdir(exist_ok=True)
