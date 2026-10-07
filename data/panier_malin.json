@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-07T09:28",
+ "genere_le": "2026-10-07T09:38",
  "promos_maj_le": "2026-10-06T13:17",
  "magasins": [
   {
@@ -23416,7 +23416,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23425,7 +23425,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3005625/detecteur-de-fumee-smartwares/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3005625_8711658528847-111_01_a13pfb.webp",
-   "description": "",
+   "description": "FSM-117 | 2,99 €/pce",
+   "detail": "FSM-117",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23438,7 +23439,7 @@
    "prix": "4,98 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23447,7 +23448,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208907/plat-a-four-greenchef/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208907_4894871084360-110_01_ycsafh.webp",
-   "description": "",
+   "description": "34 x 24,5 cm | Diverses couleurs | 4,98 €/pce",
+   "detail": "34 x 24,5 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23460,7 +23462,7 @@
    "prix": "3,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23469,7 +23471,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3006792/decoration-d-halloween-avec-lumiere/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3006792_8721425984257-110_01_t8fiuw.webp",
-   "description": "",
+   "description": "45 x 70 cm | Divers modèles | 3,95 €/pce",
+   "detail": "45 x 70 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23482,7 +23485,7 @@
    "prix": "1,59 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23491,7 +23494,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3219332/housse-de-coussin-en-teddy/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219332_5412657319971-111_01_jwk5m0.webp",
-   "description": "",
+   "description": "45 x 45 cm | Diverses couleurs | 7,83 €/m2",
+   "detail": "45 x 45 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23513,7 +23517,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208097/boite-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/25077236.webp",
-   "description": "",
+   "description": "250 ml | Diverses couleurs | 1,59 €/pce",
+   "detail": "250 ml | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23526,7 +23531,7 @@
    "prix": "12,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23535,7 +23540,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3012436/calendrier-de-l-avent-disney-princess/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3012436_8721382795569-111_01_u9zeaf.webp",
-   "description": "",
+   "description": "24 pièces | 12,99 €/pce",
+   "detail": "24 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23548,7 +23554,7 @@
    "prix": "5,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "hygiene_maison",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23557,20 +23563,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2561886/drap-housse-en-percale-de-coton-la-maison-reve/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2561886_8717796087765-111_01_lwtncx.webp",
-   "description": "",
+   "description": "90 x 200 cm | diverses variantes | 3,22 €/m2",
+   "detail": "90 x 200 cm | diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "ab9b3f90e",
+   "id": "ae3f491e0",
    "nom": "Guirlande lumineuse",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "4,95 €",
+   "prix": "0,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23579,7 +23586,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2576318/guirlande-lumineuse/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2576318_8720725346413-111_01_zuvqax.webp",
-   "description": "",
+   "description": "100 LED | 4,95 m | 0,20 €/m",
+   "detail": "100 LED | 4,95 m",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23601,7 +23609,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3200224/collants-sculptants-kate-40-deniers/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/37069692.webp",
-   "description": "",
+   "description": "Taille 36 - 50 | 3,99 €/pce",
+   "detail": "Taille 36 - 50",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23614,7 +23623,7 @@
    "prix": "4,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23623,7 +23632,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3225220/pic-de-jardin-led/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225220_8721515242793-111_01_b66gaf.webp",
-   "description": "",
+   "description": "50 LED | Divers modèles | 4,95 €/pce",
+   "detail": "50 LED | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23645,7 +23655,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208896/poele-greenchef/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208896_4894871093256-110_01_kwv41c.webp",
-   "description": "",
+   "description": "Ø 20 cm | 6,67 €/pce",
+   "detail": "Ø 20 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23658,7 +23669,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23667,7 +23678,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3225104/housse-de-coussin-amalia/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225104_8720367973169-111_01_ehhxxa.webp",
-   "description": "",
+   "description": "45 x 45 cm | Diverses couleurs | 14,95 €/m2",
+   "detail": "45 x 45 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23689,7 +23701,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224679/cable-de-donnees-en-silicone-re-load-usb-c/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224679_8718964306923-110_01_soqj0k.webp",
-   "description": "",
+   "description": "240 watts | 2 m | Diverses couleurs | 2,48 €/m",
+   "detail": "240 watts | 2 m | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23702,7 +23715,7 @@
    "prix": "0,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -23711,7 +23724,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3228399/trolli-sour-spookers/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228399_4070455147007-111_01_p9rzav.webp",
-   "description": "",
+   "description": "175 g | 5,66 €/kg",
+   "detail": "175 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23733,7 +23747,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2581329/cerneaux-de-noix-natural-happiness-format-xl/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2581329_8711299021141-111_01_daokuw.webp",
-   "description": "",
+   "description": "300 g | 9,97 €/kg",
+   "detail": "300 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23746,7 +23761,7 @@
    "prix": "2,49 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23755,7 +23770,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217783/pot-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217783_8720294061236-111_01_vjmdi9.webp",
-   "description": "",
+   "description": "560 ml | Diverses couleurs | 2,49 €/pce",
+   "detail": "560 ml | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23768,7 +23784,7 @@
    "prix": "1,22 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -23777,20 +23793,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3216684/blush-en-gouttes-bonjolie/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216684_8715342053486-110_01_flkxxd.webp",
-   "description": "",
+   "description": "15 ml | Diverses couleurs | 81,33 €/l",
+   "detail": "15 ml | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "aad416efa",
+   "id": "a7927d94f",
    "nom": "Pansements First Aid Format familial",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,01 €",
+   "prix": "1,25 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -23799,7 +23816,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3227018/pansements-first-aid-format-familial/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227018_8712175944721-111_01_kp2h5w.webp",
-   "description": "",
+   "description": "100 pièces | 0,01 €/pce",
+   "detail": "100 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23812,7 +23830,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -23821,7 +23839,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3226221/takis-fiesta-size-dracula/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226221_8412600071656-111_01_hmhkgk.webp",
-   "description": "",
+   "description": "200 g | 14,95 €/kg",
+   "detail": "200 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23834,7 +23853,7 @@
    "prix": "16,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23843,7 +23862,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3225778/ruban-led-connecte-lsc-smart-connect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225778_8712879170235-111_01_jypnoy.webp",
-   "description": "",
+   "description": "1 400 lumens | 10 mètres | 1,70 €/m",
+   "detail": "1 400 lumens | 10 mètres",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23856,7 +23876,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23865,20 +23885,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3225333/lanterne/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225333_8718964303205-111_01_ikpgyq.webp",
-   "description": "",
+   "description": "Ø 12 x 16,5 cm | Diverses couleurs | 2,99 €/pce",
+   "detail": "Ø 12 x 16,5 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "ae00d60f5",
+   "id": "a6532e1f6",
    "nom": "Chaussettes d’intérieur pour femme",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,50 €",
+   "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23887,7 +23908,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224873/chaussettes-d-interieur-pour-femme/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224873_8718964297665-110_01_s8pu7p.webp",
-   "description": "",
+   "description": "Pointures 35- 42 | 2 paires | Divers modèles | 1,50 €/pce",
+   "detail": "Pointures 35- 42 | 2 paires | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23909,7 +23931,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224835/pantalon/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224835_8718964296460-110_01_ixcapd.webp",
-   "description": "",
+   "description": "Tailles S-XL | Diverses couleurs | 6,95 €/pce",
+   "detail": "Tailles S-XL | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23931,7 +23954,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224806/jouet-pour-chien-d-halloween-by-beeztees/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224806_8712695233817-111_02_gk5yby.webp",
-   "description": "",
+   "description": "Divers modèles | 2,19 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23953,7 +23977,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224250/mix-snacks-of-the-world/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224250_8711299010909-111_01_xvohxk.webp",
-   "description": "",
+   "description": "225 g | Divers modèles | 7,96 €/kg",
+   "detail": "225 g | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23966,7 +23991,7 @@
    "prix": "1,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "boissons",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23975,7 +24000,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224249/mix-sucre-sauce-bbq-snacks-of-the-world/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224249_8711299006919-111_01_zbzqx7.webp",
-   "description": "",
+   "description": "250 grammes | 7,16 €/kg",
+   "detail": "250 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23988,7 +24014,7 @@
    "prix": "1,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -23997,7 +24023,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224184/decoration-d-automne-sur-pied/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224184_8720194123416-111_01_x00ovy.webp",
-   "description": "",
+   "description": "Divers modèles | 1,99 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24010,7 +24037,7 @@
    "prix": "6,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24019,7 +24046,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224129/sculpteur-pour-le-visage-led/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224129_8718964289943-110_03_cmvann.webp",
-   "description": "",
+   "description": "3 pièces | 6,99 €/pce",
+   "detail": "3 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24032,7 +24060,7 @@
    "prix": "1,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24041,7 +24069,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
-   "description": "",
+   "description": "Divers modèles | 1,99 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24054,7 +24083,7 @@
    "prix": "14,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24063,7 +24092,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224003/pouf-de-rangement/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224003_8718964288656-110_01_ccqdxu.webp",
-   "description": "",
+   "description": "Ø 55 x 38 cm | Divers modèles | 14,95 €/pce",
+   "detail": "Ø 55 x 38 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24076,7 +24106,7 @@
    "prix": "0,89 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24085,7 +24115,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222903/pile-philips-9v/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222903_4895229174788-111_01_pfxdvl.webp",
-   "description": "",
+   "description": "1 pièce | 0,89 €/pce",
+   "detail": "1 pièce",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24107,7 +24138,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222669/poeles-greenchef/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222669_4894871093355-110_01_nuctlq.webp",
-   "description": "",
+   "description": "Ø 20/24/28 cm | Diverses couleurs | 24,95 €/pce",
+   "detail": "Ø 20/24/28 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24120,7 +24152,7 @@
    "prix": "4,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24129,7 +24161,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222531/chargeur-secteur-a-2-ports-re-load-gan-pro/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222531_8711332491405-110_01_sfm9oh.webp",
-   "description": "",
+   "description": "45 watts | Diverses couleurs | 4,79 €/pce",
+   "detail": "45 watts | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24142,7 +24175,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24151,20 +24184,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222261/chemin-de-table/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222261_5407010998702-110_01_l2ltu3.webp",
-   "description": "",
+   "description": "40 x 150 cm | Diverses couleurs | 4,98 €/m2",
+   "detail": "40 x 150 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "aead7f220",
+   "id": "a490a3616",
    "nom": "Chaussettes",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,43 €",
+   "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24173,20 +24207,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222204/chaussettes/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222204_8718964274796-110_01_shhw2y.webp",
-   "description": "",
+   "description": "7 paires | Pointures 39-46 | 0,43 €/pce",
+   "detail": "7 paires | Pointures 39-46",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a22e0b2ed",
+   "id": "a680b2d8a",
    "nom": "Chaussettes pour homme grises",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,43 €",
+   "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24195,7 +24230,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222203/chaussettes-pour-homme-grises/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222203_8718964274826-110_01_ejn5bo.webp",
-   "description": "",
+   "description": "7 paires | Pointures 39-46 | 0,43 €/pce",
+   "detail": "7 paires | Pointures 39-46",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24208,7 +24244,7 @@
    "prix": "2,39 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "epicerie",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24217,7 +24253,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222077/huile-pimentee/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222077_6915993304650-111_01_a8wqru.webp",
-   "description": "",
+   "description": "262 grammes | 9,12 €/kg",
+   "detail": "262 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24230,7 +24267,7 @@
    "prix": "7,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24239,7 +24276,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222039/doudou-avec-anneau-de-dentition-disney/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222039_8005124836346-110_01_juesxi.webp",
-   "description": "",
+   "description": "Divers modèles | 7,95 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24252,7 +24290,7 @@
    "prix": "1,29 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -24261,7 +24299,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3221820/nougat-tendre-marandi/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221820_8713800257063-111_01_t0p3np.webp",
-   "description": "",
+   "description": "160 g | 8,06 €/kg",
+   "detail": "160 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24283,7 +24322,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3221630/chocolat-a-patisser-excelcium-tradition/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221630_5400265044477-111_01_gctkcf.webp",
-   "description": "",
+   "description": "120 g | Divers modèles | 13,25 €/kg",
+   "detail": "120 g | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24296,7 +24336,7 @@
    "prix": "3,94 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -24305,7 +24345,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3221344/gel-a-l-aloe-vera-betty-s-nature/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221344_8718481355190-111_01_xknvo1.webp",
-   "description": "",
+   "description": "1 l | 3,94 €/l",
+   "detail": "1 l",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24318,7 +24359,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "epicerie",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24327,7 +24368,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3220785/diffuseur-d-huiles-essentielles-avec-pierres-de-lave/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220785_8712628707286-110_01_knl9dl.webp",
-   "description": "",
+   "description": "Divers modèles | 2,99 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24340,7 +24382,7 @@
    "prix": "2,39 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -24349,7 +24391,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3220764/broomstixx-haribo-maoam-acidules/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220764_4001686017463-111_01_mcoib2.webp",
-   "description": "",
+   "description": "350 g | 8,69 €/kg",
+   "detail": "350 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24362,7 +24405,7 @@
    "prix": "0,87 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -24371,7 +24414,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3220682/eponge-a-maquillage-avec-boite-belluto-accessories/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220682_8715342054865-110_01_gdi6wv.webp",
-   "description": "",
+   "description": "2 pièces | 0,87 €/pce",
+   "detail": "2 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24384,7 +24428,7 @@
    "prix": "2,69 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -24393,7 +24437,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3220464/tetes-brulees-horror-mix/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220464_3501275113176-111_01_kymdp8.webp",
-   "description": "",
+   "description": "390 g | 6,90 €/kg",
+   "detail": "390 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24406,7 +24451,7 @@
    "prix": "1,69 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24415,7 +24460,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3220048/bloc-photo/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220048_8721037804141-111_01_tspq7g.webp",
-   "description": "",
+   "description": "10 x 15 cm | Divers modèles | 1,69 €/pce",
+   "detail": "10 x 15 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24437,7 +24483,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3219707/pantalon-de-sport-sculptant-redmax/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219707_8720924219617-110_01_axsisr.webp",
-   "description": "",
+   "description": "Tailles S-XL | Diverses couleurs | 9,99 €/pce",
+   "detail": "Tailles S-XL | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24450,7 +24497,7 @@
    "prix": "1,29 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -24459,7 +24506,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3218845/laque-volumisante-blow-dry-blossity/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218845_8715342052755-111_01_gvezp0.webp",
-   "description": "",
+   "description": "150 ml | 8,60 €/l",
+   "detail": "150 ml",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24481,7 +24529,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3218399/pyjama-enfant-halloween/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218399_8715409241689-110_01_alogex.webp",
-   "description": "",
+   "description": "Tailles 98-128 | Divers modèles | 5,95 €/pce",
+   "detail": "Tailles 98-128 | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24494,7 +24543,7 @@
    "prix": "4,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24503,7 +24552,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3218358/lampe-de-table-rechargeable/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218358_8718964253432-110_01_hgmwxd.webp",
-   "description": "",
+   "description": "Ø 9 x 27 cm | Diverses couleurs | 4,99 €/pce",
+   "detail": "Ø 9 x 27 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24516,7 +24566,7 @@
    "prix": "9,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24525,7 +24575,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217886/agrafeuse-sans-fil-ferm/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217886_8717479113996-111_01_jwytkw.webp",
-   "description": "",
+   "description": "4 volts | 9,99 €/pce",
+   "detail": "4 volts",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24538,7 +24589,7 @@
    "prix": "7,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24547,7 +24598,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217885/multimetre-digital-ferm-cat-3/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217885_8717479113699-111_01_vs3hwm.webp",
-   "description": "",
+   "description": "600 volts | 7,95 €/pce",
+   "detail": "600 volts",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24560,7 +24612,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24569,7 +24621,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217787/pot-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217787_8720294061267-110_01_narkvj.webp",
-   "description": "",
+   "description": "900 ml | Diverses couleurs | 2,99 €/pce",
+   "detail": "900 ml | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24591,7 +24644,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217785/boite-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217785_8720294061311-110_01_ivyiao.webp",
-   "description": "",
+   "description": "1,1 l | Diverses couleurs | 2,49 €/pce",
+   "detail": "1,1 l | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24604,7 +24658,7 @@
    "prix": "0,89 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -24613,7 +24667,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217662/masque-pour-visage-de-noel/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217662_8721382795934-111_01_i6bkn6.webp",
-   "description": "",
+   "description": "Divers modèles | 44,50 €/l",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24626,7 +24681,7 @@
    "prix": "6,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24635,7 +24690,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217615/voiture-transformable/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217615_8718964250448-110_02_cfmekg.webp",
-   "description": "",
+   "description": "2-en-1 | 6,95 €/pce",
+   "detail": "2-en-1",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24648,7 +24704,7 @@
    "prix": "7,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24657,7 +24713,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217588/camion-jouet/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217588_8718964293179-110_01_rrime8.webp",
-   "description": "",
+   "description": "Divers modèles | 7,95 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24679,7 +24736,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217516/gaufres-aux-oeufs-cookies-crumbs-noisette/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217516_8713627082466-111_01_wzv1yq.webp",
-   "description": "",
+   "description": "270 g | 6,26 €/kg",
+   "detail": "270 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24692,7 +24750,7 @@
    "prix": "3,45 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24701,7 +24759,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217468/kit-creatif-magasin-decotime/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217468_8721042514646-111_01_d8ydju.webp",
-   "description": "",
+   "description": "Divers modèles | 3,45 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24714,7 +24773,7 @@
    "prix": "2,39 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24723,7 +24782,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217385/peinture-diamant-noel/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217385_8715275388181-111_01_yl1exg.webp",
-   "description": "",
+   "description": "30 x 20 cm | Divers modèles | 2,39 €/pce",
+   "detail": "30 x 20 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24736,7 +24796,7 @@
    "prix": "0,88 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24745,7 +24805,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217217/faux-ongles-de-noel-i-love-my-style/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217217_8719668035751-111_01_h9dtwj.webp",
-   "description": "",
+   "description": "24 pièces | Divers modèles | 0,88 €/pce",
+   "detail": "24 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24758,7 +24819,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24767,7 +24828,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3217190/reveil-avec-led/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217190_5701390674943-110_02_henr6z.webp",
-   "description": "",
+   "description": "Diverses couleurs | 2,99 €/pce",
+   "detail": "Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24780,7 +24842,7 @@
    "prix": "6,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24789,7 +24851,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3216907/appareil-photo-digital-pour-enfant-vision/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216907_8716051113430-110_02_r4ryak.webp",
-   "description": "",
+   "description": "Diverses couleurs | 6,95 €/pce",
+   "detail": "Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24802,7 +24865,7 @@
    "prix": "11,44 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24811,7 +24874,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3216802/panneaux-led-connectes-lsc-smart-connect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216802_8718964243419-111_01_cxfxph.webp",
-   "description": "",
+   "description": "6 pièces | 12 x 12 cm par pièce | 11,44 €/pce",
+   "detail": "6 pièces | 12 x 12 cm par pièce",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24824,7 +24888,7 @@
    "prix": "4,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -24833,7 +24897,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3216601/paniers-de-rangement/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216601_9341110024014-110_01_wrgdj4.webp",
-   "description": "",
+   "description": "4 pièces | Diverses couleurs | 4,99 €/pce",
+   "detail": "4 pièces | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24846,7 +24911,7 @@
    "prix": "1,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -24855,7 +24920,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3215515/masque-de-sommeil-3d-spilbergen/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3215515_4255651211503-110_01_nxgm3w.webp",
-   "description": "",
+   "description": "24 x 10 cm | Diverses couleurs | 1,99 €/pce",
+   "detail": "24 x 10 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24877,17 +24943,18 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3214749/boite-de-coloriage/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3214749_5056816644896-110_02_m7yq7s.webp",
-   "description": "",
+   "description": "40 pièces | Divers modèles | 3,99 €/pce",
+   "detail": "40 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a8f90059b",
+   "id": "aa8233c8c",
    "nom": "Boxers Ziki",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,16 €",
+   "prix": "3,49 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -24899,17 +24966,18 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3214737/boxers-ziki/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/37287860.webp",
-   "description": "",
+   "description": "Taille 158-164 | 3 pièces | 1,16 €/pce",
+   "detail": "Taille 158-164 | 3 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "adb01a301",
+   "id": "a2ff3992b",
    "nom": "Boxers Ziki",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,16 €",
+   "prix": "3,49 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -24921,17 +24989,18 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3214735/boxers-ziki/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/37287517.webp",
-   "description": "",
+   "description": "Taille 146-152 | 3 pièces | 1,16 €/pce",
+   "detail": "Taille 146-152 | 3 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "aea6d3e4b",
+   "id": "aa4bed4f0",
    "nom": "Boxers Ziki",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,16 €",
+   "prix": "3,49 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -24943,7 +25012,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3214733/boxers-ziki/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/37288189.webp",
-   "description": "",
+   "description": "Taille 134-140 | 3 pièces | 1,16 €/pce",
+   "detail": "Taille 134-140 | 3 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24965,20 +25035,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3212773/casque-hybride-sans-fil-anc-fresh-n-rebel/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/35569884.webp",
-   "description": "",
+   "description": "Diverses couleurs | 16,95 €/pce",
+   "detail": "Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a243f23fe",
+   "id": "a41207b38",
    "nom": "Pansements universels First Aid",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,01 €",
+   "prix": "0,87 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -24987,7 +25058,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3210441/pansements-universels-first-aid/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/39765864.webp",
-   "description": "",
+   "description": "100 pièces | 0,01 €/pce",
+   "detail": "100 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25000,7 +25072,7 @@
    "prix": "3,49 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -25009,7 +25081,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3210125/skittles-darkside/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27142887.webp",
-   "description": "",
+   "description": "18 x 18 g | 10,77 €/kg",
+   "detail": "18 x 18 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25031,7 +25104,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3209246/melange-aperitif-piment-et-paprika-snacks-of-the-world-doux/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/30200480.webp",
-   "description": "",
+   "description": "250 g | 7,16 €/kg",
+   "detail": "250 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25053,7 +25127,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208898/poele-greenchef/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208898_4894871093294-110_01_ylcify.webp",
-   "description": "",
+   "description": "Ø 28 cm | 9,97 €/pce",
+   "detail": "Ø 28 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25075,7 +25150,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208897/poele-greenchef/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208897_4894871093270-110_01_z6kipp.webp",
-   "description": "",
+   "description": "Ø 24 cm | 7,77 €/pce",
+   "detail": "Ø 24 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25097,7 +25173,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208360/couvercle-de-poele-redstone/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208360_8718964281145-111_01_imgfhb.webp",
-   "description": "",
+   "description": "Universel | 3,97 €/pce",
+   "detail": "Universel",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25119,7 +25196,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208101/boite-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208101_8720294061557-110_01_tfsruj.webp",
-   "description": "",
+   "description": "3 l | Diverses couleurs | 4,99 €/pce",
+   "detail": "3 l | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25141,7 +25219,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208100/boite-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/25077875.webp",
-   "description": "",
+   "description": "750 ml | Diverses couleurs | 2,49 €/pce",
+   "detail": "750 ml | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25163,17 +25242,18 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208098/boite-de-conservation-mepal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/25077426.webp",
-   "description": "",
+   "description": "1,5 l | Diverses couleurs | 3,49 €/pce",
+   "detail": "1,5 l | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a16234475",
+   "id": "a66408d44",
    "nom": "Ampoules connectées LSC Smart Connect",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "3,32 €",
+   "prix": "9,95 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -25185,17 +25265,18 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208076/ampoules-connectees-lsc-smart-connect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208076_8712879169918-111_01_jesar6.webp",
-   "description": "",
+   "description": "3 pièces | 4,5-35 watts | 390 lumens | 3,32 €/pce",
+   "detail": "3 pièces | 4,5-35 watts | 390 lumens",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "ae31f4086",
+   "id": "a6761f17f",
    "nom": "Ampoules LED connectées LSC Smart Connect",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "3,32 €",
+   "prix": "9,95 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -25207,7 +25288,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3208075/ampoules-led-connectees-lsc-smart-connect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208075_8712879169925-111_01_ofl9yl.webp",
-   "description": "",
+   "description": "3 pièces | 8-40 watts | 700 lumens | 3,32 €/pce",
+   "detail": "3 pièces | 8-40 watts | 700 lumens",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25220,7 +25302,7 @@
    "prix": "1,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25229,7 +25311,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3207513/lutin-farceur-absolu-chic/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3207513_3560231404642-111_01_nhsddd.webp",
-   "description": "",
+   "description": "40 cm | Divers modèles | 1,99 €/pce",
+   "detail": "40 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25251,7 +25334,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3206715/mousse-pour-chat-purrfections/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/26718953.webp",
-   "description": "",
+   "description": "100 g | Divers modèles | 7,90 €/kg",
+   "detail": "100 g | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25273,7 +25357,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3206068/batonnets-a-macher-pour-chien-pinky-steak-sticks/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/26575603.webp",
-   "description": "",
+   "description": "4 pièces | Divers modèles | 15,98 €/kg",
+   "detail": "4 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25286,7 +25371,7 @@
    "prix": "0,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25295,20 +25380,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3205861/lampe-d-halloween-avec-projecteur/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3205861_8720029118914-111_01_p4fcfj.webp",
-   "description": "",
+   "description": "11,5 x 4 x 4 cm | Diverses couleurs | 0,99 €/pce",
+   "detail": "11,5 x 4 x 4 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a85e7c5da",
+   "id": "a2e0eb82b",
    "nom": "Patchs chauffants règles douloureuses Thermofect",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,45 €",
+   "prix": "0,89 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25317,7 +25403,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3204848/patchs-chauffants-regles-douloureuses-thermofect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3204848_6945397911697-111_01_g24u41.webp",
-   "description": "",
+   "description": "2 pièces | 0,45 €/pce",
+   "detail": "2 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25330,7 +25417,7 @@
    "prix": "7,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25339,7 +25426,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3202554/plaid-en-teddy/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3202554_5412657319827-110_01_cqzf7j.webp",
-   "description": "",
+   "description": "140 x 180 cm | Diverses variantes | 3,15 €/m2",
+   "detail": "140 x 180 cm | Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25361,20 +25449,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3202185/collants-sculptants-kate-legwear-60-deniers/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/26077062.webp",
-   "description": "",
+   "description": "Tailles S-XL | 3,99 €/pce",
+   "detail": "Tailles S-XL",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "aa5c38d16",
+   "id": "a404d7edc",
    "nom": "Feutres pailletés Grafix",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,12 €",
+   "prix": "1,49 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25383,7 +25472,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3201512/feutres-pailletes-grafix/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201512_8715427164342-110_01_nnmcue.webp",
-   "description": "",
+   "description": "12 pièces | 0,12 €/pce",
+   "detail": "12 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25396,7 +25486,7 @@
    "prix": "1,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -25405,7 +25495,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3201380/brownies-halloween/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/17403771.webp",
-   "description": "",
+   "description": "8 pièces | 200 g | 8,95 €/kg",
+   "detail": "8 pièces | 200 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25427,7 +25518,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3201251/melange-de-biscuits-aperitifs-happy-creations-classic/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/32533778.webp",
-   "description": "",
+   "description": "300 g | 2,63 €/kg",
+   "detail": "300 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25449,7 +25541,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3200225/collants-sculptants-kate-legwear-20-deniers/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3200225_5404030154767-110_01_j6ybuq.webp",
-   "description": "",
+   "description": "Tailles 36-50 | 3,99 €/pce",
+   "detail": "Tailles 36-50",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25462,7 +25555,7 @@
    "prix": "2,49 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25471,7 +25564,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3016308/tapis-de-bain/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3016308_8718964295937-110_02_loz4fk.webp",
-   "description": "",
+   "description": "45 x 70 cm | Divers modèles | 2,49 €/pce",
+   "detail": "45 x 70 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25484,7 +25578,7 @@
    "prix": "17,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25493,7 +25587,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3014843/seche-cheveux-remington-ionic-dry/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/32533798.webp",
-   "description": "",
+   "description": "2200 watts | 17,95 €/pce",
+   "detail": "2200 watts",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25506,7 +25601,7 @@
    "prix": "9,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25515,20 +25610,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3014800/tondeuse-remington-apprentice/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/14099112.webp",
-   "description": "",
+   "description": "10 pièces | 9,99 €/pce",
+   "detail": "10 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "adb410ca5",
+   "id": "a4a236e30",
    "nom": "Pansements pour ampoules First Aid",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,16 €",
+   "prix": "1,25 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -25537,7 +25633,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3013273/pansements-pour-ampoules-first-aid/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/39767049.webp",
-   "description": "",
+   "description": "8 pièces | 0,16 €/pce",
+   "detail": "8 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25550,7 +25647,7 @@
    "prix": "0,52 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -25559,20 +25656,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3013271/pansements-first-aid-sensitive/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/39764913.webp",
-   "description": "",
+   "description": "30 pièces | 0,52 €/pce",
+   "detail": "30 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a33533fcd",
+   "id": "a6d982b12",
    "nom": "Pansements élastiques First Aid",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,06 €",
+   "prix": "0,87 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -25581,7 +25679,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3013245/pansements-elastiques-first-aid/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/39765427.webp",
-   "description": "",
+   "description": "15 pièces | 10 x 6 cm | 0,06 €/pce",
+   "detail": "15 pièces | 10 x 6 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25594,7 +25693,7 @@
    "prix": "0,59 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -25603,7 +25702,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3009604/autocollants-gel-halloween/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3009604_8720687718327-111_01_t6fjaq.webp",
-   "description": "",
+   "description": "Divers modèles | 0,59 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25625,7 +25725,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3009488/friandises-pour-chat-purrfections/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/34147202.webp",
-   "description": "",
+   "description": "200 grammes | Diverses variantes | 7,45 €/kg",
+   "detail": "200 grammes | Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25647,20 +25748,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3007383/parfum-d-interieur/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3007383_8721073626486-111_01_jadkaw.webp",
-   "description": "",
+   "description": "250ml | Divers modèles | 6,72 €/l",
+   "detail": "250ml | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a23e16b04",
+   "id": "ae37ae7bf",
    "nom": "Torchons",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,24 €",
+   "prix": "4,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25669,7 +25771,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3007230/torchons/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3007230_8717796091052-110_01_tdjjbd.webp",
-   "description": "",
+   "description": "50 x 70 cm | 4 pièces | Divers modèles | 1,24 €/pce",
+   "detail": "50 x 70 cm | 4 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25682,7 +25785,7 @@
    "prix": "11,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25691,7 +25794,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3007227/detecteur-de-monoxyde-de-carbone-smartwares/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3007227_8711658530659-111_01_vr4ugm.webp",
-   "description": "",
+   "description": "FGA-1311 | 11,95 €/pce",
+   "detail": "FGA-1311",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25704,7 +25808,7 @@
    "prix": "1,59 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25713,7 +25817,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3006606/araignee-d-halloween/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3006606_8721461045165-110_01_y0vhak.webp",
-   "description": "",
+   "description": "75 x 16 x 6 cm | 1,59 €/pce",
+   "detail": "75 x 16 x 6 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25726,7 +25831,7 @@
    "prix": "1,48 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25735,7 +25840,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3006382/kit-de-manucure-beauty-star/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3006382_8711568127758-110_02_zmjhx8.webp",
-   "description": "",
+   "description": "7 pièces | Divers modèles | 1,48 €/pce",
+   "detail": "7 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25748,7 +25854,7 @@
    "prix": "4,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25757,7 +25863,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3006233/detecteur-de-fumee-smartwares-fsm-022/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3006233_8711658527697-111_01_rmpnv6.webp",
-   "description": "",
+   "description": "Pile incluse | 4,99 €/pce",
+   "detail": "Pile incluse",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25770,7 +25877,7 @@
    "prix": "1,29 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "fruits_legumes",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25779,7 +25886,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3006113/nougat-aux-cacahuetes-et-fruits-marandi/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/38136036.webp",
-   "description": "",
+   "description": "170 grammes | 7,59 €/kg",
+   "detail": "170 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25792,7 +25900,7 @@
    "prix": "11,49 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25801,7 +25909,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3004279/brosse-coiffante-elle-magic-hot-air-styler/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3004279_8721098345461-110_01_c6mpla.webp",
-   "description": "",
+   "description": "800 watts | 11,49 €/pce",
+   "detail": "800 watts",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25814,7 +25923,7 @@
    "prix": "0,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25823,20 +25932,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3004187/set-de-table/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3004187_5407010998986-110_01_mugkxw.webp",
-   "description": "",
+   "description": "Ø 30 x 45 cm | Diverses couleurs | 0,99 €/pce",
+   "detail": "Ø 30 x 45 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a80747911",
+   "id": "afa93f67e",
    "nom": "Shorties enfant",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,80 €",
+   "prix": "3,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25845,7 +25955,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3002444/shorties-enfant/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3002444_4895227188473-110_01_pisluq.webp",
-   "description": "",
+   "description": "Tailles 110 - 152 | 5 pièces | Divers modèles | 0,80 €/pce",
+   "detail": "Tailles 110 - 152 | 5 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25858,7 +25969,7 @@
    "prix": "4,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25867,7 +25978,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3001960/pantoufles/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3001960_8718615085443-111_01_x85vcc.webp",
-   "description": "",
+   "description": "Pointures 36-41 | Divers modèles | 4,99 €/pce",
+   "detail": "Pointures 36-41 | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25880,7 +25992,7 @@
    "prix": "0,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "epicerie",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25889,17 +26001,18 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3001051/doritos-bits-honey-bbq/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3001051_8710398518170-111_01_bsiesv.webp",
-   "description": "",
+   "description": "115 grammes | 8,61 €/kg",
+   "detail": "115 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "ac52d9ea6",
+   "id": "a112d51f8",
    "nom": "Culottes",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,50 €",
+   "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -25911,7 +26024,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3000495/culottes/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3000495_8715409236593-110_01_gbg44e.webp",
-   "description": "",
+   "description": "Tailles 92-128 | 6 pièces | Divers modèles | 0,50 €/pce",
+   "detail": "Tailles 92-128 | 6 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25933,7 +26047,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2582450/friandises-liquides-pour-chat/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/34072106.webp",
-   "description": "",
+   "description": "6 x 15 g | 11,00 €/kg",
+   "detail": "6 x 15 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25946,7 +26061,7 @@
    "prix": "4,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "boissons",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -25955,7 +26070,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2582313/miroir-de-maquillage-avec-eclairage-the-look-lab/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2582313_8715342062815-110_01_a04stv.webp",
-   "description": "",
+   "description": "21 x 8,5 x 22 cm | 4,79 €/pce",
+   "detail": "21 x 8,5 x 22 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25968,7 +26084,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "epicerie",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -25977,7 +26093,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2581335/amandes-natural-happiness-format-xl/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2581335_8711299021158-111_01_oa7sbc.webp",
-   "description": "",
+   "description": "300 grammes | 9,97 €/kg",
+   "detail": "300 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25999,7 +26116,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2580268/mini-eau-de-toilette-capace-exclusive/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2580268_8721382704882-110_01_vfxowh.webp",
-   "description": "",
+   "description": "15 ml | Divers modèles | 66,00 €/l",
+   "detail": "15 ml | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26012,7 +26130,7 @@
    "prix": "1,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26021,7 +26139,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2579992/happy-fruttis-maoam/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/38136354.webp",
-   "description": "",
+   "description": "325 grammes | 6,12 €/kg",
+   "detail": "325 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26034,7 +26153,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "cremerie",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -26043,7 +26162,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2578211/creme-de-jour-et-de-nuit-champs-de-provence-botanical-care/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2578211_5906750809717-110_01_wyr8la.webp",
-   "description": "",
+   "description": "50 ml | 59,80 €/l",
+   "detail": "50 ml",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26065,7 +26185,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2575465/oignons-frits-king-s-harvest/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/22495308.webp",
-   "description": "",
+   "description": "275 g | 4,33 €/kg",
+   "detail": "275 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26078,7 +26199,7 @@
    "prix": "7,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26087,7 +26208,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2568757/pistolet-a-air-chaud-ferm/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2568757_8717479119943-111_01_czgcci.webp",
-   "description": "",
+   "description": "2 000 W | 7,99 €/pce",
+   "detail": "2 000 W",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26100,7 +26222,7 @@
    "prix": "17,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26109,7 +26231,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2567243/monstertruck-rc-telecommande/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2567243_8718964293186-110_01_gpdycz.webp",
-   "description": "",
+   "description": "Divers modèles | 17,95 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26131,7 +26254,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2564679/friandises-pour-chat-purrfections/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/20696267.webp",
-   "description": "",
+   "description": "60 g | diverses variantes | 9,83 €/kg",
+   "detail": "60 g | diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26144,7 +26268,7 @@
    "prix": "9,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "hygiene_maison",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26153,7 +26277,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2561891/drap-housse-en-percale-de-coton-la-maison-reve/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2561891_8717796087888-111_01_qu5bwt.webp",
-   "description": "",
+   "description": "180 x 220 cm | diverses variantes | 2,47 €/m2",
+   "detail": "180 x 220 cm | diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26166,7 +26291,7 @@
    "prix": "7,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "hygiene_maison",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26175,7 +26300,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2561887/drap-housse-en-percale-de-coton-la-maison-reve/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2561887_8717796087826-111_01_sfmzus.webp",
-   "description": "",
+   "description": "140 x 200 cm | diverses variantes | 7,79 €/pce",
+   "detail": "140 x 200 cm | diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26188,7 +26314,7 @@
    "prix": "8,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "hygiene_maison",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26197,7 +26323,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2561879/drap-housse-en-percale-de-coton-la-maison-reve/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2561879_8717796087857-111_01_lcsajf.webp",
-   "description": "",
+   "description": "180 x 200 cm | diverses variantes | 8,79 €/pce",
+   "detail": "180 x 200 cm | diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26219,7 +26346,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2555040/batonnets-a-macher-pour-chien-pinky-twisters/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/32844965.webp",
-   "description": "",
+   "description": "100 g | Poulet et poisson | 14,90 €/kg",
+   "detail": "100 g | Poulet et poisson",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26232,7 +26360,7 @@
    "prix": "2,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26241,7 +26369,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2552151/recharge-deshumidificateur-limpro/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2552151_8718868061904-111_01_wnd6fg.webp",
-   "description": "",
+   "description": "2 pièces | 900 grammes | 1,66 €/kg",
+   "detail": "2 pièces | 900 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26254,7 +26383,7 @@
    "prix": "3,89 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -26263,7 +26392,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2552150/deshumidificateur-limpro/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2552150_8718868061843-111_01_wrhj0w.webp",
-   "description": "",
+   "description": "2 x 900 g | 2,16 €/kg",
+   "detail": "2 x 900 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26285,20 +26415,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2549147/huile-de-coco/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/32534643.webp",
-   "description": "",
+   "description": "460 g | 5,85 €/l",
+   "detail": "460 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a0baca829",
+   "id": "a6cc92fba",
    "nom": "Patchs chauffants Thermofect",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,45 €",
+   "prix": "0,89 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26307,20 +26438,21 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2548032/patchs-chauffants-thermofect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2548032_6945397911710-111_01_ypym7a.webp",
-   "description": "",
+   "description": "2 pièces | 0,45 €/pce",
+   "detail": "2 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a124a2fd9",
+   "id": "a91110162",
    "nom": "Patchs chauffants Thermofect",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "0,45 €",
+   "prix": "0,89 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26329,7 +26461,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2548031/patchs-chauffants-thermofect/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2548031_8715342059860-111_01_mizzff.webp",
-   "description": "",
+   "description": "2 pièces | 0,45 €/pce",
+   "detail": "2 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26342,7 +26475,7 @@
    "prix": "1,67 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -26351,7 +26484,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2547089/bougie-parfumee-air-wick-essential-oils-vanille-gourmande/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/39765465.webp",
-   "description": "",
+   "description": "Ø 8 x 9 cm | 1,67 €/pce",
+   "detail": "Ø 8 x 9 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26364,7 +26498,7 @@
    "prix": "1,67 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
@@ -26373,7 +26507,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2547088/bougie-parfumee-air-wick-essential-oils-anti-tabac/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/39765305.webp",
-   "description": "",
+   "description": "Ø 8 x 7 cm | 1,67 €/pce",
+   "detail": "Ø 8 x 7 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26386,7 +26521,7 @@
    "prix": "0,67 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26395,7 +26530,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2546578/strass-autocollants-craft-universe/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2546578_8720029127329-111_01_natcxy.webp",
-   "description": "",
+   "description": "Divers modèles | 0,67 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26408,7 +26544,7 @@
    "prix": "1,35 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -26417,7 +26553,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2539744/toblerone-blanc/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/31166662.webp",
-   "description": "",
+   "description": "100g | 13,50 €/kg",
+   "detail": "100g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26430,7 +26567,7 @@
    "prix": "3,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
@@ -26439,7 +26576,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2525708/oreiller-haut-comfibeds/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/19933266.webp",
-   "description": "",
+   "description": "60 x 50 x 10 cm | 3,95 €/pce",
+   "detail": "60 x 50 x 10 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26452,7 +26590,7 @@
    "prix": "1,35 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "autre",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
@@ -26461,7 +26599,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/2516612/toblerone/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/34071042.webp",
-   "description": "",
+   "description": "100 g | 13,50 €/kg",
+   "detail": "100 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   }
@@ -27160,7 +27299,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-07T09:28",
+   "maj": "2026-10-07T09:38",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
