@@ -1,7 +1,8 @@
 """
 Panier Malin - collecte automatique (GitHub Actions, sans IA)
 
-- Promos des E.Leclerc Le Houlme et Bapeaume (catalogues e.leclerc : page du magasin + API des catalogues)
+- Promos de l'E.Leclerc du Houlme (catalogues e.leclerc : page du magasin + API des catalogues)
+- Promos du Lidl du Houlme (catalogues lus sur 123catalogue.fr)
 - Affaires de la semaine Action (action.com, les mêmes dans tous les magasins)
 - Recettes simples choisies dans scripts/recettes_base.json selon les promos, avec leur prix de revient
   (prix normaux : vos tickets > moyennes Open Prices > estimations de scripts/prix_reference.json)
@@ -32,9 +33,13 @@ MAINTENANT = dt.datetime.now(TZ)
 AUJOURDHUI = MAINTENANT.date()
 
 MAGASINS = [
-    {"id": "houlme", "nom": "Le Houlme", "url": "https://www.e.leclerc/mag/e-leclerc-le-houlme"},
-    {"id": "bapeaume", "nom": "Bapeaume", "url": "https://www.e.leclerc/mag/e-leclerc-bapeaume"},
+    {"id": "houlme", "nom": "Leclerc", "url": "https://www.e.leclerc/mag/e-leclerc-le-houlme"},
 ]
+LIDL = {"id": "lidl", "nom": "Lidl"}
+LIDL_MAGASIN_URL = "https://www.123catalogue.fr/catalogue/lidl/le-houlme"
+RE_LIDL_CATALOGUE = re.compile(r"/catalogue/lidl/(\d{3,})(?:/|$|\?|#)")
+LIDL_PAGES_MAX = 15
+LIDL_JOURS_AVANCE = 2  # catalogues qui commencent dans les 2 prochains jours : inclus (« à partir de jeudi »)
 ACTION = {"id": "action", "nom": "Action"}
 ACTION_URL = "https://www.action.com/fr-fr/les-affaires-du-moment/"
 ACTION_PAGES_MAX = 12
@@ -595,6 +600,111 @@ def lire_promos(catalogues):
     ordre = ["viande_poisson", "fruits_legumes", "cremerie", "traiteur", "epicerie", "sucre", "surgeles", "boissons",
              "hygiene_maison", "animaux", "maison", "autre"]
     return sorted(promos.values(), key=lambda p: (ordre.index(p["categorie"]), p["nom"]))
+
+
+# ------------------------------------------------------------------ Lidl (123catalogue.fr)
+
+def lidl_catalogues():
+    """Catalogues Lidl du Houlme en cours (ou qui commencent dans les 2 jours) listés sur 123catalogue.fr."""
+    premiere = not (DEBUG / "lidl_magasin.html").exists()
+    soup, html = lire(LIDL_MAGASIN_URL, "lidl_magasin")
+    if premiere:
+        sauver_debug("lidl_magasin", html)
+    cats = {}
+    for a in soup.find_all("a", href=True):
+        m = RE_LIDL_CATALOGUE.search(a["href"] + "/")
+        if not m:
+            continue
+        num = m.group(1)
+        # les dates sont dans le lien ou dans le bloc qui l'entoure
+        dates, bloc = [], a
+        for _ in range(4):
+            dates = dates_dans(propre(bloc.get_text(" ")))
+            if len(dates) >= 2 or bloc.parent is None:
+                break
+            bloc = bloc.parent
+        c = cats.setdefault(num, {"numero": num, "url": f"https://www.123catalogue.fr/catalogue/lidl/{num}",
+                                  "titre": "", "du": "", "au": ""})
+        if len(dates) >= 2 and not c["au"]:
+            c["du"], c["au"] = min(dates[:2]).isoformat(), max(dates[:2]).isoformat()
+        titre = propre(a.get("title") or a.get_text(" "))
+        if titre and not c["titre"] and len(titre) < 80:
+            c["titre"] = re.sub(r"\s+du\s.+$", "", titre, flags=re.I)
+    limite = (AUJOURDHUI + dt.timedelta(days=LIDL_JOURS_AVANCE)).isoformat()
+    return [c for c in cats.values()
+            if (not c["au"] or c["au"] >= AUJOURDHUI.isoformat()) and (not c["du"] or c["du"] <= limite)]
+
+
+def lidl_produits(cat):
+    """Produits d'un catalogue Lidl sur 123catalogue.fr (toutes ses pages : /<numéro>, /<numéro>/2, ...)."""
+    produits, cles = [], set()
+    for page in range(1, LIDL_PAGES_MAX + 1):
+        url = cat["url"] if page == 1 else f"{cat['url']}/{page}"
+        nom_debug = f"lidl_catalogue_{cat['numero']}_{page}"
+        premiere = page <= 2 and not (DEBUG / f"lidl_catalogue_p{page}.html").exists()
+        try:
+            soup, html = lire(url, nom_debug)
+        except requests.HTTPError:
+            break
+        if premiere:
+            sauver_debug(f"lidl_catalogue_p{page}", html)
+        if page == 1 and not cat["au"]:
+            dates = dates_dans(propre(soup.get_text(" "))[:5000])
+            if len(dates) >= 2:
+                cat["du"], cat["au"] = min(dates[:2]).isoformat(), max(dates[:2]).isoformat()
+        trouves = produits_jsonld(soup) or produits_texte(soup)
+        nouveaux = [p for p in trouves if norm(p["nom"]) + "|" + p["prix"] not in cles]
+        for p in nouveaux:
+            cles.add(norm(p["nom"]) + "|" + p["prix"])
+            produits.append(p)
+        if not nouveaux or f"/{cat['numero']}/{page + 1}" not in html:
+            break
+    return produits
+
+
+RE_LIDL_PAS_PRODUIT = re.compile(r"^(lidl|catalogue|promo|offre|magasin|horaires|voir|page|prospectus|123catalogue)\b", re.I)
+
+
+def collecter_lidl(ancien):
+    """Promos du Lidl du Houlme. Ne relit les catalogues que s'ils ont changé depuis la fois précédente."""
+    anciennes = [p for p in ancien.get("promos", []) if LIDL["id"] in p.get("magasins", [])
+                 and (not p.get("au") or p["au"] >= AUJOURDHUI.isoformat())]
+    cats = lidl_catalogues()
+    nums = sorted(c["numero"] for c in cats)
+    if not cats:
+        sauver_debug("lidl_magasin", lire(LIDL_MAGASIN_URL, "lidl_magasin")[1])
+        avertissements.append("Aucun catalogue Lidl trouvé : promos Lidl de la fois précédente conservées")
+        return anciennes, ancien.get("lidl_catalogues_vus", [])
+    if nums == sorted(c.get("numero", "") for c in ancien.get("lidl_catalogues_vus", [])) and anciennes and not debug_actif:
+        print("  catalogues Lidl inchangés")
+        return anciennes, ancien.get("lidl_catalogues_vus", [])
+    promos = {}
+    for cat in cats:
+        try:
+            produits = lidl_produits(cat)
+        except Exception as e:
+            avertissements.append(f"Catalogue Lidl {cat['numero']} illisible : {e}")
+            continue
+        print(f"  catalogue Lidl {cat['numero']} ({cat['du']} → {cat['au']}) : {len(produits)} produits")
+        for p in produits:
+            if RE_LIDL_PAS_PRODUIT.match(p["nom"]):
+                continue
+            cle = norm(p["nom"]) + "|" + p["prix"]
+            if cle in promos:
+                continue
+            court, explication, pct = detail_remise(remise_calculee(p), "", p["prix"], p["prix_avant"], None)
+            promos[cle] = {
+                "id": "l" + court_id("lidl", cle), "nom": p["nom"], "remise": court, "remise_detail": explication,
+                "remise_pct": pct, "prix": p["prix"], "v": PROMO_VERSION, "prix_avant": p["prix_avant"],
+                "categorie": categorie(p["nom"]), "magasins": [LIDL["id"]], "du": cat["du"], "au": cat["au"],
+                "catalogue": cat["titre"] or "Catalogue Lidl", "catalogue_url": cat["url"], "image": "",
+                "description": "", "rayon_leclerc": "", "enseigne": "Lidl",
+            }
+    if not promos:
+        avertissements.append("Aucun produit lu dans les catalogues Lidl : promos Lidl de la fois précédente conservées")
+        return anciennes, ancien.get("lidl_catalogues_vus", [])
+    vus = [{"numero": c["numero"], "titre": c["titre"], "url": c["url"], "du": c["du"], "au": c["au"]} for c in cats]
+    return list(promos.values()), sorted(vus, key=lambda c: c["numero"])
 
 
 # ------------------------------------------------------------------ Action
@@ -1481,13 +1591,28 @@ def main():
         "version": 1,
         "genere_le": MAINTENANT.strftime("%Y-%m-%dT%H:%M"),
         "promos_maj_le": ancien.get("promos_maj_le", ""),
-        "magasins": [{"id": m["id"], "nom": m["nom"]} for m in MAGASINS] + [dict(ACTION)],
+        "magasins": [{"id": m["id"], "nom": m["nom"]} for m in MAGASINS] + [dict(LIDL), dict(ACTION)],
         "catalogues_vus": ancien.get("catalogues_vus", []),
-        # promos Leclerc seulement : celles d'Action sont relues à part et ajoutées à la fin
-        "promos": [p for p in ancien.get("promos", []) if ACTION["id"] not in p.get("magasins", [])],
+        # promos Leclerc seulement : celles de Lidl et d'Action sont relues à part et ajoutées à la fin
+        "promos": [p for p in ancien.get("promos", [])
+                   if not set(p.get("magasins", [])) & {ACTION["id"], LIDL["id"]}],
+        "lidl_catalogues_vus": ancien.get("lidl_catalogues_vus", []),
         "recettes": ancien.get("recettes", []),
         "ville": ancien.get("ville", {}),
     }
+
+    # magasins Leclerc retirés de la liste (ex. Bapeaume) : leurs promos disparaissent
+    suivis = {m["id"] for m in MAGASINS}
+    gardees = []
+    for p in data["promos"]:
+        p["magasins"] = [m for m in p.get("magasins", []) if m in suivis]
+        if p["magasins"]:
+            gardees.append(p)
+    data["promos"] = gardees
+    data["catalogues_vus"] = [c for c in data["catalogues_vus"]
+                              if set(c.get("magasins", [])) & suivis]
+    for c in data["catalogues_vus"]:
+        c["magasins"] = [m for m in c.get("magasins", []) if m in suivis]
 
     print("Promos…")
     catalogues = collecter_promos()
@@ -1511,7 +1636,16 @@ def main():
         print("  catalogues inchangés")
     # retirer les promos terminées
     data["promos"] = [p for p in data["promos"] if not p.get("au") or p["au"] >= AUJOURDHUI.isoformat()]
-    # recettes : seulement avec les promos Leclerc (Action, c'est surtout du grignotage)
+
+    print("Lidl…")
+    try:
+        lidl, data["lidl_catalogues_vus"] = collecter_lidl(ancien)
+    except Exception as e:
+        lidl = [p for p in ancien.get("promos", []) if LIDL["id"] in p.get("magasins", [])
+                and (not p.get("au") or p["au"] >= AUJOURDHUI.isoformat())]
+        avertissements.append(f"Promos Lidl illisibles : {e}")
+    data["promos"] = data["promos"] + lidl
+    # recettes : avec les promos Leclerc et Lidl (pas Action, c'est surtout du grignotage)
     data["recettes"] = choisir_recettes(data["promos"]) if data["promos"] else data["recettes"]
 
     print("Action…")
