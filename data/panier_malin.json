@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-09T13:20",
+ "genere_le": "2026-10-09T20:49",
  "promos_maj_le": "2026-10-06T13:17",
  "magasins": [
   {
@@ -26291,6 +26291,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a40aecf2b",
+   "nom": "Sachet surprise Snackles Zuru",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3220790/sachet-surprise-snackles-zuru/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220790_4894680067530-111_01_cj8642.webp",
+   "description": "Divers modèles | 2,99 €/pce",
+   "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ad60c4488",
    "nom": "Poêle GreenChef",
    "remise": "Affaire de la semaine",
@@ -26337,29 +26360,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a7434b329",
-   "nom": "Câble de données en silicone Re-load USB-C",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "4,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-07",
-   "au": "2026-10-13",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224679/cable-de-donnees-en-silicone-re-load-usb-c/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224679_8718964306923-110_01_soqj0k.webp",
-   "description": "240 watts | 2 m | Diverses couleurs | 2,48 €/m",
-   "detail": "240 watts | 2 m | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "ae2cdd70e",
    "nom": "Trolli Sour Spookers",
    "remise": "Affaire de la semaine",
@@ -26383,12 +26383,12 @@
    "enseigne": "Action"
   },
   {
-   "id": "a4cadd4bf",
-   "nom": "Désodorisant pour voiture Valma",
+   "id": "a7434b329",
+   "nom": "Câble de données en silicone Re-load USB-C",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,99 €",
+   "prix": "4,95 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -26398,10 +26398,10 @@
    "du": "2026-10-07",
    "au": "2026-10-13",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
-   "description": "Divers modèles | 1,99 €/pce",
-   "detail": "Divers modèles",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224679/cable-de-donnees-en-silicone-re-load-usb-c/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224679_8718964306923-110_01_soqj0k.webp",
+   "description": "240 watts | 2 m | Diverses couleurs | 2,48 €/m",
+   "detail": "240 watts | 2 m | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26448,6 +26448,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216684_8715342053486-110_01_flkxxd.webp",
    "description": "15 ml | Diverses couleurs | 81,33 €/l",
    "detail": "15 ml | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a4cadd4bf",
+   "nom": "Désodorisant pour voiture Valma",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
+   "description": "Divers modèles | 1,99 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26544,6 +26567,52 @@
    "enseigne": "Action"
   },
   {
+   "id": "ae82b8d72",
+   "nom": "Piles Energizer AAA",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "7,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225906/piles-energizer-aaa/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225906_7638900464108-111_01_r9qt5e.webp",
+   "description": "40 pièces | 0,20 €/pce",
+   "detail": "40 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ad2bdf830",
+   "nom": "Piles Energizer AA",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "7,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225905/piles-energizer-aa/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225905_7638900464092-111_01_fb40oi.webp",
+   "description": "40 pièces | 0,20 €/pce",
+   "detail": "40 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a72e51217",
    "nom": "Ruban LED connecté LSC Smart Connect",
    "remise": "Affaire de la semaine",
@@ -26586,6 +26655,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225333_8718964303205-111_01_ikpgyq.webp",
    "description": "Ø 12 x 16,5 cm | Diverses couleurs | 2,99 €/pce",
    "detail": "Ø 12 x 16,5 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a0d12aee6",
+   "nom": "Couronne avec LED",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "11,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225250/couronne-avec-led/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225250_8718964302017-111_01_ckue8r.webp",
+   "description": "Ø 45 cm | 1 200 LED | 11,95 €/pce",
+   "detail": "Ø 45 cm | 1 200 LED",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26797,6 +26889,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "abf827fc4",
+   "nom": "Livre de coloriage",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,84 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223810/livre-de-coloriage/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223810_8716745030425-111_01_crl4wi.webp",
+   "description": "48 pages | Divers modèles | 0,84 €/pce",
+   "detail": "48 pages | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a4a5640f6",
    "nom": "Pile Philips 9V",
    "remise": "Affaire de la semaine",
@@ -26977,6 +27092,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222039_8005124836346-110_01_juesxi.webp",
    "description": "Divers modèles | 7,95 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a63d3796b",
+   "nom": "Balises Smartfinder Fresh ’n Rebel",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "12,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3221953/balises-smartfinder-fresh-n-rebel/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221953_8720249814184-110_01_s4tkj1.webp",
+   "description": "3 pièces | Compatible avec Android & Apple | Diverses couleurs | 4,32 €/pce",
+   "detail": "3 pièces | Compatible avec Android & Apple | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -27257,6 +27395,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a151c0cb3",
+   "nom": "Air Clay",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3218149/air-clay/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218149_8714627028775-110_01_qu1qqj.webp",
+   "description": "9 pièces | 0,44 €/pce",
+   "detail": "9 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ab7502789",
    "nom": "Agrafeuse sans fil FERM",
    "remise": "Affaire de la semaine",
@@ -27372,6 +27533,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "adeb6dc8c",
+   "nom": "Tablettes pour lave-vaisselle Fabulosa Citron",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,88 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3217659/tablettes-pour-lave-vaisselle-fabulosa-citron/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217659_5011962991300-111_01_hnglnl.webp",
+   "description": "30 pièces | 0,13 €/pce",
+   "detail": "30 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "aaed6559d",
    "nom": "Voiture transformable",
    "remise": "Affaire de la semaine",
@@ -27391,6 +27575,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217615_8718964250448-110_02_cfmekg.webp",
    "description": "2-en-1 | 6,95 €/pce",
    "detail": "2-en-1",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a8b3fee7c",
+   "nom": "Gilet réfléchissant à LED rechargeable",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "5,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3217591/gilet-reflechissant-a-led-rechargeable/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217591_8718964249916-110_01_mrtiu4.webp",
+   "description": "Taille unique | 5,95 €/pce",
+   "detail": "Taille unique",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -27487,6 +27694,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "aa3ac8153",
+   "nom": "Ritter Sport Smarties",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,39 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3217371/ritter-sport-smarties/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217371_4000417620613-111_01_dlnhtt.webp",
+   "description": "100 g | 13,90 €/kg",
+   "detail": "100 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a01858636",
    "nom": "Faux ongles de Noël I Love My Style",
    "remise": "Affaire de la semaine",
@@ -27579,6 +27809,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a591f4e76",
+   "nom": "Tablettes pour lave-vaisselle Fairy Fresh Platinum Citron",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "11,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3216377/tablettes-pour-lave-vaisselle-fairy-fresh-platinum-citron/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216377_8006530247313-111_01_pf4f0e.webp",
+   "description": "66 pièces | 0,18 €/pce",
+   "detail": "66 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a06317f3b",
    "nom": "Masque de sommeil 3D Spilbergen",
    "remise": "Affaire de la semaine",
@@ -27598,6 +27851,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3215515_4255651211503-110_01_nxgm3w.webp",
    "description": "24 x 10 cm | Diverses couleurs | 1,99 €/pce",
    "detail": "24 x 10 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aa68197a2",
+   "nom": "Sauce mayomix Heinz",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,79 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3215441/sauce-mayomix-heinz/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/35719536.webp",
+   "description": "425 g | 4,21 €/kg",
+   "detail": "425 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -28223,6 +28499,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a5b74a8a0",
+   "nom": "Sac de voyage cabine Spilbergen Dublin",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "7,77 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3016832/sac-de-voyage-cabine-spilbergen-dublin/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3016832_8718964306831-110_01_ohnovr.webp",
+   "description": "40 x 20 x 25 cm | 20 litres | Diverses couleurs | 7,77 €/pce",
+   "detail": "40 x 20 x 25 cm | 20 litres | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ab47ba8ab",
    "nom": "Tapis de bain",
    "remise": "Affaire de la semaine",
@@ -28242,6 +28541,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3016308_8718964295937-110_02_loz4fk.webp",
    "description": "45 x 70 cm | Divers modèles | 2,49 €/pce",
    "detail": "45 x 70 cm | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a3d9f25f9",
+   "nom": "Tablettes pour lave-vaisselle Fairy Fresh Platinum",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,19 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3015626/tablettes-pour-lave-vaisselle-fairy-fresh-platinum/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/21098839.webp",
+   "description": "33 pièces | 0,18 €/pce",
+   "detail": "33 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -28568,6 +28890,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "afde40cb3",
+   "nom": "Marqueurs à double pointe DécoTime",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3005439/marqueurs-a-double-pointe-decotime/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3005439_8721042515247-111_01_quchh8.webp",
+   "description": "12 pièces | diverses variantes | 0,17 €/pce",
+   "detail": "12 pièces | diverses variantes",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a57d8f402",
    "nom": "Brosse coiffante ELLE Magic Hot Air Styler",
    "remise": "Affaire de la semaine",
@@ -28706,6 +29051,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "afe5aa397",
+   "nom": "Collier LED rechargeable",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,19 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2582464/collier-led-rechargeable/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2582464_8711292210443-111_01_tbgvm3.webp",
+   "description": "70 cm | 2,19 €/pce",
+   "detail": "70 cm",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a86411d80",
    "nom": "Friandises liquides pour chat",
    "remise": "Affaire de la semaine",
@@ -28725,6 +29093,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/34072106.webp",
    "description": "6 x 15 g | 11,00 €/kg",
    "detail": "6 x 15 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a505203ad",
+   "nom": "Mayonnaise Heinz",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2582428/mayonnaise-heinz/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2582428_8715700117829-111_01_sskkwn.webp",
+   "description": "775 grammes | 3,21 €/kg",
+   "detail": "775 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -28955,6 +29346,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/20696267.webp",
    "description": "60 g | diverses variantes | 9,83 €/kg",
    "detail": "60 g | diverses variantes",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a293e9416",
+   "nom": "Peignoir",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "8,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2563019/peignoir/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2563019_8718964247363-110_01_zfcwgj.webp",
+   "description": "Tailles S-XL | Divers modèles | 8,95 €/pce",
+   "detail": "Tailles S-XL | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -30009,8 +30423,20 @@
     "29",
     "360"
    ],
-   "alertes": [],
-   "maj": "2026-10-09T13:20",
+   "alertes": [
+    {
+     "titre": "Grève samedi 10 octobre : perturbations à prévoir",
+     "texte": "Dans le cadre du préavis de grève déposé par le syndicat CGT de Transdev Rouen les samedis - du samedi 18 juillet 2026 au samedi 02 janvier 2027 - des perturbations sont à prévoir :\nSamedi 10 octobre : 72% du trafic assuré\nMétro : 100% de trafic assuré en journée et 100% en soirée\nLigne T1 : 80% de trafic assuré en journée et 67 % en soirée\nLigne T2 : 81% de trafic assuré en journée et 50% en soirée\nLigne T3 : 80% de trafic assuré en journée et 50% en soirée\nLigne T4 : 76% de trafic assuré en journée et 67% en soirée\nLigne T5 : 73% de trafic assuré en journée et 100% en soirée\nLigne F1 : 71% trafic assuré en journée et 67% en soirée\nLigne F2 : 88% trafic assuré en journée et 100% en soirée\nLigne F3 : 74% trafic assuré en journée et 100% en soirée\nLigne F4 : 55% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F5 : 83% trafic assuré en journée et 100% en soirée\nLigne F7 : 47% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F8 : 40% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 11 : 80% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 15 : 67% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 20 : 44% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 43 : 100% trafic assuré en journée et ne circule pas en soirée après 19h\nLignes 10, 22, 41, Noctambus : ne circulent pas de la journée\nLes lignes F6, F9, 13, 14, 26, 27, 28, 33, 35, 36, 37, 38, 42, 44, 529,…",
+     "lignes": [
+      "F4"
+     ],
+     "type": "Grève",
+     "debut": "2026-10-09T14:21",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/greve-reseau-astuce-samedis-2026"
+    }
+   ],
+   "maj": "2026-10-09T20:49",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
