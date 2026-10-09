@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-08T21:17",
+ "genere_le": "2026-10-09T13:20",
  "promos_maj_le": "2026-10-06T13:17",
  "magasins": [
   {
@@ -26383,25 +26383,25 @@
    "enseigne": "Action"
   },
   {
-   "id": "a74baed01",
-   "nom": "Cerneaux de noix Natural Happiness format XL",
+   "id": "a4cadd4bf",
+   "nom": "Désodorisant pour voiture Valma",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "2,99 €",
+   "prix": "1,99 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "epicerie",
+   "categorie": "maison",
    "magasins": [
     "action"
    ],
    "du": "2026-10-07",
    "au": "2026-10-13",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2581329/cerneaux-de-noix-natural-happiness-format-xl/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2581329_8711299021141-111_01_daokuw.webp",
-   "description": "300 g | 9,97 €/kg",
-   "detail": "300 g",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
+   "description": "Divers modèles | 1,99 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26471,6 +26471,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227018_8712175944721-111_01_kp2h5w.webp",
    "description": "100 pièces | 0,01 €/pce",
    "detail": "100 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aea153596",
+   "nom": "Bougie parfumée Air Wick",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,67 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "hygiene_maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226350/bougie-parfumee-air-wick/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226350_4255859601007-111_01_xkhrib.webp",
+   "description": "Divers modèles | 15,90 €/kg",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -26747,29 +26770,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224129_8718964289943-110_03_cmvann.webp",
    "description": "3 pièces | 6,99 €/pce",
    "detail": "3 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a4cadd4bf",
-   "nom": "Désodorisant pour voiture Valma",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-07",
-   "au": "2026-10-13",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
-   "description": "Divers modèles | 1,99 €/pce",
-   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -28775,6 +28775,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a74baed01",
+   "nom": "Cerneaux de noix Natural Happiness format XL",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2581329/cerneaux-de-noix-natural-happiness-format-xl/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2581329_8711299021141-111_01_daokuw.webp",
+   "description": "300 g | 9,97 €/kg",
+   "detail": "300 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a673a55c1",
    "nom": "Mini-eau de toilette Capace Exclusive",
    "remise": "Affaire de la semaine",
@@ -29987,7 +30010,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-08T21:17",
+   "maj": "2026-10-09T13:20",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
