@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-10T12:37",
+ "genere_le": "2026-10-10T19:52",
  "promos_maj_le": "2026-10-10T12:37",
  "magasins": [
   {
@@ -13490,9 +13490,20 @@
      "debut": "2026-10-09T14:21",
      "fin": "",
      "url": "https://www.myastuce.fr/fr/actualites/greve-reseau-astuce-samedis-2026"
+    },
+    {
+     "titre": "Grève samedi 10 octobre 2026 : perturbations à prévoir",
+     "texte": "ans le cadre du préavis de grève déposé par le syndicat CGT de Transdev Rouen les samedis - du samedi 18 juillet 2026 au samedi 02 janvier 2027 - des perturbations sont à prévoir :\nSamedi 10 octobre : 72% du trafic assuré\nMétro : 100% de trafic assuré en journée et 100% en soirée\nLigne T1 : 80% de trafic assuré en journée et 67 % en soirée\nLigne T2 : 81% de trafic assuré en journée et 50% en soirée\nLigne T3 : 80% de trafic assuré en journée et 50% en soirée\nLigne T4 : 76% de trafic assuré en journée et 67% en soirée\nLigne T5 : 73% de trafic assuré en journée et 100% en soirée\nLigne F1 : 71% trafic assuré en journée et 67% en soirée\nLigne F2 : 88% trafic assuré en journée et 100% en soirée\nLigne F3 : 74% trafic assuré en journée et 100% en soirée\nLigne F4 : 55% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F5 : 83% trafic assuré en journée et 100% en soirée\nLigne F7 : 47% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F8 : 40% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 11 : 80% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 15 : 67% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 20 : 44% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 43 : 100% trafic assuré en journée et ne circule pas en soirée après 19h\nLignes 10, 22, 41, Noctambus : ne circulent pas de la journée\nLes lignes F6, F9, 13, 14, 26, 27, 28, 33, 35, 36, 37, 38, 42, 44, 529, 530,…",
+     "lignes": [
+      "F4"
+     ],
+     "type": "Grève",
+     "debut": "2026-10-09T14:28",
+     "fin": "2026-10-10T23:59",
+     "url": "https://www.myastuce.fr/fr/transport-public-info?context=DisruptionDetail&disruptionId=23687"
     }
    ],
-   "maj": "2026-10-10T12:37",
+   "maj": "2026-10-10T19:52",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
