@@ -1,12 +1,12 @@
 {
  "version": 2,
- "date": "2026-10-04",
+ "date": "2026-10-12",
  "prix": {
   "Pâtes": {
    "kg": 1.38
   },
   "Spaghetti": {
-   "kg": 1.48
+   "kg": 1.38
   },
   "Tagliatelles": {
    "kg": 3.71
@@ -30,6 +30,7 @@
    "kg": 1.0
   },
   "Lait": {
+   "kg": 10.97,
    "l": 0.92
   },
   "Crème": {
@@ -37,7 +38,7 @@
    "l": 3.78
   },
   "Beurre": {
-   "kg": 9.56
+   "kg": 9.46
   },
   "Emmental râpé": {
    "kg": 8.15
@@ -46,10 +47,10 @@
    "kg": 31.62
   },
   "Mozzarella": {
-   "kg": 9.51
+   "kg": 9.47
   },
   "Fromage à raclette": {
-   "kg": 12.88
+   "kg": 12.93
   },
   "Fromage frais": {
    "kg": 13.44
@@ -64,16 +65,18 @@
    "kg": 21.13
   },
   "Coulis de tomate": {
-   "kg": 2.23
+   "kg": 2.23,
+   "l": 4.58
   },
   "Sauce tomate": {
-   "kg": 2.23
+   "kg": 2.23,
+   "l": 4.58
   },
   "Lentilles": {
    "kg": 3.32
   },
   "Pois chiches": {
-   "kg": 3.55
+   "kg": 3.67
   },
   "Lait de coco": {
    "l": 2.65
@@ -82,7 +85,7 @@
    "kg": 6.99
   },
   "Olives": {
-   "kg": 13.27
+   "kg": 14.5
   },
   "Pommes de terre": {
    "kg": 2.47,
@@ -110,11 +113,11 @@
    "piece": 0.2
   },
   "Oignon": {
-   "kg": 2.87,
+   "kg": 2.85,
    "piece": 0.34
   },
   "Oignons": {
-   "kg": 2.87,
+   "kg": 2.85,
    "piece": 0.34
   },
   "Tomates": {
@@ -146,7 +149,7 @@
    "piece": 0.6
   },
   "Citron": {
-   "kg": 3.97,
+   "kg": 3.98,
    "piece": 0.48
   },
   "Endives": {
@@ -154,11 +157,11 @@
    "piece": 0.36
   },
   "Échalotes": {
-   "kg": 6.49,
-   "piece": 0.19
+   "kg": 6.54,
+   "piece": 0.2
   },
   "Potiron ou butternut": {
-   "kg": 2.97
+   "kg": 2.55
   },
   "Fruits (cerises, poires, pommes)": {
    "kg": 2.94
@@ -166,6 +169,10 @@
   "Brocoli": {
    "kg": 6.99,
    "piece": 2.8
+  },
+  "Chou-fleur": {
+   "kg": 2.0,
+   "piece": 1.6
   }
  }
 }
