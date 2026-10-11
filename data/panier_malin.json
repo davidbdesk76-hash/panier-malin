@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-11T00:33",
+ "genere_le": "2026-10-11T12:50",
  "promos_maj_le": "2026-10-10T12:37",
  "magasins": [
   {
@@ -9138,29 +9138,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a90fc57a4",
-   "nom": "Paniers de rangement",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-07",
-   "au": "2026-10-13",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3216601/paniers-de-rangement/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216601_9341110024014-110_01_wrgdj4.webp",
-   "description": "4 pièces | Diverses couleurs | 4,99 €/pce",
-   "detail": "4 pièces | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a84a7a07e",
    "nom": "Plat à four GreenChef",
    "remise": "Affaire de la semaine",
@@ -9414,6 +9391,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a4cadd4bf",
+   "nom": "Désodorisant pour voiture Valma",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
+   "description": "Divers modèles | 1,99 €/pce",
+   "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ae2cdd70e",
    "nom": "Trolli Sour Spookers",
    "remise": "Affaire de la semaine",
@@ -9437,25 +9437,25 @@
    "enseigne": "Action"
   },
   {
-   "id": "a4cadd4bf",
-   "nom": "Désodorisant pour voiture Valma",
+   "id": "a7927d94f",
+   "nom": "Pansements First Aid Format familial",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,99 €",
+   "prix": "1,25 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "hygiene_maison",
    "magasins": [
     "action"
    ],
    "du": "2026-10-07",
    "au": "2026-10-13",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224106/desodorisant-pour-voiture-valma/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
-   "description": "Divers modèles | 1,99 €/pce",
-   "detail": "Divers modèles",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3227018/pansements-first-aid-format-familial/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227018_8712175944721-111_01_kp2h5w.webp",
+   "description": "100 pièces | 0,01 €/pce",
+   "detail": "100 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -9502,29 +9502,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216684_8715342053486-110_01_flkxxd.webp",
    "description": "15 ml | Diverses couleurs | 81,33 €/l",
    "detail": "15 ml | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a7927d94f",
-   "nom": "Pansements First Aid Format familial",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,25 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-07",
-   "au": "2026-10-13",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3227018/pansements-first-aid-format-familial/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227018_8712175944721-111_01_kp2h5w.webp",
-   "description": "100 pièces | 0,01 €/pce",
-   "detail": "100 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -10859,6 +10836,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216802_8718964243419-111_01_cxfxph.webp",
    "description": "6 pièces | 12 x 12 cm par pièce | 11,44 €/pce",
    "detail": "6 pièces | 12 x 12 cm par pièce",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a90fc57a4",
+   "nom": "Paniers de rangement",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "4,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3216601/paniers-de-rangement/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216601_9341110024014-110_01_wrgdj4.webp",
+   "description": "4 pièces | Diverses couleurs | 4,99 €/pce",
+   "detail": "4 pièces | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -13480,7 +13480,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-11T00:33",
+   "maj": "2026-10-11T12:50",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
