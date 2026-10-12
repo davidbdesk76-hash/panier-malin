@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-12T00:55",
+ "genere_le": "2026-10-12T14:00",
  "promos_maj_le": "2026-10-12T00:55",
  "magasins": [
   {
@@ -9378,29 +9378,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "ad5c1ea52",
-   "nom": "Housse de coussin Amalia",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-07",
-   "au": "2026-10-13",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225104/housse-de-coussin-amalia/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225104_8720367973169-111_01_ehhxxa.webp",
-   "description": "45 x 45 cm | Diverses couleurs | 14,95 €/m2",
-   "detail": "45 x 45 cm | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a4cadd4bf",
    "nom": "Désodorisant pour voiture Valma",
    "remise": "Affaire de la semaine",
@@ -9420,6 +9397,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224106_8711293405114-111_01_xghwn0.webp",
    "description": "Divers modèles | 1,99 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a7927d94f",
+   "nom": "Pansements First Aid Format familial",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,25 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "hygiene_maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3227018/pansements-first-aid-format-familial/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227018_8712175944721-111_01_kp2h5w.webp",
+   "description": "100 pièces | 0,01 €/pce",
+   "detail": "100 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -9447,12 +9447,12 @@
    "enseigne": "Action"
   },
   {
-   "id": "a7927d94f",
-   "nom": "Pansements First Aid Format familial",
+   "id": "aea153596",
+   "nom": "Bougie parfumée Air Wick",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "1,25 €",
+   "prix": "1,67 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -9462,10 +9462,10 @@
    "du": "2026-10-07",
    "au": "2026-10-13",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3227018/pansements-first-aid-format-familial/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227018_8712175944721-111_01_kp2h5w.webp",
-   "description": "100 pièces | 0,01 €/pce",
-   "detail": "100 pièces",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226350/bougie-parfumee-air-wick/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226350_4255859601007-111_01_xkhrib.webp",
+   "description": "Divers modèles | 15,90 €/kg",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -9512,29 +9512,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3216684_8715342053486-110_01_flkxxd.webp",
    "description": "15 ml | Diverses couleurs | 81,33 €/l",
    "detail": "15 ml | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "aea153596",
-   "nom": "Bougie parfumée Air Wick",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,67 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-07",
-   "au": "2026-10-13",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3226350/bougie-parfumee-air-wick/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226350_4255859601007-111_01_xkhrib.webp",
-   "description": "Divers modèles | 15,90 €/kg",
-   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -9719,6 +9696,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225220_8721515242793-111_01_b66gaf.webp",
    "description": "50 LED | Divers modèles | 4,95 €/pce",
    "detail": "50 LED | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ad5c1ea52",
+   "nom": "Housse de coussin Amalia",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-07",
+   "au": "2026-10-13",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225104/housse-de-coussin-amalia/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225104_8720367973169-111_01_ehhxxa.webp",
+   "description": "45 x 45 cm | Diverses couleurs | 14,95 €/m2",
+   "detail": "45 x 45 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -13490,7 +13490,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-12T00:55",
+   "maj": "2026-10-12T14:00",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
