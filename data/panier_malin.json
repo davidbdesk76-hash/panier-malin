@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-12T14:00",
+ "genere_le": "2026-10-12T23:44",
  "promos_maj_le": "2026-10-12T00:55",
  "magasins": [
   {
@@ -13490,7 +13490,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-12T14:00",
+   "maj": "2026-10-12T23:44",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
