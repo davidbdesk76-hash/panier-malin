@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-13T21:52",
+ "genere_le": "2026-10-14T11:32",
  "promos_maj_le": "2026-10-13T13:49",
  "magasins": [
   {
@@ -19526,6 +19526,121 @@
    "enseigne": "Action"
   },
   {
+   "id": "a65eec8b3",
+   "nom": "Statuette d'Halloween",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,79 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224015/statuette-d-halloween/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224015_8718964289325-110_01_rjgeeh.webp",
+   "description": "38 cm | Divers modèles | 6,79 €/pce",
+   "detail": "38 cm | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a782cf8bb",
+   "nom": "Rideau Velours",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3221823/rideau-velours/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221823_8720367973015-111_01_gn2ucm.webp",
+   "description": "135 x 260 cm | Diverses couleurs | 1,98 €/m2",
+   "detail": "135 x 260 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a200fa4a2",
+   "nom": "Coffret cadeau",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,88 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3217518/coffret-cadeau/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217518_8721037738798-111_01_kncwla.webp",
+   "description": "4 pièces | 2,88 €/pce",
+   "detail": "4 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "adea77637",
+   "nom": "Sachets de bonbons à distribuer Trolli Halloween",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "sucre",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3207851/sachets-de-bonbons-a-distribuer-trolli-halloween/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27558183.webp",
+   "description": "300 g | 8,30 €/kg",
+   "detail": "300 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a53c8348f",
+   "nom": "Costume Halloween",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3200765/costume-halloween/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3200765_5430004689560-110_01_z301i3.webp",
+   "description": "Divers modèles | 6,99 €/pce",
+   "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a16b6e834",
    "nom": "Shampooing antipelliculaire 2-en-1 Head & Shoulders Sensitive",
    "remise": "Affaire de la semaine",
@@ -20078,29 +20193,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a65eec8b3",
-   "nom": "Statuette d'Halloween",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224015/statuette-d-halloween/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224015_8718964289325-110_01_rjgeeh.webp",
-   "description": "38 cm | Divers modèles | 6,79 €/pce",
-   "detail": "38 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "ad13c8a87",
    "nom": "Statue d'Halloween avec lumière",
    "remise": "Affaire de la semaine",
@@ -20419,29 +20511,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222075_8720812773146-111_01_kjgtip.webp",
    "description": "100 g | 8,90 €/kg",
    "detail": "100 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a782cf8bb",
-   "nom": "Rideau Velours",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3221823/rideau-velours/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221823_8720367973015-111_01_gn2ucm.webp",
-   "description": "135 x 260 cm | Diverses couleurs | 1,98 €/m2",
-   "detail": "135 x 260 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -20906,29 +20975,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a200fa4a2",
-   "nom": "Coffret cadeau",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,88 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3217518/coffret-cadeau/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217518_8721037738798-111_01_kncwla.webp",
-   "description": "4 pièces | 2,88 €/pce",
-   "detail": "4 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a49f35609",
    "nom": "Tenue d’intérieur en polaire",
    "remise": "Affaire de la semaine",
@@ -21320,29 +21366,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "adea77637",
-   "nom": "Sachets de bonbons à distribuer Trolli Halloween",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3207851/sachets-de-bonbons-a-distribuer-trolli-halloween/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27558183.webp",
-   "description": "300 g | 8,30 €/kg",
-   "detail": "300 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "adefc7024",
    "nom": "Rideau lumineux de Noël",
    "remise": "Affaire de la semaine",
@@ -21477,29 +21500,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201480_8721037714129-111_01_hzvejo.webp",
    "description": "200 LED | 4 m | 0,61 €/m",
    "detail": "200 LED | 4 m",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a53c8348f",
-   "nom": "Costume Halloween",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3200765/costume-halloween/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3200765_5430004689560-110_01_z301i3.webp",
-   "description": "Divers modèles | 6,99 €/pce",
-   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23410,7 +23410,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-13T21:52",
+   "maj": "2026-10-14T11:32",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -23423,12 +23423,20 @@
   ],
   "actus": [
    {
+    "titre": "OCTOBRE ROSE – RANDONNÉE MÉMORIELLE",
+    "date": "2026-10-14",
+    "resume": "",
+    "texte": "",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1141830529"
+   },
+   {
     "titre": "Octobre Rose",
     "date": "2026-10-13",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1193196583"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=978707942"
    },
    {
     "titre": "Enquête publique",
