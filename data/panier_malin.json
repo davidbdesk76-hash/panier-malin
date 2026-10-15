@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-15T11:09",
+ "genere_le": "2026-10-15T17:02",
  "promos_maj_le": "2026-10-13T13:49",
  "magasins": [
   {
@@ -16313,6 +16313,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "aaf675946",
+   "nom": "Ruban LED Grundig",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,33 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225088/ruban-led-grundig/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225088_8718964298150-111_01_xn4rlz.webp",
+   "description": "3 m | 1,11 €/m",
+   "detail": "3 m",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a045c86a9",
    "nom": "Adoucissant Cajoline Rose Gold",
    "remise": "Affaire de la semaine",
@@ -19702,8 +19725,20 @@
     "29",
     "360"
    ],
-   "alertes": [],
-   "maj": "2026-10-15T11:09",
+   "alertes": [
+    {
+     "titre": "Foire Saint-Romain : Transports GRATUITS les mercredis, week-ends et jours fériés !",
+     "texte": "Du 21 octobre au 22 novembre 2026, la Foire Saint-romain s'installe sur l'esplanade Saint-Gervais à Rouen.\nPour permettre à tous de rejoindre facilement cet événement emblématique, la Métropole Rouen Normandie et Réseau Astuce, en concertation avec les forains, mettent en place un dispositif exceptionnel sur les lignes Métro, TEOR, Fast et 530.\nTransports gratuits les mercredis, week-ends et jours fériés.\nPendant toute la durée de la Foire, les déplacements sur tout le réseau Astuce seront gratuits les mercredis, week-ends et jours fériés.\nUn préavis de grève a été déposé par le syndicat CGT de Transdev Rouen les samedis, du 18 juillet 2026 au 2 janvier 2027 ainsi que par le syndicat CGT des Transports de l’Agglomération Elbeuvienne, du 3 octobre au 31 décembre 2026.\nEn conséquence, les renforts habituellement prévus sont susceptibles d’être modifiés. Réseau Astuce invite les voyageurs à consulter régulièrement le site myastuce.fr afin de se tenir informés des éventuelles modifications de services.\nEn soirée : des renforts pour prolonger la fête\nLes vendredis, samedis et veilles de jours fériés :\n: départs supplémentaires jusqu'à 1h depuis Théâtre des Arts\n: derniers départs de Mont-Riboudet vers CHU Charles Nicolle à 2h15 et vers Mont aux Malades à 1h56\n: départs supplémentaires jusqu'à 00h30 à Mont-Riboudet\n: départs supplémentaires de Belges vers Esigelec à 0h45 et vers Marie Curie - MTC à 0h00\n: départs supplémentaires de Mont-Riboudet vers Le Trait à 18h, 22h30 et 0h00.…",
+     "lignes": [
+      "Tout le réseau"
+     ],
+     "type": "Grève",
+     "debut": "2026-10-15T15:06",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/foire-saint-romain-reseau-astuce-transports-gratuits-renforts"
+    }
+   ],
+   "maj": "2026-10-15T17:02",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
