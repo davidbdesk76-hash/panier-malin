@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-16T16:52",
+ "genere_le": "2026-10-16T21:33",
  "promos_maj_le": "2026-10-13T13:49",
  "magasins": [
   {
@@ -19760,7 +19760,7 @@
      "url": "https://www.myastuce.fr/fr/transport-public-info?context=DisruptionDetail&disruptionId=23725"
     }
    ],
-   "maj": "2026-10-16T16:52",
+   "maj": "2026-10-16T21:33",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
