@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-16T11:02",
+ "genere_le": "2026-10-16T16:52",
  "promos_maj_le": "2026-10-13T13:49",
  "magasins": [
   {
@@ -19736,9 +19736,31 @@
      "debut": "2026-10-15T15:06",
      "fin": "",
      "url": "https://www.myastuce.fr/fr/actualites/foire-saint-romain-reseau-astuce-transports-gratuits-renforts"
+    },
+    {
+     "titre": "Grève samedi 17 octobre : perturbations à prévoir",
+     "texte": "Dans le cadre du préavis de grève déposé par le syndicat CGT de Transdev Rouen les samedis - du samedi 18 juillet 2026 au samedi 02 janvier 2027 - des perturbations sont à prévoir :\nSamedi 17 octobre : 72% du trafic assuré\nMétro : 100% de trafic assuré en journée et 100% en soirée\nLigne T1 : 81% de trafic assuré en journée et 67 % en soirée\nLigne T2 : 80% de trafic assuré en journée et 100% en soirée\nLigne T3 : 81% de trafic assuré en journée et 100% en soirée\nLigne T4 : 67% de trafic assuré en journée et 67% en soirée\nLigne T5 : 64% de trafic assuré en journée et 100% en soirée\nLigne F1 : 71% trafic assuré en journée et 67% en soirée\nLigne F2 : 88% trafic assuré en journée et 100% en soirée\nLigne F3 : 80% trafic assuré en journée et 100% en soirée\nLigne F4 : 45% trafic assuré en journée et 100% en soirée\nLigne F5 : 92% trafic assuré en journée et 100% en soirée\nLigne F7 : 53% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F8 : 40% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 11 : 80% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 15 : 67% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 20 : 44% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 43 : 100% trafic assuré en journée et ne circule pas en soirée après 19h\nLignes 10, 22, 41, Noctambus : ne circulent pas de la journée\nLes lignes F6, F9, 13, 14, 26, 27, 28, 33, 35, 36, 37, 38, 42, 44, 529, 530, A, B, C, F, G,…",
+     "lignes": [
+      "F4"
+     ],
+     "type": "Grève",
+     "debut": "2026-10-16T13:36",
+     "fin": "",
+     "url": "https://www.myastuce.fr/fr/actualites/greve-reseau-astuce-samedis-2026"
+    },
+    {
+     "titre": "Grève samedi 17 octobre 2026 : perturbations à prévoir",
+     "texte": "Dans le cadre du préavis de grève déposé par le syndicat CGT de Transdev Rouen les samedis - du samedi 18 juillet 2026 au samedi 02 janvier 2027 - des perturbations sont à prévoir :\nSamedi 17 octobre : 72% du trafic assuré\nMétro : 100% de trafic assuré en journée et 100% en soirée\nLigne T1 : 81% de trafic assuré en journée et 67 % en soirée\nLigne T2 : 80% de trafic assuré en journée et 100% en soirée\nLigne T3 : 81% de trafic assuré en journée et 100% en soirée\nLigne T4 : 67% de trafic assuré en journée et 67% en soirée\nLigne T5 : 64% de trafic assuré en journée et 100% en soirée\nLigne F1 : 71% trafic assuré en journée et 67% en soirée\nLigne F2 : 88% trafic assuré en journée et 100% en soirée\nLigne F3 : 80% trafic assuré en journée et 100% en soirée\nLigne F4 : 45% trafic assuré en journée et 100% en soirée\nLigne F5 : 92% trafic assuré en journée et 100% en soirée\nLigne F7 : 53% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F8 : 40% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 11 : 80% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 15 : 67% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 20 : 44% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 43 : 100% trafic assuré en journée et ne circule pas en soirée après 19h\nLignes 10, 22, 41, Noctambus : ne circulent pas de la journée\nLes lignes F6, F9, 13, 14, 26, 27, 28, 33, 35, 36, 37, 38, 42, 44, 529, 530, A, B, C, F, G,…",
+     "lignes": [
+      "F4"
+     ],
+     "type": "Grève",
+     "debut": "2026-10-16T16:00",
+     "fin": "2026-10-17T23:59",
+     "url": "https://www.myastuce.fr/fr/transport-public-info?context=DisruptionDetail&disruptionId=23725"
     }
    ],
-   "maj": "2026-10-16T11:02",
+   "maj": "2026-10-16T16:52",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -19751,12 +19773,20 @@
   ],
   "actus": [
    {
+    "titre": "🎬️﻿ Soirée cinéma Halloween ﻿🎃",
+    "date": "2026-10-16",
+    "resume": "La ville du Houlme vous offre une soirée cinéma avec un film enfants et un film pour les plus grands le vendredi 30 octobre. Déguisements conseillés pour les plus jeunes...",
+    "texte": "La ville du Houlme vous offre une soirée cinéma avec un film enfants et un film pour les plus grands le vendredi 30 octobre. Déguisements conseillés pour les plus jeunes...",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=978707942"
+   },
+   {
     "titre": "OCTOBRE ROSE – RANDONNÉE MÉMORIELLE",
     "date": "2026-10-14",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1141830529"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1973449677"
    },
    {
     "titre": "Octobre Rose",
@@ -19869,6 +19899,16 @@
     "url": "https://www.le-houlme.fr/agenda/48885/5943-distribution-des-bons-apres-banquet-aux-anciens-travailleurs.htm",
     "texte": "vendredi 16 octobre de 9h30 à 12h30 et de 14h00 à 16h00 au Foyer Communal La présentation de la carte est indispensable",
     "image": "https://www.le-houlme.fr/uploads/Agenda/64/48885_450_029f85ba-6a78-4c4f-8cb0-1a0c4205aa6b.png"
+   },
+   {
+    "titre": "Soirée cinéma Halloween",
+    "date": "2026-10-30",
+    "heure": "",
+    "lieu": "",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/agenda/49114/5943-soiree-cinema-halloween.htm",
+    "texte": "Soirée cinéma gratuite, 2 films proposés. Foyer communal, vendredi 30 octobre. Déguisements conseillés !",
+    "image": "https://www.le-houlme.fr/uploads/Agenda/a1/49114_603_49114_527_Affiche-Cinema.png"
    },
    {
     "titre": "Permanences Espace Numérique Mobile",
