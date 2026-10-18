@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-17T23:28",
+ "genere_le": "2026-10-18T10:51",
  "promos_maj_le": "2026-10-17T10:34",
  "magasins": [
   {
@@ -10123,29 +10123,6 @@
    "enseigne": "Lidl"
   },
   {
-   "id": "a5c7c9fff",
-   "nom": "Collant thermique Kate Legwear 100 deniers",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,38 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2526540/collant-thermique-kate-legwear-100-deniers/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2526540_5411504135252-110_01_cstlzc.webp",
-   "description": "Taille S-M | 2,38 €/pce",
-   "detail": "Taille S-M",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "ad4f74bb4",
    "nom": "Sachets à distribuer Haribo Halloween",
    "remise": "Affaire de la semaine",
@@ -10165,29 +10142,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27711796.webp",
    "description": "550 g | 8,16 €/kg",
    "detail": "550 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a3842c29f",
-   "nom": "Nettoyant WC Miss Bubble",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,44 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-14",
-   "au": "2026-10-20",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3212291/nettoyant-wc-miss-bubble/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3212291_8721302868410-111_01_tktsw5.webp",
-   "description": "750 ml | 1,92 €/l",
-   "detail": "750 ml",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -10422,6 +10376,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a5c7c9fff",
+   "nom": "Collant thermique Kate Legwear 100 deniers",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,38 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2526540/collant-thermique-kate-legwear-100-deniers/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2526540_5411504135252-110_01_cstlzc.webp",
+   "description": "Taille S-M | 2,38 €/pce",
+   "detail": "Taille S-M",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a136895a8",
    "nom": "Déguisement d'Halloween pour enfant",
    "remise": "Affaire de la semaine",
@@ -10533,6 +10510,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224853_8718964296088-110_01_zbw5zw.webp",
    "description": "220 x 240 cm | Diverses couleurs | 2,83 €/m2",
    "detail": "220 x 240 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a3842c29f",
+   "nom": "Nettoyant WC Miss Bubble",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,44 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "hygiene_maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-14",
+   "au": "2026-10-20",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3212291/nettoyant-wc-miss-bubble/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3212291_8721302868410-111_01_tktsw5.webp",
+   "description": "750 ml | 1,92 €/l",
+   "detail": "750 ml",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -14435,20 +14435,9 @@
      "debut": "2026-10-16T13:36",
      "fin": "",
      "url": "https://www.myastuce.fr/fr/actualites/greve-reseau-astuce-samedis-2026"
-    },
-    {
-     "titre": "Grève samedi 17 octobre 2026 : perturbations à prévoir",
-     "texte": "Dans le cadre du préavis de grève déposé par le syndicat CGT de Transdev Rouen les samedis - du samedi 18 juillet 2026 au samedi 02 janvier 2027 - des perturbations sont à prévoir :\nSamedi 17 octobre : 72% du trafic assuré\nMétro : 100% de trafic assuré en journée et 100% en soirée\nLigne T1 : 81% de trafic assuré en journée et 67 % en soirée\nLigne T2 : 80% de trafic assuré en journée et 100% en soirée\nLigne T3 : 81% de trafic assuré en journée et 100% en soirée\nLigne T4 : 67% de trafic assuré en journée et 67% en soirée\nLigne T5 : 64% de trafic assuré en journée et 100% en soirée\nLigne F1 : 71% trafic assuré en journée et 67% en soirée\nLigne F2 : 88% trafic assuré en journée et 100% en soirée\nLigne F3 : 80% trafic assuré en journée et 100% en soirée\nLigne F4 : 45% trafic assuré en journée et 100% en soirée\nLigne F5 : 92% trafic assuré en journée et 100% en soirée\nLigne F7 : 53% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne F8 : 40% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 11 : 80% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 15 : 67% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 20 : 44% trafic assuré en journée et ne circule pas en soirée après 19h\nLigne 43 : 100% trafic assuré en journée et ne circule pas en soirée après 19h\nLignes 10, 22, 41, Noctambus : ne circulent pas de la journée\nLes lignes F6, F9, 13, 14, 26, 27, 28, 33, 35, 36, 37, 38, 42, 44, 529, 530, A, B, C, F, G,…",
-     "lignes": [
-      "F4"
-     ],
-     "type": "Grève",
-     "debut": "2026-10-16T16:00",
-     "fin": "2026-10-17T23:59",
-     "url": "https://www.myastuce.fr/fr/transport-public-info?context=DisruptionDetail&disruptionId=23725"
     }
    ],
-   "maj": "2026-10-17T23:28",
+   "maj": "2026-10-18T10:51",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -14551,22 +14540,6 @@
     "url": "https://www.le-houlme.fr/actualite/28345/5930-travaux-en-cours-sur-la-commune.htm",
     "texte": "Informations des travaux en cours : Parc Municipal - RA Domaine de la Source",
     "image": "https://www.le-houlme.fr/uploads/Actualite/f4/IMF_50/GAB_HOULME/28345_483_789564840_1511293541039094_4094225398578146920_n.jpg"
-   },
-   {
-    "titre": "Permanences mutuelle communale",
-    "date": "2026-09-02",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1431933663"
-   },
-   {
-    "titre": "Permanences juridiques",
-    "date": "2026-09-02",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=102695819"
    }
   ],
   "agenda": [
