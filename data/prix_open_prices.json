@@ -1,18 +1,18 @@
 {
  "version": 2,
- "date": "2026-10-12",
+ "date": "2026-10-20",
  "prix": {
   "Pâtes": {
-   "kg": 1.38
+   "kg": 1.94
   },
   "Spaghetti": {
    "kg": 1.38
   },
   "Tagliatelles": {
-   "kg": 3.71
+   "kg": 3.8
   },
   "Crozets ou pâtes": {
-   "kg": 1.38
+   "kg": 1.94
   },
   "Feuilles de lasagne": {
    "kg": 2.58
@@ -30,7 +30,6 @@
    "kg": 1.0
   },
   "Lait": {
-   "kg": 10.97,
    "l": 0.92
   },
   "Crème": {
@@ -47,10 +46,10 @@
    "kg": 31.62
   },
   "Mozzarella": {
-   "kg": 9.47
+   "kg": 7.92
   },
   "Fromage à raclette": {
-   "kg": 12.93
+   "kg": 12.83
   },
   "Fromage frais": {
    "kg": 13.44
@@ -76,7 +75,7 @@
    "kg": 3.32
   },
   "Pois chiches": {
-   "kg": 3.67
+   "kg": 3.8
   },
   "Lait de coco": {
    "l": 2.65
@@ -161,7 +160,7 @@
    "piece": 0.2
   },
   "Potiron ou butternut": {
-   "kg": 2.55
+   "kg": 2.66
   },
   "Fruits (cerises, poires, pommes)": {
    "kg": 2.94
