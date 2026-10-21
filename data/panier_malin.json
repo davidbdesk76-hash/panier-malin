@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-20T22:00",
+ "genere_le": "2026-10-21T11:22",
  "promos_maj_le": "2026-10-20T00:54",
  "magasins": [
   {
@@ -20722,6 +20722,144 @@
    "enseigne": "Action"
   },
   {
+   "id": "a6a7a9b5c",
+   "nom": "Nappe",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "8,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225480/nappe/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225480_5407010999129-111_01_n0yyyl.webp",
+   "description": "140 x 250 cm | Diverses couleurs | 2,56 €/m2",
+   "detail": "140 x 250 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ab6fbfa80",
+   "nom": "Table d'appoint d'Halloween",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224017/table-d-appoint-d-halloween/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224017_8718964289318-111_01_twgw3c.webp",
+   "description": "Ø 27 x 30,5 cm | Divers modèles | 6,95 €/pce",
+   "detail": "Ø 27 x 30,5 cm | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "af4ce3079",
+   "nom": "Mélange de graines Natural Happiness",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,39 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223916/melange-de-graines-natural-happiness/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223916_8711299010862-111_01_h7ywzh.webp",
+   "description": "300 g | 7,97 €/kg",
+   "detail": "300 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ada7dcecc",
+   "nom": "Maquillage Max & More",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "hygiene_maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225543/maquillage-max-more/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225543_8719238072551-110_01_vghj2j.webp",
+   "description": "3 pièces | 2,99 €/pce",
+   "detail": "3 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a19e67355",
+   "nom": "Faux sang avec seringue",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3200761/faux-sang-avec-seringue/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3200761_5414635143189-110_01_pmjdbo.webp",
+   "description": "28 ml | 0,99 €/pce",
+   "detail": "28 ml",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a1943dab5",
+   "nom": "Diadème Halloween",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,74 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2570459/diademe-halloween/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2570459_8720687718174-111_01_vi7yav.webp",
+   "description": "Divers modèles | 0,74 €/pce",
+   "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ac9c06aed",
    "nom": "Biscuits au chocolat blanc BN",
    "remise": "Affaire de la semaine",
@@ -20787,29 +20925,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227454_8710532480233-111_01_a4lhco.webp",
    "description": "100 g | 7,90 €/kg",
    "detail": "100 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "ada7dcecc",
-   "nom": "Maquillage Max & More",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225543/maquillage-max-more/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225543_8719238072551-110_01_vghj2j.webp",
-   "description": "3 pièces | 2,99 €/pce",
-   "detail": "3 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21040,29 +21155,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225544_3600524276287-111_01_fcquht.webp",
    "description": "300 ml | 8,13 €/l",
    "detail": "300 ml",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a6a7a9b5c",
-   "nom": "Nappe",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "8,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225480/nappe/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225480_5407010999129-111_01_n0yyyl.webp",
-   "description": "140 x 250 cm | Diverses couleurs | 2,56 €/m2",
-   "detail": "140 x 250 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21458,29 +21550,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "ab6fbfa80",
-   "nom": "Table d'appoint d'Halloween",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224017/table-d-appoint-d-halloween/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224017_8718964289318-111_01_twgw3c.webp",
-   "description": "Ø 27 x 30,5 cm | Divers modèles | 6,95 €/pce",
-   "detail": "Ø 27 x 30,5 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "afee3aca0",
    "nom": "Play-Doh Fun Factory Deluxe",
    "remise": "Affaire de la semaine",
@@ -21500,29 +21569,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223924_5010993345366-111_01_g6cbei.webp",
    "description": "40 pièces | 9,75 €/pce",
    "detail": "40 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "af4ce3079",
-   "nom": "Mélange de graines Natural Happiness",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,39 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3223916/melange-de-graines-natural-happiness/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223916_8711299010862-111_01_h7ywzh.webp",
-   "description": "300 g | 7,97 €/kg",
-   "detail": "300 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23068,29 +23114,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a19e67355",
-   "nom": "Faux sang avec seringue",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3200761/faux-sang-avec-seringue/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3200761_5414635143189-110_01_pmjdbo.webp",
-   "description": "28 ml | 0,99 €/pce",
-   "detail": "28 ml",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "af236a6af",
    "nom": "Croquettes pour chat Freija Deluxe",
    "remise": "Affaire de la semaine",
@@ -23914,29 +23937,6 @@
    "catalogue_url": "https://www.action.com/fr-fr/p/2571187/maquillage-d-halloween/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2571187_5414635148184-111_01_inqgur.webp",
    "description": "Divers modèles | 1,99 €/pce",
-   "detail": "Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a1943dab5",
-   "nom": "Diadème Halloween",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,74 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2570459/diademe-halloween/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2570459_8720687718174-111_01_vi7yav.webp",
-   "description": "Divers modèles | 0,74 €/pce",
    "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
@@ -25053,20 +25053,8 @@
     "29",
     "360"
    ],
-   "alertes": [
-    {
-     "titre": "Foire Saint-Romain : Transports GRATUITS les mercredis, week-ends et jours fériés !",
-     "texte": "Du 21 octobre au 22 novembre 2026, la Foire Saint-romain s'installe sur l'esplanade Saint-Gervais à Rouen.\nPour permettre à tous de rejoindre facilement cet événement emblématique, la Métropole Rouen Normandie et Réseau Astuce, en concertation avec les forains, mettent en place un dispositif exceptionnel sur les lignes Métro, TEOR, Fast et 530.\nTransports gratuits les mercredis, week-ends et jours fériés.\nPendant toute la durée de la Foire, les déplacements sur tout le réseau Astuce seront gratuits les mercredis, week-ends et jours fériés.\nUn préavis de grève a été déposé par le syndicat CGT de Transdev Rouen les samedis, du 18 juillet 2026 au 2 janvier 2027 ainsi que par le syndicat CGT des Transports de l’Agglomération Elbeuvienne, du 3 octobre au 31 décembre 2026.\nEn conséquence, les renforts habituellement prévus sont susceptibles d’être modifiés. Réseau Astuce invite les voyageurs à consulter régulièrement le site myastuce.fr afin de se tenir informés des éventuelles modifications de services.\nEn soirée : des renforts pour prolonger la fête\nLes vendredis, samedis et veilles de jours fériés :\n: départs supplémentaires jusqu'à 1h depuis Théâtre des Arts\n: derniers départs de Mont-Riboudet vers CHU Charles Nicolle à 2h15 et vers Mont aux Malades à 1h56\n: départs supplémentaires jusqu'à 00h30 à Mont-Riboudet\n: départs supplémentaires de Belges vers Esigelec à 0h45 et vers Marie Curie - MTC à 0h00\n: départs supplémentaires de Mont-Riboudet vers Le Trait à 18h, 22h30 et 0h00.…",
-     "lignes": [
-      "Tout le réseau"
-     ],
-     "type": "Grève",
-     "debut": "2026-10-15T15:06",
-     "fin": "",
-     "url": "https://www.myastuce.fr/fr/actualites/foire-saint-romain-reseau-astuce-transports-gratuits-renforts"
-    }
-   ],
-   "maj": "2026-10-20T22:00",
+   "alertes": [],
+   "maj": "2026-10-21T11:22",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
