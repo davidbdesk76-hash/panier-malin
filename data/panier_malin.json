@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-22T17:18",
+ "genere_le": "2026-10-22T22:07",
  "promos_maj_le": "2026-10-20T00:54",
  "magasins": [
   {
@@ -17929,8 +17929,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3219145/moule-a-patisserie-en-silicone-lowenthal/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219145_8711568111689-110_01_stzu2u.webp",
-   "description": "Diverses couleurs | 0,82 €/pce",
-   "detail": "Diverses couleurs",
+   "description": "Divers modèles | 0,82 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -18688,8 +18688,8 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3209801/boite-de-rangement-absolu-chic/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3209801_3560231150334-110_01_ttxdso.webp",
-   "description": "Ø 12,5 x 9 cm | 2,49 €/pce",
-   "detail": "Ø 12,5 x 9 cm",
+   "description": "Divers modèles | 2,49 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21094,7 +21094,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-22T17:18",
+   "maj": "2026-10-22T22:07",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
