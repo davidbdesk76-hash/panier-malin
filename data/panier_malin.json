@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-22T11:25",
+ "genere_le": "2026-10-22T17:18",
  "promos_maj_le": "2026-10-20T00:54",
  "magasins": [
   {
@@ -21094,7 +21094,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-22T11:25",
+   "maj": "2026-10-22T17:18",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -21107,12 +21107,20 @@
   ],
   "actus": [
    {
+    "titre": "Octobre Rose",
+    "date": "2026-10-22",
+    "resume": "",
+    "texte": "",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1973449677"
+   },
+   {
     "titre": "🎬️﻿ Soirée cinéma Halloween ﻿🎃",
     "date": "2026-10-16",
     "resume": "La ville du Houlme vous offre une soirée cinéma avec un film enfants et un film pour les plus grands le vendredi 30 octobre. Déguisements conseillés pour les plus jeunes...",
     "texte": "La ville du Houlme vous offre une soirée cinéma avec un film enfants et un film pour les plus grands le vendredi 30 octobre. Déguisements conseillés pour les plus jeunes...",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=978707942"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=2143669783"
    },
    {
     "titre": "OCTOBRE ROSE – RANDONNÉE MÉMORIELLE",
