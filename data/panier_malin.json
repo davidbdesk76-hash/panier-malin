@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-24T23:37",
+ "genere_le": "2026-10-25T10:10",
  "promos_maj_le": "2026-10-24T10:53",
  "magasins": [
   {
@@ -15027,7 +15027,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-24T23:37",
+   "maj": "2026-10-25T10:10",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -15056,20 +15056,12 @@
     "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=2143669783"
    },
    {
-    "titre": "OCTOBRE ROSE – RANDONNÉE MÉMORIELLE",
-    "date": "2026-10-14",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1973449677"
-   },
-   {
     "titre": "Enquête publique",
     "date": "2026-10-07",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=978707942"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1973449677"
    },
    {
     "titre": "Inscriptions Maison des Jeunes",
