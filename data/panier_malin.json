@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-26T11:08",
+ "genere_le": "2026-10-26T17:47",
  "promos_maj_le": "2026-10-24T10:53",
  "magasins": [
   {
@@ -10708,7 +10708,7 @@
    "au": "2026-10-27",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3218001/sweat-oversize/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218001_8715409244550-110_01_sa9xwv.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218001_8715409244567-110_01_fy3tnh.webp",
    "description": "Tailles 116-146 | Divers modèles | 7,95 €/pce",
    "detail": "Tailles 116-146 | Divers modèles",
    "rayon_leclerc": "",
@@ -11812,7 +11812,7 @@
    "au": "2026-10-27",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3219672/piles-duracell-everyday-alkaline-aaa/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219672_5000394181618-111_01_qvlmqu.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219672_5000394187276-111_01_zhah6u.webp",
    "description": "24 pièces | 0,42 €/pce",
    "detail": "24 pièces",
    "rayon_leclerc": "",
@@ -11835,7 +11835,7 @@
    "au": "2026-10-27",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3219671/piles-duracell-everyday-alkaline-aa/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219671_5000394181588-111_01_clqzxy.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219671_5000394187245-111_01_gjaioq.webp",
    "description": "24 pièces | 0,42 €/pce",
    "detail": "24 pièces",
    "rayon_leclerc": "",
@@ -15027,7 +15027,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-26T11:08",
+   "maj": "2026-10-26T17:47",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
