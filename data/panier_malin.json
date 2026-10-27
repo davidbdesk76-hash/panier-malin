@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-27T00:08",
+ "genere_le": "2026-10-27T10:49",
  "promos_maj_le": "2026-10-27T00:08",
  "magasins": [
   {
@@ -21101,6 +21101,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a2660c5a3",
+   "nom": "Sapin de Noël LED",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225230/sapin-de-noel-led/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225230_8718964300303-111_01_fprq6v.webp",
+   "description": "Ø 6 x 13 cm | Diverses couleurs | 0,99 €/pce",
+   "detail": "Ø 6 x 13 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ab8ddd7a9",
    "nom": "Éclairages de vélo rechargeables Walfort",
    "remise": "Affaire de la semaine",
@@ -21124,29 +21147,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "ad7b4dd24",
-   "nom": "Figurine d'Halloween LED",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3201040/figurine-d-halloween-led/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201040_8721461123160-111_01_ku6qub.webp",
-   "description": "30 cm | Divers modèles | 2,95 €/pce",
-   "detail": "30 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "ada7dcecc",
    "nom": "Maquillage Max & More",
    "remise": "Affaire de la semaine",
@@ -21166,6 +21166,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225543_8719238072551-110_01_vghj2j.webp",
    "description": "3 pièces | 2,99 €/pce",
    "detail": "3 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ad7b4dd24",
+   "nom": "Figurine d'Halloween LED",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-21",
+   "au": "2026-10-27",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3201040/figurine-d-halloween-led/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201040_8721461123160-111_01_ku6qub.webp",
+   "description": "30 cm | Divers modèles | 2,95 €/pce",
+   "detail": "30 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21465,29 +21488,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225480_5407010999129-111_01_n0yyyl.webp",
    "description": "140 x 250 cm | Diverses couleurs | 2,56 €/m2",
    "detail": "140 x 250 cm | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a2660c5a3",
-   "nom": "Sapin de Noël LED",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-21",
-   "au": "2026-10-27",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225230/sapin-de-noel-led/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225230_8718964300303-111_01_fprq6v.webp",
-   "description": "Ø 6 x 13 cm | Diverses couleurs | 0,99 €/pce",
-   "detail": "Ø 6 x 13 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -25401,7 +25401,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-27T00:08",
+   "maj": "2026-10-27T10:49",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
