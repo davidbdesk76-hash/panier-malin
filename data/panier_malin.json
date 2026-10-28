@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-27T21:42",
+ "genere_le": "2026-10-28T11:35",
  "promos_maj_le": "2026-10-27T00:08",
  "magasins": [
   {
@@ -20986,48 +20986,48 @@
    "enseigne": "Action"
   },
   {
-   "id": "acf3825e8",
-   "nom": "Kit créatif stylo",
+   "id": "a3b7e0b67",
+   "nom": "Mélange de biscuits Henry Lambertz Best Friends",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "5,95 €",
+   "prix": "2,69 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "sucre",
    "magasins": [
     "action"
    ],
    "du": "2026-10-28",
    "au": "2026-11-03",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3226115/kit-creatif-stylo/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226115_5050843517642-111_01_cgw4ex.webp",
-   "description": "10 pcs | 5,95 €/pce",
-   "detail": "10 pcs",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3228281/melange-de-biscuits-henry-lambertz-best-friends/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228281_4006894535709-111_01_f3b6mh.webp",
+   "description": "250 g | 10,76 €/kg",
+   "detail": "250 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "af7b91f32",
-   "nom": "Boîtier de synchronisation HDMI",
+   "id": "a85eb58de",
+   "nom": "Pop-corns Chio Sweet or Treat",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "26,95 €",
+   "prix": "0,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
    "du": "2026-10-28",
    "au": "2026-11-03",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225765/boitier-de-synchronisation-hdmi/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225765_8712879170402-111_01_maelqi.webp",
-   "description": "Avec un ruban LED | 26,95 €/pce",
-   "detail": "Avec un ruban LED",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3227454/pop-corns-chio-sweet-or-treat/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227454_8710532480233-111_01_a4lhco.webp",
+   "description": "100 g | 7,90 €/kg",
+   "detail": "100 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21055,8 +21055,77 @@
    "enseigne": "Action"
   },
   {
-   "id": "a17b0bb18",
-   "nom": "Éclairage de Noël rechargeable",
+   "id": "a9512ea67",
+   "nom": "Trolli Gummi World Sucré & Acidulé",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,59 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225705/trolli-gummi-world-sucre-acidule/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225705_4070455810130-111_01_mpgwss.webp",
+   "description": "21 pièces | 500 g | 7,18 €/kg",
+   "detail": "21 pièces | 500 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "af3b5cd32",
+   "nom": "Kit stylo 3D",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "5,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224791/kit-stylo-3d/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224791_8711568153177-111_01_h8od4o.webp",
+   "description": "13 pièces | 5,95 €/pce",
+   "detail": "13 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ac246d93a",
+   "nom": "Fil peluche Alison & Mae",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224285/fil-peluche-alison-mae/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224285_8718964291045-111_01_mxus7p.webp",
+   "description": "100 g | coloris divers | 9,90 €/kg",
+   "detail": "100 g | coloris divers",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ad3225fa1",
+   "nom": "Sucette avec musique Amos",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
@@ -21070,33 +21139,33 @@
    "du": "2026-10-28",
    "au": "2026-11-03",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225486/eclairage-de-noel-rechargeable/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225486_8721532075541-111_01_ompmid.webp",
-   "description": "3 m | 120 LED | 2,99 €/pce",
-   "detail": "3 m | 120 LED",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224076/sucette-avec-musique-amos/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224076_8710998540052-111_01_jyywst.webp",
+   "description": "Divers modèles | 249,17 €/kg",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "ad7b4dd24",
-   "nom": "Figurine d'Halloween LED",
+   "id": "aafce833f",
+   "nom": "Collagène en poudre",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "2,95 €",
+   "prix": "6,95 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "epicerie",
    "magasins": [
     "action"
    ],
    "du": "2026-10-28",
    "au": "2026-11-03",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3201040/figurine-d-halloween-led/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201040_8721461123160-111_01_ku6qub.webp",
-   "description": "30 cm | Divers modèles | 2,95 €/pce",
-   "detail": "30 cm | Divers modèles",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223033/collagene-en-poudre/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223033_8723300712177-111_01_jhpk5w.webp",
+   "description": "300 g | 23,17 €/kg",
+   "detail": "300 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21143,52 +21212,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228284_4006894536409-111_01_faa7ts.webp",
    "description": "150 g | 15,93 €/kg",
    "detail": "150 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a3b7e0b67",
-   "nom": "Mélange de biscuits Henry Lambertz Best Friends",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3228281/melange-de-biscuits-henry-lambertz-best-friends/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228281_4006894535709-111_01_f3b6mh.webp",
-   "description": "250 g | 10,76 €/kg",
-   "detail": "250 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a85eb58de",
-   "nom": "Pop-corns Chio Sweet or Treat",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3227454/pop-corns-chio-sweet-or-treat/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227454_8710532480233-111_01_a4lhco.webp",
-   "description": "100 g | 7,90 €/kg",
-   "detail": "100 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21400,6 +21423,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "acf3825e8",
+   "nom": "Kit créatif stylo",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "5,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226115/kit-creatif-stylo/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226115_5050843517642-111_01_cgw4ex.webp",
+   "description": "10 pcs | 5,95 €/pce",
+   "detail": "10 pcs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "aab7324a3",
    "nom": "Coffret eau de parfum Capace Exclusive Aysali",
    "remise": "Affaire de la semaine",
@@ -21492,6 +21538,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "af7b91f32",
+   "nom": "Boîtier de synchronisation HDMI",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "26,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225765/boitier-de-synchronisation-hdmi/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225765_8712879170402-111_01_maelqi.webp",
+   "description": "Avec un ruban LED | 26,95 €/pce",
+   "detail": "Avec un ruban LED",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a0e012853",
    "nom": "Sucettes acidulées",
    "remise": "Affaire de la semaine",
@@ -21561,29 +21630,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a9512ea67",
-   "nom": "Trolli Gummi World Sucré & Acidulé",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "3,59 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225705/trolli-gummi-world-sucre-acidule/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225705_4070455810130-111_01_mpgwss.webp",
-   "description": "21 pièces | 500 g | 7,18 €/kg",
-   "detail": "21 pièces | 500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "ab5ebd446",
    "nom": "Chaussettes d'intérieur pour fille",
    "remise": "Affaire de la semaine",
@@ -21649,6 +21695,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225500_8719238072490-110_02_uyamgy.webp",
    "description": "Divers modèles | 3,95 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a17b0bb18",
+   "nom": "Éclairage de Noël rechargeable",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225486/eclairage-de-noel-rechargeable/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225486_8721532075541-111_01_ompmid.webp",
+   "description": "3 m | 120 LED | 2,99 €/pce",
+   "detail": "3 m | 120 LED",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21814,29 +21883,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "af3b5cd32",
-   "nom": "Kit stylo 3D",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "5,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224791/kit-stylo-3d/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224791_8711568153177-111_01_h8od4o.webp",
-   "description": "13 pièces | 5,95 €/pce",
-   "detail": "13 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "aabecb59f",
    "nom": "Mini-drone radiocommandé",
    "remise": "Affaire de la semaine",
@@ -21998,29 +22044,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "ac246d93a",
-   "nom": "Fil peluche Alison & Mae",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224285/fil-peluche-alison-mae/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224285_8718964291045-111_01_mxus7p.webp",
-   "description": "100 g | coloris divers | 9,90 €/kg",
-   "detail": "100 g | coloris divers",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "aafa09a1d",
    "nom": "Araignée sauteuse avec capteur",
    "remise": "Affaire de la semaine",
@@ -22067,29 +22090,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "ad3225fa1",
-   "nom": "Sucette avec musique Amos",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224076/sucette-avec-musique-amos/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224076_8710998540052-111_01_jyywst.webp",
-   "description": "Divers modèles | 249,17 €/kg",
-   "detail": "Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a2abdd6bf",
    "nom": "Lampe de table rechargeable",
    "remise": "Affaire de la semaine",
@@ -22109,29 +22109,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224004_8718964287864-111_01_ewiic9.webp",
    "description": "Ø 18 x 29 cm | Diverses couleurs | 4,99 €/pce",
    "detail": "Ø 18 x 29 cm | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "aafce833f",
-   "nom": "Collagène en poudre",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3223033/collagene-en-poudre/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223033_8723300712177-111_01_jhpk5w.webp",
-   "description": "300 g | 23,17 €/kg",
-   "detail": "300 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23305,6 +23282,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201088_8712628501068-111_01_xowudf.webp",
    "description": "10 ml | Divers parfums | 67,00 €/l",
    "detail": "10 ml | Divers parfums",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ad7b4dd24",
+   "nom": "Figurine d'Halloween LED",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3201040/figurine-d-halloween-led/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3201040_8721461123160-111_01_ku6qub.webp",
+   "description": "30 cm | Divers modèles | 2,95 €/pce",
+   "detail": "30 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24975,7 +24975,7 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 4,
-   "prix_revient": "7,72 €",
+   "prix_revient": "7,73 €",
    "prix_par_personne": "1,93 €",
    "economie": "0,11 €",
    "prix_approximatif": true,
@@ -25011,7 +25011,7 @@
      "quantite": "20 cl",
      "promo_id": "p02a8615f",
      "en_promo": true,
-     "prix": "0,18 €",
+     "prix": "0,20 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -25124,7 +25124,7 @@
      "quantite": "400 g",
      "promo_id": "ped3c85cb",
      "en_promo": true,
-     "prix": "4,38 €",
+     "prix": "4,39 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -25169,7 +25169,7 @@
    "temps_min": 20,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "20,63 €",
+   "prix_revient": "20,64 €",
    "prix_par_personne": "5,16 €",
    "economie": "1,80 €",
    "prix_approximatif": true,
@@ -25187,7 +25187,7 @@
      "quantite": "800 g",
      "promo_id": "pdf1181ca",
      "en_promo": true,
-     "prix": "10,26 €",
+     "prix": "10,28 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -25225,75 +25225,14 @@
    ]
   },
   {
-   "id": "rd1b092d3",
-   "titre": "Velouté de potiron",
-   "temps_min": 40,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "3,23 €",
-   "prix_par_personne": "0,81 €",
-   "economie": "1,11 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/8d94a01925f0d78bded0f5f303186f30",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/141699a0ae605b5d60f5b85fbf59f8dc"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pumpkin_Cream_Soup.jpg/960px-Pumpkin_Cream_Soup.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Potiron ou butternut",
-     "quantite": "1 kg",
-     "promo_id": "lb7e2f1f2",
-     "en_promo": true,
-     "prix": "1,76 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Pommes de terre",
-     "quantite": "2",
-     "promo_id": "p376407ce",
-     "en_promo": true,
-     "prix": "0,74 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Oignon",
-     "quantite": "1",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,34 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Crème fraîche",
-     "quantite": "10 cl",
-     "promo_id": "paab7fc65",
-     "en_promo": true,
-     "prix": "0,40 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Éplucher et couper le potiron et les pommes de terre.",
-    "Faire revenir l'oignon, ajouter les légumes et couvrir d'eau.",
-    "Cuire 25 min, mixer avec la crème."
-   ]
-  },
-  {
    "id": "r2f29391e",
    "titre": "Gratin de pâtes au jambon",
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "3,69 €",
-   "prix_par_personne": "0,92 €",
-   "economie": "1,10 €",
+   "prix_revient": "3,72 €",
+   "prix_par_personne": "0,93 €",
+   "economie": "1,11 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/ed7d1d66fb3c82314d9ef0e1b421f0a6",
@@ -25309,7 +25248,7 @@
      "quantite": "400 g",
      "promo_id": "p33ee1c36",
      "en_promo": true,
-     "prix": "0,58 €",
+     "prix": "0,61 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -25348,14 +25287,75 @@
    ]
   },
   {
+   "id": "rd1b092d3",
+   "titre": "Velouté de potiron",
+   "temps_min": 40,
+   "personnes": 4,
+   "nb_promos": 3,
+   "prix_revient": "3,16 €",
+   "prix_par_personne": "0,79 €",
+   "economie": "1,07 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/8d94a01925f0d78bded0f5f303186f30",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/141699a0ae605b5d60f5b85fbf59f8dc"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pumpkin_Cream_Soup.jpg/960px-Pumpkin_Cream_Soup.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Potiron ou butternut",
+     "quantite": "1 kg",
+     "promo_id": "lb7e2f1f2",
+     "en_promo": true,
+     "prix": "1,68 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Pommes de terre",
+     "quantite": "2",
+     "promo_id": "p376407ce",
+     "en_promo": true,
+     "prix": "0,74 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Oignon",
+     "quantite": "1",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,34 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Crème fraîche",
+     "quantite": "10 cl",
+     "promo_id": "paab7fc65",
+     "en_promo": true,
+     "prix": "0,40 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Éplucher et couper le potiron et les pommes de terre.",
+    "Faire revenir l'oignon, ajouter les légumes et couvrir d'eau.",
+    "Cuire 25 min, mixer avec la crème."
+   ]
+  },
+  {
    "id": "ref98c933",
    "titre": "Pizza maison",
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "8,64 €",
-   "prix_par_personne": "2,16 €",
-   "economie": "0,90 €",
+   "prix_revient": "8,77 €",
+   "prix_par_personne": "2,19 €",
+   "economie": "0,93 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/e5865b9ef901d4b99dfabbf97e4f946b",
@@ -25389,7 +25389,7 @@
      "quantite": "250 g",
      "promo_id": "pdbe4170b",
      "en_promo": true,
-     "prix": "1,58 €",
+     "prix": "1,70 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -25407,7 +25407,7 @@
      "quantite": "150 g",
      "promo_id": "ped3c85cb",
      "en_promo": true,
-     "prix": "1,64 €",
+     "prix": "1,65 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
@@ -25495,9 +25495,9 @@
    "temps_min": 40,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "14,13 €",
+   "prix_revient": "14,10 €",
    "prix_par_personne": "3,53 €",
-   "economie": "0,79 €",
+   "economie": "0,78 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/96461ed1f2391357d281781e1cdf5626",
@@ -25540,7 +25540,7 @@
      "quantite": "400 g",
      "promo_id": "p33ee1c36",
      "en_promo": true,
-     "prix": "1,14 €",
+     "prix": "1,11 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
@@ -25562,7 +25562,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-27T21:42",
+   "maj": "2026-10-28T11:35",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
