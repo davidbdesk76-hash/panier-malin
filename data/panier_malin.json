@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-29T19:57",
+ "genere_le": "2026-10-30T00:18",
  "promos_maj_le": "2026-10-27T00:08",
  "magasins": [
   {
@@ -22722,7 +22722,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-29T19:57",
+   "maj": "2026-10-30T00:18",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -22735,20 +22735,12 @@
   ],
   "actus": [
    {
-    "titre": "Rassemblement : Lutter contre le racisme",
-    "date": "2026-10-28",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=2143669783"
-   },
-   {
     "titre": "Octobre Rose",
     "date": "2026-10-22",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=685678707"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1973449677"
    },
    {
     "titre": "🎬️﻿ Soirée cinéma Halloween ﻿🎃",
