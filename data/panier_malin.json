@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-29T00:14",
+ "genere_le": "2026-10-29T11:54",
  "promos_maj_le": "2026-10-27T00:08",
  "magasins": [
   {
@@ -17141,52 +17141,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "ac246d93a",
-   "nom": "Fil peluche Alison & Mae",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224285/fil-peluche-alison-mae/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224285_8718964291045-111_01_mxus7p.webp",
-   "description": "100 g | coloris divers | 9,90 €/kg",
-   "detail": "100 g | coloris divers",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "ad3225fa1",
-   "nom": "Sucette avec musique Amos",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224076/sucette-avec-musique-amos/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224076_8710998540052-111_01_jyywst.webp",
-   "description": "Divers modèles | 249,17 €/kg",
-   "detail": "Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "aafce833f",
    "nom": "Collagène en poudre",
    "remise": "Affaire de la semaine",
@@ -18084,6 +18038,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "ac246d93a",
+   "nom": "Fil peluche Alison & Mae",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224285/fil-peluche-alison-mae/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224285_8718964291045-111_01_mxus7p.webp",
+   "description": "100 g | coloris divers | 9,90 €/kg",
+   "detail": "100 g | coloris divers",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "aafa09a1d",
    "nom": "Araignée sauteuse avec capteur",
    "remise": "Affaire de la semaine",
@@ -18126,6 +18103,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224099_8718964289936-110_01_ovbvqz.webp",
    "description": "12 pièces | 4,95 €/pce",
    "detail": "12 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ad3225fa1",
+   "nom": "Sucette avec musique Amos",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224076/sucette-avec-musique-amos/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224076_8710998540052-111_01_jyywst.webp",
+   "description": "Divers modèles | 249,17 €/kg",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -19207,29 +19207,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3206220_8711292217114-111_01_y4gxoy.webp",
    "description": "180 cm | Divers modèles | 0,83 €/m2",
    "detail": "180 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "ac7d54f1a",
-   "nom": "Peinture diamant veilleuse Kids Kingdom Halloween",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3205931/peinture-diamant-veilleuse-kids-kingdom-halloween/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3205931_8721225771637-111_01_mxbd3u.webp",
-   "description": "Divers modèles | 1,99 €/pce",
-   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21590,7 +21567,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-29T00:14",
+   "maj": "2026-10-29T11:54",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
