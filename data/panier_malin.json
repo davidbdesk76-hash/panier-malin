@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-30T19:38",
+ "genere_le": "2026-10-30T23:58",
  "promos_maj_le": "2026-10-27T00:08",
  "magasins": [
   {
@@ -22676,7 +22676,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-30T19:38",
+   "maj": "2026-10-30T23:58",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -22765,16 +22765,6 @@
    }
   ],
   "agenda": [
-   {
-    "titre": "Soirée cinéma Halloween",
-    "date": "2026-10-30",
-    "heure": "",
-    "lieu": "",
-    "source": "le-houlme.fr",
-    "url": "https://www.le-houlme.fr/agenda/49114/5943-soiree-cinema-halloween.htm",
-    "texte": "Soirée cinéma gratuite, 2 films proposés. Foyer communal, vendredi 30 octobre. Déguisements conseillés !",
-    "image": "https://www.le-houlme.fr/uploads/Agenda/a1/49114_603_49114_527_Affiche-Cinema.png"
-   },
    {
     "titre": "Permanences Espace Numérique Mobile",
     "date": "2026-11-09",
