@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-30T00:18",
+ "genere_le": "2026-10-30T11:52",
  "promos_maj_le": "2026-10-27T00:08",
  "magasins": [
   {
@@ -18170,52 +18170,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a3b7e0b67",
-   "nom": "Mélange de biscuits Henry Lambertz Best Friends",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3228281/melange-de-biscuits-henry-lambertz-best-friends/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228281_4006894535709-111_01_f3b6mh.webp",
-   "description": "250 g | 10,76 €/kg",
-   "detail": "250 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a85eb58de",
-   "nom": "Pop-corns Chio Sweet or Treat",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3227454/pop-corns-chio-sweet-or-treat/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227454_8710532480233-111_01_a4lhco.webp",
-   "description": "100 g | 7,90 €/kg",
-   "detail": "100 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a482216c2",
    "nom": "Multiprise USB-A et USB-C Philips",
    "remise": "Affaire de la semaine",
@@ -18285,29 +18239,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "aafce833f",
-   "nom": "Collagène en poudre",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3223033/collagene-en-poudre/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223033_8723300712177-111_01_jhpk5w.webp",
-   "description": "300 g | 23,17 €/kg",
-   "detail": "300 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "aacf91641",
    "nom": "Trolli Sour Spookers",
    "remise": "Affaire de la semaine",
@@ -18350,6 +18281,52 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228284_4006894536409-111_01_faa7ts.webp",
    "description": "150 g | 15,93 €/kg",
    "detail": "150 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a3b7e0b67",
+   "nom": "Mélange de biscuits Henry Lambertz Best Friends",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,69 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "sucre",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3228281/melange-de-biscuits-henry-lambertz-best-friends/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3228281_4006894535709-111_01_f3b6mh.webp",
+   "description": "250 g | 10,76 €/kg",
+   "detail": "250 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a85eb58de",
+   "nom": "Pop-corns Chio Sweet or Treat",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,79 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3227454/pop-corns-chio-sweet-or-treat/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227454_8710532480233-111_01_a4lhco.webp",
+   "description": "100 g | 7,90 €/kg",
+   "detail": "100 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -18695,29 +18672,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225765_8712879170402-111_01_maelqi.webp",
    "description": "Avec un ruban LED | 26,95 €/pce",
    "detail": "Avec un ruban LED",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a0e012853",
-   "nom": "Sucettes acidulées",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225764/sucettes-acidulees/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225764_8713305823879-111_01_mvnr0m.webp",
-   "description": "500 g | 2,98 €/kg",
-   "detail": "500 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -19293,6 +19247,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224004_8718964287864-111_01_ewiic9.webp",
    "description": "Ø 18 x 29 cm | Diverses couleurs | 4,99 €/pce",
    "detail": "Ø 18 x 29 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aafce833f",
+   "nom": "Collagène en poudre",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-10-28",
+   "au": "2026-11-03",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223033/collagene-en-poudre/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223033_8723300712177-111_01_jhpk5w.webp",
+   "description": "300 g | 23,17 €/kg",
+   "detail": "300 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -20144,29 +20121,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3207891_8718858317714-110_01_po5wfu.webp",
    "description": "140 x 180 cm | Divers modèles | 3,15 €/m2",
    "detail": "140 x 180 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "ae7166935",
-   "nom": "Haribo Halloween Scary Fun",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-10-28",
-   "au": "2026-11-03",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3207852/haribo-halloween-scary-fun/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27142935.webp",
-   "description": "800 g | 6,24 €/kg",
-   "detail": "800 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -22722,7 +22676,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-30T00:18",
+   "maj": "2026-10-30T11:52",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
