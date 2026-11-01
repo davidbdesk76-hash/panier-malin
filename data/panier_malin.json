@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-01T19:26",
+ "genere_le": "2026-11-01T23:50",
  "promos_maj_le": "2026-10-31T11:24",
  "magasins": [
   {
@@ -12225,7 +12225,7 @@
   },
   {
    "id": "a67caa4ba",
-   "nom": "Bonnet tricoté",
+   "nom": "Bonnet tricoté pour homme",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
@@ -12239,7 +12239,7 @@
    "du": "2026-10-28",
    "au": "2026-11-03",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225732/bonnet-tricote/",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225732/bonnet-tricote-pour-homme/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225732_8721302635531-110_01_weoxnt.webp",
    "description": "Taille unique | Diverses couleurs | 2,99 €/pce",
    "detail": "Taille unique | Diverses couleurs",
@@ -12409,7 +12409,7 @@
   },
   {
    "id": "aa6907191",
-   "nom": "Peluche Grinch",
+   "nom": "Peluche Le Grinch",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
@@ -12423,7 +12423,7 @@
    "du": "2026-10-28",
    "au": "2026-11-03",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225322/peluche-grinch/",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225322/peluche-le-grinch/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225322_8721352297956-111_01_ajjyh4.webp",
    "description": "40 cm | Divers modèles | 3,99 €/pce",
    "detail": "40 cm | Divers modèles",
@@ -16280,7 +16280,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-01T19:26",
+   "maj": "2026-11-01T23:50",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
