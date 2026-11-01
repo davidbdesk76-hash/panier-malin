@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-10-31T23:29",
+ "genere_le": "2026-11-01T12:17",
  "promos_maj_le": "2026-10-31T11:24",
  "magasins": [
   {
@@ -16280,7 +16280,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-10-31T23:29",
+   "maj": "2026-11-01T12:17",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -16293,20 +16293,12 @@
   ],
   "actus": [
    {
-    "titre": "Octobre Rose",
-    "date": "2026-10-22",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1193196583"
-   },
-   {
     "titre": "Enquête publique",
     "date": "2026-10-07",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=2143669783"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=621128339"
    },
    {
     "titre": "\"Nettoyons la Nature 2026\"",
