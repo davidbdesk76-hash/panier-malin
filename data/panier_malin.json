@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-02T13:26",
+ "genere_le": "2026-11-02T23:20",
  "promos_maj_le": "2026-10-31T11:24",
  "magasins": [
   {
@@ -16280,7 +16280,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-02T13:26",
+   "maj": "2026-11-02T23:20",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -16293,12 +16293,28 @@
   ],
   "actus": [
    {
+    "titre": "Exposition Peinture et Sculpture",
+    "date": "2026-11-02",
+    "resume": "",
+    "texte": "",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=757489667"
+   },
+   {
+    "titre": "Contes 0-4 ans mercredi",
+    "date": "2026-11-02",
+    "resume": "La ville du Houlme vous propose \"Souliers et petons\", un conte à destination des 0-4 ans le mercredi 4 novembre à 10h30 au Point Lecture, salle des Diesels. Entrée gratuite.",
+    "texte": "La ville du Houlme vous propose \"Souliers et petons\", un conte à destination des 0-4 ans le mercredi 4 novembre à 10h30 au Point Lecture, salle des Diesels. Entrée gratuite.",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=316670999"
+   },
+   {
     "titre": "Enquête publique",
     "date": "2026-10-07",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=621128339"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=757489667"
    },
    {
     "titre": "\"Nettoyons la Nature 2026\"",
@@ -16328,6 +16344,16 @@
    }
   ],
   "agenda": [
+   {
+    "titre": "Conte \"Souliers et petons\" 0-4 ans",
+    "date": "2026-11-04",
+    "heure": "",
+    "lieu": "",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/agenda/49598/5943-conte-souliers-et-petons-0-4-ans.htm",
+    "texte": "Conte gratuit ouvert aux 0-4 ans le mercredi 4 novembre, salle des Diesels.",
+    "image": "https://www.le-houlme.fr/uploads/Agenda/8c/49598_059_Point-lecture-Contes-2_page-0001.jpg"
+   },
    {
     "titre": "Permanences Espace Numérique Mobile",
     "date": "2026-11-09",
