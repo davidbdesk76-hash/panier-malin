@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genere_le": "2026-11-03T21:07",
- "promos_maj_le": "2026-11-03T12:56",
+ "genere_le": "2026-11-04T13:09",
+ "promos_maj_le": "2026-11-04T13:09",
  "magasins": [
   {
    "id": "houlme",
@@ -17,16 +17,6 @@
   }
  ],
  "catalogues_vus": [
-  {
-   "numero": "26C006L/1376",
-   "titre": "Foire au gras régionale",
-   "url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07"
-  },
   {
    "numero": "26G047G/1376",
    "titre": "Jouets de Noël",
@@ -60,27 +50,6 @@
  ],
  "promos": [
   {
-   "id": "p009952e2",
-   "nom": "2 MAGRETS DE CANARD EN TOURNEDOS — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,70 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/761a58d4af4773693f61df5404769d6e",
-   "description": "240 g.\nLe kg : 27,92 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p431f087d",
    "nom": "28 Boulettes de bœuf et de porc natures",
    "remise": "",
@@ -100,27 +69,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/57fdbc4387fb18e94100d9ef445c49a6",
    "description": "700 g.Le kg : 12,24 €.\nEgalement disponible au même prix : à la Provençale.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p66a96000",
-   "nom": "4 CUISSES DE CANARD — LE GAULOIS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "7,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/549b6a6df19de0feed92842c114c43fc",
-   "description": "Environ 1,4 kg.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p5cf5b5b0",
@@ -226,27 +174,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/715c4434d75898939b840868c027d80c",
    "description": "800 g.Le kg : 7,26 €.\nMême promotion disponible sur d'autres variété signalées en magasin.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p53ee3694",
-   "nom": "AIGUILLETTES DE CANARD MARINÉES AUX HERBES DE PROVENCE LE GOURMAND — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "13,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cda87267f1653f946e10759dac058330",
-   "description": "Existe aussi au même prix kg : Au piment d’Espelette, Aux 3 baies ou Aux cèpes (Origine France).",
-   "rayon_leclerc": ""
   },
   {
    "id": "pf36c0306",
@@ -373,27 +300,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0a3b397fe1755f13bfb5bfd763500c5f",
    "description": "780 g.Le kg : 9,99 €.\nEgalement disponible au même prix kg au rayon coupe.\nEgalement disponible au même prix kg et en barquette de 780g : Gratin Dauphinois au Jambon ou Gratin aux deux Saumons.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p8c0be375",
-   "nom": "CONFIT DE CANARD DU SUD-OUEST — MAISON DELPEYRAT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/9558c7f868bab45db8eb4cf58bbf94bf",
-   "description": "2 cuisses.\n550 g.\nLe kg : 18,09 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p4338753c",
@@ -627,27 +533,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p9a94de07",
-   "nom": "FOIE GRAS DE CANARD CRU PREMIER CHOIX — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "39,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/487aab612b0d3cb41ce014c3b4d683dd",
-   "description": "",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p63ef414a",
    "nom": "Filet de limande du nord meunière MSC — CITÉ MARINE",
    "remise": "",
@@ -667,27 +552,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/da3411346d19c2b00bd1409a9419dbbe",
    "description": "800 g.\nLe kg : 11,06 €.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pde8f7745",
-   "nom": "GRAISSE DE CANARD — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,59 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/6c15665d704fa5a55d71cd4110fda489",
-   "description": "320 g.\nLe kg : 8,09 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p6e70b600",
@@ -730,27 +594,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0fd98f5e80bc324db594ebea6293e0bc",
    "description": "290 g.\nLe kg : 13,76 €.\nEgalement disponible au même prix : Au Chorizo, aux Poivrons ou aux Olives.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pf806686c",
-   "nom": "GÉSIERS CONFITS DE CANARD LE GOURMAND SANS NITRITE — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "4,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2c04c31df6aaf612878e40f7af9b08ca",
-   "description": "250 g.\nLe kg : 16,76 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p863fbb04",
@@ -921,90 +764,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "p28701d1c",
-   "nom": "MAGRET DE CANARD DU SUD-OUEST SÉCHÉ AUX 2 POIVRES — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "5,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c72ad1fcff551ac35dbc1688dd7eefa9",
-   "description": "2 x 80 g (160 g).\nLe kg : 34,31 €.\nExiste aussi au même prix : Fumé au bois de hêtre (Origine France).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pf0954850",
-   "nom": "MAGRET DE CANARD LE GOURMAND EXPRESS — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "5,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d1ae5c19291f80a887c9bb1584da151b",
-   "description": "290 g.\nLe kg : 20,52 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pf713815a",
-   "nom": "MANCHONS DE CANARD CONFITS LE GOURMAND — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "13,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/efefd3d04430b0dd9a86721237617194",
-   "description": "1,6 kg.\nLe kg : 8,72 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p27c15dce",
-   "nom": "MIX CANARD CUISSES ET MANCHONS — LE GAULOIS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/6c53ea2ee18fd39ef8b0466e16b939c8",
-   "description": "Environ 1,2 kg.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pa6bfaf6a",
    "nom": "Moules de bouchot spécialité traditionnelle garantie",
    "remise": "",
@@ -1131,27 +890,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pc264ccc0",
-   "nom": "RILLETTES DU MANS DE PORC SANS GRAISSE AJOUTÉE — BORDEAU CHESNEL",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,30 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d58d698de5d3f0267148f6b68df194e1",
-   "description": "220 g + 110 g offerts (330 g).\nLe kg : 6,97 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p48b911c8",
    "nom": "RILLETTES DU MANS — TRADILÈGE",
    "remise": "Ticket -20 %",
@@ -1213,27 +951,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4999c7a6ac7a52624dd85269da783e64",
    "description": "Environ 950 g.\nÉgalement disponible au même prix kg : Rôti de Porc Fumé.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p2e491898",
-   "nom": "SPÉCIALITÉ CHARCUTIÈRE AU POULET RÔTI EN COCOTTE — BORDEAU CHESNEL",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2e045a03e3aa2e55f11084faeb9ad1fa",
-   "description": "220 g + 110 g offerts (330 g).\nLe kg : 7,55 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p6a08525d",
@@ -3483,27 +3200,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p8a4e70d8",
-   "nom": "ESCALOPES DE FOIE GRAS DE CANARD DU SUD-OUEST SURGELÉES — MAISTRES OCCITANS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "7,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/879cba4bf7699911f0b4bd3e9af479c4",
-   "description": "3 parts.\n150 g.\nLe kg : 53 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pe28f6563",
    "nom": "Frites de poulet surgelées Format familial — MAÎTRE COQ",
    "remise": "Ticket -30 %",
@@ -3523,69 +3219,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/294571336fa35b333ac67478fd2120bf",
    "description": "1 kg.Le kg : 5,78 €.\nEgalement disponible au même prix : Donuts de Poulet (800g) (7,23€ le kg).",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p97640403",
-   "nom": "LE FOIE GRAS MAISON DE CANARD CRU SURGELÉ — MAISTRES OCCITANS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "21,50 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c9f1a8a54da358d5e44cd36519901578",
-   "description": "600 g.\nLe kg : 35,83 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p4acde4bb",
-   "nom": "RISSOLÉES À LA GRAISSE DE CANARD FONDANTES ET SAVOUREUSES SURGELÉES — POM BISTRO",
-   "remise": "Ticket -30 %",
-   "remise_detail": "30 % du prix crédités en Ticket E.Leclerc, soit 0,89 € : le produit vous revient à 2,06 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 30,
-   "prix": "2,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/566315090866d1165480f020baf19cca",
-   "description": "500 g.\nLe kg : 5,90 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pffc8da43",
-   "nom": "RÔTI DE MAGRET DE CANARD DU SUD-OUEST FOURRÉ AU FOIE GRAS DE CANARD SURGELÉ — MAISTRES OCCITANS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "19,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/64ad00a610a96bd7db37b808031cba75",
-   "description": "930 g.\nLe kg : 21,45 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "pae5319ea",
@@ -4029,27 +3662,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pabe1a48a",
-   "nom": "CAHORS MALBEC AOP “LES GALETS D’OLT” 2023",
-   "remise": "-20 %",
-   "remise_detail": "4,16 € au lieu de 5,20 € (-20 %).",
-   "remise_pct": 20,
-   "prix": "4,16 €",
-   "v": 2,
-   "prix_avant": "5,20 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cb6ecf9548040ee416095ed5543289f2",
-   "description": "75 cl.\nLe L : 5,55 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pc29986b4",
    "nom": "CAPSULES DE CAFÉ BY NESCAFÉ DOLCE GUSTO — STARBUCKS",
    "remise": "2e à -68 %",
@@ -4237,48 +3849,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a8ec2b6d44196f83a0600f1ebe375c66",
    "description": "6 x 1,50 L (9 L).Le L : 0,33 €.Par 2 (18 L) : 3,89 € au lieu de 5,90 €.Le L : 0,22 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p74f682f2",
-   "nom": "FINE V.S. CALVADOS AOP — PÈRE MAGLOIRE",
-   "remise": "-5 %",
-   "remise_detail": "18,90 € au lieu de 19,90 € (-5 %).",
-   "remise_pct": 5,
-   "prix": "18,90 €",
-   "v": 2,
-   "prix_avant": "19,90 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/024bf86deee9fa93b330fa6b4ac0a72d",
-   "description": "40% vol.\n70 cl.\nLe L : 27 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pd0e96f03",
-   "nom": "FRONTIGNAN AOP MUSCAT DE TRADITION PREMIER",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 10,49 € au lieu de 14,98 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "7,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7f4c81e4622e0df1983151791cf4db73",
-   "description": "75 cl.\nLe L : 9,99 €.\nPar 2 (1,5 L) : 10,48 € au lieu de 14,98 €.\nLe L : 6,99 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "pc3016abf",
@@ -4489,27 +4059,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2f08d2cbe09d62b7b9a8375274bb038d",
    "description": "À base de concentré.\n2 L.Le L : 0,86 €.Par 2 (4 L) : 2,75 € au lieu de 3,44 €.Le L : 0,69 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pd4792ac7",
-   "nom": "LANDES IGP \"PAYSAGE DES LANDES\"",
-   "remise": "-10 %",
-   "remise_detail": "3,87 € au lieu de 4,30 € (-10 %).",
-   "remise_pct": 10,
-   "prix": "3,87 €",
-   "v": 2,
-   "prix_avant": "4,30 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b256dc343e0963e092804b257347f061",
-   "description": "12,5% vol.\n75 cl.\nLe L : 5,16 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p0a208943",
@@ -4741,27 +4290,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fb7c1ee7018dbff28d27755613f0b92e",
    "description": "1,35 L.Le L : 2,72 €.Par 2 (2,7 L) : 5,14 € au lieu de 7,34 €.Le L : 1,90 €.\nEgalement disponible au même prix : Orange sans pulpe Ou Pomme.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pd5f1dccb",
-   "nom": "QUINCY AOP “BEL AIR” RENÉ CARROI 2025",
-   "remise": "-10 %",
-   "remise_detail": "9,89 € au lieu de 10,99 € (-10 %).",
-   "remise_pct": 10,
-   "prix": "9,89 €",
-   "v": 2,
-   "prix_avant": "10,99 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e72eedb83ef37cf5ea5ec3ad1e703052",
-   "description": "75 cl.\nLe L : 13,19 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "pffd1590e",
@@ -5056,27 +4584,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/bd9f9b7a0caa44663ef0110fac86ab52",
    "description": "40.00% vol.\n70 cl.Le L : 21,60 €.\nExiste aussi : Différentes variétés de whiskies à un format et prix différents.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p22a49a23",
-   "nom": "VIN D’ESPAGNE BLANC MOELLEUX \"GRAINS DE TERROIR\"",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/eae9ddd281922c951988b96d4e0d7bfd",
-   "description": "Le Bag-in-Box® de 3 L.\nLe L : 2,66 €.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p8866fa71",
@@ -8437,27 +7944,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e2110b23e8ae5e826a50f9a5b440395b",
    "description": "95% Polyester, 5% Elasthanne. Du S au XL.\nAutres coloris disponibles",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pd8cc2631",
-   "nom": "CANETTE — LE GAULOIS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,50 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-03",
-   "au": "2026-11-07",
-   "catalogue": "Foire au gras régionale",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C006L/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/39aa595e2709dbd501f8de53c73e6532",
-   "description": "Environ 1,6 kg.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p73f4042c",
@@ -20682,6 +20168,29 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "ad714dd1e",
+   "nom": "Radio de secours 4-en-1 avec lampe de poche et batterie externe",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "7,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-04",
+   "au": "2026-11-10",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3222519/radio-de-secours-4-en-1-avec-lampe-de-poche-et-batterie-externe/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222519_8711332494543-110_02_gj4frs.webp",
+   "description": "4000 mAh | Diverses couleurs | 7,95 €/pce",
+   "detail": "4000 mAh | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a70c9e3dc",
    "nom": "Guirlande lumineuse multicolore",
    "remise": "Affaire de la semaine",
@@ -20724,6 +20233,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223368_6097015030072-110_01_lxhept.webp",
    "description": "Divers modèles | 2,99 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a1fb6319e",
+   "nom": "Piles Philips AA",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-04",
+   "au": "2026-11-10",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225981/piles-philips-aa/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225981_4895229182639-111_01_bsprfw.webp",
+   "description": "10 pièces | 0,20 €/pce",
+   "detail": "10 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21004,6 +20536,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "aa945deef",
+   "nom": "Piles Philips AAA",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-04",
+   "au": "2026-11-10",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225982/piles-philips-aaa/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225982_4895229182646-111_01_thfbps.webp",
+   "description": "10 pièces | 0,20 €/pce",
+   "detail": "10 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a5b2aef6e",
    "nom": "Bonbons MAOAM Festival",
    "remise": "Affaire de la semaine",
@@ -21161,6 +20716,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2577090_8721302635296-110_01_hqtptb.webp",
    "description": "Tailles L - XXL | 1,99 €/pce",
    "detail": "Tailles L - XXL",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aa528a906",
+   "nom": "Ruban LED avec spots",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "12,36 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-04",
+   "au": "2026-11-10",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225011/ruban-led-avec-spots/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225011_8718964298426-111_01_zp8hpg.webp",
+   "description": "10 m | 1,24 €/m",
+   "detail": "10 m",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21372,52 +20950,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "aa945deef",
-   "nom": "Piles Philips AAA",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-04",
-   "au": "2026-11-10",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225982/piles-philips-aaa/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225982_4895229182646-111_01_thfbps.webp",
-   "description": "10 pièces | 0,20 €/pce",
-   "detail": "10 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a1fb6319e",
-   "nom": "Piles Philips AA",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-04",
-   "au": "2026-11-10",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225981/piles-philips-aa/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225981_4895229182639-111_01_bsprfw.webp",
-   "description": "10 pièces | 0,20 €/pce",
-   "detail": "10 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a836fdd7b",
    "nom": "Coffret cadeau Disney Frozen",
    "remise": "Affaire de la semaine",
@@ -21506,29 +21038,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225737_8721302635722-111_01_wdlqmm.webp",
    "description": "Taille unique | Divers modèles | 2,99 €/pce",
    "detail": "Taille unique | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "abb57a43f",
-   "nom": "Casquette",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-04",
-   "au": "2026-11-10",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225733/casquette/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225733_8721302635562-111_01_thytqm.webp",
-   "description": "Taille unique | Diverses couleurs | 2,99 €/pce",
-   "detail": "Taille unique | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21763,29 +21272,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "aa528a906",
-   "nom": "Ruban LED avec spots",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "12,36 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-04",
-   "au": "2026-11-10",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225011/ruban-led-avec-spots/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225011_8718964298426-111_01_zp8hpg.webp",
-   "description": "10 m | 1,24 €/m",
-   "detail": "10 m",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a5c81a465",
    "nom": "Plaid Nova",
    "remise": "Affaire de la semaine",
@@ -21966,6 +21452,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224578_8713619451188-111_01_mlbckw.webp",
    "description": "160 LED | 2 mètres | 1,99 €/pce",
    "detail": "160 LED | 2 mètres",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "abb57a43f",
+   "nom": "Casquette",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-04",
+   "au": "2026-11-10",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225733/casquette/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225733_8721302635562-111_01_thytqm.webp",
+   "description": "Taille unique | Diverses couleurs | 2,99 €/pce",
+   "detail": "Taille unique | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -22242,29 +21751,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222531_8711332491405-110_01_sfm9oh.webp",
    "description": "45 watts | Diverses couleurs | 4,79 €/pce",
    "detail": "45 watts | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "ad714dd1e",
-   "nom": "Radio de secours 4-en-1 avec lampe de poche et batterie externe",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "7,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-04",
-   "au": "2026-11-10",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3222519/radio-de-secours-4-en-1-avec-lampe-de-poche-et-batterie-externe/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222519_8711332494543-110_02_gj4frs.webp",
-   "description": "4000 mAh | Diverses couleurs | 7,95 €/pce",
-   "detail": "4000 mAh | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -24968,7 +24454,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-03T21:07",
+   "maj": "2026-11-04T13:09",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -24981,12 +24467,29 @@
   ],
   "actus": [
    {
+    "titre": "Travaux rue Audière",
+    "date": "2026-11-09",
+    "resume": "travaux Publié le 09 nov. 2026",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/actualite/29167/5930-travaux-rue-audiere.htm",
+    "texte": "La société ENEDIS réalisera des travaux de branchements électriques le lundi 9 novembre 2026, de 10h00 à 13h00 - Interdiction de circulation",
+    "image": "https://www.le-houlme.fr/uploads/Actualite/ff/IMF_50/GAB_HOULME/29167_174_Travaux-enedis.png"
+   },
+   {
+    "titre": "rue Audière",
+    "date": "2026-11-04",
+    "resume": "TRAVAUX DE VOIRIE - RUE AUDIÈRE Un arrêté municipal a été pris concernant la circulation . La société ENEDIS réalisera des travaux de branchements électriques le lundi 9 novembre…",
+    "texte": "TRAVAUX DE VOIRIE - RUE AUDIÈRE Un arrêté municipal a été pris concernant la circulation . La société ENEDIS réalisera des travaux de branchements électriques le lundi 9 novembre 2026, de 10h00 à 13h00 . Ce qu'il faut retenir : Interdiction de circulation : La rue Audière sera barrée pendant toute la durée des travaux (de 10h00 à 13h00). Accès riverains : L'accès pour les riverains sera maintenu grâce à une déviation mise en place par l'entreprise. Nous vous remercions pour votre compréhension et vous invitons à prendre vos dispositions pour anticiper vos déplacements.",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=877422073"
+   },
+   {
     "titre": "Cérémonie du 11 novembre",
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=316670999"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1732203498"
    },
    {
     "titre": "Exposition Peinture et Sculpture",
@@ -25059,6 +24562,16 @@
     "url": "https://www.le-houlme.fr/agenda/48274/5943-permanences-espace-numerique-mobile.htm",
     "texte": "Planning des permanences de septembre à décembre 2026 Pour les Permanences du Houlme - salle des Diesels de 14h -16h30",
     "image": "https://www.le-houlme.fr/uploads/Agenda/5c/48274_878_Ford-ENM-1024x651-1.jpg"
+   },
+   {
+    "titre": "108è cérémonie de commémoration",
+    "date": "2026-11-11",
+    "heure": "10h30",
+    "lieu": "",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/agenda/49665/5943-108e-ceremonie-de-commemoration.htm",
+    "texte": "Armistice Mercredi 11 novembre 10h30 devant l'église 11h00 Monument aux morts",
+    "image": "https://www.le-houlme.fr/uploads/Agenda/19/49665_017_11novembre1918.jpeg"
    }
   ],
   "pratique": {
