@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-04T13:09",
+ "genere_le": "2026-11-04T21:25",
  "promos_maj_le": "2026-11-04T13:09",
  "magasins": [
   {
@@ -23060,7 +23060,7 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3003412/chocolat-celebrations/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3003412_5000159609029-111_01_iqmkat.webp",
-   "description": "173 g | 13,39 €/kg",
+   "description": "173 g | 14,39 €/kg",
    "detail": "173 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
@@ -24454,7 +24454,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-04T13:09",
+   "maj": "2026-11-04T21:25",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
