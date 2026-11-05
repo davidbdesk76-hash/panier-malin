@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-05T13:23",
+ "genere_le": "2026-11-05T21:40",
  "promos_maj_le": "2026-11-04T13:09",
  "magasins": [
   {
@@ -15696,7 +15696,7 @@
    "au": "2026-11-10",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3222519/radio-de-secours-4-en-1-avec-lampe-de-poche-et-batterie-externe/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222519_8711332494543-110_02_gj4frs.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222519_8711332493102-110_02_mevi1z.webp",
    "description": "4000 mAh | Diverses couleurs | 7,95 €/pce",
    "detail": "4000 mAh | Diverses couleurs",
    "rayon_leclerc": "",
@@ -19949,7 +19949,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-05T13:23",
+   "maj": "2026-11-05T21:40",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -19957,7 +19957,7 @@
     "titre": "TRAVAUX ET CIRCULATION — RUE D'HOUPPEVILLE",
     "texte": "En raison de travaux de voirie (rabotage et tapis) réalisés par l'entreprise DR, la circulation et le stationnement seront réglementés du 23 au 27 novembre 2026 sur la RD 90-8 (rue d'Houppeville, juste après l'ouvrage). Ce qu'il faut retenir :Route barrée / Circulation modifiée au droit du chantier (accès maintenu pour les riverains). Vitesse limitée à 30 km/h. Stationnement interdit et gênant sur les deux rives au droit du chantier. Déviation mise en place dans le sens Le Houlme vers Houppeville via la rue de Gaulle, Notre-Dame-de-Bondeville et les axes indiqués. Merci de votre compréhension et de votre vigilance pour la sécurité de tous ! https://www.le-houlme.fr/5722-arretes-municipaux.htm",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1732203498"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=907417544"
    },
    {
     "titre": "FERMETURE DU PARC MUNICIPAL",
@@ -19984,6 +19984,14 @@
     "url": "https://www.le-houlme.fr/actualite/29167/5930-travaux-rue-audiere.htm",
     "texte": "La société ENEDIS réalisera des travaux de branchements électriques le lundi 9 novembre 2026, de 10h00 à 13h00 - Interdiction de circulation",
     "image": "https://www.le-houlme.fr/uploads/Actualite/ff/IMF_50/GAB_HOULME/29167_174_Travaux-enedis.png"
+   },
+   {
+    "titre": "Soirée Jazz d'automne",
+    "date": "2026-11-05",
+    "resume": "",
+    "texte": "",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1468541323"
    },
    {
     "titre": "rue Audière",
