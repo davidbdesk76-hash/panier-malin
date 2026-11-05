@@ -1,18 +1,18 @@
 {
  "version": 2,
- "date": "2026-10-28",
+ "date": "2026-11-05",
  "prix": {
   "Pâtes": {
-   "kg": 2.04
+   "kg": 1.86
   },
   "Spaghetti": {
    "kg": 1.38
   },
   "Tagliatelles": {
-   "kg": 3.71
+   "kg": 3.8
   },
   "Crozets ou pâtes": {
-   "kg": 2.04
+   "kg": 1.86
   },
   "Feuilles de lasagne": {
    "kg": 2.58
@@ -24,38 +24,38 @@
    "kg": 1.75
   },
   "Farine": {
-   "kg": 1.31
+   "kg": 1.29
   },
   "Sucre": {
-   "kg": 1.0
+   "kg": 0.95
   },
   "Lait": {
    "l": 0.98
   },
   "Crème": {
-   "kg": 4.07,
+   "kg": 4.0,
    "l": 3.78
   },
   "Beurre": {
-   "kg": 9.4
+   "kg": 7.76
   },
   "Emmental râpé": {
    "kg": 8.15
   },
   "Parmesan": {
-   "kg": 31.62
+   "kg": 31.45
   },
   "Mozzarella": {
-   "kg": 8.52
+   "kg": 6.08
   },
   "Fromage à raclette": {
-   "kg": 12.85
+   "kg": 12.83
   },
   "Fromage frais": {
    "kg": 14.08
   },
   "Lardons": {
-   "kg": 9.3
+   "kg": 9.2
   },
   "Filets de poulet": {
    "kg": 13.71
@@ -64,18 +64,18 @@
    "kg": 21.13
   },
   "Coulis de tomate": {
-   "kg": 2.23,
+   "kg": 2.49,
    "l": 4.58
   },
   "Sauce tomate": {
-   "kg": 2.23,
+   "kg": 2.49,
    "l": 4.58
   },
   "Lentilles": {
    "kg": 3.3
   },
   "Pois chiches": {
-   "kg": 3.88
+   "kg": 3.67
   },
   "Lait de coco": {
    "l": 4.21
@@ -144,8 +144,8 @@
    "piece": 0.44
   },
   "Oranges": {
-   "kg": 2.94,
-   "piece": 0.59
+   "kg": 2.92,
+   "piece": 0.58
   },
   "Citron": {
    "kg": 3.98,
