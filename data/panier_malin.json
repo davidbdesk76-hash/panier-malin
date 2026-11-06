@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-05T21:40",
+ "genere_le": "2026-11-06T13:07",
  "promos_maj_le": "2026-11-04T13:09",
  "magasins": [
   {
@@ -16232,29 +16232,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a59e0809c",
-   "nom": "Boîtes à outils Keter",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,46 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-04",
-   "au": "2026-11-10",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3227914/boites-a-outils-keter/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227914_3253924887531-110_02_vrteke.webp",
-   "description": "2 pièces | 3,23 €/pce",
-   "detail": "2 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "aa528a906",
    "nom": "Ruban LED avec spots",
    "remise": "Affaire de la semaine",
@@ -16320,6 +16297,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2570960_8721382794678-111_01_xokmhd.webp",
    "description": "24 pièces | 9,95 €/pce",
    "detail": "24 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a59e0809c",
+   "nom": "Boîtes à outils Keter",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,46 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-04",
+   "au": "2026-11-10",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3227914/boites-a-outils-keter/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227914_3253924887531-110_02_vrteke.webp",
+   "description": "2 pièces | 3,23 €/pce",
+   "detail": "2 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -19949,7 +19949,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-05T21:40",
+   "maj": "2026-11-06T13:07",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -20008,6 +20008,15 @@
     "texte": "",
     "source": "PanneauPocket",
     "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1732203498"
+   },
+   {
+    "titre": "Spectacle \"Souliers et petons\" au point lecture",
+    "date": "2026-11-04",
+    "resume": "Enfance / Jeunesse Publié le 04 nov. 2026",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/actualite/29206/5930-spectacle-souliers-et-petons-au-point-lecture.htm",
+    "texte": "Le spectacle a réunit plus d'une trentaine d'enfants de 0-4 ans au Point lecture. Un joli moment de poésie proposé par Sylvie Charvieux des Contes de Manpa...",
+    "image": "https://www.le-houlme.fr/uploads/Actualite/8c/IMF_50/GAB_HOULME/29206_699_890433770_1425630863066964_3137530323985325890_n.jpg"
    },
    {
     "titre": "Exposition Peinture et Sculpture",
@@ -20072,6 +20081,16 @@
     "url": "https://www.le-houlme.fr/agenda/49665/5943-108e-ceremonie-de-commemoration.htm",
     "texte": "Armistice Mercredi 11 novembre 10h30 devant l'église 11h00 Monument aux morts",
     "image": "https://www.le-houlme.fr/uploads/Agenda/19/49665_017_11novembre1918.jpeg"
+   },
+   {
+    "titre": "Soirée jazz d'automne",
+    "date": "2026-11-19",
+    "heure": "",
+    "lieu": "",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/agenda/49730/5943-soiree-jazz-d-automne.htm",
+    "texte": "La ville du Houlme organise une soirée Jazz d'automne le 19 novembre au Foyer communal. Inscriptions avant le 15 novembre en mairie. Soirée animée par Jazztronom, planches apéritif en vente sur place.",
+    "image": "https://www.le-houlme.fr/uploads/Agenda/98/49730_233_3bbed9bd-d3bd-4351-b45f-b6019598921a.jpg"
    },
    {
     "titre": "Marché de Noël artisanal",
