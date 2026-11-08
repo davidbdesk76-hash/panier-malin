@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-07T23:46",
+ "genere_le": "2026-11-08T12:17",
  "promos_maj_le": "2026-11-07T12:05",
  "magasins": [
   {
@@ -14182,7 +14182,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-07T23:46",
+   "maj": "2026-11-08T12:17",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -14284,14 +14284,6 @@
     "url": "https://www.le-houlme.fr/actualite/28696/5930-visite-de-l-assemblee-nationale-cme.htm",
     "texte": "Le 25 septembre dernier, nos 24 jeunes élus ont été invités à visiter l'Assemblée nationale par Gérard Leseul, notre député.\nAprès une visite de musée du Quai Branly le matin puis un pique-nique au pied de la Tour Eiffel, ils ont été accueillis à l'Assemblée nationale par notre député, Gérard Leseul, qui nous a accompagné tout au long de la visite et s'est prêté volontiers au jeu des questions-réponses. Une journée riche en enseignements et en souvenirs pour ces enfants impliqués dans la vie de la commune.",
     "image": "https://www.le-houlme.fr/uploads/Actualite/e4/IMF_50/GAB_HOULME/28696_069_IMG_5807.jpeg"
-   },
-   {
-    "titre": "Rencontres de quartier",
-    "date": "2026-09-23",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1193196583"
    }
   ],
   "agenda": [
