@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genere_le": "2026-11-08T23:54",
- "promos_maj_le": "2026-11-07T12:05",
+ "genere_le": "2026-11-09T13:53",
+ "promos_maj_le": "2026-11-09T13:53",
  "magasins": [
   {
    "id": "houlme",
@@ -17,6 +17,16 @@
   }
  ],
  "catalogues_vus": [
+  {
+   "numero": "26C615L/1376",
+   "titre": "Textile digital Look&Vous novembre",
+   "url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26C615L/1376",
+   "magasins": [
+    "houlme"
+   ],
+   "du": "2026-11-09",
+   "au": "2026-11-14"
+  },
   {
    "numero": "26G047G/1376",
    "titre": "Jouets de Noël",
@@ -14182,7 +14192,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-08T23:54",
+   "maj": "2026-11-09T13:53",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
