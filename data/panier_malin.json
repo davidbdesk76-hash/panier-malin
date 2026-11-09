@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-09T13:53",
+ "genere_le": "2026-11-09T23:59",
  "promos_maj_le": "2026-11-09T13:53",
  "magasins": [
   {
@@ -14192,7 +14192,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-09T13:53",
+   "maj": "2026-11-09T23:59",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -14220,6 +14220,14 @@
     "image": "https://www.le-houlme.fr/uploads/Actualite/23/IMF_50/GAB_HOULME/29189_440_7484bca9-ba7a-473d-bd9f-4872a761a178.png"
    },
    {
+    "titre": "Rencontres de quartier",
+    "date": "2026-11-09",
+    "resume": "",
+    "texte": "",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=907417544"
+   },
+   {
     "titre": "Travaux rue Audière",
     "date": "2026-11-09",
     "resume": "travaux Publié le 09 nov. 2026",
@@ -14234,7 +14242,7 @@
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1468541323"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=750995714"
    },
    {
     "titre": "rue Audière",
