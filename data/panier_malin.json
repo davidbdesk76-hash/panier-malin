@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-10T21:28",
+ "genere_le": "2026-11-11T12:53",
  "promos_maj_le": "2026-11-10T21:28",
  "magasins": [
   {
@@ -19531,7 +19531,7 @@
    "au": "2026-11-17",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3227200/ustensiles-de-cuisine-masterchef-midnight/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227200_8721335816402-111_01_vs77zo.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3227200_8721335816402-110_01_moqzb2.webp",
    "description": "3 pièces | 2,95 €/pce",
    "detail": "3 pièces",
    "rayon_leclerc": "",
@@ -23774,7 +23774,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-10T21:28",
+   "maj": "2026-11-11T12:53",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -23849,15 +23849,6 @@
     "texte": "",
     "source": "PanneauPocket",
     "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=316670999"
-   },
-   {
-    "titre": "\"Nettoyons la Nature 2026\"",
-    "date": "2026-09-26",
-    "resume": "Environnement Publié le 26 sept. 2026",
-    "source": "le-houlme.fr",
-    "url": "https://www.le-houlme.fr/actualite/28698/5930-nettoyons-la-nature-2026.htm",
-    "texte": "220 kg de déchets récoltés ! Un immense bravo à toutes celles et ceux qui ont participé à Nettoyons la Nature au Houlme !",
-    "image": "https://www.le-houlme.fr/uploads/Actualite/e4/IMF_50/GAB_HOULME/28698_472_825279491_1535179121983869_9108608891126125701_n.jpg"
    }
   ],
   "agenda": [
