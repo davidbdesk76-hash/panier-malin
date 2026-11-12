@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-11T21:12",
+ "genere_le": "2026-11-12T13:44",
  "promos_maj_le": "2026-11-10T21:28",
  "magasins": [
   {
@@ -8911,4516 +8911,6 @@
    "rayon_leclerc": "Plaisirs d'hiver"
   },
   {
-   "id": "lbdd21eb0",
-   "nom": "De la couleur et du goût Avocat",
-   "remise": "-34 %",
-   "remise_detail": "",
-   "remise_pct": 34,
-   "prix": "0,65 €",
-   "v": 2,
-   "prix_avant": "0,99 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "La pièce · Catégorie 1",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l41138780",
-   "nom": "Banane Bio Fairtrade",
-   "remise": "-28 %",
-   "remise_detail": "",
-   "remise_pct": 28,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "2,09 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le kilo · Catégorie 1 · Calibre P18 · Variété : Cavendish",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l58fd5f4e",
-   "nom": "Kaki",
-   "remise": "-34 %",
-   "remise_detail": "",
-   "remise_pct": 34,
-   "prix": "0,48 €",
-   "v": 2,
-   "prix_avant": "0,74 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "La pièce · Catégorie 1",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb0f23f92",
-   "nom": "Pomelo",
-   "remise": "-34 %",
-   "remise_detail": "",
-   "remise_pct": 34,
-   "prix": "0,58 €",
-   "v": 2,
-   "prix_avant": "0,89 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "La pièce · Catégorie 1 · Calibre : 93-110mm / 110-139mm · Variété : Star Ruby · Traitement après récolte",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la44903af",
-   "nom": "Potimarron",
-   "remise": "-34 %",
-   "remise_detail": "",
-   "remise_pct": 34,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "2,27 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le kilo · Catégorie 1",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb99e8a12",
-   "nom": "Pomme de terre chair ferme",
-   "remise": "-34 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 34,
-   "prix": "2,29 €",
-   "v": 2,
-   "prix_avant": "3,48 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le filet de 2,5 kg · Lidl Plus au lieu · Catégorie 1 - Calibre 35-55 mm · Variété : Jazzy/Château/Charlene · Nature : Vapeur/Sauté/Salade · Traitement anti-germinatif après récolte",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld03e947b",
-   "nom": "Poire",
-   "remise": "-34 %",
-   "remise_detail": "",
-   "remise_pct": 34,
-   "prix": "1,94 €",
-   "v": 2,
-   "prix_avant": "2,95 €",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le kilo · Catégorie 1 · Calibre 60-65 mm / 65-70mm · Variété : Williams/Williams verte/ · Guyot/Celina",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l976359ba",
-   "nom": "Chou fleur",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "La pièce · Catégorie 1",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lea118d86",
-   "nom": "Prune rouge",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "La barquette de 500 g · Catégorie 1 · Calibres : 40-45 mm · ou 45-50 mm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1b828fdf",
-   "nom": "Oignon jaune",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Catégorie 1 · Calibres : 40-60 mm · ou 50-70 mm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb0ba9be3",
-   "nom": "Volume du bac à poussière :",
-   "remise": "-13 %",
-   "remise_detail": "",
-   "remise_pct": 13,
-   "prix": "24,99 €",
-   "v": 2,
-   "prix_avant": "28,99 €",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "350 mL · Manche télescopique : · env. 131 cm · 3 réglages de · vapeur différents · Pour tous · types de sol · Puissance d’aspiration : · de 6 900 Pa à 20 000 Pa · selon le mode · Capacité seau · ergonomique max. : · env. 6 L · VILEDA · Ensemble · balai serpillère · Turbo ONE",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l0b145b33",
-   "nom": "Silvercrest Aspirateur cyclonique sans fil Premium",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "149,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Autonomie : de 10 min à · 42 min selon le mode",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lbe214892",
-   "nom": "Livarno Abattant de WC en thermoplastique",
-   "remise": "-16 %",
-   "remise_detail": "",
-   "remise_pct": 16,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Charge max. : 150 kg",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l4cc07a46",
-   "nom": "Loomaid Brosse de toilette",
-   "remise": "-28 %",
-   "remise_detail": "",
-   "remise_pct": 28,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l9f6f4aff",
-   "nom": "pavés de saumon",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "17,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "1 kg · Avec peau · et sans arêtes",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l3815b4fa",
-   "nom": "farcis au saumon et aux Saint-Jacques",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "15,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "900 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l261f7609",
-   "nom": "Msc façon fish & chips",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "10,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l975175b9",
-   "nom": "Filet de lieu noir Décongelé",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l91935094",
-   "nom": "Asc entières cuites",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "1 kg · 80 à 100 pièces · par kg",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l3efbf3eb",
-   "nom": "L’Étal DU Boucher 15 boulettes au bœuf",
-   "remise": "-18 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 18,
-   "prix": "4,09 €",
-   "v": 2,
-   "prix_avant": "4,99 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "375 g · avec Lidl Plus",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "laf681428",
-   "nom": "Msc panés",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "5,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "1 kg",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l499861fe",
-   "nom": "Msc panés au citron",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lfdf9fdf3",
-   "nom": "L’Étal Du Boucher Ribs de porc Barbecue original",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "5,59 €",
-   "v": 2,
-   "prix_avant": "6,99 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l2dbd383c",
-   "nom": "Croquettes panées colin ail et fines herbes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "animaux",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l8a0d743b",
-   "nom": "L’Étal Du Boucher Rôti de porc farci au chorizo",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l7447c4db",
-   "nom": "L’Étal Du Boucher Mini chorizos",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1a8bd7a3",
-   "nom": "sur place Croissant bicolore fourré au cacao",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "0,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld78c537c",
-   "nom": "Lupilu Lingettes bébé",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "2 x 80 pièces · Au choix : confort · ou sensitive",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "labf7d186",
-   "nom": "Lupilu Couches junior",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "10,68 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "taille 5 · 72 couches",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l2aa55174",
-   "nom": "Lupilu Carrés coton bébé 80 cotons",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l393371da",
-   "nom": "Lupilu Coupelles 6 mois Bio",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,55 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5b71bda3",
-   "nom": "Milbona Maasdam en tranches",
-   "remise": "-30 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 30,
-   "prix": "1,56 €",
-   "v": 2,
-   "prix_avant": "2,23 €",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "300 g · avec Lidl Plus · sur produit fini",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1285f8c2",
-   "nom": "Toque Du Chef Cordons bleus de poulet",
-   "remise": "-15 %",
-   "remise_detail": "",
-   "remise_pct": 15,
-   "prix": "5,35 €",
-   "v": 2,
-   "prix_avant": "6,29 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "2 x 500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lcdc05c0f",
-   "nom": "Tartare Ail & fines herbes",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,12 € : les 2 pour 3,91 €.",
-   "remise_pct": 60,
-   "prix": "2,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits : · sur produit fini",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld7b20ec5",
-   "nom": "Saint Alby Spécialité de saucisson sec",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,20 € : les 2 pour 4,19 €.",
-   "remise_pct": 60,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la53df0e6",
-   "nom": "Saint Alby Allumettes",
-   "remise": "-20 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 20,
-   "prix": "1,35 €",
-   "v": 2,
-   "prix_avant": "1,69 €",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "nature (2) · 2 x 100 g · avec Lidl Plus",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l34d09cb4",
-   "nom": "Milbona Gorgonzola AOP",
-   "remise": "-25 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 25,
-   "prix": "2,14 €",
-   "v": 2,
-   "prix_avant": "2,85 €",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "avec Lidl Plus · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le7c27d75",
-   "nom": "Kinder Bueno",
-   "remise": "-20 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 20,
-   "prix": "3,80 €",
-   "v": 2,
-   "prix_avant": "4,75 €",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "258 g · avec Lidl Plus",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l75ce8076",
-   "nom": "Freshona Pois chiches",
-   "remise": "-34 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 34,
-   "prix": "0,87 €",
-   "v": 2,
-   "prix_avant": "1,32 €",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "400 g (PNE) · avec Lidl Plus",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l29441e72",
-   "nom": "Purio Sac poubelle haute 50 L",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 0,78 € : les 2 pour 2,72 €.",
-   "remise_pct": 60,
-   "prix": "1,94 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit : · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ldcd21141",
-   "nom": "Maître Jean-Pierre 12 briochettes",
-   "remise": "-30 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,65 € : les 2 pour 4,01 €.",
-   "remise_pct": 30,
-   "prix": "2,36 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits : · Au pépites · de chocolat · au lait",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l04911d7f",
-   "nom": "Freeway Ice Tea saveur pêche",
-   "remise": "-68 % sur le 2e",
-   "remise_detail": "Le 2e produit à 0,40 € : les 2 pour 1,66 €.",
-   "remise_pct": 68,
-   "prix": "1,26 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lcba070a6",
-   "nom": "Côtes du Rhône Bio AOP",
-   "remise": "-40 % sur le 2e",
-   "remise_detail": "Le 2e produit à 2,39 € : les 2 pour 6,38 €.",
-   "remise_pct": 40,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · de 75 cl : · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ldd928c06",
-   "nom": "Solevita Jus ’orange",
-   "remise": "-68 % sur le 2e",
-   "remise_detail": "Le 2e produit à 0,40 € : les 2 pour 1,66 €.",
-   "remise_pct": 68,
-   "prix": "1,26 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1e4fa1ff",
-   "nom": "Alimentaires Faites Un Don",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 2,70 € : les 2 pour 9,44 €.",
-   "remise_pct": 60,
-   "prix": "2,70 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "LES 6, 7 ET 8 NOVEMBRE 2026 · Lidl · vous offre · sur le 2 · e · MAGNUM · Glaces · Le produit · Les 2 produits : · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l71db26d0",
-   "nom": "Nixe Rillettes de thon",
-   "remise": "-30 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,18 € : les 2 pour 2,87 €.",
-   "remise_pct": 30,
-   "prix": "1,18 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l0be517ee",
-   "nom": "Deluxe Crème de pistache",
-   "remise": "-40 % sur le 2e",
-   "remise_detail": "Le 2e produit à 2,33 € : les 2 pour 6,22 €.",
-   "remise_pct": 40,
-   "prix": "2,33 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf74268b3",
-   "nom": "Saint Alby Lardons",
-   "remise": "-30 % sur le 2e",
-   "remise_detail": "Le 2e produit à 0,69 € : les 2 pour 1,68 €.",
-   "remise_pct": 30,
-   "prix": "0,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "nature (2) · Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l9aba7f0e",
-   "nom": "Kong Strong Energy drink",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 0,18 € : les 2 pour 0,53 €.",
-   "remise_pct": 50,
-   "prix": "0,18 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de 25 cl : · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l29cd8b44",
-   "nom": "Freshona Lentilles",
-   "remise": "-15 %",
-   "remise_detail": "",
-   "remise_pct": 15,
-   "prix": "0,98 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l0912acd3",
-   "nom": "Nestlé Cookie crisp",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,55 € : les 2 pour 5,43 €.",
-   "remise_pct": 60,
-   "prix": "1,55 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le7df1526",
-   "nom": "Fin Carré Chocolat noir noisettes entières",
-   "remise": "-30 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,88 € : les 2 pour 4,57 €.",
-   "remise_pct": 30,
-   "prix": "1,88 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf3895017",
-   "nom": "Alimentaires Faites Un Don",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 4,25 € : les 2 pour 12,74 €.",
-   "remise_pct": 50,
-   "prix": "4,25 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "LES 6, 7 ET 8 NOVEMBRE 2026 · Lidl · vous offre · HEAD · & SHOULDERS · Shampooing · Le produit · Les 2 produits : · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l03187421",
-   "nom": "Ariel Lessive pods",
-   "remise": "-30 %",
-   "remise_detail": "",
-   "remise_pct": 30,
-   "prix": "7,64 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "572 g · 30 capsules · Au choix : original · ou alpine",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l82a0d3b2",
-   "nom": "Coca-Cola Original",
-   "remise": "-30 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,93 € : les 2 pour 4,68 €.",
-   "remise_pct": 30,
-   "prix": "1,93 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de 2 L : · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lec1b001a",
-   "nom": "Boisson canneberge",
-   "remise": "-25 %",
-   "remise_detail": "",
-   "remise_pct": 25,
-   "prix": "1,37 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "1 L",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb27d96a1",
-   "nom": "Sanex Douche Zero",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,73 € : les 2 pour 6,05 €.",
-   "remise_pct": 60,
-   "prix": "1,73 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de 425 ml : · Les 2 produits : · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l9ae74180",
-   "nom": "le haché L’Étal DU Boucher 10 hachés ultra-moelleux au bœuf",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "10,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "10 x 100 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lc8e52122",
-   "nom": "Sondey Mini gaufres au beurre",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "350 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l37af502b",
-   "nom": "Lactel Lait en brique",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,55 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l92d9cd0f",
-   "nom": "J.D. Gross Chocolat à la menthe",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "200 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf3ae8b6d",
-   "nom": "la gourde Président Cœur de meule",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,89 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "450 g + 50 g OFFERTS · sur produit fini",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l49481917",
-   "nom": "Findus Crousti Express La Classique",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,59 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lac6aab60",
-   "nom": "San Marco Café pur arabica",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "14,75 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb267bf35",
-   "nom": "Principe De Viana Chardonnay Navarra Barrique",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,39 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l693eb766",
-   "nom": "Omo Lessive en capsules** 29 capsules + 19 Offertes 48 capsules",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "9,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Au choix : jasmin ou rosir de plaisir",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le543ce9f",
-   "nom": "Papier toilette 4 plis 16 rouleaux",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,79 €",
-   "v": 2,
-   "prix_avant": "9,54 €",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5aff30e2",
-   "nom": "DU Chef 16 mini blinis",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la033d3c6",
-   "nom": "Deluxe Pâté en croûte cocktail",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "450 g · Au choix : · morilles · ou canard · à l’orange",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l15b59b58",
-   "nom": "Deluxe Bloc de foie gras de canard",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "5,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "150 g · 0 % morceaux",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l66bce0e6",
-   "nom": "Deluxe Saumon fumé d’Écosse",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "320 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la71c2822",
-   "nom": "Nautica Saumon façon gravlax",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "12,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "400 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb355f6c9",
-   "nom": "Deluxe Truite saumonée danoise fumée",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "300 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l565a84fd",
-   "nom": "Deluxe Feuilletés",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Au choix : au canard · aux champignons · de Paris et aux morilles · ou aux noix de Saint- · Jacques et aux · champignons des bois",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lc26f07ce",
-   "nom": "Saveurs De Nos Régions Époisses",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "250 g · sur produit fini",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l80ee8133",
-   "nom": "Deluxe Œufs de caille",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,39 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "18 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le6dba025",
-   "nom": "Maître Jean-Pierre Canapés",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "nature · 250 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb64334b3",
-   "nom": "Deluxe Tiramisu",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb2935178",
-   "nom": "Deluxe Profiteroles",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "450 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l4b7239a6",
-   "nom": "Deluxe 2 gousses de vanille Bourbon",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l68e9bfb8",
-   "nom": "Deluxe Macarons",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "12 x 12 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le7d356f2",
-   "nom": "Toque Du Chef Tapenade",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,19 €",
-   "v": 2,
-   "prix_avant": "2,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Au choix : verte ou noire",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb4655ac1",
-   "nom": "Étal Du Boucher Gigot d’agneau",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "13,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "La pièce · d’environ · 1,5 kg et 2,4 kg",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lbb435782",
-   "nom": "Pâté en croûte de saumon et merlu",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "2 x 90 g · Aux petits · légumes",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l2de795f4",
-   "nom": "Deluxe Gigot d’agneau de 7h",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "14,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "600 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la666d430",
-   "nom": "Deluxe Tentacules de poulpe",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "250 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l91392530",
-   "nom": "Deluxe Cake",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "240 g · Au choix : · saumon · ou canard · romarin",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le6a5a6ae",
-   "nom": "Deluxe 4 fondants de poulet farce à la royale",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "640 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l189b39f7",
-   "nom": "Deluxe Poularde farcie morilles & armagnac",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "24,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "2 kg",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1573d33c",
-   "nom": "Deluxe Tourte volaille cêpes & girolles",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "450 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l40ae798b",
-   "nom": "Terrines",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "4 x 90 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l6442a57b",
-   "nom": "Onctueux citron façon lemon curd",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "2 x 92 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld49c86b7",
-   "nom": "La Mère Poulard Cookies pomme caramel",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "400 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lccc362ff",
-   "nom": "Deluxe Mini calissons",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "125 g · Nature & saveur · framboise",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1ddb43c5",
-   "nom": "Deluxe Marrons confits",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "80 g · cognac* ou rhum*",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l3034d643",
-   "nom": "Deluxe Fruits enrobés de chocolat",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "150 g · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le3c3460a",
-   "nom": "Voyage Des Sens Thé noir de Noël",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "90 g · Au choix : · canelle, orange · ou canneberge",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lad18bda5",
-   "nom": "Abbaye De Vauclair Bière de Noël",
-   "remise": "-20 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 20,
-   "prix": "2,39 €",
-   "v": 2,
-   "prix_avant": "2,99 €",
-   "categorie": "boissons",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "avec Lidl Plus",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1071850d",
-   "nom": "Deluxe Spécialité à base d’huile d’olive vierge extra",
-   "remise": "-20 % avec Lidl Plus",
-   "remise_detail": "Prix avec l'appli Lidl Plus (carte de fidélité).",
-   "remise_pct": 20,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "4,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "avec Lidl Plus au lieu · Saveur truffe",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf18d27c7",
-   "nom": "Favorina Panettone",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "5,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "1 kg",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l4ef3f2ca",
-   "nom": "Favorina Bouchées en pâte d'amandes enrobées de chocolat",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l2f9f7bd4",
-   "nom": "Favorina Pain d'épice enrobé de chocolat",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "500 g · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l9dc3e6d0",
-   "nom": "Favorina Guimauves de Noël",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "1 kg · Chocolat au lait",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l251973cf",
-   "nom": "Favorina Orangettes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "200 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l67aaf033",
-   "nom": "Favorina Stollen amandes et raisins secs",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "750 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l658c0e16",
-   "nom": "Favorina Truffes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "200 g · 70 % de cacao",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l675e2880",
-   "nom": "Favorina Pâtes de fruits exotiques",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "550 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l026f8d92",
-   "nom": "Favorina Barre de nougat de Montélimar",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "200 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lbfd8c7c8",
-   "nom": "Favorina Papillotes 360/380 g",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "5,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ldd3391fc",
-   "nom": "Favorina Plateau expressions gourmandes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "469 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l66450368",
-   "nom": "Favorina Escargots praliné",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "300 g · Chocolat lait",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l4e3ac0f0",
-   "nom": "Favorina Assortiment de biscuits de Noël",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le82c4fed",
-   "nom": "Favorina Sucettes de Noël au chocolat",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "75 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf5f51f98",
-   "nom": "Favorina Truffes fantaisie",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "250 g · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb27da152",
-   "nom": "Calendrier de l’avent",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le5aa65fd",
-   "nom": "Calendrier de l’avent bougies parfumées",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "15,99 €",
-   "v": 2,
-   "prix_avant": "19,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "24 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l45a357dc",
-   "nom": "Calendrier de l’avent beauté",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "15,99 €",
-   "v": 2,
-   "prix_avant": "19,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "24 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb7f0622c",
-   "nom": "Favorina Calendrier de l’avent confitures",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "15,99 €",
-   "v": 2,
-   "prix_avant": "19,99 €",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "24 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l16bceb06",
-   "nom": "Kinder Calendrier de l’avent",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 4,99 € : les 2 pour 14,97 €.",
-   "remise_pct": 50,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits : · Variétés · au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lecb84615",
-   "nom": "Kinder Calendrier Pokémon",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 7,25 € : les 2 pour 21,74 €.",
-   "remise_pct": 50,
-   "prix": "7,25 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l6f7488ac",
-   "nom": "Kinder Calendrier pop up",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 2,99 € : les 2 pour 8,97 €.",
-   "remise_pct": 50,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l710bfe04",
-   "nom": "Kinder Calendrier Bueno",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 4,49 € : les 2 pour 13,47 €.",
-   "remise_pct": 50,
-   "prix": "4,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lbd64a5d7",
-   "nom": "Milka Calendrier de l’Avent",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 4,99 € : les 2 pour 14,97 €.",
-   "remise_pct": 50,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de 147 g : · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l7a210a79",
-   "nom": "Kinder Calendrier duo Noël",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 7,49 € : les 2 pour 22,47 €.",
-   "remise_pct": 50,
-   "prix": "7,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lee93a472",
-   "nom": "Ferrero Mon Chéri",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 4,69 € : les 2 pour 14,07 €.",
-   "remise_pct": 50,
-   "prix": "4,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de 315 g : · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l4f64435c",
-   "nom": "Favorina Pain d’épices aux 3 chocolats",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l998d8f48",
-   "nom": "Favorina Pralines croustillantes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "200 g · Variétés au choix",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lccee873f",
-   "nom": "Favorina Boîte à musique",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "197 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf6732abe",
-   "nom": "Favorina Mini figurines de Noël",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "125 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l17a77103",
-   "nom": "Favorina Pain d’épices",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "300 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la4b29dce",
-   "nom": "Favorina Étoiles de Noël à la cannelle",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "175 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb4531f59",
-   "nom": "Favorina Stollen aux pommes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5e976bbc",
-   "nom": "Favorina Torta imperial",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "200 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lafd81496",
-   "nom": "Ur D’Or Tuiles en chocolat",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "125 g",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lebf142c6",
-   "nom": "Plante verte à suspendre",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 15 cm · Hauteur : 18 - 33 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la8290183",
-   "nom": "Orchidée multiforme en pot dèco",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "14,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 11 cm - Hauteur : 32 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la2368838",
-   "nom": "Dracaena \"Tutti Frutti\"",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 17 cm · Hauteur : 65 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l72d3cb62",
-   "nom": "pour 2 pour Rosier",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 17 cm · Hauteur : 35 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld0e0dad1",
-   "nom": "Amaryllis",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 12 cm · Hauteur : 23 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l14f9c4c5",
-   "nom": "Grande étoile de Noël",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "10,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 22 cm · Hauteur : 40 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l49137bf0",
-   "nom": "Poinsétia tricouleur",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité · ø 13 cm · Hauteur : 29 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lc585e8f2",
-   "nom": "Livarno Caisson à roulettes Verona",
-   "remise": "-18 %",
-   "remise_detail": "",
-   "remise_pct": 18,
-   "prix": "44,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lcd13b488",
-   "nom": "Livarno Colonne de salle de bains Verona",
-   "remise": "-27 %",
-   "remise_detail": "",
-   "remise_pct": 27,
-   "prix": "49,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lc9a26106",
-   "nom": "Livarno Lampadaire à LED",
-   "remise": "-33 %",
-   "remise_detail": "",
-   "remise_pct": 33,
-   "prix": "19,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l6d98190e",
-   "nom": "Livarno Lampe LED à pince",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "5,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l64d88918",
-   "nom": "Alimentaires Faites Un Don Offre valable sur une sélection de produits",
-   "remise": "-33 %",
-   "remise_detail": "",
-   "remise_pct": 33,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "LES 6, 7 ET 8 · NOVEMBRE 2026 · Lidl · vous offre · LIVARNO · Lampe de · bureau · LED sans fil",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l16a2fbe1",
-   "nom": "Ultimate Speed Aide au démarrage pour voitures avec batterie externe Powerbank",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "29,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "la418ba9a",
-   "nom": "Ultimate Speed Chargeur universel",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "39,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5f3afe21",
-   "nom": "Ultimate Speed Chargeur de batterie pour voiture",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "39,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le792da95",
-   "nom": "Ultimate Speed Testeur de batterie de voiture Premium",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "29,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lfbc1b802",
-   "nom": "Ultimate Speed Cric hydraulique Pour soulever et abaisser un véhicule facilement",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "34,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1ac15d67",
-   "nom": "Ultimate Speed Cric hydraulique",
-   "remise": "-40 %",
-   "remise_detail": "",
-   "remise_pct": 40,
-   "prix": "11,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5e393a5a",
-   "nom": "Tronic Support de voiture pour smartphone 40 aimants puissants",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l8581195d",
-   "nom": "Ultimate Speed Couvre-siège chauffant Adapté à tous les sièges auto standards",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ldd5226e1",
-   "nom": "isotherme Résistant à des températures de -50 à 70°C",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "17,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le4456965",
-   "nom": "Ultimate Speed Tapis de voiture universels",
-   "remise": "-28 %",
-   "remise_detail": "",
-   "remise_pct": 28,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "6,99 €",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l9a384585",
-   "nom": "Ultimate Speed Accessoire pour voiture",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ldbd06ea4",
-   "nom": "Parkside 2 modes d’éclairage - Batterie intégrée Flux lumineux (latéral/supérieur) : 200 lm / 100 lm",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l735237fb",
-   "nom": "Parkside Chariot mécanicien tabouret atelier",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "24,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l518465e6",
-   "nom": "Parkside Pince mécanique de précision",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l9ca212cb",
-   "nom": "Parkside Petites pièces pour électricité de voiture",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf3c46911",
-   "nom": "Sensiplast Trousse de premiers secours",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lcf67916f",
-   "nom": "Crivit femme ou homme Du M au XL selon modèle 12 % élasthanne (Lycra®)",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l95f909d9",
-   "nom": "Crivit Legging technique femme Du S au L selon modèle",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "(recyclé) et 15 % · élasthanne (LYCRA®)",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lf330ffc0",
-   "nom": "de course Idéal pour la course ou les longues randonnées",
-   "remise": "-37 %",
-   "remise_detail": "",
-   "remise_pct": 37,
-   "prix": "19,99 €",
-   "v": 2,
-   "prix_avant": "31,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l95ddf161",
-   "nom": "Crivit Chaussures de running femme ou homme",
-   "remise": "-13 %",
-   "remise_detail": "",
-   "remise_pct": 13,
-   "prix": "12,99 €",
-   "v": 2,
-   "prix_avant": "14,99 €",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "(recyclé), imprimé · caoutchouc · et doublure/semelle · intérieure : · polyester (recyclé)",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le55c9de6",
-   "nom": "Crivit",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l6f81cb50",
-   "nom": "Xl selon modèle 14 % élasthanne (Lycra®)",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l00d849e8",
-   "nom": "Crivit Du M au XL selon modèle",
-   "remise": "-28 %",
-   "remise_detail": "",
-   "remise_pct": 28,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "6,99 €",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l30a397da",
-   "nom": "Crelando Set d'animaux en plâtre A peindre, décorer et suspendre",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "animaux",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb7ae3fa1",
-   "nom": "Dès 5 ans Dès 5 ans",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "19 pièces · CRELANDO · Set d’aérographie · Piles incluses",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb26b8f25",
-   "nom": "Crelando Livre de dessin avec pochoirs",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1fb211d0",
-   "nom": "Crelando Feutres magiques",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lc91c34eb",
-   "nom": "Pritt Colle",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le3a9cb10",
-   "nom": "Crelando Accessoires de décoration créative",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "L’unité, le lot ou",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l05447d40",
-   "nom": "Crelando Set de création en bois Dès 8 ans",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "6,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l100aadb9",
-   "nom": "Singer Machine à coudre mécanique M3205",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "99,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l1f778d36",
-   "nom": "Espace de travail à droite de",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "299,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "l’aiguille (bras libre) : 149 mm · Circonférence du bras · libre : 28,0 cm · SINGER · Machine à coudre · C240",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l3cebebe5",
-   "nom": "Max World Coussin été/hiver pour chien Premium",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "11,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "animaux",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lfa98aeca",
-   "nom": "Mila’S World Gamelle",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l3de78245",
-   "nom": "Esmara Manteau aspect laine femme",
-   "remise": "-33 %",
-   "remise_detail": "",
-   "remise_pct": 33,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l81fce00c",
-   "nom": "Esmara Robe en maille femme",
-   "remise": "-10 %",
-   "remise_detail": "",
-   "remise_pct": 10,
-   "prix": "17,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5c11d433",
-   "nom": "Esmara Bottines Chelsea en cuir Premium femme",
-   "remise": "-13 %",
-   "remise_detail": "",
-   "remise_pct": 13,
-   "prix": "12,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Ex. Dessus : cuir ; doublure/semelle · de propreté : textile ;",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l3232f04f",
-   "nom": "Esmara Pull sans manches en maille femme 2 % élasthanne",
-   "remise": "-28 %",
-   "remise_detail": "",
-   "remise_pct": 28,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld710f9b6",
-   "nom": "Esmara Haut à col roulé en maille fine femme",
-   "remise": "-23 %",
-   "remise_detail": "",
-   "remise_pct": 23,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "laccf961d",
-   "nom": "Silvercrest 2 en 1 aspirateur à main ou aspirateur balai - Accessoires inclus",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "26,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l11e4a5bd",
-   "nom": "Vileda Set de nettoyage Ultramax",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "17,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lfe4d8d62",
-   "nom": "Philips Aspirateur à sac",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "69,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb566c96f",
-   "nom": "Vileda Accessoires de nettoyage",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l0a30a68e",
-   "nom": "Livarno",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lb6172802",
-   "nom": "Livarno Plaid",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,89 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l316fce5c",
-   "nom": "Sur Vos Achats Livarno Sapin de Noël LED",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "29,59 €",
-   "v": 2,
-   "prix_avant": "36,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l46d2a116",
-   "nom": "Livarno Home Tabouret avec rangement",
-   "remise": "-20 %",
-   "remise_detail": "",
-   "remise_pct": 20,
-   "prix": "11,99 €",
-   "v": 2,
-   "prix_avant": "14,99 €",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld3a4b154",
-   "nom": "Livarno Bougie parfumée",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le7665f9f",
-   "nom": "Livarno Home Bougies",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "le4f8817a",
-   "nom": "Livarno Home Bougie parfumée et parfum d’ambiance",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l318b3649",
-   "nom": "Livarno Figurine Casse-noisette Hauteur 35 cm",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "ld4b36eb6",
-   "nom": "Lupilu Jeu de construction Dès 1 an",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l07488efa",
-   "nom": "Lupilu Peluche interactive",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l871117a6",
-   "nom": "Bayer Design Piccolina Poupée avec 24 fonctions Dès 18 mois",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "14,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "lda96011d",
-   "nom": "Lupilu Véhicule sonore et lumineux Dès 3 ans",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l6f926326",
-   "nom": "Spinmaster Véhicule licence Dès 3 ans",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "8,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l38bb62f7",
-   "nom": "Paw Patrol Peluche licence Pat’ Patrouille",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l7f01565e",
-   "nom": "Prix De Vente Lupilu Véhicule télécommandé licence Télécommande et piles incluses Dès 6 ans",
-   "remise": "-46 %",
-   "remise_detail": "",
-   "remise_pct": 46,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l5e2e8a17",
-   "nom": "Hot Wheels Véhicule",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,39 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "catalogue": "Les promos de la semaine du 05/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
    "id": "l77f97a32",
    "nom": "Cultiver une alimentation Clémentine feuille",
    "remise": "-33 % avec Lidl Plus",
@@ -13527,28 +9017,6 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
    "image": "",
    "description": "Catégorie 1 · Calibre 22/24 - 24/26 · Variété : Hass",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l8b78901d",
-   "nom": "Citron",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-12",
-   "au": "2026-11-18",
-   "catalogue": "Les promos de la semaine du 12/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Catégorie 1",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -13861,50 +9329,6 @@
    "enseigne": "Lidl"
   },
   {
-   "id": "lc50bfaac",
-   "nom": "Saint Alby Rôti de porc aux herbes 4 tranches",
-   "remise": "-50 % sur le 2e",
-   "remise_detail": "Le 2e produit à 1,12 € : les 2 pour 3,91 €.",
-   "remise_pct": 50,
-   "prix": "2,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-12",
-   "au": "2026-11-18",
-   "catalogue": "Les promos de la semaine du 12/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
-   "id": "l338afa32",
-   "nom": "Toque Du Chef Pâte à pizza ou",
-   "remise": "-60 % sur le 2e",
-   "remise_detail": "Le 2e produit à 0,80 € : les 2 pour 2,79 €.",
-   "remise_pct": 60,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "traiteur",
-   "magasins": [
-    "lidl"
-   ],
-   "du": "2026-11-12",
-   "au": "2026-11-18",
-   "catalogue": "Les promos de la semaine du 12/11",
-   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
-   "image": "",
-   "description": "Le produit de · Les 2 produits :",
-   "rayon_leclerc": "",
-   "enseigne": "Lidl"
-  },
-  {
    "id": "l188a028d",
    "nom": "Envia Yaourts à la grecque lit fraise",
    "remise": "-40 % sur le 2e",
@@ -13945,6 +9369,28 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
    "image": "",
    "description": "200 g · avec Lidl Plus",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "lc50bfaac",
+   "nom": "Saint Alby Rôti de porc aux herbes 4 tranches",
+   "remise": "-60 % sur le 2e",
+   "remise_detail": "Le 2e produit à 1,12 € : les 2 pour 3,91 €.",
+   "remise_pct": 60,
+   "prix": "2,79 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "viande_poisson",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "Le produit de 160 g : · Les 2 produits :",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -14609,6 +10055,28 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "l15b59b58",
+   "nom": "Deluxe Bloc de foie gras de canard",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "5,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "viande_poisson",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "150 g",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
    "id": "ld6c6efc5",
    "nom": "Freshona Châtaignes",
    "remise": "",
@@ -14693,6 +10161,50 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
    "image": "",
    "description": "300 g",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "l68e9bfb8",
+   "nom": "Deluxe Macarons",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "3,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "sucre",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "12 x 12 g",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "lb64334b3",
+   "nom": "Deluxe Tiramisu",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "500 g",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -15533,6 +11045,28 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "lf18d27c7",
+   "nom": "Favorina Panettone",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "5,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "1 kg",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
    "id": "la13872d5",
    "nom": "Favorina Pâte d'amande enrobée de chocolat",
    "remise": "",
@@ -15595,6 +11129,28 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
    "image": "",
    "description": "500 g · Au choix : chocolat · noir ou lait",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "lf5f51f98",
+   "nom": "Favorina Truffes fantaisie",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "fruits_legumes",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "250 g · Variétés au choix",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -15665,6 +11221,28 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "le82c4fed",
+   "nom": "Favorina Sucettes de noël au chocolat",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "sucre",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "5 x 15 g",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
    "id": "la463df15",
    "nom": "Favorina Marrons glacés",
    "remise": "",
@@ -15705,6 +11283,28 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
    "image": "",
    "description": "1 kg",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "l675e2880",
+   "nom": "Favorina Pâtes de fruits exotiques",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "4,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "fruits_legumes",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "550 g",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -15797,6 +11397,28 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "l66450368",
+   "nom": "Favorina Escargots praliné",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "3,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "300 g",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
    "id": "l1669adee",
    "nom": "Favorina Expressions gourmandes lait",
    "remise": "",
@@ -15859,6 +11481,28 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
    "image": "",
    "description": "469 g",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "lb27da152",
+   "nom": "Calendrier de l’avent",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "1,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "fruits_legumes",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "Variétés au choix",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -17645,6 +13289,28 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "lb6172802",
+   "nom": "Livarno Plaid",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "8,89 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-11-12",
+   "au": "2026-11-18",
+   "catalogue": "Les promos de la semaine du 12/11",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
+   "image": "",
+   "description": "",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
    "id": "l8bb88bb6",
    "nom": "Crelando Set de décoration pour fenêtres",
    "remise": "",
@@ -17953,6 +13619,28 @@
    "enseigne": "Lidl"
   },
   {
+   "id": "le7d356f2",
+   "nom": "Toque Du Chef Tapenade",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "1,19 €",
+   "v": 2,
+   "prix_avant": "9,99 €",
+   "categorie": "autre",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-10-29",
+   "au": "2026-12-27",
+   "catalogue": "Du 29/10 au 27/12 du 29/10",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/catalogue-de-noel-du-29-10-au-27-12/ar/0",
+   "image": "",
+   "description": "Au choix : verte ou noire",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
    "id": "le25d91aa",
    "nom": "et aux morilles ou noix de Saint-Jacques et aux champignons des bois",
    "remise": "",
@@ -17961,6 +13649,28 @@
    "prix": "0,99 €",
    "v": 2,
    "prix_avant": "12,49 €",
+   "categorie": "viande_poisson",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-10-29",
+   "au": "2026-12-27",
+   "catalogue": "Du 29/10 au 27/12 du 29/10",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/catalogue-de-noel-du-29-10-au-27-12/ar/0",
+   "image": "",
+   "description": "",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "l66bce0e6",
+   "nom": "Deluxe Saumon fumé d’Écosse",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "9,99 €",
+   "v": 2,
+   "prix_avant": "",
    "categorie": "viande_poisson",
    "magasins": [
     "lidl"
@@ -18587,6 +14297,28 @@
    "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/catalogue-de-noel-du-29-10-au-27-12/ar/0",
    "image": "",
    "description": "Taillemaxi · LIVARNO · Bougies · Disponibles en lot · de 2, 4 ou de 6 · Le lot au choix",
+   "rayon_leclerc": "",
+   "enseigne": "Lidl"
+  },
+  {
+   "id": "l318b3649",
+   "nom": "Livarno Figurine Casse-noisette Hauteur 35 cm",
+   "remise": "",
+   "remise_detail": "",
+   "remise_pct": null,
+   "prix": "4,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "lidl"
+   ],
+   "du": "2026-10-29",
+   "au": "2026-12-27",
+   "catalogue": "Du 29/10 au 27/12 du 29/10",
+   "catalogue_url": "https://www.lidl.fr/l/catalogue-de-la-semaine/catalogue-de-noel-du-29-10-au-27-12/ar/0",
+   "image": "",
+   "description": "L’unité au choix",
    "rayon_leclerc": "",
    "enseigne": "Lidl"
   },
@@ -19377,12 +15109,12 @@
    "enseigne": "Action"
   },
   {
-   "id": "af1830d25",
-   "nom": "Peinture acrylique Van Bleiswijck",
+   "id": "a1df16dc6",
+   "nom": "Suspension de Noël",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "3,99 €",
+   "prix": "1,59 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -19392,20 +15124,20 @@
    "du": "2026-11-11",
    "au": "2026-11-17",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224295/peinture-acrylique-van-bleiswijck/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224295_8718964290796-110_01_ldw4xc.webp",
-   "description": "45 couleurs | 7,39 €/l",
-   "detail": "45 couleurs",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225401/suspension-de-noel/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225401_8718964300099-111_01_iujczz.webp",
+   "description": "12 cm | Divers modèles | 1,59 €/pce",
+   "detail": "12 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
   {
-   "id": "a75ca76d7",
-   "nom": "Desserte",
+   "id": "aff909e9d",
+   "nom": "Boule lumineuse LED",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "15,86 €",
+   "prix": "9,95 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -19415,10 +15147,79 @@
    "du": "2026-11-11",
    "au": "2026-11-17",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3223475/desserte/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223475_8718964278695-110_01_srmexi.webp",
-   "description": "44,5 x 33,5 x 83,5 cm | Diverses couleurs | 15,86 €/pce",
-   "detail": "44,5 x 33,5 x 83,5 cm | Diverses couleurs",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225293/boule-lumineuse-led/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225293_8718964303397-111_01_slufl5.webp",
+   "description": "Ø 28 cm | 360 LED | 9,95 €/pce",
+   "detail": "Ø 28 cm | 360 LED",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ab1207380",
+   "nom": "Huile à lèvres Bonjolie",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3219430/huile-a-levres-bonjolie/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219430_8715342054667-110_01_urftsl.webp",
+   "description": "Diverses couleurs | 247,50 €/l",
+   "detail": "Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a525e58f5",
+   "nom": "Calendrier de l'Avent premium Max & More",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "12,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2579875/calendrier-de-l-avent-premium-max-more/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2579875_8719238070939-111_01_u6id0l.webp",
+   "description": "24 pièces | 12,49 €/pce",
+   "detail": "24 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "adb10db70",
+   "nom": "Bonnet",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2555232/bonnet/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2555232_8721302630529-110_02_gnbfwy.webp",
+   "description": "Diverses variantes | 2,99 €/pce",
+   "detail": "Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -20044,29 +15845,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a1df16dc6",
-   "nom": "Suspension de Noël",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,59 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225401/suspension-de-noel/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225401_8718964300099-111_01_iujczz.webp",
-   "description": "12 cm | Divers modèles | 1,59 €/pce",
-   "detail": "12 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a9b8e1271",
    "nom": "Calendrier de l'Avent à remplir",
    "remise": "Affaire de la semaine",
@@ -20109,29 +15887,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225324_8718964303182-111_01_ryji2q.webp",
    "description": "Divers modèles | 3,77 €/pce",
    "detail": "Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "aff909e9d",
-   "nom": "Boule lumineuse LED",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225293/boule-lumineuse-led/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225293_8718964303397-111_01_slufl5.webp",
-   "description": "Ø 28 cm | 360 LED | 9,95 €/pce",
-   "detail": "Ø 28 cm | 360 LED",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -20389,6 +16144,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "af1830d25",
+   "nom": "Peinture acrylique Van Bleiswijck",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224295/peinture-acrylique-van-bleiswijck/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224295_8718964290796-110_01_ldw4xc.webp",
+   "description": "45 couleurs | 7,39 €/l",
+   "detail": "45 couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "abce50e26",
    "nom": "Éponges de maquillage Max & More",
    "remise": "Affaire de la semaine",
@@ -20477,6 +16255,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223636_8721335816037-111_01_y3phm7.webp",
    "description": "Divers modèles | 4,99 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a75ca76d7",
+   "nom": "Desserte",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "15,86 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223475/desserte/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223475_8718964278695-110_01_srmexi.webp",
+   "description": "44,5 x 33,5 x 83,5 cm | Diverses couleurs | 15,86 €/pce",
+   "detail": "44,5 x 33,5 x 83,5 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -20684,29 +16485,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219901_8721103100108-111_01_annzpv.webp",
    "description": "Ø 24 cm | 10 watts | 7,73 €/pce",
    "detail": "Ø 24 cm | 10 watts",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "ab1207380",
-   "nom": "Huile à lèvres Bonjolie",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3219430/huile-a-levres-bonjolie/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219430_8715342054667-110_01_urftsl.webp",
-   "description": "Diverses couleurs | 247,50 €/l",
-   "detail": "Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -22344,29 +18122,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a525e58f5",
-   "nom": "Calendrier de l'Avent premium Max & More",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "12,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2579875/calendrier-de-l-avent-premium-max-more/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2579875_8719238070939-111_01_u6id0l.webp",
-   "description": "24 pièces | 12,49 €/pce",
-   "detail": "24 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a61b2a530",
    "nom": "Sirop pour café",
    "remise": "Affaire de la semaine",
@@ -22639,29 +18394,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27999263.webp",
    "description": "86 grammes | 20,81 €/kg",
    "detail": "86 grammes",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "adb10db70",
-   "nom": "Bonnet",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2555232/bonnet/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2555232_8721302630529-110_02_gnbfwy.webp",
-   "description": "Diverses variantes | 2,99 €/pce",
-   "detail": "Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -23047,17 +18779,6 @@
    "v": 3
   },
   {
-   "numero": "du-05-11-au-11-11-les-promos-de-la-semaine",
-   "titre": "Les promos de la semaine",
-   "url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-05-11-au-11-11-les-promos-de-la-semaine/ar/0",
-   "du": "2026-11-05",
-   "au": "2026-11-11",
-   "magasins": [
-    "lidl"
-   ],
-   "v": 3
-  },
-  {
    "numero": "du-12-11-au-18-11-les-promos-de-la-semaine",
    "titre": "Les promos de la semaine",
    "url": "https://www.lidl.fr/l/catalogue-de-la-semaine/du-12-11-au-18-11-les-promos-de-la-semaine/ar/0",
@@ -23132,75 +18853,6 @@
    ]
   },
   {
-   "id": "r57cb2754",
-   "titre": "Salade de fruits frais",
-   "temps_min": 15,
-   "personnes": 4,
-   "nb_promos": 4,
-   "prix_revient": "6,29 €",
-   "prix_par_personne": "1,57 €",
-   "economie": "0,17 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/b28d42cd5e9ddf73cd15a4f2fd1034ec",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/0339eb98d7d66fc92df0ac8c2da0c508"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fruitsalad_2.jpg/960px-Fruitsalad_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Oranges",
-     "quantite": "2",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,16 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Bananes",
-     "quantite": "2",
-     "promo_id": "l41138780",
-     "en_promo": true,
-     "prix": "0,43 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Kiwis",
-     "quantite": "3",
-     "promo_id": "p7877ef82",
-     "en_promo": true,
-     "prix": "1,32 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Pommes",
-     "quantite": "2",
-     "promo_id": "p8355767b",
-     "en_promo": true,
-     "prix": "0,88 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Raisin",
-     "quantite": "1 grappe",
-     "promo_id": "l2ef7fa6f",
-     "en_promo": true,
-     "prix": "2,50 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Éplucher et couper tous les fruits.",
-    "Arroser d'un jus d'orange, servir frais."
-   ]
-  },
-  {
    "id": "r58a50747",
    "titre": "Poisson pané maison et purée",
    "temps_min": 35,
@@ -23269,427 +18921,6 @@
     "Préparer une purée avec les pommes de terre et le lait.",
     "Passer le poisson dans l'œuf battu puis la chapelure.",
     "Cuire 4 min par face dans l'huile chaude."
-   ]
-  },
-  {
-   "id": "rb73e4a7e",
-   "titre": "Spaghetti bolognaise",
-   "temps_min": 40,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "9,40 €",
-   "prix_par_personne": "2,35 €",
-   "economie": "1,41 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/355f9903f65a4ea0b96c59e066c9453b",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/8d3a660c0608d842fefa01cf6839273b"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg/960px-Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Bœuf haché",
-     "quantite": "500 g",
-     "promo_id": "p955010e9",
-     "en_promo": true,
-     "prix": "4,80 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Spaghetti",
-     "quantite": "500 g",
-     "promo_id": "pfb6db5f2",
-     "en_promo": true,
-     "prix": "0,48 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Tomates concassées",
-     "quantite": "800 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "2,00 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Carotte",
-     "quantite": "1",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,20 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Oignon",
-     "quantite": "1",
-     "promo_id": "l1b828fdf",
-     "en_promo": true,
-     "prix": "0,34 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Parmesan",
-     "quantite": "50 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,57 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    }
-   ],
-   "etapes": [
-    "Faire revenir l'oignon et la carotte hachés, puis la viande.",
-    "Ajouter les tomates, saler, poivrer et mijoter 25 min.",
-    "Cuire les spaghetti, servir avec la sauce et le parmesan."
-   ]
-  },
-  {
-   "id": "rf00516f2",
-   "titre": "Chili con carne",
-   "temps_min": 45,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "8,76 €",
-   "prix_par_personne": "2,19 €",
-   "economie": "1,36 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/355f9903f65a4ea0b96c59e066c9453b",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bowl_of_chili.jpg/960px-Bowl_of_chili.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Bœuf haché",
-     "quantite": "500 g",
-     "promo_id": "p955010e9",
-     "en_promo": true,
-     "prix": "4,80 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Haricots rouges",
-     "quantite": "500 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,25 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Tomates concassées",
-     "quantite": "400 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,00 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Poivron",
-     "quantite": "1",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,00 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Oignon",
-     "quantite": "1",
-     "promo_id": "l1b828fdf",
-     "en_promo": true,
-     "prix": "0,34 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Riz",
-     "quantite": "300 g",
-     "promo_id": "p36d7bd2a",
-     "en_promo": true,
-     "prix": "0,37 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Faire revenir l'oignon et le poivron, puis la viande.",
-    "Ajouter tomates, haricots égouttés, cumin et paprika.",
-    "Mijoter 25 min, servir avec le riz."
-   ]
-  },
-  {
-   "id": "r9c70cb83",
-   "titre": "Émincé de dinde au curry et riz",
-   "temps_min": 25,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "14,66 €",
-   "prix_par_personne": "3,67 €",
-   "economie": "0,66 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/174a746d41ce51f8d8fee2424e570d3a",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bengali_Style_Chicken_Curry_-_Howrah_20230623_113027.jpg/960px-Bengali_Style_Chicken_Curry_-_Howrah_20230623_113027.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Escalopes de dinde",
-     "quantite": "600 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "12,68 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Lait de coco",
-     "quantite": "40 cl",
-     "promo_id": "p42a3aaf3",
-     "en_promo": true,
-     "prix": "1,18 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Curry",
-     "quantite": "2 c. à café",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,10 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Oignon",
-     "quantite": "1",
-     "promo_id": "l1b828fdf",
-     "en_promo": true,
-     "prix": "0,34 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Riz",
-     "quantite": "300 g",
-     "promo_id": "p36d7bd2a",
-     "en_promo": true,
-     "prix": "0,37 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Cuire le riz.",
-    "Émincer la dinde et la faire dorer avec l'oignon.",
-    "Ajouter le curry puis le lait de coco, mijoter 10 min.",
-    "Servir avec le riz."
-   ]
-  },
-  {
-   "id": "r68e83d55",
-   "titre": "Pâtes au saumon et à la crème",
-   "temps_min": 20,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "10,00 €",
-   "prix_par_personne": "2,50 €",
-   "economie": "0,22 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/4c6b2b301614275e9a3722c5f086e6cf",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/8d3a660c0608d842fefa01cf6839273b"
-   ],
-   "photo": "",
-   "photo_credit": "",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Saumon",
-     "quantite": "300 g",
-     "promo_id": "p5cf5b5b0",
-     "en_promo": true,
-     "prix": "7,50 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Pâtes",
-     "quantite": "400 g",
-     "promo_id": "pfb6db5f2",
-     "en_promo": true,
-     "prix": "0,52 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Crème fraîche",
-     "quantite": "25 cl",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,50 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Citron",
-     "quantite": "1",
-     "promo_id": "l8b78901d",
-     "en_promo": true,
-     "prix": "0,48 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Cuire les pâtes.",
-    "Couper le saumon en dés, le cuire 3 min dans la crème.",
-    "Ajouter le zeste de citron, mélanger avec les pâtes."
-   ]
-  },
-  {
-   "id": "r753477a6",
-   "titre": "Chou-fleur au gratin",
-   "temps_min": 45,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "3,06 €",
-   "prix_par_personne": "0,77 €",
-   "economie": "0,20 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/57078c632473de116a4ce2b1fef7e24d",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/62b8bf304ad182cbd4bf258dd31c3257"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cauliflower_cheese_side_dish.jpg/960px-Cauliflower_cheese_side_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Chou-fleur",
-     "quantite": "1",
-     "promo_id": "l976359ba",
-     "en_promo": true,
-     "prix": "1,60 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Lait",
-     "quantite": "50 cl",
-     "promo_id": "p845c81dd",
-     "en_promo": true,
-     "prix": "0,39 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Beurre",
-     "quantite": "40 g",
-     "promo_id": "p931d9e46",
-     "en_promo": true,
-     "prix": "0,20 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Farine",
-     "quantite": "40 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,05 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Emmental râpé",
-     "quantite": "100 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,82 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    }
-   ],
-   "etapes": [
-    "Cuire les bouquets de chou-fleur 10 min.",
-    "Préparer la béchamel.",
-    "Napper, couvrir de fromage, gratiner 20 min à 200 °C."
-   ]
-  },
-  {
-   "id": "r1d31c3f3",
-   "titre": "Pavés de saumon, riz et brocolis",
-   "temps_min": 25,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "17,65 €",
-   "prix_par_personne": "4,41 €",
-   "economie": "0,16 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/4c6b2b301614275e9a3722c5f086e6cf",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sashimi_-_Maguro_Restaurant%2C_Bangna%2C_Bangkok_%2844856596864%29.jpg/960px-Sashimi_-_Maguro_Restaurant%2C_Bangna%2C_Bangkok_%2844856596864%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Pavés de saumon",
-     "quantite": "4",
-     "promo_id": "p5cf5b5b0",
-     "en_promo": true,
-     "prix": "14,00 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Brocoli",
-     "quantite": "1",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "2,80 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Riz",
-     "quantite": "300 g",
-     "promo_id": "p36d7bd2a",
-     "en_promo": true,
-     "prix": "0,37 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Citron",
-     "quantite": "1",
-     "promo_id": "l8b78901d",
-     "en_promo": true,
-     "prix": "0,48 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Cuire le riz et le brocoli à la vapeur.",
-    "Cuire le saumon 4 min par face à la poêle.",
-    "Arroser de jus de citron."
    ]
   },
   {
@@ -23762,6 +18993,495 @@
     "Cuire 10 min au four à 200 °C ou à l'appareil.",
     "Servir avec la salade."
    ]
+  },
+  {
+   "id": "rb94947a0",
+   "titre": "Raclette",
+   "temps_min": 20,
+   "personnes": 4,
+   "nb_promos": 3,
+   "prix_revient": "22,43 €",
+   "prix_par_personne": "5,61 €",
+   "economie": "",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/54e347f1fe893d98945db5a62dc3009d",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/4c2e4d7ebe9088392038b649bfe90f74",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/4cd80db1e94d6245901475a605ca5231"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Raclette_20040817_140816.jpg/960px-Raclette_20040817_140816.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Fromage à raclette",
+     "quantite": "800 g",
+     "promo_id": "pbadd0d90",
+     "en_promo": true,
+     "prix": "10,26 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Pommes de terre",
+     "quantite": "1,2 kg",
+     "promo_id": "pc55a8af5",
+     "en_promo": true,
+     "prix": "2,96 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Charcuterie",
+     "quantite": "400 g",
+     "promo_id": "pa3dbb589",
+     "en_promo": true,
+     "prix": "7,20 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Cornichons",
+     "quantite": "1 bocal",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    }
+   ],
+   "etapes": [
+    "Cuire les pommes de terre en robe des champs 25 min.",
+    "Servir avec le fromage fondu à l'appareil, la charcuterie et les cornichons."
+   ]
+  },
+  {
+   "id": "r57cb2754",
+   "titre": "Salade de fruits frais",
+   "temps_min": 15,
+   "personnes": 4,
+   "nb_promos": 3,
+   "prix_revient": "6,46 €",
+   "prix_par_personne": "1,61 €",
+   "economie": "",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/b28d42cd5e9ddf73cd15a4f2fd1034ec",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/0339eb98d7d66fc92df0ac8c2da0c508"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fruitsalad_2.jpg/960px-Fruitsalad_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Oranges",
+     "quantite": "2",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,16 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Bananes",
+     "quantite": "2",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,60 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Kiwis",
+     "quantite": "3",
+     "promo_id": "p7877ef82",
+     "en_promo": true,
+     "prix": "1,32 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Pommes",
+     "quantite": "2",
+     "promo_id": "p8355767b",
+     "en_promo": true,
+     "prix": "0,88 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Raisin",
+     "quantite": "1 grappe",
+     "promo_id": "l2ef7fa6f",
+     "en_promo": true,
+     "prix": "2,50 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Éplucher et couper tous les fruits.",
+    "Arroser d'un jus d'orange, servir frais."
+   ]
+  },
+  {
+   "id": "rb73e4a7e",
+   "titre": "Spaghetti bolognaise",
+   "temps_min": 40,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "9,40 €",
+   "prix_par_personne": "2,35 €",
+   "economie": "1,41 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/355f9903f65a4ea0b96c59e066c9453b",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/8d3a660c0608d842fefa01cf6839273b"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg/960px-Tagliatelle_al_rag%C3%B9_%28image_modified%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Bœuf haché",
+     "quantite": "500 g",
+     "promo_id": "p955010e9",
+     "en_promo": true,
+     "prix": "4,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Spaghetti",
+     "quantite": "500 g",
+     "promo_id": "pfb6db5f2",
+     "en_promo": true,
+     "prix": "0,48 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Tomates concassées",
+     "quantite": "800 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Carotte",
+     "quantite": "1",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,20 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Oignon",
+     "quantite": "1",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,34 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Parmesan",
+     "quantite": "50 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,57 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    }
+   ],
+   "etapes": [
+    "Faire revenir l'oignon et la carotte hachés, puis la viande.",
+    "Ajouter les tomates, saler, poivrer et mijoter 25 min.",
+    "Cuire les spaghetti, servir avec la sauce et le parmesan."
+   ]
+  },
+  {
+   "id": "r3fccd587",
+   "titre": "Salade de pâtes au thon",
+   "temps_min": 20,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "6,49 €",
+   "prix_par_personne": "1,62 €",
+   "economie": "1,37 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/8d3a660c0608d842fefa01cf6839273b",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/fa0ead7d2dbd3ea27f7846bf3aecbecf"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pasta_salad_closeup.JPG/960px-Pasta_salad_closeup.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Pâtes",
+     "quantite": "300 g",
+     "promo_id": "pfb6db5f2",
+     "en_promo": true,
+     "prix": "0,39 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Thon",
+     "quantite": "2 boîtes",
+     "promo_id": "p55c0b3e2",
+     "en_promo": true,
+     "prix": "2,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Tomates",
+     "quantite": "3",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,80 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Maïs",
+     "quantite": "1 boîte",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Mayonnaise",
+     "quantite": "3 c. à soupe",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,30 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    }
+   ],
+   "etapes": [
+    "Cuire et refroidir les pâtes.",
+    "Mélanger avec thon, tomates en dés, maïs et mayonnaise."
+   ]
+  },
+  {
+   "id": "rf00516f2",
+   "titre": "Chili con carne",
+   "temps_min": 45,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "8,76 €",
+   "prix_par_personne": "2,19 €",
+   "economie": "1,36 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/355f9903f65a4ea0b96c59e066c9453b",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bowl_of_chili.jpg/960px-Bowl_of_chili.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Bœuf haché",
+     "quantite": "500 g",
+     "promo_id": "p955010e9",
+     "en_promo": true,
+     "prix": "4,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Haricots rouges",
+     "quantite": "500 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,25 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Tomates concassées",
+     "quantite": "400 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Poivron",
+     "quantite": "1",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,00 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Oignon",
+     "quantite": "1",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,34 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Riz",
+     "quantite": "300 g",
+     "promo_id": "p36d7bd2a",
+     "en_promo": true,
+     "prix": "0,37 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Faire revenir l'oignon et le poivron, puis la viande.",
+    "Ajouter tomates, haricots égouttés, cumin et paprika.",
+    "Mijoter 25 min, servir avec le riz."
+   ]
+  },
+  {
+   "id": "r9c70cb83",
+   "titre": "Émincé de dinde au curry et riz",
+   "temps_min": 25,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "14,66 €",
+   "prix_par_personne": "3,67 €",
+   "economie": "0,66 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/174a746d41ce51f8d8fee2424e570d3a",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bengali_Style_Chicken_Curry_-_Howrah_20230623_113027.jpg/960px-Bengali_Style_Chicken_Curry_-_Howrah_20230623_113027.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Escalopes de dinde",
+     "quantite": "600 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "12,68 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Lait de coco",
+     "quantite": "40 cl",
+     "promo_id": "p42a3aaf3",
+     "en_promo": true,
+     "prix": "1,18 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Curry",
+     "quantite": "2 c. à café",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,10 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Oignon",
+     "quantite": "1",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,34 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Riz",
+     "quantite": "300 g",
+     "promo_id": "p36d7bd2a",
+     "en_promo": true,
+     "prix": "0,37 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Cuire le riz.",
+    "Émincer la dinde et la faire dorer avec l'oignon.",
+    "Ajouter le curry puis le lait de coco, mijoter 10 min.",
+    "Servir avec le riz."
+   ]
+  },
+  {
+   "id": "r99ec6752",
+   "titre": "Sauté de porc au caramel",
+   "temps_min": 40,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "7,01 €",
+   "prix_par_personne": "1,75 €",
+   "economie": "0,28 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/793a1260e3026592c7b39f54716b3a5e",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Porc_au_caramel.jpg/960px-Porc_au_caramel.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Échine de porc",
+     "quantite": "700 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "6,30 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Sauce soja",
+     "quantite": "4 c. à soupe",
+     "promo_id": "pf41eae61",
+     "en_promo": true,
+     "prix": "0,28 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Sucre",
+     "quantite": "3 c. à soupe",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,06 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Riz",
+     "quantite": "300 g",
+     "promo_id": "p36d7bd2a",
+     "en_promo": true,
+     "prix": "0,37 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Faire un caramel avec le sucre et un peu d'eau.",
+    "Ajouter le porc en dés et le soja, cuire 25 min.",
+    "Servir avec le riz."
+   ]
   }
  ],
  "ville": {
@@ -23774,7 +19494,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-11T21:12",
+   "maj": "2026-11-12T13:44",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -23818,14 +19538,6 @@
     "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=750995714"
    },
    {
-    "titre": "Cérémonie du 11 novembre",
-    "date": "2026-11-04",
-    "resume": "",
-    "texte": "",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1468541323"
-   },
-   {
     "titre": "Spectacle \"Souliers et petons\" au point lecture",
     "date": "2026-11-04",
     "resume": "Enfance / Jeunesse Publié le 04 nov. 2026",
@@ -23840,7 +19552,7 @@
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=877422073"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1468541323"
    },
    {
     "titre": "Enquête publique",
@@ -23852,16 +19564,6 @@
    }
   ],
   "agenda": [
-   {
-    "titre": "108è cérémonie de commémoration",
-    "date": "2026-11-11",
-    "heure": "10h30",
-    "lieu": "",
-    "source": "le-houlme.fr",
-    "url": "https://www.le-houlme.fr/agenda/49665/5943-108e-ceremonie-de-commemoration.htm",
-    "texte": "Armistice Mercredi 11 novembre 10h30 devant l'église 11h00 Monument aux morts",
-    "image": "https://www.le-houlme.fr/uploads/Agenda/19/49665_017_11novembre1918.jpeg"
-   },
    {
     "titre": "Soirée jazz d'automne",
     "date": "2026-11-19",
