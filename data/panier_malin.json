@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-12T13:44",
+ "genere_le": "2026-11-12T21:49",
  "promos_maj_le": "2026-11-10T21:28",
  "magasins": [
   {
@@ -17356,7 +17356,7 @@
    "au": "2026-11-17",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3207516/chandelles-candra/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3207516_8718964266784-110_01_jip7ky.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/31235059.webp",
    "description": "8 pièces | 0,44 €/pce",
    "detail": "8 pièces",
    "rayon_leclerc": "",
@@ -19494,7 +19494,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-12T13:44",
+   "maj": "2026-11-12T21:49",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
