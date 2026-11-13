@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-12T21:49",
+ "genere_le": "2026-11-13T13:14",
  "promos_maj_le": "2026-11-10T21:28",
  "magasins": [
   {
@@ -15132,29 +15132,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "aff909e9d",
-   "nom": "Boule lumineuse LED",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225293/boule-lumineuse-led/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225293_8718964303397-111_01_slufl5.webp",
-   "description": "Ø 28 cm | 360 LED | 9,95 €/pce",
-   "detail": "Ø 28 cm | 360 LED",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "ab1207380",
    "nom": "Huile à lèvres Bonjolie",
    "remise": "Affaire de la semaine",
@@ -15201,25 +15178,25 @@
    "enseigne": "Action"
   },
   {
-   "id": "adb10db70",
-   "nom": "Bonnet",
+   "id": "a61b2a530",
+   "nom": "Sirop pour café",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "2,99 €",
+   "prix": "1,79 €",
    "v": 2,
    "prix_avant": "",
-   "categorie": "maison",
+   "categorie": "boissons",
    "magasins": [
     "action"
    ],
    "du": "2026-11-11",
    "au": "2026-11-17",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2555232/bonnet/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2555232_8721302630529-110_02_gnbfwy.webp",
-   "description": "Diverses variantes | 2,99 €/pce",
-   "detail": "Diverses variantes",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2579330/sirop-pour-cafe/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2579330_8720701947597-110_01_pgf2rc.webp",
+   "description": "3 x 45 ml | Diverses variantes | 13,26 €/l",
+   "detail": "3 x 45 ml | Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -15887,6 +15864,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225324_8718964303182-111_01_ryji2q.webp",
    "description": "Divers modèles | 3,77 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aff909e9d",
+   "nom": "Boule lumineuse LED",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "9,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225293/boule-lumineuse-led/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225293_8718964303397-111_01_slufl5.webp",
+   "description": "Ø 28 cm | 360 LED | 9,95 €/pce",
+   "detail": "Ø 28 cm | 360 LED",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -18122,29 +18122,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a61b2a530",
-   "nom": "Sirop pour café",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-11",
-   "au": "2026-11-17",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2579330/sirop-pour-cafe/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2579330_8720701947597-110_01_pgf2rc.webp",
-   "description": "3 x 45 ml | Diverses variantes | 13,26 €/l",
-   "detail": "3 x 45 ml | Diverses variantes",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a75f021c8",
    "nom": "Sausage rolls Bifi The Original",
    "remise": "Affaire de la semaine",
@@ -18394,6 +18371,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/27999263.webp",
    "description": "86 grammes | 20,81 €/kg",
    "detail": "86 grammes",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "adb10db70",
+   "nom": "Bonnet",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-11",
+   "au": "2026-11-17",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2555232/bonnet/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2555232_8721302630529-110_02_gnbfwy.webp",
+   "description": "Diverses variantes | 2,99 €/pce",
+   "detail": "Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -18797,9 +18797,9 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 4,
-   "prix_revient": "6,82 €",
-   "prix_par_personne": "1,70 €",
-   "economie": "0,96 €",
+   "prix_revient": "6,90 €",
+   "prix_par_personne": "1,73 €",
+   "economie": "0,99 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/715c4434d75898939b840868c027d80c",
@@ -18833,7 +18833,7 @@
      "quantite": "20 cl",
      "promo_id": "p845c81dd",
      "en_promo": true,
-     "prix": "0,16 €",
+     "prix": "0,20 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -18842,7 +18842,7 @@
      "quantite": "40 g",
      "promo_id": "p931d9e46",
      "en_promo": true,
-     "prix": "0,20 €",
+     "prix": "0,25 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
@@ -18858,9 +18858,9 @@
    "temps_min": 35,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "9,96 €",
-   "prix_par_personne": "2,49 €",
-   "economie": "3,30 €",
+   "prix_revient": "10,01 €",
+   "prix_par_personne": "2,50 €",
+   "economie": "3,31 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/1d25bde77c6f1f54ec2a5e75918ae28b",
@@ -18912,7 +18912,7 @@
      "quantite": "20 cl",
      "promo_id": "p845c81dd",
      "en_promo": true,
-     "prix": "0,16 €",
+     "prix": "0,20 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
@@ -18929,9 +18929,9 @@
    "temps_min": 20,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "6,31 €",
-   "prix_par_personne": "1,58 €",
-   "economie": "0,08 €",
+   "prix_revient": "6,35 €",
+   "prix_par_personne": "1,59 €",
+   "economie": "0,10 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/4cd80db1e94d6245901475a605ca5231",
@@ -18974,7 +18974,7 @@
      "quantite": "30 g",
      "promo_id": "p931d9e46",
      "en_promo": true,
-     "prix": "0,15 €",
+     "prix": "0,19 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -19000,8 +19000,8 @@
    "temps_min": 20,
    "personnes": 4,
    "nb_promos": 3,
-   "prix_revient": "22,43 €",
-   "prix_par_personne": "5,61 €",
+   "prix_revient": "22,41 €",
+   "prix_par_personne": "5,60 €",
    "economie": "",
    "prix_approximatif": true,
    "images": [
@@ -19018,7 +19018,7 @@
      "quantite": "800 g",
      "promo_id": "pbadd0d90",
      "en_promo": true,
-     "prix": "10,26 €",
+     "prix": "10,25 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
@@ -19192,7 +19192,7 @@
      "quantite": "50 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "1,57 €",
+     "prix": "1,58 €",
      "prix_approximatif": true,
      "prix_source": "open_prices"
     }
@@ -19204,83 +19204,14 @@
    ]
   },
   {
-   "id": "r3fccd587",
-   "titre": "Salade de pâtes au thon",
-   "temps_min": 20,
-   "personnes": 4,
-   "nb_promos": 2,
-   "prix_revient": "6,49 €",
-   "prix_par_personne": "1,62 €",
-   "economie": "1,37 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/8d3a660c0608d842fefa01cf6839273b",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/fa0ead7d2dbd3ea27f7846bf3aecbecf"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pasta_salad_closeup.JPG/960px-Pasta_salad_closeup.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Pâtes",
-     "quantite": "300 g",
-     "promo_id": "pfb6db5f2",
-     "en_promo": true,
-     "prix": "0,39 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Thon",
-     "quantite": "2 boîtes",
-     "promo_id": "p55c0b3e2",
-     "en_promo": true,
-     "prix": "2,80 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Tomates",
-     "quantite": "3",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,80 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Maïs",
-     "quantite": "1 boîte",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "1,20 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Mayonnaise",
-     "quantite": "3 c. à soupe",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,30 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    }
-   ],
-   "etapes": [
-    "Cuire et refroidir les pâtes.",
-    "Mélanger avec thon, tomates en dés, maïs et mayonnaise."
-   ]
-  },
-  {
    "id": "rf00516f2",
    "titre": "Chili con carne",
    "temps_min": 45,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "8,76 €",
-   "prix_par_personne": "2,19 €",
-   "economie": "1,36 €",
+   "prix_revient": "8,80 €",
+   "prix_par_personne": "2,20 €",
+   "economie": "1,37 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/355f9903f65a4ea0b96c59e066c9453b",
@@ -19340,7 +19271,7 @@
      "quantite": "300 g",
      "promo_id": "p36d7bd2a",
      "en_promo": true,
-     "prix": "0,37 €",
+     "prix": "0,41 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
@@ -19352,14 +19283,83 @@
    ]
   },
   {
+   "id": "r3fccd587",
+   "titre": "Salade de pâtes au thon",
+   "temps_min": 20,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "6,46 €",
+   "prix_par_personne": "1,61 €",
+   "economie": "1,35 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/8d3a660c0608d842fefa01cf6839273b",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/fa0ead7d2dbd3ea27f7846bf3aecbecf"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pasta_salad_closeup.JPG/960px-Pasta_salad_closeup.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Pâtes",
+     "quantite": "300 g",
+     "promo_id": "pfb6db5f2",
+     "en_promo": true,
+     "prix": "0,36 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Thon",
+     "quantite": "2 boîtes",
+     "promo_id": "p55c0b3e2",
+     "en_promo": true,
+     "prix": "2,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Tomates",
+     "quantite": "3",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,80 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Maïs",
+     "quantite": "1 boîte",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Mayonnaise",
+     "quantite": "3 c. à soupe",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,30 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    }
+   ],
+   "etapes": [
+    "Cuire et refroidir les pâtes.",
+    "Mélanger avec thon, tomates en dés, maïs et mayonnaise."
+   ]
+  },
+  {
    "id": "r9c70cb83",
    "titre": "Émincé de dinde au curry et riz",
    "temps_min": 25,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "14,66 €",
-   "prix_par_personne": "3,67 €",
-   "economie": "0,66 €",
+   "prix_revient": "14,70 €",
+   "prix_par_personne": "3,68 €",
+   "economie": "0,68 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/174a746d41ce51f8d8fee2424e570d3a",
@@ -19410,7 +19410,7 @@
      "quantite": "300 g",
      "promo_id": "p36d7bd2a",
      "en_promo": true,
-     "prix": "0,37 €",
+     "prix": "0,41 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
@@ -19423,64 +19423,55 @@
    ]
   },
   {
-   "id": "r99ec6752",
-   "titre": "Sauté de porc au caramel",
-   "temps_min": 40,
+   "id": "r3be2c8bf",
+   "titre": "Riz au lait",
+   "temps_min": 45,
    "personnes": 4,
    "nb_promos": 2,
-   "prix_revient": "7,01 €",
-   "prix_par_personne": "1,75 €",
-   "economie": "0,28 €",
+   "prix_revient": "1,28 €",
+   "prix_par_personne": "0,32 €",
+   "economie": "0,34 €",
    "prix_approximatif": true,
    "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/793a1260e3026592c7b39f54716b3a5e",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c"
+    "https://nos-catalogues-promos-v2.e.leclerc/media/fe9cfd24223e6e72f1894f15ea53ef4c",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/57078c632473de116a4ce2b1fef7e24d"
    ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Porc_au_caramel.jpg/960px-Porc_au_caramel.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D0%A1%D1%83%D1%82%D0%BB%D0%B8%D1%98%D0%B0%D1%88_1.jpg/960px-%D0%A1%D1%83%D1%82%D0%BB%D0%B8%D1%98%D0%B0%D1%88_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
-     "nom": "Échine de porc",
-     "quantite": "700 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "6,30 €",
+     "nom": "Riz rond",
+     "quantite": "150 g",
+     "promo_id": "p36d7bd2a",
+     "en_promo": true,
+     "prix": "0,20 €",
      "prix_approximatif": true,
-     "prix_source": "estimation"
+     "prix_source": "promo"
     },
     {
-     "nom": "Sauce soja",
-     "quantite": "4 c. à soupe",
-     "promo_id": "pf41eae61",
+     "nom": "Lait",
+     "quantite": "1 l",
+     "promo_id": "p845c81dd",
      "en_promo": true,
-     "prix": "0,28 €",
+     "prix": "1,00 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
     {
      "nom": "Sucre",
-     "quantite": "3 c. à soupe",
+     "quantite": "80 g",
      "promo_id": "",
      "en_promo": false,
-     "prix": "0,06 €",
+     "prix": "0,08 €",
      "prix_approximatif": true,
-     "prix_source": "estimation"
-    },
-    {
-     "nom": "Riz",
-     "quantite": "300 g",
-     "promo_id": "p36d7bd2a",
-     "en_promo": true,
-     "prix": "0,37 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
-    "Faire un caramel avec le sucre et un peu d'eau.",
-    "Ajouter le porc en dés et le soja, cuire 25 min.",
-    "Servir avec le riz."
+    "Porter le lait à frémir avec la vanille.",
+    "Ajouter le riz, cuire 35 min à feu très doux en remuant.",
+    "Ajouter le sucre à la fin."
    ]
   }
  ],
@@ -19494,7 +19485,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-12T21:49",
+   "maj": "2026-11-13T13:14",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -19522,10 +19513,10 @@
     "image": "https://www.le-houlme.fr/uploads/Actualite/23/IMF_50/GAB_HOULME/29189_440_7484bca9-ba7a-473d-bd9f-4872a761a178.png"
    },
    {
-    "titre": "Rencontres de quartier",
-    "date": "2026-11-09",
-    "resume": "",
-    "texte": "",
+    "titre": "Spectacle féérique pour les 4-8 ans",
+    "date": "2026-11-13",
+    "resume": "Mercredi 9 décembre, le Foyer communal accueillera un drôle d'igloo pour 3 représentations d'un spectacle féérique à destination des 4-8 ans. 2 représentation ouvertes au public à…",
+    "texte": "Mercredi 9 décembre, le Foyer communal accueillera un drôle d'igloo pour 3 représentations d'un spectacle féérique à destination des 4-8 ans. 2 représentation ouvertes au public à 10h30 et 15h30, une 3ème réservée à l'ALSH à 14h00. Inscriptions par téléphone.",
     "source": "PanneauPocket",
     "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=907417544"
    },
@@ -19535,7 +19526,7 @@
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=750995714"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=704351819"
    },
    {
     "titre": "Spectacle \"Souliers et petons\" au point lecture",
@@ -19597,7 +19588,7 @@
    {
     "titre": "\"Dans mon igloo\", spectacle polaire 4-8 ans",
     "date": "2026-12-09",
-    "heure": "10h00",
+    "heure": "15h30",
     "lieu": "",
     "source": "le-houlme.fr",
     "url": "https://www.le-houlme.fr/agenda/49704/5943-dans-mon-igloo-spectacle-polaire-4-8-ans.htm",

@@ -1,64 +1,64 @@
 {
  "version": 2,
- "date": "2026-11-05",
+ "date": "2026-11-13",
  "prix": {
   "Pâtes": {
-   "kg": 1.86
+   "kg": 1.71
   },
   "Spaghetti": {
    "kg": 1.38
   },
   "Tagliatelles": {
-   "kg": 3.8
+   "kg": 3.7
   },
   "Crozets ou pâtes": {
-   "kg": 1.86
+   "kg": 1.71
   },
   "Feuilles de lasagne": {
    "kg": 2.58
   },
   "Riz": {
-   "kg": 1.75
+   "kg": 1.94
   },
   "Riz rond": {
-   "kg": 1.75
+   "kg": 1.94
   },
   "Farine": {
-   "kg": 1.29
+   "kg": 1.33
   },
   "Sucre": {
    "kg": 0.95
   },
   "Lait": {
-   "l": 0.98
+   "l": 1.25
   },
   "Crème": {
    "kg": 4.0,
-   "l": 3.78
+   "l": 3.7
   },
   "Beurre": {
-   "kg": 7.76
+   "kg": 9.4
   },
   "Emmental râpé": {
    "kg": 8.15
   },
   "Parmesan": {
-   "kg": 31.45
+   "kg": 31.62
   },
   "Mozzarella": {
-   "kg": 6.08
+   "kg": 6.0
   },
   "Fromage à raclette": {
-   "kg": 12.83
+   "kg": 12.81
   },
   "Fromage frais": {
-   "kg": 14.08
+   "kg": 14.04
   },
   "Lardons": {
-   "kg": 9.2
+   "kg": 8.95
   },
   "Filets de poulet": {
-   "kg": 13.71
+   "kg": 13.26
   },
   "Escalopes de dinde": {
    "kg": 21.13
@@ -75,7 +75,7 @@
    "kg": 3.3
   },
   "Pois chiches": {
-   "kg": 3.67
+   "kg": 4.02
   },
   "Lait de coco": {
    "l": 4.21
@@ -84,7 +84,7 @@
    "kg": 8.5
   },
   "Olives": {
-   "kg": 14.7
+   "kg": 14.8
   },
   "Pommes de terre": {
    "kg": 2.47,
@@ -120,7 +120,7 @@
    "piece": 0.34
   },
   "Tomates": {
-   "kg": 4.99,
+   "kg": 4.97,
    "piece": 0.6
   },
   "Pommes": {
@@ -148,7 +148,7 @@
    "piece": 0.58
   },
   "Citron": {
-   "kg": 3.98,
+   "kg": 3.97,
    "piece": 0.48
   },
   "Endives": {
@@ -160,7 +160,7 @@
    "piece": 0.2
   },
   "Potiron ou butternut": {
-   "kg": 2.55
+   "kg": 2.66
   },
   "Fruits (cerises, poires, pommes)": {
    "kg": 2.94
