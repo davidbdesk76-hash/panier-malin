@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-18T14:03",
+ "genere_le": "2026-11-18T22:26",
  "promos_maj_le": "2026-11-17T14:28",
  "magasins": [
   {
@@ -18820,7 +18820,7 @@
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3224310/carreaux-adhesifs/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224310_8718964290468-111_01_kqpb72.webp",
-   "description": "14,5 x 12,56 cm | 15 pièces | Divers modèles | 99,50 €/m2",
+   "description": "14,5 x 12,56 cm | 15 pièces | Divers modèles | 7,29 €/m2",
    "detail": "14,5 x 12,56 cm | 15 pièces | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
@@ -18891,6 +18891,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224081_8710998540182-111_01_pmqpgh.webp",
    "description": "150 g | 11,93 €/kg",
    "detail": "150 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "ae85d9486",
+   "nom": "Eau de parfum The Beauty Dept. Latte Lover",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,39 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "hygiene_maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223745/eau-de-parfum-the-beauty-dept-latte-lover/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223745_8719238069827-110_01_dracvg.webp",
+   "description": "100 ml | 23,90 €/l",
+   "detail": "100 ml",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -22161,7 +22184,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-18T14:03",
+   "maj": "2026-11-18T22:26",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
