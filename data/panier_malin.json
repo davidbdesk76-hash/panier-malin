@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-18T00:30",
+ "genere_le": "2026-11-18T14:03",
  "promos_maj_le": "2026-11-17T14:28",
  "magasins": [
   {
@@ -17630,6 +17630,167 @@
    "enseigne": "Action"
   },
   {
+   "id": "a9d7512d8",
+   "nom": "Ampoule LED connectée (WiZ) Philips",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "6,69 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226860/ampoule-led-connectee-wiz-philips/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226860_8721103191878-111_01_apmzj1.webp",
+   "description": "8,5 watts | 800 lumens | 6,69 €/pce",
+   "detail": "8,5 watts | 800 lumens",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a7c9dcf89",
+   "nom": "Machine à coudre",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "19,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224302/machine-a-coudre/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224302_8718964291250-110_02_c6r3fd.webp",
+   "description": "12 points | 6 volts | 19,95 €/pce",
+   "detail": "12 points | 6 volts",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a7df0e613",
+   "nom": "Capsules de café Palazzo Regular",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3222759/capsules-de-cafe-palazzo-regular/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222759_5410658915970-111_01_w76ge2.webp",
+   "description": "56 pièces | 10,26 €/kg",
+   "detail": "56 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "acbd17fed",
+   "nom": "Partybox Haribo Starmix",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "5,29 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "epicerie",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3219734/partybox-haribo-starmix/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219734_5012035973339-110_02_bx0ugg.webp",
+   "description": "800 g | 6,61 €/kg",
+   "detail": "800 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aade9faeb",
+   "nom": "Guirlande lumineuse de Noël Luxuriance Lights",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "4,69 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3218264/guirlande-lumineuse-de-noel-luxuriance-lights/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218264_8718964252220-111_01_kuukw7.webp",
+   "description": "160 LED | 12,4 m | Diverses couleurs | 4,69 €/pce",
+   "detail": "160 LED | 12,4 m | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a06858a03",
+   "nom": "Claquettes en peluche",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "5,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3217382/claquettes-en-peluche/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217382_8718615082169-110_02_jjt2jt.webp",
+   "description": "Pointures 37-41 | Divers modèles | 5,95 €/pce",
+   "detail": "Pointures 37-41 | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a1185e098",
+   "nom": "Sapin de Noël",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "3,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3206760/sapin-de-noel/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3206760_8718964294046-111_01_jvqq2z.webp",
+   "description": "48 cm | 3,99 €/pce",
+   "detail": "48 cm",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a67e10858",
    "nom": "Biscuits pour chien Vanille",
    "remise": "Affaire de la semaine",
@@ -17741,29 +17902,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226861_8721103191915-111_01_ughb8x.webp",
    "description": "7 watts | 635 lumens | 6,95 €/pce",
    "detail": "7 watts | 635 lumens",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a9d7512d8",
-   "nom": "Ampoule LED connectée (WiZ) Philips",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "6,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3226860/ampoule-led-connectee-wiz-philips/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226860_8721103191878-111_01_apmzj1.webp",
-   "description": "8,5 watts | 800 lumens | 6,69 €/pce",
-   "detail": "8,5 watts | 800 lumens",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -18688,29 +18826,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a7c9dcf89",
-   "nom": "Machine à coudre",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "19,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224302/machine-a-coudre/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224302_8718964291250-110_02_c6r3fd.webp",
-   "description": "12 points | 6 volts | 19,95 €/pce",
-   "detail": "12 points | 6 volts",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a77b55fc5",
    "nom": "Mrqueurs doubles dans pochette Van Bleiswijck",
    "remise": "Affaire de la semaine",
@@ -18964,29 +19079,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a7df0e613",
-   "nom": "Capsules de café Palazzo Regular",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3222759/capsules-de-cafe-palazzo-regular/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3222759_5410658915970-111_01_w76ge2.webp",
-   "description": "56 pièces | 10,26 €/kg",
-   "detail": "56 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a90ea7b54",
    "nom": "Décorations en sucre",
    "remise": "Affaire de la semaine",
@@ -19167,29 +19259,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3220113_8715342053943-111_01_x294cp.webp",
    "description": "50 pièces | 0,11 €/pce",
    "detail": "50 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "acbd17fed",
-   "nom": "Partybox Haribo Starmix",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "5,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3219734/partybox-haribo-starmix/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3219734_5012035973339-110_02_bx0ugg.webp",
-   "description": "800 g | 6,61 €/kg",
-   "detail": "800 g",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -19447,29 +19516,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "aade9faeb",
-   "nom": "Guirlande lumineuse de Noël Luxuriance Lights",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "4,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3218264/guirlande-lumineuse-de-noel-luxuriance-lights/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3218264_8718964252220-111_01_kuukw7.webp",
-   "description": "160 LED | 12,4 m | Diverses couleurs | 4,69 €/pce",
-   "detail": "160 LED | 12,4 m | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "abf76128d",
    "nom": "Souffleur turbo FERM",
    "remise": "Affaire de la semaine",
@@ -19581,29 +19627,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217522_8718964302031-110_02_ancqgi.webp",
    "description": "Ø 36 cm | 360 LED | 5,79 €/pce",
    "detail": "Ø 36 cm | 360 LED",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a06858a03",
-   "nom": "Claquettes en peluche",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "5,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3217382/claquettes-en-peluche/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3217382_8718615082169-110_02_jjt2jt.webp",
-   "description": "Pointures 37-41 | Divers modèles | 5,95 €/pce",
-   "detail": "Pointures 37-41 | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -20133,29 +20156,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3206911_4006333096655-110_01_dzle7f.webp",
    "description": "40 cm | 6,79 €/pce",
    "detail": "40 cm",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a1185e098",
-   "nom": "Sapin de Noël",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3206760/sapin-de-noel/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3206760_8718964294046-111_01_jvqq2z.webp",
-   "description": "48 cm | 3,99 €/pce",
-   "detail": "48 cm",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -22161,7 +22161,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-18T00:30",
+   "maj": "2026-11-18T14:03",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
