@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-19T14:10",
+ "genere_le": "2026-11-19T22:36",
  "promos_maj_le": "2026-11-17T14:28",
  "magasins": [
   {
@@ -17828,7 +17828,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-19T14:10",
+   "maj": "2026-11-19T22:36",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -17906,16 +17906,6 @@
    }
   ],
   "agenda": [
-   {
-    "titre": "Soirée jazz d'automne",
-    "date": "2026-11-19",
-    "heure": "",
-    "lieu": "",
-    "source": "le-houlme.fr",
-    "url": "https://www.le-houlme.fr/agenda/49730/5943-soiree-jazz-d-automne.htm",
-    "texte": "La ville du Houlme organise une soirée Jazz d'automne le 19 novembre au Foyer communal. Inscriptions avant le 15 novembre en mairie. Soirée animée par Jazztronom, planches apéritif en vente sur place.",
-    "image": "https://www.le-houlme.fr/uploads/Agenda/98/49730_233_3bbed9bd-d3bd-4351-b45f-b6019598921a.jpg"
-   },
    {
     "titre": "Marché de noël de L' EHPAD la Source",
     "date": "2026-11-28",
