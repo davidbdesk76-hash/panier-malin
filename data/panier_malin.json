@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-20T13:54",
+ "genere_le": "2026-11-20T22:06",
  "promos_maj_le": "2026-11-20T13:54",
  "magasins": [
   {
@@ -14122,6 +14122,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "adbe0ae86",
+   "nom": "Petit train de Noël pour apéritifs",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "7,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225357/petit-train-de-noel-pour-aperitifs/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225357_8721461204524-110_01_rhdcou.webp",
+   "description": "2 pièces | 7,95 €/pce",
+   "detail": "2 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a12462ed5",
    "nom": "Décoration de Noël LED",
    "remise": "Affaire de la semaine",
@@ -17848,7 +17871,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-20T13:54",
+   "maj": "2026-11-20T22:06",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
