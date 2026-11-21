@@ -1,9 +1,9 @@
 {
  "version": 2,
- "date": "2026-11-13",
+ "date": "2026-11-21",
  "prix": {
   "Pâtes": {
-   "kg": 1.71
+   "kg": 2.61
   },
   "Spaghetti": {
    "kg": 1.38
@@ -12,29 +12,29 @@
    "kg": 3.7
   },
   "Crozets ou pâtes": {
-   "kg": 1.71
+   "kg": 2.61
   },
   "Feuilles de lasagne": {
    "kg": 2.58
   },
   "Riz": {
-   "kg": 1.94
+   "kg": 2.98
   },
   "Riz rond": {
-   "kg": 1.94
+   "kg": 2.98
   },
   "Farine": {
-   "kg": 1.33
+   "kg": 1.21
   },
   "Sucre": {
-   "kg": 0.95
+   "kg": 0.97
   },
   "Lait": {
-   "l": 1.25
+   "l": 1.23
   },
   "Crème": {
-   "kg": 4.0,
-   "l": 3.7
+   "kg": 3.92,
+   "l": 6.55
   },
   "Beurre": {
    "kg": 9.4
@@ -49,13 +49,13 @@
    "kg": 6.0
   },
   "Fromage à raclette": {
-   "kg": 12.81
+   "kg": 12.8
   },
   "Fromage frais": {
-   "kg": 14.04
+   "kg": 13.76
   },
   "Lardons": {
-   "kg": 8.95
+   "kg": 9.2
   },
   "Filets de poulet": {
    "kg": 13.26
@@ -64,15 +64,13 @@
    "kg": 21.13
   },
   "Coulis de tomate": {
-   "kg": 2.49,
-   "l": 4.58
+   "kg": 3.23
   },
   "Sauce tomate": {
-   "kg": 2.49,
-   "l": 4.58
+   "kg": 3.23
   },
   "Lentilles": {
-   "kg": 3.3
+   "kg": 3.16
   },
   "Pois chiches": {
    "kg": 4.02
@@ -84,7 +82,7 @@
    "kg": 8.5
   },
   "Olives": {
-   "kg": 14.8
+   "kg": 14.7
   },
   "Pommes de terre": {
    "kg": 2.47,
@@ -98,10 +96,10 @@
    "kg": 7.99
   },
   "Champignons": {
-   "kg": 10.97
+   "kg": 10.25
   },
   "Champignons de Paris": {
-   "kg": 10.97
+   "kg": 10.25
   },
   "Carotte": {
    "kg": 1.99,
@@ -120,7 +118,7 @@
    "piece": 0.34
   },
   "Tomates": {
-   "kg": 4.97,
+   "kg": 4.99,
    "piece": 0.6
   },
   "Pommes": {
@@ -136,11 +134,11 @@
    "piece": 0.3
   },
   "Poireaux": {
-   "kg": 3.0,
+   "kg": 2.99,
    "piece": 0.6
   },
   "Kiwis": {
-   "kg": 5.5,
+   "kg": 5.47,
    "piece": 0.44
   },
   "Oranges": {
@@ -148,19 +146,19 @@
    "piece": 0.58
   },
   "Citron": {
-   "kg": 3.97,
+   "kg": 3.98,
    "piece": 0.48
   },
   "Endives": {
-   "kg": 3.14,
-   "piece": 0.38
+   "kg": 2.99,
+   "piece": 0.36
   },
   "Échalotes": {
-   "kg": 6.54,
+   "kg": 6.5,
    "piece": 0.2
   },
   "Potiron ou butternut": {
-   "kg": 2.66
+   "kg": 2.55
   },
   "Fruits (cerises, poires, pommes)": {
    "kg": 2.94
