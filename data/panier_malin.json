@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-22T21:22",
+ "genere_le": "2026-11-23T15:40",
  "promos_maj_le": "2026-11-21T13:40",
  "magasins": [
   {
@@ -8679,29 +8679,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a4a80c736",
-   "nom": "Biscuits de Noël au chocolat",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3221215/biscuits-de-noel-au-chocolat/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221215_8717185470635-111_01_vvl1yj.webp",
-   "description": "18 pièces | 9,20 €/kg",
-   "detail": "18 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "acbd17fed",
    "nom": "Partybox Haribo Starmix",
    "remise": "Affaire de la semaine",
@@ -8744,6 +8721,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208430_8721282038834-111_01_rfyman.webp",
    "description": "Pointures 36-46 | divers modèles | 1,29 €/pce",
    "detail": "Pointures 36-46 | divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a535454c4",
+   "nom": "Happy Fruttis MAOAM",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,19 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2579992/happy-fruttis-maoam/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/38136354.webp",
+   "description": "325 grammes | 6,74 €/kg",
+   "detail": "325 grammes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -10216,6 +10216,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221229_5404038623241-110_01_xfn9ln.webp",
    "description": "80 g | 22,38 €/kg",
    "detail": "80 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a4a80c736",
+   "nom": "Biscuits de Noël au chocolat",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,49 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-18",
+   "au": "2026-11-24",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3221215/biscuits-de-noel-au-chocolat/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3221215_8717185470635-111_01_vvl1yj.webp",
+   "description": "18 pièces | 9,20 €/kg",
+   "detail": "18 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -11991,29 +12014,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a535454c4",
-   "nom": "Happy Fruttis MAOAM",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-18",
-   "au": "2026-11-24",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2579992/happy-fruttis-maoam/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/38136354.webp",
-   "description": "325 grammes | 6,74 €/kg",
-   "detail": "325 grammes",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a3707269d",
    "nom": "Tasse de Noël avec chocolats",
    "remise": "Affaire de la semaine",
@@ -13187,7 +13187,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-22T21:22",
+   "maj": "2026-11-23T15:40",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -13205,6 +13205,15 @@
    }
   ],
   "actus": [
+   {
+    "titre": "Les Bons de Noël",
+    "date": "2026-12-18",
+    "resume": "Vie municipale Publié le 18 déc. 2026",
+    "source": "le-houlme.fr",
+    "url": "https://www.le-houlme.fr/actualite/29377/5930-les-bons-de-noel.htm",
+    "texte": "La distribution des bons de Noël le vendredi 18 décembre 2026 Pensez-y...",
+    "image": "https://www.le-houlme.fr/uploads/Actualite/aa/IMF_50/GAB_HOULME/29377_601_BON-NOEL-2.jpg"
+   },
    {
     "titre": "Expérimentation de l'accueil ados les mercredis",
     "date": "2026-11-18",
