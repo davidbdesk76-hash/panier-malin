@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-24T03:54",
+ "genere_le": "2026-11-24T15:53",
  "promos_maj_le": "2026-11-24T03:54",
  "magasins": [
   {
@@ -20478,7 +20478,7 @@
   },
   {
    "id": "ab92042d5",
-   "nom": "Biscuits au chocolat blanc Oreo",
+   "nom": "Oreo Enrobed White",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
@@ -20492,7 +20492,7 @@
    "du": "2026-11-18",
    "au": "2026-11-24",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3000728/biscuits-au-chocolat-blanc-oreo/",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3000728/oreo-enrobed-white/",
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3000728_7622300489427-111_01_h3pyk5.webp",
    "description": "6 x 2 pièces | 8,09 €/kg",
    "detail": "6 x 2 pièces",
@@ -21775,7 +21775,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-24T03:54",
+   "maj": "2026-11-24T15:53",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
