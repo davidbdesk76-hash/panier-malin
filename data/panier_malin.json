@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-25T01:45",
+ "genere_le": "2026-11-25T15:24",
  "promos_maj_le": "2026-11-24T03:54",
  "magasins": [
   {
@@ -17027,12 +17027,12 @@
    "enseigne": "Action"
   },
   {
-   "id": "a10a6c1b7",
-   "nom": "Enceinte Bluetooth XXL Fresh ’n Rebel",
+   "id": "a2f7e8c4a",
+   "nom": "Couette pour enfant Easy",
    "remise": "Affaire de la semaine",
    "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
    "remise_pct": null,
-   "prix": "54,95 €",
+   "prix": "12,95 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "maison",
@@ -17042,33 +17042,10 @@
    "du": "2026-11-25",
    "au": "2026-12-01",
    "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3226471/enceinte-bluetooth-xxl-fresh-n-rebel/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226471_8720249817345-110_02_cs5yy6.webp",
-   "description": "120 watts | 54,95 €/pce",
-   "detail": "120 watts",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a8d41c475",
-   "nom": "Scène de Noël LED Disney",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "16,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225973/scene-de-noel-led-disney/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225973_8710675277097-110_01_wbvlrb.webp",
-   "description": "Ø 19 x 23 cm | divers modèles | 16,95 €/pce",
-   "detail": "Ø 19 x 23 cm | divers modèles",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225600/couette-pour-enfant-easy/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225600_4255651210506-111_01_ssxnct.webp",
+   "description": "140 x 200 cm | Divers modèles | 4,02 €/m2",
+   "detail": "140 x 200 cm | Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -17092,6 +17069,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225484_3555801382390-111_03_mcfg5p.webp",
    "description": "1 kg | coloris divers | 2,99 €/pce",
    "detail": "1 kg | coloris divers",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "aa4314b6d",
+   "nom": "Peluche de Noël Mini Matters",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3208236/peluche-de-noel-mini-matters/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208236_8718964252442-110_01_qyri63.webp",
+   "description": "Divers modèles | 2,99 €/pce",
+   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -17464,6 +17464,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a10a6c1b7",
+   "nom": "Enceinte Bluetooth XXL Fresh ’n Rebel",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "54,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226471/enceinte-bluetooth-xxl-fresh-n-rebel/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226471_8720249817345-110_02_cs5yy6.webp",
+   "description": "120 watts | 54,95 €/pce",
+   "detail": "120 watts",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "ad81a3c22",
    "nom": "Haribo Chamallows Sour Balloons",
    "remise": "Affaire de la semaine",
@@ -17648,29 +17671,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a795fe4a2",
-   "nom": "Chauffe-oreilles",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3226000/chauffe-oreilles/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226000_8715409242938-111_01_rculbc.webp",
-   "description": "Divers modèles | 1,99 €/pce",
-   "detail": "Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "aab6dee46",
    "nom": "Noix de cajou non salées format XL Snacks of the World",
    "remise": "Affaire de la semaine",
@@ -17694,6 +17694,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a795fe4a2",
+   "nom": "Chauffe-oreilles",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "1,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226000/chauffe-oreilles/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226000_8715409242938-111_01_rculbc.webp",
+   "description": "Divers modèles | 1,99 €/pce",
+   "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a3f6838cd",
    "nom": "Décoration de Noël avec lumière LED Disney",
    "remise": "Affaire de la semaine",
@@ -17713,6 +17736,29 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225976_8710675277110-110_01_gtxlvx.webp",
    "description": "Divers modèles | 16,95 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a8d41c475",
+   "nom": "Scène de Noël LED Disney",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "16,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225973/scene-de-noel-led-disney/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225973_8710675277097-110_01_wbvlrb.webp",
+   "description": "Ø 19 x 23 cm | divers modèles | 16,95 €/pce",
+   "detail": "Ø 19 x 23 cm | divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -19576,29 +19622,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208253_8711568160953-110_01_g8lrbj.webp",
    "description": "7,5 watts | 2 pièces | 3,95 €/pce",
    "detail": "7,5 watts | 2 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "aa4314b6d",
-   "nom": "Peluche de Noël Mini Matters",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3208236/peluche-de-noel-mini-matters/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208236_8718964252442-110_01_qyri63.webp",
-   "description": "Divers modèles | 2,99 €/pce",
-   "detail": "Divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -21522,7 +21545,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-25T01:45",
+   "maj": "2026-11-25T15:24",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
