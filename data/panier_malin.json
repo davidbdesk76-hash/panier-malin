@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-26T01:22",
+ "genere_le": "2026-11-26T14:54",
  "promos_maj_le": "2026-11-24T03:54",
  "magasins": [
   {
@@ -13353,6 +13353,52 @@
    "enseigne": "Action"
   },
   {
+   "id": "a8e94408b",
+   "nom": "Étagère à 3 niveaux",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "9,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3226824/etagere-a-3-niveaux/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226824_8718964307760-110_01_hkrfnl.webp",
+   "description": "60 x 32,5 x 77 cm | Diverses couleurs | 9,95 €/pce",
+   "detail": "60 x 32,5 x 77 cm | Diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a8d41c475",
+   "nom": "Scène de Noël LED Disney",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "16,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3225973/scene-de-noel-led-disney/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225973_8710675277097-110_01_wbvlrb.webp",
+   "description": "Ø 19 x 23 cm | divers modèles | 16,95 €/pce",
+   "detail": "Ø 19 x 23 cm | divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a2f7e8c4a",
    "nom": "Couette pour enfant Easy",
    "remise": "Affaire de la semaine",
@@ -13369,7 +13415,7 @@
    "au": "2026-12-01",
    "catalogue": "Les affaires du moment",
    "catalogue_url": "https://www.action.com/fr-fr/p/3225600/couette-pour-enfant-easy/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225600_4255651210506-111_01_ssxnct.webp",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225600_4255651210513-110_03_zwi4yi.webp",
    "description": "140 x 200 cm | Divers modèles | 4,02 €/m2",
    "detail": "140 x 200 cm | Divers modèles",
    "rayon_leclerc": "",
@@ -13399,6 +13445,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a8250673b",
+   "nom": "Peignoir en velours pour homme",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "12,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3224894/peignoir-en-velours-pour-homme/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224894_8718964303663-110_01_f7opsb.webp",
+   "description": "Tailles M - XL | diverses couleurs | 12,95 €/pce",
+   "detail": "Tailles M - XL | diverses couleurs",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "aa4314b6d",
    "nom": "Peluche de Noël Mini Matters",
    "remise": "Affaire de la semaine",
@@ -13418,6 +13487,52 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3208236_8718964252442-110_01_qyri63.webp",
    "description": "Divers modèles | 2,99 €/pce",
    "detail": "Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a02eb1dc5",
+   "nom": "Noix & raisins secs Snacks of the World Format XXL",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "2,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3002918/noix-raisins-secs-snacks-of-the-world-format-xxl/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3002918_8711299011234-111_01_lltgbm.webp",
+   "description": "500 grammes | 5,98 €/kg",
+   "detail": "500 grammes",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
+   "id": "a6418e318",
+   "nom": "Papier cadeau de Noël",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,89 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/2548472/papier-cadeau-de-noel/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2548472_8710675274805-111_01_mnh8gu.webp",
+   "description": "70 x 300 cm | Diverses variantes | 0,30 €/m",
+   "detail": "70 x 300 cm | Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -13491,6 +13606,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a82f5f80f",
+   "nom": "Piles Philips AAA",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "9,95 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3223509/piles-philips-aaa/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223509_4895229174801-111_01_swl82w.webp",
+   "description": "60 pièces | 0,17 €/pce",
+   "detail": "60 pièces",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a25786f65",
    "nom": "Jeu d’embouts Brüder Mannesmann",
    "remise": "Affaire de la semaine",
@@ -13510,29 +13648,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226957_4003315705000-110_02_s8kteh.webp",
    "description": "113 pièces | 6,98 €/pce",
    "detail": "113 pièces",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a6418e318",
-   "nom": "Papier cadeau de Noël",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,89 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/2548472/papier-cadeau-de-noel/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/2548472_8710675274805-111_01_mnh8gu.webp",
-   "description": "70 x 300 cm | Diverses variantes | 0,30 €/m",
-   "detail": "70 x 300 cm | Diverses variantes",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -13583,6 +13698,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "a5d4ca8f2",
+   "nom": "Papier cadeau Noël",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "0,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "maison",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3207925/papier-cadeau-noel/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3207925_8710675274775-111_01_yn8im7.webp",
+   "description": "500 x 70 cm | Divers modèles | 0,28 €/m2",
+   "detail": "500 x 70 cm | Divers modèles",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a2c88a4c9",
    "nom": "Guirlande lumineuse connectée (WiZ) Philips",
    "remise": "Affaire de la semaine",
@@ -13602,29 +13740,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226862_8721103191892-111_01_c9ersj.webp",
    "description": "10 m | 12,95 €/pce",
    "detail": "10 m",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a82f5f80f",
-   "nom": "Piles Philips AAA",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3223509/piles-philips-aaa/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3223509_4895229174801-111_01_swl82w.webp",
-   "description": "60 pièces | 0,17 €/pce",
-   "detail": "60 pièces",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -13694,52 +13809,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226859_8721103191939-111_01_effisa.webp",
    "description": "4,7 watts | 342 lumens | 6,69 €/pce",
    "detail": "4,7 watts | 342 lumens",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a5d4ca8f2",
-   "nom": "Papier cadeau Noël",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3207925/papier-cadeau-noel/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3207925_8710675274775-111_01_yn8im7.webp",
-   "description": "500 x 70 cm | Divers modèles | 0,28 €/m2",
-   "detail": "500 x 70 cm | Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a8e94408b",
-   "nom": "Étagère à 3 niveaux",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3226824/etagere-a-3-niveaux/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3226824_8718964307760-110_01_hkrfnl.webp",
-   "description": "60 x 32,5 x 77 cm | Diverses couleurs | 9,95 €/pce",
-   "detail": "60 x 32,5 x 77 cm | Diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -13928,6 +13997,29 @@
    "enseigne": "Action"
   },
   {
+   "id": "aab6dee46",
+   "nom": "Noix de cajou non salées format XL Snacks of the World",
+   "remise": "Affaire de la semaine",
+   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
+   "remise_pct": null,
+   "prix": "4,99 €",
+   "v": 2,
+   "prix_avant": "",
+   "categorie": "boissons",
+   "magasins": [
+    "action"
+   ],
+   "du": "2026-11-25",
+   "au": "2026-12-01",
+   "catalogue": "Les affaires du moment",
+   "catalogue_url": "https://www.action.com/fr-fr/p/3205496/noix-de-cajou-non-salees-format-xl-snacks-of-the-world/",
+   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/22485377.webp",
+   "description": "500 g | 9,98 €/kg",
+   "detail": "500 g",
+   "rayon_leclerc": "",
+   "enseigne": "Action"
+  },
+  {
    "id": "a0bbe399b",
    "nom": "Kit de maquillage Max & More",
    "remise": "Affaire de la semaine",
@@ -13997,29 +14089,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "aab6dee46",
-   "nom": "Noix de cajou non salées format XL Snacks of the World",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "4,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3205496/noix-de-cajou-non-salees-format-xl-snacks-of-the-world/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/22485377.webp",
-   "description": "500 g | 9,98 €/kg",
-   "detail": "500 g",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a795fe4a2",
    "nom": "Chauffe-oreilles",
    "remise": "Affaire de la semaine",
@@ -14062,29 +14131,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225976_8710675277110-110_01_gtxlvx.webp",
    "description": "Divers modèles | 16,95 €/pce",
    "detail": "Divers modèles",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a8d41c475",
-   "nom": "Scène de Noël LED Disney",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "16,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3225973/scene-de-noel-led-disney/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3225973_8710675277097-110_01_wbvlrb.webp",
-   "description": "Ø 19 x 23 cm | divers modèles | 16,95 €/pce",
-   "detail": "Ø 19 x 23 cm | divers modèles",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -14545,29 +14591,6 @@
    "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224895_8720194125182-110_01_sa33we.webp",
    "description": "60 pièces | Diverses couleurs | 0,13 €/pce",
    "detail": "60 pièces | Diverses couleurs",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
-   "id": "a8250673b",
-   "nom": "Peignoir en velours pour homme",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "12,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3224894/peignoir-en-velours-pour-homme/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3224894_8718964303663-110_01_f7opsb.webp",
-   "description": "Tailles M - XL | diverses couleurs | 12,95 €/pce",
-   "detail": "Tailles M - XL | diverses couleurs",
    "rayon_leclerc": "",
    "enseigne": "Action"
   },
@@ -16596,29 +16619,6 @@
    "enseigne": "Action"
   },
   {
-   "id": "a02eb1dc5",
-   "nom": "Noix & raisins secs Snacks of the World Format XXL",
-   "remise": "Affaire de la semaine",
-   "remise_detail": "Prix bas Action, valable dans tous les magasins Action.",
-   "remise_pct": null,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "action"
-   ],
-   "du": "2026-11-25",
-   "au": "2026-12-01",
-   "catalogue": "Les affaires du moment",
-   "catalogue_url": "https://www.action.com/fr-fr/p/3002918/noix-raisins-secs-snacks-of-the-world-format-xxl/",
-   "image": "https://asset.action.com/image/upload/t_digital_product_image/w_1920/3002918_8711299011234-111_01_lltgbm.webp",
-   "description": "500 grammes | 5,98 €/kg",
-   "detail": "500 grammes",
-   "rayon_leclerc": "",
-   "enseigne": "Action"
-  },
-  {
    "id": "a1b709615",
    "nom": "Noix de cajou salées Snacks of the World",
    "remise": "Affaire de la semaine",
@@ -17841,7 +17841,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-26T01:22",
+   "maj": "2026-11-26T14:54",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
@@ -17869,12 +17869,20 @@
     "image": "https://www.le-houlme.fr/uploads/Actualite/aa/IMF_50/GAB_HOULME/29377_601_BON-NOEL-2.jpg"
    },
    {
+    "titre": "Rencontre de quartiers",
+    "date": "2026-11-26",
+    "resume": "",
+    "texte": "",
+    "source": "PanneauPocket",
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1618617459"
+   },
+   {
     "titre": "Marché de Noël",
     "date": "2026-11-25",
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=614523269"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=994320067"
    },
    {
     "titre": "Expérimentation de l'accueil ados les mercredis",
