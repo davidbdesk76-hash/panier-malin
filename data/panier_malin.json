@@ -1,7 +1,7 @@
 {
  "version": 1,
- "genere_le": "2026-11-28T01:03",
- "promos_maj_le": "2026-11-24T03:54",
+ "genere_le": "2026-11-28T14:00",
+ "promos_maj_le": "2026-11-28T14:00",
  "magasins": [
   {
    "id": "houlme",
@@ -56,16 +56,6 @@
    ],
    "du": "2026-11-24",
    "au": "2026-12-05"
-  },
-  {
-   "numero": "26G210G/1376",
-   "titre": "La foire aux petits prix",
-   "url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28"
   },
   {
    "numero": "26O110B/1376",
@@ -143,69 +133,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "pd6807ca3",
-   "nom": "8 saucisses aux herbes",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "5,48 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f61b7c0dc0b67e33be848dd3c88fe49c",
-   "description": "1 kg.\nÉgalement disponible au même prix : Saucisses de Toulouse.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pcc5a3111",
-   "nom": "AGNEAU : GIGOT*** A ROTIR",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "14,45 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/def72a810fc6396e13551424f9dd4863",
-   "description": "Caissette d'une pièce minimum.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p0337b4ce",
-   "nom": "AGNEAU : SAUTE** AVEC OS A MIJOTER",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "10,97 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b4d9c71f2efb950c838573256ee98795",
-   "description": "Caissette d'un kilo minimum.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "pf58fe511",
    "nom": "BLOC DE FOIE GRAS DE CANARD — LARNAUDIE SÉLECTION",
    "remise": "-34 %",
@@ -224,27 +151,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cb02cb92552724cff2c309b4039c6cdc",
    "description": "Black édition aux 2 poivres, Édition or au Sauternes ou Édition Étoilée recette au champagne 2% et Badiane\n290 g.Le kg : 58,59 €.\nÉgalement disponible en variétés Bloc de foie gras de canard avec morceaux en différentes variétés de 240 g (le kg : 70,79 €), Foie gras de canard entier en différentes variétés en bocal de 170 g (le kg : 99,94 €), Foie gras de canard entier en différentes variétés en lingot de 170 g (le kg : 99,94 €), Coffret Le Gourmand 940 g (le kg : 18,07 €) ou Coffret Ma Création 960 g (le kg : 17,70 €)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p9d624be3",
-   "nom": "BOX FUSILLI À LA CARBONARA — CÔTÉ SNACK",
-   "remise": "2e à -30 %",
-   "remise_detail": "Le 2e produit identique à -30 % : 2 pour 3,21 € au lieu de 3,78 € (soit -15 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 15,
-   "prix": "1,89 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/83575684ba3f1d3b3b2c0d6b34c0df4c",
-   "description": "300 g.Le kg : 6,30 €.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -269,117 +175,12 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pbf39cda5",
-   "nom": "Boudin noir à l'ancienne aux oignons — JEAN BRIENT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "7,30 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b1c006b21302254fcf58a83d7cf0adcf",
-   "description": "Même promotion disponible sur d'autres variétés signalées en magasin.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p2aa69cdc",
-   "nom": "CAPPELLETI JAMBON CRU — GIOVANNI RANA",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d08a5f29658ac7a295c2a09975bb336e",
-   "description": "250 g + 30% offert (325 g).\nLe kg : 7,66 €.\nÉgalement disponible au même prix : Ravioli\nricotta épinard (Origine Italie).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pb933bc59",
-   "nom": "CASSOULET À LA SAUCISSE DE TOULOUSE — STÉPHAN",
-   "remise": "Ticket -68 % par 2",
-   "remise_detail": "68 % du prix crédités en Ticket E.Leclerc par 2. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 68,
-   "prix": "5,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5479e7fba356dbcc0838fa5fa1d2661d",
-   "description": "3 x 420 g (1,26 kg).\nLe kg : 4,75 €.\nPar 2 (2,52 kg) : 11,98 € avec 4,07 € en ticket E.Leclerc.\nÉgalement disponible au même prix : Saucisses Toulouse\naux lentilles (1,26 kg) (le kg à l’unité : 4,75 €)\nou Chili con carne (1,2 kg)(le kg à l’unité : 4,99 €).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p3efffc5e",
-   "nom": "CORDON DE POULET RACLETTE BQ S/AT 800G MAITRE COQ — MAÎTRE COQ",
-   "remise": "-20 %",
-   "remise_detail": "4,94 € au lieu de 6,18 € (-20 %).",
-   "remise_pct": 20,
-   "prix": "4,94 €",
-   "v": 2,
-   "prix_avant": "6,18 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f220d0d2d1d48520e7df367543688a13",
-   "description": "800G",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p6c93b94f",
-   "nom": "Cordon de poulet à la Normande — MAÎTRE COQ",
-   "remise": "-20 %",
-   "remise_detail": "4,94 € au lieu de 6,18 € (-20 %).",
-   "remise_pct": 20,
-   "prix": "4,94 €",
-   "v": 2,
-   "prix_avant": "6,18 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/596bcd606c5f52f828b5c644c77bd5cf",
-   "description": "800 g.Le kg : 6,18 €.\nEgalement disponible au même prix : Donuts de Poulet au fromage, Frites de Poulet ou Cordon de Poulet à la Raclette.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p3c7650de",
+   "id": "p2b021b62",
    "nom": "Crevettes cuites",
    "remise": "",
    "remise_detail": "",
    "remise_pct": 0,
-   "prix": "6,45 €",
+   "prix": "6,43 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "viande_poisson",
@@ -392,27 +193,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/54882f1d482a0fb9a0af0dcce8e1224a",
    "description": "30 à 50 pièces au kg.\nEgalement disponible au même prix kg en barquette de 2kg.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pa1b0032f",
-   "nom": "Crevettes cuites",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a01b448f87504dc1bd26116aa2cfa9d7",
-   "description": "50 à 70 pièces au kg.\nEgalement disponible au même prix kg en barquette de 2 kg.",
    "rayon_leclerc": "Panier Frais"
   },
   {
@@ -437,27 +217,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "pc1fe056a",
-   "nom": "DONUTS POULET AU FROMAGE BQ S/AT 800G MAITRE COQ — MAÎTRE COQ",
-   "remise": "-20 %",
-   "remise_detail": "4,94 € au lieu de 6,18 € (-20 %).",
-   "remise_pct": 20,
-   "prix": "4,94 €",
-   "v": 2,
-   "prix_avant": "6,18 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cd9f949a94eb6d6244c2dca5aa67a011",
-   "description": "800g",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p02491e53",
    "nom": "FEUILLETé RIS DE VEAU MORILLES — MAISON SAPRESTI",
    "remise": "",
@@ -476,111 +235,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f723d5b0da1ccc5723f5a376d902afc4",
    "description": "110 g.Le kg : 35,45 €.\nEgalement disponible au même prix kg en barquette de 2.\nMême promotion disponible sur d'autres variétés signalées en magasin.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p84319846",
-   "nom": "FILET DE MERLAN",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "12,80 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5fc15788a70dc28966e775ce16973326",
-   "description": "Coupe Papillon.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p79a71d36",
-   "nom": "FOIE GRAS DE CANARD ENTIER — MAISON MONTFORT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "10,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e73dae1e8d19c254f42987ec6a85221d",
-   "description": "Du Sud ouest recette à l'Ancienne, Du Sud ouest juste salé et poivré ou De Gascogne à l'Armagnac\n130 g.Le kg : 84,23 €.\nÉgalement disponible en variétés Bloc de foie gras de canard gastronomique ou Bloc de foie gras de canard gastronomique recette au Sauternes 200 g (le kg : 54,75 €)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pad39e824",
-   "nom": "FRITES POULET BQ S/ATMO 800G MAITRE COQ — MAÎTRE COQ",
-   "remise": "-20 %",
-   "remise_detail": "4,94 € au lieu de 6,18 € (-20 %).",
-   "remise_pct": 20,
-   "prix": "4,94 €",
-   "v": 2,
-   "prix_avant": "6,18 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7f04fca08832a9ce8880b588aebf32f8",
-   "description": "800g",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pfd23cadd",
-   "nom": "Filet d'eglefin",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "10,89 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/781116e17698ec8f2e77badfa2f683e8",
-   "description": "",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pab5e2c2c",
-   "nom": "Filet de lieu noir",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "8,97 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4b518409b8f33d9b277a5df0147df11b",
-   "description": "",
    "rayon_leclerc": "Panier Frais"
   },
   {
@@ -603,27 +257,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/1ee257cfc469a76bc8caba0c99d5ca28",
    "description": "Minimum 800 g.\nAu choix : Blanc ou jaune.\n*Selon approvisionnement en magasin.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p20077af8",
-   "nom": "Foie gras de canard Entier \"Les belles tranches\" + Lyre — MAISON DELPEYRAT",
-   "remise": "-34 %",
-   "remise_detail": "16,95 € au lieu de 25,68 € (-34 %).",
-   "remise_pct": 34,
-   "prix": "16,95 €",
-   "v": 2,
-   "prix_avant": "25,68 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4362fb3b18c2888d0400ce233a1df8ee",
-   "description": "5/6 parts.\n170 g.Le kg : 99,71 €.\nEgalement disponible au même prix : Foie gras de canard entier Délicatement assaisonné (170g), Bloc de foie gras 30% morceaux ou au Sauternes 30% morceaux (280g) (60,54€ le kg).",
-   "rayon_leclerc": "Trafic"
   },
   {
    "id": "p18a6680b",
@@ -687,48 +320,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/caa4cfa969a4ce6026778319271cf099",
    "description": "Egalement disponible au même prix kg : Jambon supérieur avec couenne cuit avec son os.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p800893e0",
-   "nom": "LA SNACKI ORIGINALE HALAL — ORIENTAL VIANDES",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,75 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/42890d548705af5c9ac8dd078fda9747",
-   "description": "350 g.\nLe kg : 5 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p44c79ca2",
-   "nom": "MINI-BÂTONNETS DE SURIMI AVEC 2 SAUCES MAYONNAISE — CORAYA",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2f33fc285102b144baae84520a186815",
-   "description": "210 g + 101 g offerts (311 g).\nLe kg : 7,04 €.\nÉgalement disponible au même prix : Avec 2 sauces cocktail. (Transformé en France).",
-   "rayon_leclerc": ""
   },
   {
    "id": "p246daf1a",
@@ -815,27 +406,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "pf83b7a39",
-   "nom": "SAUMON FUMÉ DE NORVÈGE — RONDE DES MERS",
-   "remise": "Ticket -20 %",
-   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 1,04 € : le produit vous revient à 4,15 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 20,
-   "prix": "5,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/3358887dcbf67a1504e5e3ced6a7754b",
-   "description": "4 tranches.\n140 g.Le kg : 37,07 €.\nÉgalement disponible au même prix : Saumon fumé Écosse 4 tranches (Élevé en Écosse)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "pce8d7f13",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME “POISSONS PANÉS L'ATELIER POISSONNERIE”. — L'ATELIER POISSONNERIE",
    "remise": "Ticket -20 %",
@@ -855,27 +425,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2e55bccec264b726314c313fbaa3d34f",
    "description": "200 g.Le kg : 17,45 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p239d8658",
-   "nom": "Saucisson Rustico — NEGRONI",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "14,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/700ea8be02d74f3470f1dd33f2a22a68",
-   "description": "Egalement disponible au même prix kg : Milano, Finocchiona Ou Spianata.",
-   "rayon_leclerc": "Panier Frais"
   },
   {
    "id": "p8e6388f2",
@@ -899,69 +448,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p2a3dc3ea",
-   "nom": "TERRINE DE CAMPAGNE À L'ANCIENNE — STÉPHAN",
-   "remise": "-34 %",
-   "remise_detail": "3,82 € au lieu de 5,79 € (-34 %).",
-   "remise_pct": 34,
-   "prix": "3,82 €",
-   "v": 2,
-   "prix_avant": "5,79 €",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5fb5822e10a80336a719af3c74f12c94",
-   "description": "3 x 180 g (540 g).Le kg : 7,07 €.\nDifférentes variétés",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p1e6f7e1b",
-   "nom": "TERRINE DE CHEVREUIL PRÊT-À-CUIRE — ÉVASION FESTIVE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "4,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/26d8d9b21b053baa15de6634b8c8fdb5",
-   "description": "400 g.\nLe kg : 11,73 €.\nÉgalement disponible au même prix :\nTerrine de sanglier, Terrine de cerf ou Terrine de lapin.\n(Origine Union Européenne).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pb23a5e6b",
-   "nom": "TERRINE DE LIÈVRE À LA MOUTARDE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "12,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2f4216dea4517fa6a6d38c46da1863bb",
-   "description": "Également disponible au même prix kg : Terrine de sanglier\nau chorizo ou Terrine de chevreuil\naux cèpes. (Transformé en France).",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pd728d321",
    "nom": "THON ENTIER AU NATUREL — PETIT NAVIRE",
    "remise": "2e à -60 %",
@@ -980,48 +466,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/9f3e2ff756d07eae062ff91a6ab05742",
    "description": "Poids net égoutté :\n3 x 112 g (336 g).Le kg : 24,52 €.Par 2 (672 g) : 11,54 € au lieu de 16,48 €.Le kg : 17,17 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p6c79ecce",
-   "nom": "TRUITE FUMÉE ASC — PETIT NAVIRE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fc67be299f8e125c1b830a06844f3688",
-   "description": "6 tranches minimum.\n165 g.\nLe kg : 37,52 €.\nÉgalement disponible au même prix : Façon gravlax à l’aneth (150 g),\nIntensément fumée (150 g) ou Légèrement fumée (150 g) (Le kg : 41,27 €).\n(Elevée au Danemark ou Norvège)",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p9e397103",
-   "nom": "Tranches Jambon 100% végétal \"HAPPYVORE\"",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 3,92 € au lieu de 5,94 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "2,97 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b63fd690e98b9e785b5e5c9c65e935ca",
-   "description": "4 tranches.\n120 g.Le kg : 24,75 €.Par 2 (240 g) : 3,92 € au lieu de 5,94 €.Le kg : 16,33 €.\nMême promotion disponible sur d'autres variétés signalées en magasin.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -1067,90 +511,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "p2880400c",
-   "nom": "VIANDE BOVINE : FAUX FILET*** A GRILLER",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "13,47 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fabb1205988cab95ad7c7da47078e617",
-   "description": "Caissette de 4 pièces minimum.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p4735a8c3",
-   "nom": "VIANDE BOVINE : PAVE*** A GRILLER",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "13,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/eeff955c77f372ae826089766fa243b7",
-   "description": "Caissette de 4 pièces minimum.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pe3212bdb",
-   "nom": "VIANDE BOVINE : PIECE A FONDUE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "13,47 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2981f5a5da91768175885bed26d316c2",
-   "description": "Caissette d'un kilo minimum.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pd1465cbd",
-   "nom": "VIANDE BOVINE : ROTI**",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "12,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/625214079b6df2e7a61fcb9680e92a8e",
-   "description": "Caissette d'un kilo minimum.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
    "id": "p53b77cfe",
    "nom": "VIANDE BOVINE : RUMSTECK*** A ROTIR",
    "remise": "",
@@ -1169,90 +529,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/26cee13c3a68b18785d239fd659aa60e",
    "description": "Caissette d'un kilo minimum",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p9df979c8",
-   "nom": "VIANDE BOVINE : STEAK** À GRILLER",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "12,87 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/13d06a749768288b9e01bd5e1853a67c",
-   "description": "Caissette de 4 pièces minimum.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pb2c1b341",
-   "nom": "Viande bovine : Plateau pot au feu avec os",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "7,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "viande_poisson",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cb1967e50f360389a30579935fcdc95e",
-   "description": "Caissette d'un kilo minimum.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p4eeb6040",
-   "nom": "4 Pains aux raisins — LES 3 MEUNIERS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,30 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/02a60469eef9b5117090301615ae493f",
-   "description": "360 g. Le kg : 6,39 €.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p835c73d1",
-   "nom": "AVOCATS MÛRS À POINT — PANIER DU PRIMEUR",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/23f52a951410a6ca86de600cf35d79a7",
-   "description": "Catégorie : 1\nCalibre : 18\nVariété : Hass.",
    "rayon_leclerc": "Panier Frais"
   },
   {
@@ -1275,27 +551,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ace59d957b2d9326b90ddc439079b509",
    "description": "400 g.Le kg : 5,53 €.Par 2 (800 g) : 3,09 € au lieu de 4,42 €.Le kg : 3,86 €.\nEgalement disponible au même prix : Citron de sicile, framboise ou pêche.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "peb9a93de",
-   "nom": "CAROTTES DÉMARCHE QUALITÉ — PANIER DU PRIMEUR",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,09 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/721c22923524ed4b599d2a416057d24f",
-   "description": "Catégorie : 1\nCalibre : 20/40 mm\nVariété : Type Nantaise",
-   "rayon_leclerc": "Panier Frais"
   },
   {
    "id": "pf844918f",
@@ -1403,48 +658,6 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "p16d95e73",
-   "nom": "LÉGUMES POUR POT AU FEU — PANIER DU PRIMEUR",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7cb452aec5ded384bb4f035c6713cd47",
-   "description": "",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p5e63818f",
-   "nom": "MACÉDOINE DE LÉGUMES — BONDUELLE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "8,20 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4e44948d8ccc5a61034cf9d3b2aa923d",
-   "description": "5 boîtes + 1 offerte.\nPoids net égoutté : 3,18 kg.\nLe kg : 2,58 €.\nExiste aussi au même prix :\nPetits pois doux cuits vapeur (Poids net égoutté : 2,12 kg) ou Petits pois doux & carottes cuits vapeur\n(Poids net égoutté : 2,12 kg) (le kg : 3,87 €) ou Haricots verts extra fins cuits vapeur (Poids net égoutté : 1,76 kg) (le kg : 4,66 €).",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pb613c9e5",
    "nom": "MUG CHAMPIGNON 33CL",
    "remise": "",
@@ -1508,48 +721,6 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "pe3c2e662",
-   "nom": "POMME BICOLORE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/449871614604c8b36128278492b1dbf5",
-   "description": "Variété : Gala\nCatégorie 1.\nCalibre : 150/180 g\nÉgalement disponible au même prix kg :\nGolden, Granny Smith ou Reinette grise du Canada (Origine France).\nExiste aussi : Chantecler ou Cox orange (Origine France) au prix de 1,69 € le kg.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pcc06bf15",
-   "nom": "POMME JAUNE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "fruits_legumes",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/3a82e9b119461d3813d82c6c8516a176",
-   "description": "Variété : Golden.\nCatégorie 1.\nCalibre : 115/135 g.\nLe kg : 1,25 €.\nÉgalement disponible au même prix en variété :\nGala, Reinette grise du Canada ou Granny Smith (Origine France).",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p5e85551e",
    "nom": "RAISIN SANS PÉPINS — PANIER DU PRIMEUR",
    "remise": "",
@@ -1568,27 +739,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cde67fab687c117f2a6cacd8f084b54b",
    "description": "Catégorie : 1\nAu choix : Blanc (Variétés : Sugar Crisp, Autumn Crisp ou Sweet Globe) ou Rosé (Var : Scarlotta, Sweet Celebration ou Allison).\nLe kg : 4,98 €.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pf2abcf8c",
-   "nom": "6 chaussons aux pommes pur beurre — LES 3 MEUNIERS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,50 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4ebdbebd0d242a0a9bc0070526af39db",
-   "description": "630 g. Le kg : 5,56 €.",
    "rayon_leclerc": "Panier Frais"
   },
   {
@@ -1634,111 +784,6 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "p55765ebb",
-   "nom": "CAMEMBERT 23% MAT.GR. — E.GRAINDORGE",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 3,93 € au lieu de 5,62 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "2,81 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/1359d258f4cb99fdd9d7d793581aeb3c",
-   "description": "Au lait cru de vache.\n250 g.\nLe kg : 11,24 €.\nPar 2 (500 g) : 3,94 € au lieu de 5,62 €.\nLe kg : 7,88 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pc5ce0734",
-   "nom": "CRÈME FRAÎCHE ÉPAISSE 42% MAT.GR. — E.GRAINDORGE",
-   "remise": "Ticket -30 %",
-   "remise_detail": "30 % du prix crédités en Ticket E.Leclerc, soit 1,26 € : le produit vous revient à 2,94 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 30,
-   "prix": "4,20 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/92d229a62c646fdc7c3fd149d28c4e33",
-   "description": "75 cl.\nLe L : 5,60 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pa8bc7a88",
-   "nom": "EMMENTAL FRANÇAIS RÂPÉ 29% MAT. GR. — LES CROISÉS",
-   "remise": "Ticket -20 %",
-   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 1,19 € : le produit vous revient à 4,76 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 20,
-   "prix": "5,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a510faa72714f1e324c246ab956eaaa4",
-   "description": "Au lait de vache pasteurisé.\n750 g.Le kg : 7,93 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pcae685ec",
-   "nom": "FROMAGE À PÂTE PERSILLÉE 33% MAT.GR. — SAINT AGUR",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f4b0e72f6e37ea2e7c368e0aa43ad712",
-   "description": "Au lait pasteurisé de vache.\n190 g + 30% offerts (247 g).\nLe kg : 14,13 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pa5467315",
-   "nom": "FROMAGE À RACLETTE DUO ORIGINALE ET FUMÉE 26% MAT.GR. — RICHEMONTS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "5,45 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2a3317046c0a1d2c3ec33334a74e5dcf",
-   "description": "Au lait pasteurisé de vache.\n420 g + 20% offerts (504 g).\nLe kg : 10,81 €.\nÉgalement disponible au même prix :\n3 poivres et originale 26% Mat.Gr. ou Caractère 29% Mat.Gr. ou Sans\ncroûte 26% Mat.Gr. (Origine France).\nExiste aussi en Originale 26% Mat.Gr. (Origine France)\nau prix de 5,25 € (Le kg : 10,42 €).",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p8a49f7e9",
    "nom": "Lait UHT demi écrémé format XL BIO — LACTEL",
    "remise": "",
@@ -1758,69 +803,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4e89f119354b978a4044df0a643c5ec9",
    "description": "10 x 1 L (10 L).Le L : 1,35 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pe73736d1",
-   "nom": "Lait UHT matin léger sans lactose 1,2% Mat. Gr. format XL \"LACTEL\" — LACTEL",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "14,97 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7adfd3a1658600980f590caf1725170e",
-   "description": "10 x 1 L (10 L).Le L : 1,50 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pea37a6c8",
-   "nom": "PLATEAU RACLETTE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b8ac3580a59ae3eea9865472195b2bc5",
-   "description": "Plateau composé de : 4 tranches de jambon\nsec, 4 tranches de poitrine roulée et 4 tranches de bacon.\n200 g.\nLe kg : 17,45 €.\nÉgalement disponible au même prix :\nPlateau campagnard (Transformé en France) ou\nJambon de Bayonne IGP* (Origine France).\n*IGP : Indication géographique protégée.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p33835ad3",
-   "nom": "PRÉFOU AIL PUR BEURRE — PASO",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 4,97 € au lieu de 7,10 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "3,55 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/42ed605ece9e6e27287ea0b11418c954",
-   "description": "300 g.\nLe kg : 11,83 €.\nPar 2 (600 g) : 4,97 € au lieu de 7,10 €.\nLe kg : 8,28 €.\nÉgalement disponible au même prix :\nChorizo et piperade au piment d’espelette\nou Chèvre et miel (Transformé en France).",
-   "rayon_leclerc": ""
   },
   {
    "id": "pa4e3cd11",
@@ -1886,27 +868,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p4e5e48f8",
-   "nom": "YAOURTS AU LAIT DE LA FERME BRASSÉS SUR LIT D’ABRICOTS — LA FERME DE LA VIEILLE ABBAYE",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 3,15 € au lieu de 4,50 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "2,25 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "cremerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c5801d0e5a8475bc126d7a5dd7494195",
-   "description": "4 x 125 g (500 g).\nLe kg : 4,50 €.\nPar 2 (1 kg) : 3,15 € au lieu de 4,50 €.\nÉgalement disponible au même prix en différentes variétés.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p2a3ca267",
    "nom": "Yaourt au lait bio de brebis le nature — VRAI",
    "remise": "-30 %",
@@ -1949,48 +910,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pa8e8c626",
-   "nom": "Croque-monsieur jambon fromage gratiné à l'emmental \"QUALITE TRAITEUR\"",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "traiteur",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/1f1c8f607a202ed71be7530df8aa6327",
-   "description": "145 g.Le kg : 13,45 €.\nEgalement disponible au même prix unitaire en barquette de 2 et de 6.\nMême promotion disponible sur d'autres variétés signalées en magasin.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pa28f478d",
-   "nom": "FARINE À PIZZA TYPE 00 — MON FOURNIL",
-   "remise": "Ticket -34 %",
-   "remise_detail": "34 % du prix crédités en Ticket E.Leclerc, soit 0,55 € : le produit vous revient à 1,04 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 34,
-   "prix": "1,59 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "traiteur",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/13ce02a7549c714420de0c6b654a00f4",
-   "description": "1 kg.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p75bb9a03",
    "nom": "HOUMOUS — TABLES DU MONDE",
    "remise": "2e à -30 %",
@@ -2012,27 +931,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p76bbbd71",
-   "nom": "LOT DE 2 RAVIOLI EPINARDS CREME FRAICHE — LUSTUCRU",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,28 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "traiteur",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d0c350f902fda224802adc9b84c82403",
-   "description": "600 g.Le kg : 3,80 €.\nÉgalement disponible au même prix : Jambon fromage ou Jambon champignons crème ou Poulet bolognaise.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "pbe46136f",
    "nom": "La Pizz 4 Fromages Format généreux — SODEBO",
    "remise": "2e à -68 %",
@@ -2051,27 +949,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/809805682f0354c84f9af95bb2701d24",
    "description": "470 g.Le kg : 6,19 €.Par 2 (940 g) : 3,84 € au lieu de 5,82 €.Le kg : 4,09 €.\nEgalement disponible au même prix : Chèvre affiné lardons ou Chorizo ou Poulet barbecue.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pbff906d0",
-   "nom": "PLAT CUISINÉ — MAISON DELPEYRAT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "traiteur",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0b8f2a7049ed728cc8665e5cab9e2a6a",
-   "description": "Cassoulet supérieur au canard confit et haricots lingots, Canard confit mijoté aux lentilles vertes, Canard confit façon blanquette aux pommes de terre et aux carottes ou Poêlée de canard landaise aux pommes de terre et champignons\n1,50 kg.Le kg : 6,63 €.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -2138,27 +1015,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p3aa9af3c",
-   "nom": "Amandes natures \"WONDERFUL\" — WONDERFUL BRANDS",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 4,98 € au lieu de 7,54 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "3,77 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e8f4500f1e5f14ea40d101cea997296a",
-   "description": "200 g.Le kg : 18,85 €.Par 2 (400 g) : 4,98 € au lieu de 7,54 €.Le kg : 12,45 €.\nEgalement disponible au même prix : Amandes grillées salées.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "peddea573",
    "nom": "FARINE DE BLÉ BIO — BIO VILLAGE",
    "remise": "Ticket -20 %",
@@ -2178,27 +1034,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0552125621c3819d4c35a8eb3c0141c8",
    "description": "1 kg.",
    "rayon_leclerc": "Bio"
-  },
-  {
-   "id": "p514d357f",
-   "nom": "HUILE D'OLIVE EXTRA VIERGE — PIERONI",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "5,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/468d1e1b858e437a4456c3e3c98ac319",
-   "description": "75 cl.Le L : 7,99 €.",
-   "rayon_leclerc": "Trafic"
   },
   {
    "id": "ped88bb6e",
@@ -2243,90 +1078,6 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "p953d862f",
-   "nom": "PAIN NORDIQUE",
-   "remise": "2e à -50 %",
-   "remise_detail": "Le 2e produit identique à -50 % (soit -25 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 25,
-   "prix": "0,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4ef4b03199ad3a459e7e16377134c11c",
-   "description": "300 g.\nPar 2 (600 g).\n*Voir prix en magasin.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pecd2b0f4",
-   "nom": "Pain complet — 3M",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,35 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/20fe73d16d1ef1b1ad7099a2503c3076",
-   "description": "350 g.\nLe kg : 3,86 €.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p2c97f55d",
-   "nom": "Pain de campagne — 3M",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,20 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/1e06337241663fc1ed766a31fefe7e50",
-   "description": "300 g.\nLe kg : 4 €.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p7cc1b42a",
-   "nom": "PÂTES — LUSTUCRU",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,28 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/71f1806e5ad68e8361a1645f5e5b9a3c",
-   "description": "Torsades, Coquillettes ou Spaghetti courts\n2 x 500 g + 500 g offerts (1.5 kg).Le kg : 1,52 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "pd1986fd9",
    "nom": "RIZ BASMATI BIO — BIO VILLAGE",
    "remise": "Ticket -20 %",
@@ -2348,48 +1099,6 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "p571188eb",
-   "nom": "SAUCE AIGRE DOUCE — MEI ASIA",
-   "remise": "Ticket -25 %",
-   "remise_detail": "25 % du prix crédités en Ticket E.Leclerc, soit 0,55 € : le produit vous revient à 1,64 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 25,
-   "prix": "2,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "epicerie",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/6861814983b93385bc1387f605b8e979",
-   "description": "330 g.\nLe kg : 6,64 €.\nÉgalement disponible au même prix :\nSauce d’huître (330 g), Sauce de piments pour\nvolailles (330 g), Sauce de piment sriracha (180 ml)\n(le L : 12,17 €) ou Nouilles chinoises (250 g) (le kg : 8,76 €).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p2250dfff",
-   "nom": "\"Danette\" Chocolat Offre Plaisir — DANONE",
-   "remise": "Ticket -60 % par 2",
-   "remise_detail": "60 % du prix crédités en Ticket E.Leclerc par 2. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 60,
-   "prix": "1,48 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fe99ef882194d6c11a022f1a21ba31ce",
-   "description": "4x125g (500g).\nLe kg : 2,96 €.Par 2 (1 kg) : 2,96 € avec 0,89 € en Ticket E.Leclerc\nMême promotion disponible sur d'autres variétés signalées en magasin.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p4daea9a7",
    "nom": "12 Macarons classiques — SANS MARQUE SP",
    "remise": "",
@@ -2408,27 +1117,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/3dcaa1318f6696aa865a3497cc7b1cbe",
    "description": "145 g. Le kg : 25,52.\nEgalement disponible au même prix : Macarons fruités.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pa04e63d5",
-   "nom": "5 pains au chocolat et 5 croissants pur beurre — LES 3 MEUNIERS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,40 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/65acf9ee6a18f0ddfbaa5706cb005b09",
-   "description": "520 g. Le kg : 6,54 €.",
    "rayon_leclerc": "Panier Frais"
   },
   {
@@ -2453,27 +1141,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "p357e66fb",
-   "nom": "BARRES CHOCOLAT LAIT NOISETTES — KNOPPERS",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 2,94 € au lieu de 4,20 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "2,10 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2331024bdef784b994ca3771e6b657e3",
-   "description": "200 g.\nLe kg : 10,50 €.\nPar 2 (400 g) : 2,94 € au lieu de 4,20 €.\nLe kg : 7,35 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pd139654f",
    "nom": "BISCUITS — DÉLICHOC",
    "remise": "2e à -60 %",
@@ -2495,48 +1162,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "peed599da",
-   "nom": "BOISSON THÉ VERT MIEL ORIGINAL — ARIZONA",
-   "remise": "-34 %",
-   "remise_detail": "0,98 € au lieu de 1,49 € (-34 %).",
-   "remise_pct": 34,
-   "prix": "0,98 €",
-   "v": 2,
-   "prix_avant": "1,49 €",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/da999c85cd068efbc616585ec451ba3e",
-   "description": "50 cl.Le L : 1,96 €.\nExiste aussi : Différentes variétés aux formats 500ml ou 1,75L à des prix différents.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p16be80b9",
-   "nom": "BONBONS CŒUR TENDRE GOÛT FRAISE — BOOL’S",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 2,34 € au lieu de 3,54 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "1,77 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ef7009bfa28bbc4f531d282f7fae6fc3",
-   "description": "200 g.\nLe kg : 8,85 €.\nPar 2 (400 g) : 2,33 € au lieu de 3,54 €.\nLe kg : 5,83 €.\nÉgalement disponible au même prix :\nGoût caramel (200 g) ou Goût pomme (180 g) (le kg à l’unité : 9,83 €).",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p16253082",
    "nom": "BRIOCHE TRESSÉE NATURE AU SUCRE PERLÉ — HARRYS",
    "remise": "2e à -68 %",
@@ -2556,27 +1181,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0723a50374a5a7dfa5e620d21afd74a4",
    "description": "500 g.Le kg : 5,50 €.Par 2 (1 kg) : 3,63 € au lieu de 5,50 €.Le kg : 3,63 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p175e8312",
-   "nom": "Brioche tressée aux pépites de chocolat — 3M",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/60db5ac23fc34e312bda004bce001e67",
-   "description": "500 g. Le kg : 7,80 €.",
-   "rayon_leclerc": "Panier Frais"
   },
   {
    "id": "pdf77e0d6",
@@ -2663,69 +1267,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p2efeb56c",
-   "nom": "COMPOTES POMME VANILLE — ANDROS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "0,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a9e36706af0034e4134aed32f1cbf772",
-   "description": "3 pots + 1 offert (400 g).\nLe kg : 2,48 €.\nÉgalement disponible au même prix : Pomme châtaigne, Pomme fraise,\nPomme poire ou Pomme abricot (Transformé en France).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pb6599cc0",
-   "nom": "FLAN À LA VANILLE NAPPÉ CARAMEL — DÉLISSE",
-   "remise": "Ticket -20 %",
-   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 0,50 € : le produit vous revient à 2,02 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 20,
-   "prix": "2,52 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/507d316f8dc193f71fa2d09e2dfca584",
-   "description": "16x 100 g (1,60 kg)Le kg : 1,58 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p908506f4",
-   "nom": "Gâche tranchée pur beurre — 3M",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/3d137b7d1c904a393ef408666af49a30",
-   "description": "500 g. Le kg : 7,80 €.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
    "id": "p2e550d9c",
    "nom": "Gâche tranchée épaisse pur beurre Bio",
    "remise": "",
@@ -2745,48 +1286,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/bf9c278737f3ae3f3b08f05eb47ab268",
    "description": "400 g. Le kg : 9,88 €.",
    "rayon_leclerc": "Bio"
-  },
-  {
-   "id": "p3c5dac66",
-   "nom": "MIEL DE FLEURS, THYM ET GELÉE ROYALE — MAISON CRÉTET",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "10,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7c86b46a1939c29e5f84f34983d5f190",
-   "description": "800 g.\nLe kg : 13,69 €.\nÉgalement disponible au même prix : Miel d’acacia et gelée royale.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p3f015b0f",
-   "nom": "MOUSSES AU CHOCOLAT — DÉLISSE",
-   "remise": "Ticket -20 %",
-   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 0,23 € : le produit vous revient à 0,92 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 20,
-   "prix": "1,15 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/935b73b3df65a36d73650332c6e868dd",
-   "description": "Au choix : Au Lait ou Noir\n4x 60g (240 g).Le kg : 4,79 €.",
-   "rayon_leclerc": "Trafic"
   },
   {
    "id": "pc763dcfd",
@@ -2831,48 +1330,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p77e2c1fc",
-   "nom": "PAINS BURGER LE CLASSIQUE — BRIOCHE PASQUIER",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ef7009bfa28bbc4f531d282f7fae6fc3",
-   "description": "4 pains + 2 offerts (352 g).\nLe kg : 4,23 €.\nÉgalement disponible au même prix : Le brioché ou Façon bretzel.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p737e55d0",
-   "nom": "PRALINES DE CHOCOLAT — NOVI",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 5,66 € au lieu de 8,58 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "4,29 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/de2c0ae7aec065163e8e7d8164e03994",
-   "description": "Quadro classico, Quadro noir, Quadro quattro, Quadro pistacchio ou Gianduiotto fondente\n150 g.Le kg : 28,60 €.Par 2 (300 g) : 5,66 € au lieu de 8,58 €.Le kg : 18,87 €.\nÉgalement disponible en variétés Nocciolato minis 130 g (le kg à l'unité : 33 €) ou Gianduiotto classico 160 g (le kg à l'unité : 26,81 €)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p02bdddfb",
    "nom": "PÉPITES DE CHOCOLAT OU CHUNKS — SAINTE-LUCIE",
    "remise": "Produits offerts",
@@ -2891,27 +1348,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e60c449cd4b46f584e4d7be7804fcb59",
    "description": "100 g.Le kg : 29,90 €.\nDifférentes variétés et différents grammages à différents prix.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p129952d4",
-   "nom": "Riz au lait vanille de Madagascar — LA LAITIÈRE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "1,57 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "sucre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d5bbc360a3af55a0a369354d8b0cc532",
-   "description": "460 g + 230 g offerts (690 g).\nLe kg : 2,28 €.\nMême promotion disponible sur d'autres variétés signalées en magasin.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -2957,12 +1393,12 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "pa0a1eafb",
+   "id": "p4013b83d",
    "nom": "TABLETTES DE CHOCOLAT NOIR — NESTLÉ DESSERT",
    "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 12,05 € au lieu de 17,22 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
+   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 12,04 € au lieu de 17,20 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
    "remise_pct": 30,
-   "prix": "8,61 €",
+   "prix": "8,60 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "sucre",
@@ -2974,71 +1410,8 @@
    "catalogue": "Aux petits soins !",
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ed144eb0e195f19a8d64662fb04dfd6a",
-   "description": "3 x 205 g (615 g).Le kg : 14 €.Par 2 (1,230 kg) : 12,05 € au lieu de 17,22 €.Le kg : 9,80 €.",
+   "description": "3 x 205 g (615 g).Le kg : 13,98 €.Par 2 (1,230 kg) : 12,04 € au lieu de 17,20 €.Le kg : 9,79 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p1309c0d9",
-   "nom": "2 colins d'Alaska MSC Extra croustillant surgelés — FINDUS",
-   "remise": "-33 % par 3",
-   "remise_detail": "Par 3 : 5,40 € au lieu de 8,10 €, soit 2,70 € d'économie (-33 % sur le lot).",
-   "remise_pct": 33,
-   "prix": "2,70 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5c2cbf877450ec49538cc8637dd14484",
-   "description": "250 g.Le kg : 11,08 €.Par 3 (750 g) : 5,40 € au lieu de 8,10 €.Le kg : 7,20 €.\nMême promotion disponible sur d'autres variétés signalées en magasin.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pcd477f14",
-   "nom": "3 FLAMMEKUECHES ALSACIENNES SURGELÉES — KAUFFER’S",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 8,12 € au lieu de 12,30 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "6,15 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c062f0dc21b76aa684087e5b8bf7b036",
-   "description": "780 g.\nLe kg : 7,88 €.\nPar 2 (1,56 kg) : 8,12 € au lieu de 12,30 €.\nLe kg : 5,21 €.\nÉgalement disponible au même prix :\n2 Flammekueches maroilles (540 g) (le kg à l’unité :\n11,39 €), 2 Flammekueches tartiflette (640 g)\nou 2 Flammekueches saumon (640 g) (le kg à l’unité : 9,61 €).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p35300f80",
-   "nom": "CORDON BLEU HALAL SURGELÉS — ISLA DÉLICE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "10,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f3ebb8c4a0de145c44281a8d669b1017",
-   "description": "2 kg.\nLe kg : 5,48 €.\nÉgalement disponible au même prix : Nuggets original.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p5d2f926e",
@@ -3125,90 +1498,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p6a1a9742",
-   "nom": "FRAISES ENROBÉES DE CHOCOLAT BLANC SURGELÉES — IDALIA",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,80 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/550801fe84d82770898441ebe50b83be",
-   "description": "150 g.\nLe kg : 25,33 €.\nÉgalement disponible au même prix :\nBananes enrobées de pâte à tartiner noisette,\nFramboises enrobées de chocolat noir\nou Framboises enrobées de chocolat au lait.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pf90c34ed",
-   "nom": "FRITES MAX CRUNCH CLASSIQUE SURGELÉES — MCCAIN",
-   "remise": "Ticket -34 %",
-   "remise_detail": "34 % du prix crédités en Ticket E.Leclerc, soit 0,73 € : le produit vous revient à 1,42 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 34,
-   "prix": "2,15 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/9d8137f60da8bbc45c1e17685efe2de5",
-   "description": "500 g.\nLe kg : 4,30 €.\nÉgalement disponible au même prix : Allumettes.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p67a875c6",
-   "nom": "GLACE VANILLE BOURBON — LA LAITIÈRE",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 4,48 € au lieu de 6,40 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "3,20 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c4fbf6168fa2e772274f58bb62ec4cc2",
-   "description": "490 g.\nLe kg : 4,57 €.\nPar 2 (980 g) : 4,48 € au lieu de 6,40 €.\nLe kg : 6,53 €.\nÉgalement disponible au même prix en différentes variétés.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pa50b105c",
-   "nom": "LASAGNES RICOTTA CHÈVRE ÉPINARDS SURGELÉES — LE COMPTOIR",
-   "remise": "2e à -50 %",
-   "remise_detail": "Le 2e produit identique à -50 % : 2 pour 8,18 € au lieu de 10,90 € (soit -25 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 25,
-   "prix": "5,45 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "surgeles",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fb9f821d1a7e517ac9a81a703a26047f",
-   "description": "900 g.\nLe kg : 6,06 €.\nPar 2 (1,8 kg) : 8,17 € au lieu de 10,90 €.\nLe kg : 4,54 €.\nÉgalement disponible au même prix : Mac and cheese.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pa888cda8",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"APÉRITIFS SURGÉLÉS CÔTE TABLE\". — CÔTÉ TABLE",
    "remise": "Ticket -20 %",
@@ -3249,27 +1538,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c95cbbad44c350e25c2fd1814de4a7ac",
    "description": "12 x 33 cl (3.96 L).Le L : 1,15 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p0464fb5e",
-   "nom": "16 DOSES EXPRESSO CAFÉ PUR ARABICA LA GRANDE RÉSERVE — MALONGO",
-   "remise": "Ticket -34 %",
-   "remise_detail": "34 % du prix crédités en Ticket E.Leclerc, soit 1,92 € : le produit vous revient à 3,71 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 34,
-   "prix": "5,63 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/22cb3a184c73c1155d4c0aa7cb2529ed",
-   "description": "104 g.\nLe kg : 54,13 €.\nÉgalement disponible au même prix :\nLes petits producteurs l’original ou Italian style.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p75a78fb1",
@@ -3356,27 +1624,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pb16bd862",
-   "nom": "AOP CÔTES DU RHÔNE VIEILLES VIGNES — RIVES ET TERRASSES",
-   "remise": "Ticket 0,40 €",
-   "remise_detail": "0,40 € crédités en Ticket E.Leclerc. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 11,
-   "prix": "3,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b2a127803f142ebb989584695cea3135",
-   "description": "75 cl.Le L : 4,92 €.\nD'autres variétés et/ou millésimes peuvent être proposés en magasin.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p51beaeef",
    "nom": "BIÈRE AROMATISÉE À UN SPIRITUEUX À BASE D’AGAVE — DESPERADOS",
    "remise": "2e à -50 %",
@@ -3419,27 +1666,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p6a2c23d7",
-   "nom": "BIÈRE BLONDE BELGE — DUVEL",
-   "remise": "-30 %",
-   "remise_detail": "7,34 € au lieu de 10,49 € (-30 %).",
-   "remise_pct": 30,
-   "prix": "7,34 €",
-   "v": 2,
-   "prix_avant": "10,49 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5b2148701d9148f04faac61309e4782b",
-   "description": "8.50% vol.\n6 x 33 cl (1.98 L).Le L : 3,71 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p44a275cf",
    "nom": "BIÈRE BLONDE DE DÉGUSTATION — 3 MONTS",
    "remise": "Produits offerts",
@@ -3458,27 +1684,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e93de611dc946d5b22bad391538b788d",
    "description": "8.50% vol.\n50 cl.Le L : 3,80 €.\nExiste aussi : Saison, triple ou IPA à des degrés d'alcool différents.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p55a1d4fa",
-   "nom": "BIÈRE BLONDE EXTRA — CORONA",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 10,99 € au lieu de 15,70 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "7,85 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/8b156fe3018763ed14b51f894506e817",
-   "description": "4.50% vol.\n6 x 33cl (1.98L).Le L : 3,96 €.\nExiste aussi : Sans alcool.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -3501,69 +1706,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/816cb61f55f2b7a19a5c4bae101bde20",
    "description": "8.60% vol.\n4 x 50 cl (2 L).Le L : 2,65 €.\nExiste aussi : Cherry ou IPA à des degrés d'alcool différents.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p08d51434",
-   "nom": "BIÈRE BLONDE — AFFLIGEM",
-   "remise": "2e à -50 %",
-   "remise_detail": "Le 2e produit identique à -50 % : 2 pour 13,18 € au lieu de 17,58 € (soit -25 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 25,
-   "prix": "8,79 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/781d757024890dffc4b8a91c7ed45e25",
-   "description": "6,7% vol.\n12 x 25 cl (3 L)\nLe L : 2.93 €.\nPar 2 (6 L) : 13.18 € au lieu de 17.58 €.\nLe L : 2,20 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p78f7b4e2",
-   "nom": "BIÈRE BLONDE — LA BÊTE",
-   "remise": "-33 % par 3",
-   "remise_detail": "Par 3 : 7,98 € au lieu de 11,97 €, soit 3,99 € d'économie (-33 % sur le lot).",
-   "remise_pct": 33,
-   "prix": "3,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fea350f72c5f71a44aed2c7692da13c9",
-   "description": "8.00% vol.\n75 cl.Le L : 5,32 €.Par 3 (2,25 L) : 7,98 € au lieu de 11,97 €.Le L : 3,55 €.\nExiste aussi : Rouge.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p5e1102bf",
-   "nom": "BLEU D’AUVERGNE AOP 28% MAT.GR.",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "11,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4b0e6a0c5447a299a6bc313bb33d2140",
-   "description": "Au lait pasteurisé de vache.",
-   "rayon_leclerc": ""
   },
   {
    "id": "pa7746d57",
@@ -3629,48 +1771,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pa84ff5b4",
-   "nom": "BORDEAUX AOC “CHÂTEAU FLORIE AUDE”",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "17,80 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/71de1b3f5692dd32b5f31a3cc0de706a",
-   "description": "4 x 75 cl + 2 bouteilles offertes (4,5 L).\nLe L : 3,95 €.\nLa bouteille vendue seule : 4,45 €.\nLe L : 5,93 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pfe877f40",
-   "nom": "BOURGOGNE AOP “BLASON DE BOURGOGNE”",
-   "remise": "Ticket 1,00 €",
-   "remise_detail": "1,00 € crédités en Ticket E.Leclerc. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 10,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/298212f1b7c0af3e381ce8ba079126ce",
-   "description": "75 cl.\nLe L : 13,27 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pcc1eab74",
    "nom": "CAFÉ MOULU — CARTE NOIRE",
    "remise": "-33 % par 3",
@@ -3734,90 +1834,6 @@
    "rayon_leclerc": "Relance cadeaux"
   },
   {
-   "id": "pa847bbf7",
-   "nom": "CÔTES DE GASCOGNE IGP “DOMUS UBY”",
-   "remise": "Ticket -10 %",
-   "remise_detail": "10 % du prix crédités en Ticket E.Leclerc, soit 1,95 € : le produit vous revient à 17,55 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 10,
-   "prix": "19,50 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5168804d3d1f021584de08ea3cb70b63",
-   "description": "11% vol.\nBag-in-box® de 3 L.\nLe L : 6,50 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p269bc6ef",
-   "nom": "CÔTES DU RHÔNE VILLAGES AOP 2023 “LES COTEAUX DU RHÔNE”",
-   "remise": "Ticket 1,00 €",
-   "remise_detail": "1,00 € crédités en Ticket E.Leclerc. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 16,
-   "prix": "6,10 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0e322f3e6c3e186054b53caa0318bd3e",
-   "description": "75 cl.\nLe L : 8,13 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pb24730e3",
-   "nom": "EAU DE SOURCE DE MONTAGNE — ROCHE CLAIRE",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 4,61 € au lieu de 6,98 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/16979d71aad24cfb59085a8290d30e00",
-   "description": "6 x 1,5 L (9 L).\nLe L : 0,39 €.\nPar 2 (18 L) : 4,60 € au lieu de 6,98 €.\nLe L : 0,26 €.\nExiste aussi en 6 x 50 cl (3 L) à un prix différent.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pc76f5cc4",
-   "nom": "EAU MINÉRALE NATURELLE AVEC ADJONCTION DE GAZ CARBONIQUE — ROZANA",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 3,78 € au lieu de 5,72 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "2,86 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/47e1eac0556d3427f00d428c22d1a208",
-   "description": "6 x 1 L (6 L).Le L : 0,48 €.Par 2 (12 L) : 3,78 € au lieu de 5,72 €.Le L : 0,32 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p913c5642",
    "nom": "EAU MINÉRALE NATURELLE DES ALPES \"MARQUE REPÈRE\" — MARQUE REPÈRE",
    "remise": "Ticket -20 %",
@@ -3857,27 +1873,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/62d16278f808abac7d3c9b2fdbd28cda",
    "description": "6 x 1,50 L (9 L).Le L : 0,28 €.Par 2 (18 L) : 3,29 € au lieu de 4,98 €.Le L : 0,18 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p5b37a3a4",
-   "nom": "Foie gras de canard entier IGP du sud-ouest \"70 ans\" cuit au torchon — JEAN LARNAUDIE",
-   "remise": "-34 %",
-   "remise_detail": "15,77 € au lieu de 23,90 € (-34 %).",
-   "remise_pct": 34,
-   "prix": "15,77 €",
-   "v": 2,
-   "prix_avant": "23,90 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/99bb49927ee9a3ee02f2785359771196",
-   "description": "170 g.Le kg : 92,77 €.\nMême promotion sur d'autres variétés signalées en magasin.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -3923,27 +1918,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pe9282202",
-   "nom": "GORGONZOLA AOP 27% MAT.GR. — AMBROSI",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "10,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a38f41a8d09b522d8b51b6be0c77b8a1",
-   "description": "Au lait pasteurisé de vache.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p74cb2868",
    "nom": "IGP CÔTES DE GASCOGNE VIN BLANC MOELLEUX — LE ROUPIC",
    "remise": "-34 %",
@@ -3984,27 +1958,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/209fddd4dfe86cb766cabedd5afbf5db",
    "description": "30 g.Le kg : 79 €.Par 2 (60 g) : 3,13 € au lieu de 4,74 €.Le kg : 52,17 €.\nDifférentes variétés et différents grammages",
    "rayon_leclerc": "Bio"
-  },
-  {
-   "id": "pdabb0af4",
-   "nom": "JAMBON DE BAYONNE IGP — NOS RÉGIONS ONT DU TALENT",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "23,30 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/605e94b454d4417014a9df2ccf313efd",
-   "description": "Affinage 14 mois minimum.",
-   "rayon_leclerc": "Panier Frais"
   },
   {
    "id": "pffc75c86",
@@ -4049,27 +2002,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "p3061d92d",
-   "nom": "LIQUEUR DE WHISKY SMOOTH SHOT VANILLA — CLAN CAMPBELL",
-   "remise": "-15 %",
-   "remise_detail": "11,40 € au lieu de 13,40 € (-15 %).",
-   "remise_pct": 15,
-   "prix": "11,40 €",
-   "v": 2,
-   "prix_avant": "13,40 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/696005a880ff4369991376fc468e3202",
-   "description": "25% vol.\n70 cl.\nLe L : 16,29 €.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pfb639e34",
    "nom": "Le Foie gras de canard Artisanal entier mi cuit du Sud-Ouest IGP — LARTIGUE ET FILS",
    "remise": "",
@@ -4112,88 +2044,25 @@
    "rayon_leclerc": "Relance cadeaux"
   },
   {
-   "id": "pc8270c9d",
-   "nom": "Morbier AOP 29% Mat.Gr. — JURAFLORE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "16,85 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/774d528f389297b15f20caa86b8892ba",
-   "description": "Au lait de vache cru.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p35d7e646",
-   "nom": "PROSECCO DOC BRUT MILLESIMATO 2025 — PERLINO",
-   "remise": "-20 %",
-   "remise_detail": "3,32 € au lieu de 4,15 € (-20 %).",
+   "id": "p23d2d31c",
+   "nom": "PUR JUS D'ORANGE SANS PULPE BIO — BIO VILLAGE",
+   "remise": "Ticket -20 %",
+   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 0,49 € : le produit vous revient à 1,96 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
    "remise_pct": 20,
-   "prix": "3,32 €",
-   "v": 2,
-   "prix_avant": "4,15 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2c61ec7bd66ae046a2b9439d8f54867c",
-   "description": "37,5 cl.\nLe L : 8,85 €.\nExiste aussi en format 75 cl au prix de 7,40 € avec\n-20% d’avantage immédiat soit 5,92 € (Le L : 6,83 €).",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pd1ee2ddf",
-   "nom": "PUR JUS POIRE — TROPICANA",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 3,49 € au lieu de 4,98 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "2,49 €",
+   "prix": "2,45 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "boissons",
    "magasins": [
     "houlme"
    ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b8611725b79d8bcec542e48d2a8a7bb8",
-   "description": "1 L.\nExiste aussi : Différentes variétés.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p8ce8349a",
-   "nom": "Pruneau d'Agen IGP mi-cuits — MAISON ROUCADIL",
-   "remise": "-34 %",
-   "remise_detail": "3,28 € au lieu de 4,97 € (-34 %).",
-   "remise_pct": 34,
-   "prix": "3,28 €",
-   "v": 2,
-   "prix_avant": "4,97 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f2fe893ab44d291eefcb78a06ec7f230",
-   "description": "500 g.Le kg : 6,56 €.\nEgalement disponible au même prix : Pruneau d'Agen IGP entier.",
-   "rayon_leclerc": "Trafic"
+   "du": "2026-11-24",
+   "au": "2026-12-05",
+   "catalogue": "Aux petits soins !",
+   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
+   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/cc8d1ec1b6195cd7112ddd22b6d7046e",
+   "description": "1 L.",
+   "rayon_leclerc": "Bio"
   },
   {
    "id": "pe0131d3a",
@@ -4236,48 +2105,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a520999b62340d99e61be0d158f34e6f",
    "description": "1,50 L.Le L : 1,33 €.\nExiste aussi : Canada Dry.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p6b7659c7",
-   "nom": "SUR LES BAG-IN-BOX DE 3 L PRÉSENTS EN MAGASIN DE LA GAMME “BY HAUSSMANN” IGP.",
-   "remise": "Remise immédiate",
-   "remise_detail": "Remise déduite directement en caisse.",
-   "remise_pct": 0,
-   "prix": "0,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/1ac7342d5e7a8febc32613bd0f2ac1ba",
-   "description": "",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "paaa00026",
-   "nom": "SUR LES CIDRES BIO 2 x 75 cl PRÉSENTS EN MAGASIN DE LA GAMME “ÉCUSSON”.",
-   "remise": "Remise immédiate",
-   "remise_detail": "Remise déduite directement en caisse.",
-   "remise_pct": 0,
-   "prix": "0,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/be501f66fc7df81afc756854f4a46273",
-   "description": "",
-   "rayon_leclerc": ""
   },
   {
    "id": "p8fb55e7e",
@@ -4385,27 +2212,6 @@
    "rayon_leclerc": "Bio"
   },
   {
-   "id": "p9e1a32be",
-   "nom": "VODKA DE LUXE — ZOLADKOWA",
-   "remise": "-15 %",
-   "remise_detail": "10,62 € au lieu de 12,50 € (-15 %).",
-   "remise_pct": 15,
-   "prix": "10,62 €",
-   "v": 2,
-   "prix_avant": "12,50 €",
-   "categorie": "boissons",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/6531daaaf3f08abf02481de2b8686d05",
-   "description": "37,5% vol.\n70 cl.\nLe L : 15,17 €.\nÉgalement disponible au même prix :\nPeach (18% vol.) ou Coffee (18% vol.)",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p5a7499d4",
    "nom": "WHISKY SINGLE MALT 12 ANS Coffret avec 2 verres. — GLENMORANGIE",
    "remise": "-15 %",
@@ -4448,27 +2254,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p0f4836f4",
-   "nom": "ADOUCISSANT — LENOR",
-   "remise": "2e à -80 %",
-   "remise_detail": "Le 2e produit identique à -80 % : 2 pour 5,88 € au lieu de 9,80 € (soit -40 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 40,
-   "prix": "4,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/57898bab8d2b8eaacdaff49b3aece3d6",
-   "description": "Au choix : Envolée d'air, Fleur & Jasmin, Orange & Verveine, Jasmin & Rose de Mai, Ambre & Orchidée ou Coton.\n88,20 cl.Le L : 5,56 €.Par 2 (1,764 L) : 8,80 € au lieu de 9,80 €.Le L : 4,99 €.\nEgalement disponible au même prix au format parfum de linge Jasmine & Rose de Mai, Envolée d'Air, Ambre & Orchidée, Unstoppables Aérien ou Fraîcheur de coton (155g. Le Kg : 31.61 €)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p630599e0",
    "nom": "CHANGE BEBE — PAMPERS",
    "remise": "2e à -80 %",
@@ -4487,48 +2272,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/8e061b223deac9198e72ab6d10d96dd4",
    "description": "Au choix : Baby-Dry Pants T6x31, T4x41, T5x36, T7x29 ou T8x26.\nPar 2 : 19,02 € au lieu de 31,70 €.\nEgalement disponible au même prix en variété Pampers Baby-Dry Night Pants T4x40, T5x35, T6x30 ou T7x27, Pampers Premium Protection Pants T4x31, T5x29 ou T6x27, Pampers Harmonie T2x50, T3x44, T4x36, T5x31 ou T6x27.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p162dc7f7",
-   "nom": "DENTIFRICE ANTI-TACHES INTENSE — DENIVIT",
-   "remise": "-40 %",
-   "remise_detail": "1,35 € au lieu de 2,25 € (-40 %).",
-   "remise_pct": 40,
-   "prix": "1,35 €",
-   "v": 2,
-   "prix_avant": "2,25 €",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c243af09708a49c26e92677115aadf28",
-   "description": "50 ml.\nLe L : 27 €.\nÉgalement disponible au même prix :\nBlancheur pro-laser ou Blancheur lumière.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p7f4f3fd2",
-   "nom": "DENTIFRICE — COLGATE",
-   "remise": "-40 %",
-   "remise_detail": "4,04 € au lieu de 6,73 € (-40 %).",
-   "remise_pct": 40,
-   "prix": "4,04 €",
-   "v": 2,
-   "prix_avant": "6,73 €",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fc15592c265e29479e7f7b813f859c4d",
-   "description": "Au choix : Anti-tâche classic, violet, bleu ou anti-tâches de café\n2 x 75 ml (150 ml).Le L : 26,93 €.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -4551,27 +2294,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/36a6f2a2fb8a27e674692ab592ae9c8c",
    "description": "Au choix: Soin complet, Soin Blancheur, Soin gencives ou Sensibilité & caries.\n3 x 75 ml (225 ml).Le L : 25,69 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pe1b805da",
-   "nom": "DÉBOUCHEUR CANALISATION MOUSSE ACTIVE SOUDE ET JAVEL — CANARD",
-   "remise": "-40 %",
-   "remise_detail": "2,99 € au lieu de 4,99 € (-40 %).",
-   "remise_pct": 40,
-   "prix": "2,99 €",
-   "v": 2,
-   "prix_avant": "4,99 €",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/eac2e84b35a4bf7eb5e9fb1ea9f1d001",
-   "description": "500 ml.\nLe L : 5,98 €.\nÉgalement disponible au même prix : Gel (1 L).",
-   "rayon_leclerc": ""
   },
   {
    "id": "pccab3bce",
@@ -4676,48 +2398,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/3caddb53a8bc84422bbbefdb35981204",
    "description": "Au choix : Cerisier, Fraîcheur, Marseille ou Oranger.\n2,20 L.Le L : 1,90 €.Par 2 (4,4 L) : 6,28 € au lieu de 8,38 €.Le L : 1,43 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p69e2cf0f",
-   "nom": "LESSIVE — BRIOCHIN",
-   "remise": "-40 %",
-   "remise_detail": "4,19 € au lieu de 6,99 € (-40 %).",
-   "remise_pct": 40,
-   "prix": "4,19 €",
-   "v": 2,
-   "prix_avant": "6,99 €",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/059d8eca53ba8974babb308a92ff2867",
-   "description": "Au choix : Bicarbonate, Peaux sensibles ou savoir noir.\n1,40 L.Le L : 2,99 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p79852046",
-   "nom": "LESSIVE — DASH",
-   "remise": "2e à -80 %",
-   "remise_detail": "Le 2e produit identique à -80 % : 2 pour 13,43 € au lieu de 22,38 € (soit -40 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 40,
-   "prix": "11,19 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4eed9570b42d9a46836a7ff375871505",
-   "description": "Au choix : Envolée d'air, Ambre & Orchidée, Air Frais & Fleurs Blanches, Jasmin & Rose de Mai ou Fleur de Monoï.\n1,98 L.Le L : 5,65 €.Par 2 (3,96 L) : 13,43 € au lieu de 22,38 €.Le L : 3,39 €.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -4826,12 +2506,12 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p6c0cae67",
+   "id": "pe954b10d",
    "nom": "RASOIRS — GILLETTE",
    "remise": "Ticket -40 %",
-   "remise_detail": "40 % du prix crédités en Ticket E.Leclerc, soit 19,48 € : le produit vous revient à 29,22 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
+   "remise_detail": "40 % du prix crédités en Ticket E.Leclerc, soit 18,36 € : le produit vous revient à 27,54 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
    "remise_pct": 40,
-   "prix": "48,70 €",
+   "prix": "45,90 €",
    "v": 2,
    "prix_avant": "",
    "categorie": "hygiene_maison",
@@ -4844,48 +2524,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7ecfc6754171fdd441f21410eb30850b",
    "description": "Au choix: Recharge de lames Gillette Mach3, Gillette Labs, Gillette Proglide (12 lames).\nEgalement disponible au même prix: Gillette Fusion5 (14 lames).",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p45a7d49c",
-   "nom": "SHAMPOOING NUTRI BOUCLES HUILE DE COCO ET BEURRE DE KARITÉ BIO — ÉNERGIE FRUIT",
-   "remise": "-35 %",
-   "remise_detail": "2,26 € au lieu de 3,49 € (-35 %).",
-   "remise_pct": 35,
-   "prix": "2,26 €",
-   "v": 2,
-   "prix_avant": "3,49 €",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ed9e6d44a63453fd131f1ad195add4da",
-   "description": "250 ml.\nLe L : 9,04 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pde02ca42",
-   "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME CAPSULE / TABLETTE ET GEL TOUT EN 1 \"SUN\" (hors sel régénérant, liquide de rinçage, nettoyant lave-vaisselle, poudre lave-vaisselle, gels classiques et tablettes classiques.) — SUN",
-   "remise": "2e à -80 %",
-   "remise_detail": "Le 2e produit identique à -80 % : 2 pour 11,99 € au lieu de 19,98 € (soit -40 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 40,
-   "prix": "9,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "hygiene_maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/41f00249f7752f2fbb9ee271abc07d87",
-   "description": "",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -5519,90 +3157,6 @@
    "rayon_leclerc": "Relance cadeaux"
   },
   {
-   "id": "p278d9328",
-   "nom": "ENSEMBLE PYJAMA PANTALON FEMME",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "24,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/65b893f6f3f6ee6927a28f1e01f08618",
-   "description": "100% coton. Du 39 au 44.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "peea96eb4",
-   "nom": "ENSEMBLE PYJAMA PANTALON HOMME",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "24,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/776d2b5a5accf33ed9f0bd034d731dd5",
-   "description": "100% coton. Du S au XL.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p64f94616",
-   "nom": "ENSEMBLE PYJAMA SHORT FEMME",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "19,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/11d7b79d5ee7ec33726d3c01493917d1",
-   "description": "100% coton. Du 38 au 44.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p5fd563aa",
-   "nom": "ENSEMBLE PYJAMA SHORT HOMME",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "19,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ba4b91d3f9406dc1fa568de1e5a6c28b",
-   "description": "100% coton. Du S au XL.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p0baa33fb",
    "nom": "LOT DE 2 AMPOULES LED — LEDVANCE",
    "remise": "Ticket -50 %",
@@ -5687,14 +3241,14 @@
    "rayon_leclerc": "Textile fin d'année"
   },
   {
-   "id": "p8dc55504",
+   "id": "p726551a8",
    "nom": "Montre Connectée Galaxy Watch 8 40mm — SAMSUNG",
-   "remise": "-30 %",
-   "remise_detail": "229,00 € au lieu de 329,00 € (-30 %).",
-   "remise_pct": 30,
-   "prix": "229,00 €",
+   "remise": "-31 %",
+   "remise_detail": "219,00 € au lieu de 319,00 € (-31 %).",
+   "remise_pct": 31,
+   "prix": "219,00 €",
    "v": 2,
-   "prix_avant": "329,00 €",
+   "prix_avant": "319,00 €",
    "categorie": "maison",
    "magasins": [
     "houlme"
@@ -5850,7 +3404,7 @@
    "au": "2026-12-05",
    "catalogue": "Aux petits soins !",
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/2c3730f2a62566892856f5cc7c2df69b",
+   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e56587b589fc5c10fee367f7066b3d1b",
    "description": "100% Polyester recyclé. Du M au XL. Existe en Enfant du 3 au 8 ans ou du 3 au 12 ans au prix de 17,95€ -50% soit un prix avantageux de 8,97€.\nAutres coloris disponibles",
    "rayon_leclerc": "Trafic"
   },
@@ -6023,48 +3577,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p54025dbc",
-   "nom": "TEE-SHIRT FEMME",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/595b37c1a03d3d7859cdc1705581ab7c",
-   "description": "Au choix :\nThe Rolling Stones ou Snoopy.\n100% coton.\nDu S au XXL.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pad46d34c",
-   "nom": "TEE-SHIRT HOMME",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "maison",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/055aeb2e36f79a108a9403021dd383a6",
-   "description": "Au choix : Guns N’Roses, The Rolling Stones, E.T., Golf ou 2 CV.\n100% coton.\nDu S au XXL.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p98f33ab4",
    "nom": "TV QLED 43E7S 43\" (pouces) 108 cm — HISENSE",
    "remise": "",
@@ -6105,69 +3617,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/27e5764f9fa57f697c44c3e361f5086c",
    "description": "300 g.Le kg : 11,97 €.Par 2 (600 g) : 5,03 € au lieu de 7,18 €.Le kg : 8,38 €.\nEgalement disponible au même prix : 5 mini Caprice 31% Mat. Gr. (250 g) (14,36 € le kg).",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pa631eae9",
-   "nom": "\"St Môret\" Nature 17,8% Mat.Gr. format familial — ST-MÔRET",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 5,95 € au lieu de 8,50 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "4,25 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/a3c57fba3e5a38da20627b9090ea10bf",
-   "description": "Au lait de vache pasteurisé.\n400 g.Le kg : 10,63 €.Par 2 (800 g) : 5,95 € au lieu de 8,50 €.Le kg : 7,44 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pe7bde161",
-   "nom": "12 ŒUFS FRAIS PLEIN AIR — L’ŒUF DE NORMANDIE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/50dea46b78c548dd39bc4ae86ae07f68",
-   "description": "Soit l’œuf : 0,22 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p30bc18aa",
-   "nom": "4 Burgers du chef le classique 15% Mat. Gr. — SOCOPA",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/6e5cdc1994170b981bb7827195eb7d7e",
-   "description": "500 g.Le kg : 13,90 €.\nEgalement disponible au même prix : Goût Grillé 15% Mat. Gr. , Ultra Savoureux 15% Mat. Gr. ou à la Bolognaise 15% Mat. Gr.",
-   "rayon_leclerc": "Panier Frais"
   },
   {
    "id": "peca3f06e",
@@ -6212,27 +3661,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p8166b977",
-   "nom": "Anneaux lamelles tentacules",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "4,98 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5a56847ae03e80d2f3b5ca6870970756",
-   "description": "",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p30ae39d4",
    "nom": "BAGUETTES VIENNOISES — LA BOULANGÈRE",
    "remise": "2e à -60 %",
@@ -6252,48 +3680,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c08e7d779ef604ea1c315c84482f8185",
    "description": "510 g.Le kg : 4,51 €.Par 2 (1,020 kg) : 3,22 € au lieu de 4,60 €.Le kg : 3,16 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p5be27f41",
-   "nom": "BETHMALE 28% MAT.GR.",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "14,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/abbf6a95888e77e410399de26b3e2fb3",
-   "description": "Au lait cru de vache.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pb8975bca",
-   "nom": "BOUQUET VELOURS",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "11,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5498f3bbb58100a117da0cb2d864825c",
-   "description": "16 tiges.",
-   "rayon_leclerc": ""
   },
   {
    "id": "p636c3476",
@@ -6317,132 +3703,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p52b5b176",
-   "nom": "Baguette — 3M",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "0,75 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/9e92fe17c52ebd551133cee27d016b48",
-   "description": "250 g.\nLe kg : 3 €.",
-   "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "p8a6fc2a1",
-   "nom": "CALENDRIER DE L'AVENT — TWININGS",
-   "remise": "-30 %",
-   "remise_detail": "14,97 € au lieu de 21,39 € (-30 %).",
-   "remise_pct": 30,
-   "prix": "14,97 €",
-   "v": 2,
-   "prix_avant": "21,39 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/8daa06e84eb8ac403dcc441ee6934c6f",
-   "description": "39 g.Le kg : 383,85 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pcceef601",
-   "nom": "CALENDRIER DE L’AVENT BIJOUX",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "19,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/60922b12ad4f77557a45ceb6a38d2821",
-   "description": "Contient 24 bijoux en acier doré.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p3fa39e11",
-   "nom": "CALENDRIER DE L’AVENT CHAUSSETTES MESSAGES LUREX",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "19,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4cca3af7d6b2a6bd6a0cbcaaf66b7720",
-   "description": "Contient 12 paires de chaussettes à messages lurex.\n90% polyester, 8% fils métallisés,\n2% élasthanne.\nTaille unique 36/40.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p7f092a01",
-   "nom": "CALENDRIER DE L’AVENT DU BRASSEUR",
-   "remise": "-3 %",
-   "remise_detail": "35,90 € au lieu de 36,90 € (-3 %).",
-   "remise_pct": 3,
-   "prix": "35,90 €",
-   "v": 2,
-   "prix_avant": "36,90 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/72eb42a7dbac109e9f83ecfe588e48d5",
-   "description": "12 bières + 12 accessoires.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pa13dbc05",
-   "nom": "CALEÇON",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/05bb20764099055e346325e8284710f2",
-   "description": "95% coton,\n5% élasthanne. Du S au XL.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pe1012905",
    "nom": "CARAFE FILTRANTE ALUNA CALENDAR MAXTRA PRO BLANCHE + 2 CARTOUCHES — BRITA",
    "remise": "",
@@ -6464,48 +3724,6 @@
    "rayon_leclerc": "Relance cadeaux"
   },
   {
-   "id": "pf433cca9",
-   "nom": "CHAUSSETTES",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "4,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/7cc978e8e9ad499ccdab7e5c47a54479",
-   "description": "78% coton, 20% polyamide,\n2% élasthanne.\nDu 36/40 au 39/45.\nExiste en : Marine ou Rouge.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pe267f131",
-   "nom": "CHAUSSETTES “FAMILLE” LUREX",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,50 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c3eca3b8611b0e8473cb812a7ce68b1c",
-   "description": "90% polyester, 8% fils métallisés, 2% élasthanne.\nDu 36 au 40.\nColoris assortis.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p77b78c73",
    "nom": "CHAUSSON FEMME OU ENFANT — LICENCES DIVERSES",
    "remise": "-30 %",
@@ -6524,27 +3742,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/fd260a944d1583634dcd819f6cbd599e",
    "description": "Dessus, doublure, première: Textile. Semelle: Synthétique. Modèle Femme du 36 au 41. Modèle Enfant du 24 au 30. Existe aussi en modèle bébé du 20 au 23.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pe9085383",
-   "nom": "COFFRET MIX APÉRO — TOKAPI",
-   "remise": "Ticket -20 %",
-   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 0,30 € : le produit vous revient à 1,22 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 20,
-   "prix": "1,52 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/32653b42508ad72d617710723c323f5c",
-   "description": "200 g.Le kg : 7,60 €.",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -6758,48 +3955,6 @@
    "rayon_leclerc": "Panier Frais"
   },
   {
-   "id": "pdb16bec5",
-   "nom": "DÉLICE DE BOURGOGNE 40% MAT.GR. — LINCET",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "12,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/8db97d49a1ead498d720736589fe0827",
-   "description": "Au lait pasteurisé de vache.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pffc22d86",
-   "nom": "DÉTACHANT RAVIVEUR DE BLANCHEUR — VANISH OXI ACTION",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "7,99 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/0c0e7977f0aff501932ef4ab119121df",
-   "description": "640 g.\nLe kg : 12,48 €.\nÉgalement disponible au même prix : Couleurs éclatantes.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pd321fdf8",
    "nom": "EXPRESSO BROYEUR — DELONGHI",
    "remise": "-13 %",
@@ -6819,69 +3974,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/dfc70498e0a16099fcd4dfd228a79e29",
    "description": "Garantie légale 2 ans. Préparation deux tasses à la fois. 13 niveaux de moutures. Groupe café amovible.",
    "rayon_leclerc": "Relance cadeaux"
-  },
-  {
-   "id": "p46b4119d",
-   "nom": "FEUILLE DE CHÊNE VERTE — BONDUELLE",
-   "remise": "-34 %",
-   "remise_detail": "1,31 € au lieu de 1,99 € (-34 %).",
-   "remise_pct": 34,
-   "prix": "1,31 €",
-   "v": 2,
-   "prix_avant": "1,99 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/8e97fdea3033862d4ca955b3b5b75834",
-   "description": "175 g.\nLe kg : 7,49 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p3ecd563c",
-   "nom": "FUET ESPAGNOL — EL POZO",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "2,40 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/18ded94242cdd33306c2c80c2eccee3b",
-   "description": "170 g. Le kg : 14,12 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pb26a1e3e",
-   "nom": "GOÛTER FOURRÉ COEUR FONDANT — P'TIT DÉLI",
-   "remise": "Ticket -20 %",
-   "remise_detail": "20 % du prix crédités en Ticket E.Leclerc, soit 0,25 € : le produit vous revient à 0,98 €. Le montant est crédité sur votre carte E.Leclerc, à utiliser lors d'un prochain passage en magasin.",
-   "remise_pct": 20,
-   "prix": "1,23 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/9cba0890011f60ed9fe8228e5041ed67",
-   "description": "225 g.Le kg : 5,47 €.\nAu choix : Cœur fondant au chocolat ou cœur fondant noisette",
-   "rayon_leclerc": "Trafic"
   },
   {
    "id": "p1f58d60c",
@@ -6923,27 +4015,6 @@
    "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G125G/1376",
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d27e01e35b8573bb9b38d40f228cc8de",
    "description": "100 % issu de forêts locales françaises gérées durablement.\n15 kg.Le kg : 0,35 €.\nExiste aussi en Pellex, qualité premium au prix de 5,39 €. Le kg : 0,36 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p409c86e2",
-   "nom": "HYGIENE FEMININE — ALWAYS",
-   "remise": "-40 %",
-   "remise_detail": "4,42 € au lieu de 7,37 € (-40 %).",
-   "remise_pct": 40,
-   "prix": "4,42 €",
-   "v": 2,
-   "prix_avant": "7,37 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/ec8b82bf173b4b715039bbf7e67f8d24",
-   "description": "Au choix : Format Pack Promo. Au choix Always Ultra : Secure Night T4 x36, Secure Night Extra T5 x32, Jour Normal avec ailettes T1 x60, Normal T1 x68, Long T2 x52 ou Long Plus T3 x44.\nLa pièce : 0,12 €.\nÉgalement disponible au même prix sur la gamme Platinum : Flux Léger/Modéré T1 x48, Flux Modéré T2 x40, Flux Modéré Nuit T4 x28 ou Flux Abondant T3 x32, Protège Slip Daily Protect Long x144 ou Extra Long x120, Tampax Compak avec applicateur Regular x52, Super x52 ou Super plus x48",
    "rayon_leclerc": "Trafic"
   },
   {
@@ -7029,27 +4100,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/25f4300ab4a5c07331f66f76c6413adf",
    "description": "Au lait de vache pasteurisé.\n250 g.Le kg : 9,88 €.Par 3 (750 g) : 4,94 € au lieu de 7,41 €.Le kg : 6,59 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p9c997584",
-   "nom": "LIMANDE SOLE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "11,20 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/bc6dd352d773e25262b8d8a65bbe00ad",
-   "description": "",
-   "rayon_leclerc": ""
   },
   {
    "id": "p7ed79778",
@@ -7220,27 +4270,6 @@
    "rayon_leclerc": "Relance cadeaux"
   },
   {
-   "id": "pf070287e",
-   "nom": "MULES MESSAGE PAILLETTES",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/4ea3bdd71ad4123ccd1a1f2b93ea7496",
-   "description": "100% polyester.\nDu 36/37 au 40/41.\nExiste en Rose, Bleu marine, Camel, Beige ou Gris.",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "p310c1d9f",
    "nom": "Mini Orchidée 2 tiges avec céramique",
    "remise": "",
@@ -7260,27 +4289,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/aece8402b730b1914e2a90bda98706e8",
    "description": "Coloris variées.",
    "rayon_leclerc": "Panier Frais"
-  },
-  {
-   "id": "pe9525b38",
-   "nom": "NUISETTE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "18,95 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c88bee8685bb8980027bf054fac458aa",
-   "description": "100% coton. Du S au XL.",
-   "rayon_leclerc": ""
   },
   {
    "id": "pab18c9d0",
@@ -7367,132 +4375,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p655fc5b9",
-   "nom": "PAPIER HYGIÉNIQUE SOIE — FOXY",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "3,49 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d085b263a503f695c3c0cb8df1c7623b",
-   "description": "12 rouleaux.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pd7b0e595",
-   "nom": "PAVÉ D’AUGE 23% MAT.GR. — E.GRAINDORGE",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 6,23 € au lieu de 8,90 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "4,45 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/74cb5ff263a976b3f206fdee0180ecdf",
-   "description": "Au lait thermisé de vache.\n300 g.\nLe kg : 14,43 €.\nPar 2 (600 g) : 6,23 € au lieu de 8,90 €.\nLe kg : 10,38 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p9721c393",
-   "nom": "PERCARBONATE DE SOUDE — BICARBONATE & COMPAGNIE",
-   "remise": "-30 %",
-   "remise_detail": "6,92 € au lieu de 9,89 € (-30 %).",
-   "remise_pct": 30,
-   "prix": "6,92 €",
-   "v": 2,
-   "prix_avant": "9,89 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/52f2d14c33c8891445f8f2883a0b1738",
-   "description": "1,1 kg.\nLe kg : 6,29 €.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p1a0eb249",
-   "nom": "PLAT AIR FRYER — MAGGI",
-   "remise": "2e à -68 %",
-   "remise_detail": "Le 2e produit identique à -68 % : 2 pour 1,37 € au lieu de 2,08 € (soit -34 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 34,
-   "prix": "1,04 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/d6272752ef3027eb0e28950c8975f38d",
-   "description": "Crispy poulet fromage\n44 g.Le kg : 23,64 €.Par 2 (88 g) : 1,37 € au lieu de 2,08 €.Le kg : 15,57 €.\nÉgalement disponible en variétés Frites maison paprika 34 g (le kg à l'unité : 30,59 €), Poulet fajita mexican style 27 g (le kg à l'unité : 38,52 €) ou Crispy poulet Tex Mex style 66 g (le kg à l'unité : 15,76 €)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p035058e2",
-   "nom": "POINSETTIA 7/8 BRACTÉES",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "9,90 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/33062853c5edb949af14ca5141e9455d",
-   "description": "Pot 17 cm\navec housse.",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "pbafb6d07",
-   "nom": "POUDRE CHOCOLATÉE — POULAIN",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 9,37 € au lieu de 13,38 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "6,69 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e85718ecf048d8bdcbe91a7c6e5b5c6b",
-   "description": "Grand arôme\n680 g.Le kg : 9,84 €.Par 2 (1,360 kg) : 9,37 € au lieu de 13,38 €.Le kg : 6,89 €.",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p6e0d8067",
    "nom": "Puzzle à colorier double Face + 12 Feutres — BIC",
    "remise": "Ticket -25 %",
@@ -7512,48 +4394,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/1b50757dc18c77b787f5df8433bd4ded",
    "description": "",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "pb96150da",
-   "nom": "PÈRE NOEL — MILKA",
-   "remise": "-33 % par 3",
-   "remise_detail": "Par 3 : 7,14 € au lieu de 10,71 €, soit 3,57 € d'économie (-33 % sur le lot).",
-   "remise_pct": 33,
-   "prix": "3,57 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/8e3ee362973dc4453722e600fcc6a880",
-   "description": "Lait ou Blanc\n90 g.Le kg : 39,67 €.Par 3 (270 g) : 7,14 € au lieu de 10,71 €.Le kg : 26,44 €.\nÉgalement disponible en variété Noisettes 95 g (le kg à l'unité : 37,58 €)",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p7c14fd69",
-   "nom": "QUEUE DE LOTTE",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "17,40 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/e8e03a73b569f02de38aeba9c332decf",
-   "description": "",
-   "rayon_leclerc": ""
   },
   {
    "id": "pf7e5566b",
@@ -7682,27 +4522,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "p85039de7",
-   "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"CAPRI-SUN\" 10 x 200 ml. AVANTAGE APPLIQUÉ SUR LE PRODUIT LE MOINS CHER",
-   "remise": "2e à -50 %",
-   "remise_detail": "Le 2e produit identique à -50 % (soit -25 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 25,
-   "prix": "0,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/f9f859d5b5c84f8aaebc1be5314103d5",
-   "description": "",
-   "rayon_leclerc": ""
-  },
-  {
    "id": "pa9eab6c9",
    "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME \"DAISUKI\"",
    "remise": "2e à -68 %",
@@ -7829,48 +4648,6 @@
    "rayon_leclerc": "Trafic"
   },
   {
-   "id": "pa2d0ff45",
-   "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME LA CHOCOLATERIE DES RÊVES \"RÉVILLON\" — RÉVILLON",
-   "remise": "2e à -60 %",
-   "remise_detail": "Le 2e produit identique à -60 % : 2 pour 1,40 € au lieu de 2,00 € (soit -30 % sur le lot). Avantage appliqué en caisse.",
-   "remise_pct": 30,
-   "prix": "1,00 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/5d46c9ef6d9645c9dac57edcebe0df0a",
-   "description": "",
-   "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p4a9220f5",
-   "nom": "SUR LES PRODUITS PRÉSENTS EN MAGASIN DE LA GAMME “DIADERMINE”. — DIADERMINE",
-   "remise": "-40 %",
-   "remise_detail": "3,86 € au lieu de 6,44 € (-40 %).",
-   "remise_pct": 40,
-   "prix": "3,86 €",
-   "v": 2,
-   "prix_avant": "6,44 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/379969431fa57b7d2fb536d340587e81",
-   "description": "",
-   "rayon_leclerc": "Trafic"
-  },
-  {
    "id": "p992fb434",
    "nom": "TAGLIATELLES FRAÎCHES — TURINI",
    "remise": "Ticket -20 %",
@@ -7932,48 +4709,6 @@
    "image": "https://nos-catalogues-promos-v2.e.leclerc/media/b59656cc9987f6c265bfdbe2b2d61ab1",
    "description": "40.00% vol.\n1,50 L.Le L : 26,50 €.",
    "rayon_leclerc": "Trafic"
-  },
-  {
-   "id": "p915f1298",
-   "nom": "TEQUILA BLANCO — TISCAZ",
-   "remise": "-15 %",
-   "remise_detail": "11,75 € au lieu de 13,75 € (-15 %).",
-   "remise_pct": 15,
-   "prix": "11,75 €",
-   "v": 2,
-   "prix_avant": "13,75 €",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/c3c3a8767c959d7e427fc886a60a2c7d",
-   "description": "35% vol.\n70 cl.\nLe L : 16,79 €.\nÉgalement disponible au même prix : Oro (35% vol.)",
-   "rayon_leclerc": ""
-  },
-  {
-   "id": "p7e2534bb",
-   "nom": "Tripes à la mode de Caen maxi format — BIGARD",
-   "remise": "",
-   "remise_detail": "",
-   "remise_pct": 0,
-   "prix": "6,27 €",
-   "v": 2,
-   "prix_avant": "",
-   "categorie": "autre",
-   "magasins": [
-    "houlme"
-   ],
-   "du": "2026-11-17",
-   "au": "2026-11-28",
-   "catalogue": "La foire aux petits prix",
-   "catalogue_url": "https://nos-catalogues-promos-v2.e.leclerc/catalog/26G210G/1376",
-   "image": "https://nos-catalogues-promos-v2.e.leclerc/media/6c439d98b8204c9e2a1e351c4410cb9c",
-   "description": "1 kg.\nÉgalement disponible au même prix : Tripes à la Tomate, Au Muscadet ou À la Provençale.",
-   "rayon_leclerc": "Panier Frais"
   },
   {
    "id": "p345f6040",
@@ -17178,15 +13913,15 @@
    "titre": "Croque-monsieur et salade",
    "temps_min": 20,
    "personnes": 4,
-   "nb_promos": 4,
-   "prix_revient": "5,55 €",
-   "prix_par_personne": "1,39 €",
-   "economie": "0,89 €",
+   "nb_promos": 3,
+   "prix_revient": "5,95 €",
+   "prix_par_personne": "1,49 €",
+   "economie": "0,49 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/caa4cfa969a4ce6026778319271cf099",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/a510faa72714f1e324c246ab956eaaa4",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/c29c7df67d0a02e242eb1c163955fd63"
+    "https://nos-catalogues-promos-v2.e.leclerc/media/c29c7df67d0a02e242eb1c163955fd63",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/87b3868548b1f14100331dd4690a310b"
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Croque_monsieur.jpg/960px-Croque_monsieur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "photo_credit": "Photo : Wikimédia Commons",
@@ -17213,11 +13948,11 @@
     {
      "nom": "Emmental",
      "quantite": "8 tranches",
-     "promo_id": "pa8bc7a88",
-     "en_promo": true,
-     "prix": "1,60 €",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,00 €",
      "prix_approximatif": true,
-     "prix_source": "promo"
+     "prix_source": "estimation"
     },
     {
      "nom": "Beurre",
@@ -17245,65 +13980,64 @@
    ]
   },
   {
-   "id": "r2f29391e",
-   "titre": "Gratin de pâtes au jambon",
-   "temps_min": 35,
+   "id": "r68bd9e82",
+   "titre": "Crêpes",
+   "temps_min": 40,
    "personnes": 4,
-   "nb_promos": 4,
-   "prix_revient": "4,18 €",
-   "prix_par_personne": "1,05 €",
-   "economie": "0,88 €",
+   "nb_promos": 3,
+   "prix_revient": "2,39 €",
+   "prix_par_personne": "0,60 €",
+   "economie": "0,20 €",
    "prix_approximatif": true,
    "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/d700a5917a9554c819c258a420f49d16",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/caa4cfa969a4ce6026778319271cf099",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/92d229a62c646fdc7c3fd149d28c4e33"
+    "https://nos-catalogues-promos-v2.e.leclerc/media/0552125621c3819d4c35a8eb3c0141c8",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/4e89f119354b978a4044df0a643c5ec9",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/c29c7df67d0a02e242eb1c163955fd63"
    ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Original_Mac_n_Cheese_.jpg/960px-Original_Mac_n_Cheese_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Crepes_dsc07085.jpg/960px-Crepes_dsc07085.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "photo_credit": "Photo : Wikimédia Commons",
    "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
    "ingredients": [
     {
-     "nom": "Pâtes",
-     "quantite": "400 g",
-     "promo_id": "pa4e3cd11",
+     "nom": "Farine",
+     "quantite": "250 g",
+     "promo_id": "peddea573",
      "en_promo": true,
-     "prix": "0,69 €",
+     "prix": "0,24 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
     {
-     "nom": "Jambon blanc",
-     "quantite": "4 tranches",
-     "promo_id": "pd0e1268c",
+     "nom": "Œufs",
+     "quantite": "4",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Lait",
+     "quantite": "50 cl",
+     "promo_id": "p8a49f7e9",
      "en_promo": true,
-     "prix": "2,00 €",
+     "prix": "0,61 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     },
     {
-     "nom": "Crème fraîche",
-     "quantite": "20 cl",
-     "promo_id": "pc5ce0734",
+     "nom": "Beurre",
+     "quantite": "50 g",
+     "promo_id": "pe45510ce",
      "en_promo": true,
-     "prix": "0,84 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Emmental râpé",
-     "quantite": "100 g",
-     "promo_id": "pa8bc7a88",
-     "en_promo": true,
-     "prix": "0,65 €",
+     "prix": "0,33 €",
      "prix_approximatif": true,
      "prix_source": "promo"
     }
    ],
    "etapes": [
-    "Cuire les pâtes.",
-    "Mélanger avec le jambon coupé et la crème, saler, poivrer.",
-    "Couvrir de fromage et gratiner 15 min à 200 °C."
+    "Mélanger farine et œufs, ajouter le lait petit à petit, puis le beurre fondu.",
+    "Laisser reposer 30 min, cuire les crêpes à la poêle."
    ]
   },
   {
@@ -17311,15 +14045,15 @@
    "titre": "Poulet à la crème et aux champignons",
    "temps_min": 30,
    "personnes": 4,
-   "nb_promos": 4,
-   "prix_revient": "13,95 €",
-   "prix_par_personne": "3,49 €",
-   "economie": "0,54 €",
+   "nb_promos": 3,
+   "prix_revient": "14,31 €",
+   "prix_par_personne": "3,58 €",
+   "economie": "0,18 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/1ee257cfc469a76bc8caba0c99d5ca28",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/92d229a62c646fdc7c3fd149d28c4e33",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1"
+    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/333ac0f503758a0732ce40bbb5c16e32"
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Poulet_Gaston_G%C3%A9rard_03.jpg/960px-Poulet_Gaston_G%C3%A9rard_03.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "photo_credit": "Photo : Wikimédia Commons",
@@ -17346,11 +14080,11 @@
     {
      "nom": "Crème fraîche",
      "quantite": "20 cl",
-     "promo_id": "pc5ce0734",
-     "en_promo": true,
-     "prix": "0,84 €",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
      "prix_approximatif": true,
-     "prix_source": "promo"
+     "prix_source": "estimation"
     },
     {
      "nom": "Oignon",
@@ -17383,10 +14117,10 @@
    "titre": "Chou-fleur au gratin",
    "temps_min": 45,
    "personnes": 4,
-   "nb_promos": 4,
-   "prix_revient": "3,17 €",
-   "prix_par_personne": "0,79 €",
-   "economie": "0,29 €",
+   "nb_promos": 3,
+   "prix_revient": "3,33 €",
+   "prix_par_personne": "0,83 €",
+   "economie": "0,12 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/4e89f119354b978a4044df0a643c5ec9",
@@ -17436,11 +14170,11 @@
     {
      "nom": "Emmental râpé",
      "quantite": "100 g",
-     "promo_id": "pa8bc7a88",
-     "en_promo": true,
-     "prix": "0,65 €",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,82 €",
      "prix_approximatif": true,
-     "prix_source": "promo"
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -17450,19 +14184,149 @@
    ]
   },
   {
+   "id": "rdb3a449d",
+   "titre": "Saucisses, purée maison",
+   "temps_min": 35,
+   "personnes": 4,
+   "nb_promos": 3,
+   "prix_revient": "7,78 €",
+   "prix_par_personne": "1,94 €",
+   "economie": "0,11 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/b31c04824e7cbbe94d92cc671e670fc5",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/4e89f119354b978a4044df0a643c5ec9",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/c29c7df67d0a02e242eb1c163955fd63"
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bangers_and_mash_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Saucisses",
+     "quantite": "8",
+     "promo_id": "pd2acdcc2",
+     "en_promo": true,
+     "prix": "4,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Pommes de terre",
+     "quantite": "1 kg",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,47 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Lait",
+     "quantite": "20 cl",
+     "promo_id": "p8a49f7e9",
+     "en_promo": true,
+     "prix": "0,25 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Beurre",
+     "quantite": "40 g",
+     "promo_id": "pe45510ce",
+     "en_promo": true,
+     "prix": "0,26 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Cuire les pommes de terre 20 min, les écraser avec le lait chaud et le beurre.",
+    "Cuire les saucisses à la poêle 15 min en les retournant."
+   ]
+  },
+  {
+   "id": "r58a50747",
+   "titre": "Poisson pané maison et purée",
+   "temps_min": 35,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "10,05 €",
+   "prix_par_personne": "2,51 €",
+   "economie": "3,26 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/31f7ab93f761e73367e6aaf2a3cf5097",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/4e89f119354b978a4044df0a643c5ec9"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Fishfinger_classic_fried_2.jpg/960px-Fishfinger_classic_fried_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Filets de poisson blanc",
+     "quantite": "600 g",
+     "promo_id": "p1ad87de7",
+     "en_promo": true,
+     "prix": "6,34 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Œufs",
+     "quantite": "2",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,60 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Chapelure",
+     "quantite": "100 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,40 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Pommes de terre",
+     "quantite": "1 kg",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,47 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Lait",
+     "quantite": "20 cl",
+     "promo_id": "p8a49f7e9",
+     "en_promo": true,
+     "prix": "0,25 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Préparer une purée avec les pommes de terre et le lait.",
+    "Passer le poisson dans l'œuf battu puis la chapelure.",
+    "Cuire 4 min par face dans l'huile chaude."
+   ]
+  },
+  {
    "id": "ra80691fb",
    "titre": "Moules marinières et frites",
    "temps_min": 35,
    "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "10,88 €",
-   "prix_par_personne": "2,72 €",
-   "economie": "2,99 €",
+   "nb_promos": 2,
+   "prix_revient": "11,37 €",
+   "prix_par_personne": "2,84 €",
+   "economie": "2,50 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/63c2e85625bcc05816d5ee46041fadc3",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/7f04fca08832a9ce8880b588aebf32f8"
+    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1"
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Moules_marini%C3%A8res_01.jpg/960px-Moules_marini%C3%A8res_01.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "photo_credit": "Photo : Wikimédia Commons",
@@ -17498,11 +14362,11 @@
     {
      "nom": "Pommes de terre",
      "quantite": "1 kg",
-     "promo_id": "pad39e824",
-     "en_promo": true,
-     "prix": "1,98 €",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,47 €",
      "prix_approximatif": true,
-     "prix_source": "promo"
+     "prix_source": "open_prices"
     }
    ],
    "etapes": [
@@ -17512,19 +14376,166 @@
    ]
   },
   {
+   "id": "rea8f9761",
+   "titre": "Salade niçoise",
+   "temps_min": 20,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "9,57 €",
+   "prix_par_personne": "2,39 €",
+   "economie": "1,61 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/9f3e2ff756d07eae062ff91a6ab05742",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/87b3868548b1f14100331dd4690a310b"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Salade_ni%C3%A7oise_001.jpg/960px-Salade_ni%C3%A7oise_001.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Thon en boîte",
+     "quantite": "2 boîtes",
+     "promo_id": "pd728d321",
+     "en_promo": true,
+     "prix": "2,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Œufs",
+     "quantite": "4",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Tomates",
+     "quantite": "4",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "2,40 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Haricots verts",
+     "quantite": "300 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Olives",
+     "quantite": "80 g",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,18 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Salade",
+     "quantite": "1",
+     "promo_id": "p660a2488",
+     "en_promo": true,
+     "prix": "0,79 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    }
+   ],
+   "etapes": [
+    "Cuire les œufs 10 min et les haricots 8 min.",
+    "Disposer salade, tomates, haricots, thon, œufs et olives.",
+    "Assaisonner de vinaigrette."
+   ]
+  },
+  {
+   "id": "r3fccd587",
+   "titre": "Salade de pâtes au thon",
+   "temps_min": 20,
+   "personnes": 4,
+   "nb_promos": 2,
+   "prix_revient": "6,62 €",
+   "prix_par_personne": "1,65 €",
+   "economie": "1,47 €",
+   "prix_approximatif": true,
+   "images": [
+    "https://nos-catalogues-promos-v2.e.leclerc/media/d700a5917a9554c819c258a420f49d16",
+    "https://nos-catalogues-promos-v2.e.leclerc/media/9f3e2ff756d07eae062ff91a6ab05742"
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pasta_salad_closeup.JPG/960px-Pasta_salad_closeup.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "photo_credit": "Photo : Wikimédia Commons",
+   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
+   "ingredients": [
+    {
+     "nom": "Pâtes",
+     "quantite": "300 g",
+     "promo_id": "pa4e3cd11",
+     "en_promo": true,
+     "prix": "0,52 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Thon",
+     "quantite": "2 boîtes",
+     "promo_id": "pd728d321",
+     "en_promo": true,
+     "prix": "2,80 €",
+     "prix_approximatif": true,
+     "prix_source": "promo"
+    },
+    {
+     "nom": "Tomates",
+     "quantite": "3",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,80 €",
+     "prix_approximatif": true,
+     "prix_source": "open_prices"
+    },
+    {
+     "nom": "Maïs",
+     "quantite": "1 boîte",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    },
+    {
+     "nom": "Mayonnaise",
+     "quantite": "3 c. à soupe",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "0,30 €",
+     "prix_approximatif": true,
+     "prix_source": "estimation"
+    }
+   ],
+   "etapes": [
+    "Cuire et refroidir les pâtes.",
+    "Mélanger avec thon, tomates en dés, maïs et mayonnaise."
+   ]
+  },
+  {
    "id": "r44f8662a",
    "titre": "Croziflette",
    "temps_min": 40,
    "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "10,60 €",
-   "prix_par_personne": "2,65 €",
-   "economie": "1,18 €",
+   "nb_promos": 2,
+   "prix_revient": "10,96 €",
+   "prix_par_personne": "2,74 €",
+   "economie": "0,82 €",
    "prix_approximatif": true,
    "images": [
     "https://nos-catalogues-promos-v2.e.leclerc/media/d700a5917a9554c819c258a420f49d16",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/92d229a62c646fdc7c3fd149d28c4e33"
+    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1"
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Tartiflette.jpg/960px-Tartiflette.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "photo_credit": "Photo : Wikimédia Commons",
@@ -17569,11 +14580,11 @@
     {
      "nom": "Crème fraîche",
      "quantite": "20 cl",
-     "promo_id": "pc5ce0734",
-     "en_promo": true,
-     "prix": "0,84 €",
+     "promo_id": "",
+     "en_promo": false,
+     "prix": "1,20 €",
      "prix_approximatif": true,
-     "prix_source": "promo"
+     "prix_source": "estimation"
     }
    ],
    "etapes": [
@@ -17581,253 +14592,6 @@
     "Faire revenir oignon et lardons, ajouter la crème.",
     "Mélanger avec les crozets dans un plat, couvrir de reblochon.",
     "Gratiner 15 min à 200 °C."
-   ]
-  },
-  {
-   "id": "r3196e0b4",
-   "titre": "Steaks hachés, frites au four et salade",
-   "temps_min": 35,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "7,67 €",
-   "prix_par_personne": "1,92 €",
-   "economie": "0,90 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/c17c65b166d6dd9f9ea08f55578965aa",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/7f04fca08832a9ce8880b588aebf32f8",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/87b3868548b1f14100331dd4690a310b"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Steak_frites.jpg/960px-Steak_frites.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Steaks hachés",
-     "quantite": "4",
-     "promo_id": "pc8a3d7a3",
-     "en_promo": true,
-     "prix": "4,80 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Pommes de terre",
-     "quantite": "1 kg",
-     "promo_id": "pad39e824",
-     "en_promo": true,
-     "prix": "1,98 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Salade verte",
-     "quantite": "1",
-     "promo_id": "p660a2488",
-     "en_promo": true,
-     "prix": "0,79 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Huile",
-     "quantite": "2 c. à soupe",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,10 €",
-     "prix_approximatif": true,
-     "prix_source": "estimation"
-    }
-   ],
-   "etapes": [
-    "Couper les pommes de terre en frites, les huiler et les cuire 30 min à 220 °C.",
-    "Cuire les steaks à la poêle 3 à 4 min par face.",
-    "Servir avec la salade assaisonnée."
-   ]
-  },
-  {
-   "id": "rd1b092d3",
-   "titre": "Velouté de potiron",
-   "temps_min": 40,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "3,34 €",
-   "prix_par_personne": "0,83 €",
-   "economie": "0,89 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/521ae086578c42db9097b45a146bc3c1",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/92d229a62c646fdc7c3fd149d28c4e33"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pumpkin_Cream_Soup.jpg/960px-Pumpkin_Cream_Soup.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Potiron ou butternut",
-     "quantite": "1 kg",
-     "promo_id": "ld4758f42",
-     "en_promo": true,
-     "prix": "1,84 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Pommes de terre",
-     "quantite": "2",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,74 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    },
-    {
-     "nom": "Oignon",
-     "quantite": "1",
-     "promo_id": "pc4b7e394",
-     "en_promo": true,
-     "prix": "0,34 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Crème fraîche",
-     "quantite": "10 cl",
-     "promo_id": "pc5ce0734",
-     "en_promo": true,
-     "prix": "0,42 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    }
-   ],
-   "etapes": [
-    "Éplucher et couper le potiron et les pommes de terre.",
-    "Faire revenir l'oignon, ajouter les légumes et couvrir d'eau.",
-    "Cuire 25 min, mixer avec la crème."
-   ]
-  },
-  {
-   "id": "r68e83d55",
-   "titre": "Pâtes au saumon et à la crème",
-   "temps_min": 20,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "9,72 €",
-   "prix_par_personne": "2,43 €",
-   "economie": "0,80 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/a604cc736d5a6b300f4ce71072a51b7e",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/d700a5917a9554c819c258a420f49d16",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/92d229a62c646fdc7c3fd149d28c4e33"
-   ],
-   "photo": "",
-   "photo_credit": "",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Saumon",
-     "quantite": "300 g",
-     "promo_id": "p39357de5",
-     "en_promo": true,
-     "prix": "7,50 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Pâtes",
-     "quantite": "400 g",
-     "promo_id": "pa4e3cd11",
-     "en_promo": true,
-     "prix": "0,69 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Crème fraîche",
-     "quantite": "25 cl",
-     "promo_id": "pc5ce0734",
-     "en_promo": true,
-     "prix": "1,05 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Citron",
-     "quantite": "1",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,48 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    }
-   ],
-   "etapes": [
-    "Cuire les pâtes.",
-    "Couper le saumon en dés, le cuire 3 min dans la crème.",
-    "Ajouter le zeste de citron, mélanger avec les pâtes."
-   ]
-  },
-  {
-   "id": "re59b2557",
-   "titre": "Crumble aux pommes",
-   "temps_min": 45,
-   "personnes": 4,
-   "nb_promos": 3,
-   "prix_revient": "3,34 €",
-   "prix_par_personne": "0,84 €",
-   "economie": "0,25 €",
-   "prix_approximatif": true,
-   "images": [
-    "https://nos-catalogues-promos-v2.e.leclerc/media/449871614604c8b36128278492b1dbf5",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/0552125621c3819d4c35a8eb3c0141c8",
-    "https://nos-catalogues-promos-v2.e.leclerc/media/c29c7df67d0a02e242eb1c163955fd63"
-   ],
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Crumble_%C3%A0_la_rhubarbe.jpg/960px-Crumble_%C3%A0_la_rhubarbe.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "photo_credit": "Photo : Wikimédia Commons",
-   "note_prix": "Prix de revient approximatif : les ingrédients hors promo sont estimés (moyennes Open Prices ou estimations), sauf ceux relevés sur vos tickets de caisse.",
-   "ingredients": [
-    {
-     "nom": "Pommes",
-     "quantite": "6",
-     "promo_id": "pe3c2e662",
-     "en_promo": true,
-     "prix": "2,64 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Farine",
-     "quantite": "100 g",
-     "promo_id": "peddea573",
-     "en_promo": true,
-     "prix": "0,10 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Beurre",
-     "quantite": "80 g",
-     "promo_id": "pe45510ce",
-     "en_promo": true,
-     "prix": "0,53 €",
-     "prix_approximatif": true,
-     "prix_source": "promo"
-    },
-    {
-     "nom": "Sucre",
-     "quantite": "80 g",
-     "promo_id": "",
-     "en_promo": false,
-     "prix": "0,08 €",
-     "prix_approximatif": true,
-     "prix_source": "open_prices"
-    }
-   ],
-   "etapes": [
-    "Couper les pommes en dés dans un plat.",
-    "Sabler farine, sucre et beurre du bout des doigts.",
-    "Recouvrir les pommes, cuire 30 min à 180 °C."
    ]
   }
  ],
@@ -17841,7 +14605,7 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-28T01:03",
+   "maj": "2026-11-28T14:00",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
