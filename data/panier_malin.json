@@ -1,6 +1,6 @@
 {
  "version": 1,
- "genere_le": "2026-11-27T14:53",
+ "genere_le": "2026-11-28T01:03",
  "promos_maj_le": "2026-11-24T03:54",
  "magasins": [
   {
@@ -17841,16 +17841,10 @@
     "360"
    ],
    "alertes": [],
-   "maj": "2026-11-27T14:53",
+   "maj": "2026-11-28T01:03",
    "source": "Réseau Astuce - Métropole Rouen Normandie (données ouvertes)"
   },
   "alertes": [
-   {
-    "titre": "TRAVAUX ET CIRCULATION — RUE D'HOUPPEVILLE",
-    "texte": "En raison de travaux de voirie (rabotage et tapis) réalisés par l'entreprise DR, la circulation et le stationnement seront réglementés du 23 au 27 novembre 2026 sur la RD 90-8 (rue d'Houppeville, juste après l'ouvrage). Ce qu'il faut retenir :Route barrée / Circulation modifiée au droit du chantier (accès maintenu pour les riverains). Vitesse limitée à 30 km/h. Stationnement interdit et gênant sur les deux rives au droit du chantier. Déviation mise en place dans le sens Le Houlme vers Houppeville via la rue de Gaulle, Notre-Dame-de-Bondeville et les axes indiqués. Merci de votre compréhension et de votre vigilance pour la sécurité de tous ! https://www.le-houlme.fr/5722-arretes-municipaux.htm",
-    "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=704351819"
-   },
    {
     "titre": "FERMETURE DU PARC MUNICIPAL",
     "texte": "A compter de ce lundi 31 août 2026, le parc municipal sera fermé au public pendant toute la durée des travaux. ⛔ Pour des raisons de sécurité, l’accès au parc est strictement interdit pendant cette période. Un chemin est tout de même autorisée dans le parc le long de la rue Général de Gaulle. Nous vous remercions de respecter cette interdiction afin de permettre le bon déroulement des travaux et d’assurer la sécurité de tous. 🙏 Merci de votre compréhension et de votre patience.",
@@ -17932,7 +17926,7 @@
     "resume": "",
     "texte": "",
     "source": "PanneauPocket",
-    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=1468541323"
+    "url": "https://app.panneaupocket.com/ville/1188581073-le-houlme-76770?panneau=704351819"
    }
   ],
   "agenda": [
